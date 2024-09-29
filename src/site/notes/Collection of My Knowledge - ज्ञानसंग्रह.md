@@ -4,6 +4,13 @@
 
 ---
 # Welcome to ज्ञानसंग्रह !!
+
+ज्ञानसंग्रह is made of two main Sanskrit Words: 
+1. ज्ञान (Knowledge or Wisdom) 
+2. संग्रह (Repository)
+
+Putting them together you can easily piece it together that this is a Knowledge Repository.
+
 The First few thing you should know about me are the following:
 - I am ready to offend people in my quest of the truth because I believe that one must ask uncomfortable & offensive questions in order to uncover the truth.
 - Please take all that is present here as opinions based on facts I discovered. Please avoid being triggered.

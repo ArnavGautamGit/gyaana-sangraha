@@ -23,5 +23,4 @@ As a proud Sanskrit-learner I have divided the entire Repository into a Sanskrit
 The primary language of the Repository is English for the reason that English is the language of the Internet and insures maximum penetration in the same. 
 I would have loved to make notes in Sanskrit but only 25,000 or so people would understand it. (As of 29th September 2024,the number of Sanskrit speakers in the world are around 25,000)
 
-I think now we should go towards an index to all the main notes in the Vault.
-[[Repository Index of Major Notes\|Repository Index of Major Notes]]
+

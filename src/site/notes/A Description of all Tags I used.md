@@ -6,7 +6,7 @@
 ---
 # List of Tags along with what they mean
 
-If you are seeing this on ज्ञानसंग्रह, most likely you will never see these tags anyway. SO dont't bother.
+If you are seeing this on ज्ञानसंग्रह, most likely you will never see these tags anyway. So don't bother.
 
 - `#CompSci` - attached to all notes which I made during or using the information/knowledge gained through my Bachelors of Computer Science that I did at JIIT.
 - `#CompNet` - All notes that discuss Computer Networks

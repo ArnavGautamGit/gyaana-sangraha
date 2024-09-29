@@ -22,6 +22,11 @@ $\large Hit \ Ratio = \dfrac{Hits}{Hits + Misses}$
 </div></div>
  
 
+In short,
+> "Do not believe in any expert who can just predict and does not face any repurcussions for it since they are self employed and rely on selling courses and books to make a living instead of actually researching or working in the field they hold "expertise" in (except those who do not make predictions at all)."
+> 
+> ~ Derived from Personal Wisdom
+
 ---
 # Footnotes
 1. Expert here refers to a knowledgeable person who makes forecasts about the future (regardless of if the knowledge is true of [[Chauffeur Knowledge\|Chauffeur Knowledge]])

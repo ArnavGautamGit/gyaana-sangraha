@@ -41,10 +41,7 @@ The book was originally written in German and translated to English by Nicky Gri
 
 ---
 ### General Lessons Learnt from the Book
-[[The Bad Expert\|The Bad Expert]] - Do not believe in any expert who can just predict and does not face any repurcussions for it since they are self employed and rely on selling courses and books to make a living instead of actually researching or working in the field they hold "expertise" in.
-
+[[The Bad Expert\|The Bad Expert]]
 [[Smart People are Shy\|Smart People are Shy]] - They already have realised that they don't know much compared how much there is to know.
-
 [[Mental Anchors\|Mental Anchors]] - the boon & curse of God.
-
 [[Exponential Growth\|Exponential Growth]] - something people need to wrap their heads around.

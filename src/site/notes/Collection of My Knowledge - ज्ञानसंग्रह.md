@@ -11,6 +11,8 @@
 
 Putting them together you can easily piece it together that this is a Knowledge Repository.
 
+![Favicon.png](/img/user/Vaulted%20Images/Favicon.png)
+
 The First few thing you should know about me are the following:
 - I am ready to offend people in my quest of the truth because I believe that one must ask uncomfortable & offensive questions in order to uncover the truth.
 - Please take all that is present here as opinions based on facts I discovered. Please avoid being triggered.
@@ -29,5 +31,3 @@ As a proud Sanskrit-learner I have divided the entire Repository into a Sanskrit
 
 The primary language of the Repository is English for the reason that English is the language of the Internet and insures maximum penetration in the same. 
 I would have loved to make notes in Sanskrit but only 25,000 or so people would understand it. (As of 29th September 2024,the number of Sanskrit speakers in the world are around 25,000)
-
-

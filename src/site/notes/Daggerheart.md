@@ -1,0 +1,26 @@
+---
+{"dg-publish":true,"permalink":"/Daggerheart/","tags":["TTRPG"]}
+---
+
+
+---
+# Daggerheart
+> A [[Table-Top Role-Playing Game\|Table-Top Role-Playing Game]] made & backed by [[Critical Role\|Critical Role]]. It is releasing in Spring 2025 but it is already out in Open Beta in 2024.
+
+It is similar to [[Dungeons & Dragons\|D&D]] but not the same. It uses 2d12 instead of 1d20. I am also planning to create my own [[DaggerSoul Project\|Dragonheart Bot]] named "DaggerSoul"
+#### Mechanics
+In Daggerheart, a pair of d12 dice are used - known as the [[Duality Dice\|Duality Dice]].
+The Character Creation Process is described in [[DH Character Creation\|DH Character Creation]].
+If you want to Multi-class, check the [[DH Multiclassing Rules\|DH Multiclassing Rules]]
+The Combat is decribed in [[DH Combat Rules\|DH Combat Rules]].
+There are specific rules for Character Death in [[DH Character Death Rules\|DH Character Death Rules]].
+There are also no shortage of mechanics for [[DH Character Rest Rules\|DH Character Rest Rules]].
+
+Although checking if an attack hits or not is checked via the classic d20, there are other concepts like [[Hit Point Slots\|Hit Point Slots]] which are fixed for each character while the characters can spend or mark off [[Armour Points\|Armour Points]] to avoid taking damage to their Hit Points and possibly dying. If incoming damage is below the Minor Damage Threshold, the characters can mark their [[Stress Point\|Stress Point]] instead of HIt Points. Just like HP and AP, SP are also limited.
+
+Advantage and Disadvantage is marked using a d6 dice additiona to the 2d12, if Advantage on a roll, add the d6 value. If Disadvantaged, subtract the d6 value.
+
+1 [[Hope Token\|Hope Token]] can be spent by any character to give another character an advantage on their rolls.
+
+---
+# Footnotes

@@ -23,10 +23,10 @@ B Computes for $\large Y_B$ $$\Large Y_B = \alpha^{X_B} \ mod \ q$$
 The values of both are exchanged among one another.
 Let the key used to encrypt the conversation between A and B be called as $\large K_{AB}$
 
-A calculates the key using $\large Y_A$ they have and $\large X_B$ received from B: $$\Large K_{AB} = {(Y_A)}^{X_B} \ mod \ q$$
-B calculates the key using $\large Y_B$ they have and $\large X_A$ received from A: $$\Large K_{AB} = {(Y_B)}^{X_A} \ mod \ q$$
+A calculates the key using $\large X_A$ they have and $\large Y_B$ received from B: $$\Large K_{AB} = {(Y_A)}^{X_B} \ mod \ q$$
+B calculates the key using $\large X_B$ they have and $\large Y_A$ received from A: $$\Large K_{AB} = {(Y_B)}^{X_A} \ mod \ q$$
 Also note:
-$$\Large K_AB = \alpha^{Y_A \cdot Y_B}$$
+$$\Large K_{AB} = \alpha^{X_A \cdot X_B} \ mod \ q$$
 
 ---
 # Footnotes

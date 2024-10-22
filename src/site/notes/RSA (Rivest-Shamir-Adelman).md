@@ -31,8 +31,8 @@ The Algorithm's nature is completely mathematic - hence we would need to know ce
 - Now we find a number $\large d$ such that: multiplication of $\large d$ & $\large e$ modulo $\large m$ must be 1. $$\Large (d \cdot e) \ mod \ m  = 1$$
 -  $\large e$ & $\large n$ are Public Keys
 -  $\large d$ is the Private Keys
-- To encrypt the message & obtain Ciphertext: $$\Large Ciphertext = m^{e} \ mod \ n$$
-- To Decrypt the message & obtain Plaintext: $$\Large Plaintext = {(Ciphertext)}^{d} \ mod \ n$$
+- To encrypt the message & obtain Ciphertext: $$\Large Ciphertext = (Plaintext)^e\ mod\ n$$
+- To Decrypt the message & obtain Plaintext: $$\Large Plaintext = (Ciphertext)^d\ mod\ n$$
 
 
 ---

@@ -5,7 +5,7 @@
 
 ---
 # Dangerous C and C++ Functions
-> Functions that must not be used for Programming Projects of any value when the program is written in C and/or C++.
+> Functions that must not be used for Programming Projects of any value when the program is written in [[C\|C]] and/or [[C++\|C++]].
 
 C and C++ are dangerous languages - that a lot of the times to provide speed and low-level control they give too much control to the programmer and expects the programmer to know what to use and what not to use automatically.
 

@@ -18,10 +18,6 @@ You are free to press Ctrl+K (or Cmd+K for Mac Users) to open Search if you want
 The First few thing you should know about me are the following:
 - I am ready to offend people in my quest of the truth because I believe that one must ask uncomfortable & offensive questions in order to uncover the truth. 
 	- Which is precisely why I have 0 problems of passing harsh criticism to some of the very popular books marketed by YouTubers.
-- Please take all that is present here as opinions based on facts I discovered. Please avoid being triggered.
-	- I may be surrounded by people who say the same things & reinforce the same ideas. 
-	- Or in an extreme-but-condensed way: "I could be in an echo chamber and I may not know it".
-	- Additions of context and facts from a new perspective is encouraged as long as the input is provided in a respectful manner.
 - I use tags, links and other properties in my notes very liberally. It is advised to look into [[A Description of all Tags I used\|A Description of all Tags I used]].
 - I usually do not write much in Politics, so there are no problems there. Even when I do, I will not put them out in public. They are completely private.
 

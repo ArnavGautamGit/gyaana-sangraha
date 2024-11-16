@@ -20,8 +20,7 @@ The First few thing you should know about me are the following:
 	- Or in an extreme-but-condensed way: "I could be in an echo chanber and I may not know it".
 	- Additions of context and facts from a new perspective is encouraged as long as the input is provided in a respectful manner.
 - I use tags, links and other properties in my notes very liberally. It is advised to look into [[A Description of all Tags I used\|A Description of all Tags I used]].
-- I usually do not write much in Politics, but since people tend to follow, unfollow, like, dislike and even form friendships on the basis of Political Opinions, then I think I need to make things clear:
-	- Politically, I am both [[Being Anti-Ambedkar\|Anti-Ambedkar]] and [[Being Anti-Gandhi\|Anti-Gandhi]] - if you file a court case on me for those reasons, this page will be quoted in court. I am what is popularly called as a "Centrist" - my opinions do not allign a 100% with either side of the Political Spectrum Needless to say - I hold both the Congress/AAP/INDI Alliance and the BJP equally. 
+- I usually do not write much in Politics, so there are no problems there.
 
 ---
 # Intro to the संग्रह (Repository)

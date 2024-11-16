@@ -13,7 +13,8 @@ Stories are important since the basis of stories is the underlying connection of
 Fight this Story Bias and all the YouTube Analysts by asking:
 1. Who is the sender?
 2. What are their intentions?
-3. What did they hide under the rug?
+3. What did they hide/sweep under the rug?
+4. If the information seems too specific/detailed/confidential to be true, ask why it would be shared in the first place & always verify anything you learn.
 
 ---
 # Footnotes

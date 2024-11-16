@@ -18,5 +18,8 @@ Depending upon the target of the hack, we can classify the hack into types.
 #### Classification based on attackers
 Depending upon if it is a person from inside the organisation/team/family which was hit or outside, it is recognised as an Insider Attack or Outsider Attack respectively.
 
+#### Classification based on methods
+Depending upon whether the attack is done over the Internet or on a harware connected physically (like a Pendrive connected to the target) we can classify the attacks as [[Online Hacking\|Online Hacking]] and [[Offline Hacking\|Offline Hacking]].
+
 ---
 # Footnotes

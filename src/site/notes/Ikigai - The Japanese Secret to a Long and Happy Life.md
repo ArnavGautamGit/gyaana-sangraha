@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ikigai - The Japanese Secret to a Long and Happy Life/","tags":["Books"]}
+{"dg-publish":true,"permalink":"/Ikigai - The Japanese Secret to a Long and Happy Life/","tags":["Health","Psychology"]}
 ---
 
 ---
@@ -11,9 +11,7 @@ My Criticism for the book is that it focuses a bit too much on the part of longe
 
 Another piece of Criticism is that the book seems to repeat similar concepts in different ways and perspectives - it is very well written and flows mesmerisingly but the substance seems to be limited yet dragged. To put it rather bluntly, it sometimes reads like sophisticated rambling riddled with some clever repetition and unnecessary details into the lives of Okinawans as if it is the only healthy lifestyle. 
 
- I think it is because the book is called "Ikigai" but focuses more on the subtitle surrounding Longevity than on the main title it promises to educate the reader about. There seem to be no techniques to help streamline the process of self-discovery and identifying each part of the given Venn Diagram to first understand Ikigai. A more reflective title probably is: "Live Long with the Japanese Concept of Ikigai". A similar problem to when I read [[The Art of Thinking Clearly\|The Art of Thinking Clearly]] earlier in the year & left halfway due to this problem. Coincidentally, both books refer to Nassim Nicholas Taleb quite a bit - perhaps the one-eyed man who is leading the blind authors.
-
-The book seems to repeat what it said over and over again as if I am a toddler - it gives details about what Okinawans think and eat and drink and do .
+ I think it is because the book is called "Ikigai" but focuses more on the subtitle surrounding Longevity than on the main title it promises to educate the reader about. There seem to be no techniques to help streamline the process of self-discovery and identifying each part of the given Venn Diagram to first understand Ikigai. A more reflective title probably is: "Live Long with the Japanese Concept of Ikigai". A similar problem to when I read [[The Art of Thinking Clearly\|The Art of Thinking Clearly]] earlier in the year & left halfway due to this problem. Coincidentally, both books refer to [[Nassim Nicholas Taleb\|Nassim Nicholas Taleb]] quite a bit who is perhaps the one-eyed man who is leading the blindly obssessed authors.
 
 ---
 # Notes from the book

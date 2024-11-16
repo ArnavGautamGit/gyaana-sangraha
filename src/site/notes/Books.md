@@ -9,7 +9,7 @@ Only includes summaries and notes from Books & eBooks read after 1st January 202
 Greyed out link is a book that I own I have not started reading yet.
 I may skip Fiction Books notes entirely and may even delete the listing.
 
-Here you will find all my learnings from the books. Take them as things that I have discovered. To re-iterate what was written from the Homepage, I am not afraid of offending people in my quest of truth - because to find the answers you need to ask hard, offensive questions.
+Here you will find all my learnings from the books. Take them as things that I have discovered. To re-iterate what was written from the Homepage, I am not afraid of offending people in my quest of truth - because to find the answers you often need to ask hard, offensive questions.
 
 ---
 # Civilizational Importance

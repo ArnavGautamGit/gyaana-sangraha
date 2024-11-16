@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cryptography/","tags":["CompSci","CyberSec"]}
+{"dg-publish":true,"permalink":"/Cryptography/","tags":["Academics","CyberSec"]}
 ---
 
 

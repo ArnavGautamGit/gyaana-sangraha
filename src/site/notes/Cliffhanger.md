@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cliffhanger/","tags":["CompSci","Literature"]}
+{"dg-publish":true,"permalink":"/Cliffhanger/","tags":["Academics","Literature"]}
 ---
 
 

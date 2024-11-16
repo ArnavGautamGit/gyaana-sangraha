@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Anti-Virus Software/","tags":["CompSci","CyberSec"]}
+{"dg-publish":true,"permalink":"/Anti-Virus Software/","tags":["Academics","CyberSec"]}
 ---
 
 

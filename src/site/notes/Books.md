@@ -2,20 +2,16 @@
 {"dg-publish":true,"permalink":"/Books/","tags":["Hobbies"]}
 ---
 
-----
-# List of Categories
-[[Books#Civilizational Importance\|#Civilizational Importance]]
-[[Books#Ramayana (Gitapress)\|#Ramayana (Gitapress)]]
-[[Books#Mahabharata (Gitapress)\|#Mahabharata (Gitapress)]]
-[[Books#Fiction\|#Fiction]]
-[[Books#Startups\|#Startups]]
-[[Books#Historicals or Biographies\|#Historicals or Biographies]]
-[[Books#J128 Library/LRC books\|#J128 Library/LRC books]]
 
 ----
-Only includes unread Books & eBooks read after 1st January 2024.
+# My Digital Library
+Only includes summaries and notes from Books & eBooks read after 1st January 2024.
 Greyed out link is a book that I own I have not started reading yet.
 I may skip Fiction Books notes entirely and may even delete the listing.
+
+Here you will find all my learnings from the books. Take them as things that I have discovered. To re-iterate what was written from the Homepage, I am not afraid of offending people in my quest of truth - because to find the answers you need to ask hard, offensive questions.
+
+---
 # Civilizational Importance
 [[India, that is Bharat\|India, that is Bharat]]
 [[India, Bharat and Pakistan\|India, Bharat and Pakistan]]

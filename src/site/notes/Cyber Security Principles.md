@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cyber Security Principles/","tags":["CompSci","CyberSec"]}
+{"dg-publish":true,"permalink":"/Cyber Security Principles/","tags":["CyberSec","Academics"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Diffie-Hellman Key Exchange/","tags":["CompSci","CyberSec"]}
+{"dg-publish":true,"permalink":"/Diffie-Hellman Key Exchange/","tags":["Academics","CyberSec"]}
 ---
 
 

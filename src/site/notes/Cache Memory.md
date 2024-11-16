@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cache Memory/","tags":["CompSci","COA"]}
+{"dg-publish":true,"permalink":"/Cache Memory/","tags":["Academics","COA"]}
 ---
 
 

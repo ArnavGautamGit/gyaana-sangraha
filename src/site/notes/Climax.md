@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Climax/","tags":["CompSci","Literature"]}
+{"dg-publish":true,"permalink":"/Climax/","tags":["Academics","Literature"]}
 ---
 
 

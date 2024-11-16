@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cryptographic Encryption Algorithms/","tags":["CompSci","CyberSec"]}
+{"dg-publish":true,"permalink":"/Cryptographic Encryption Algorithms/","tags":["Academics","CyberSec"]}
 ---
 
 

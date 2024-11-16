@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DES (Data Encryption Standard)/","tags":["CompSci","CyberSec"]}
+{"dg-publish":true,"permalink":"/DES (Data Encryption Standard)/","tags":["CyberSec","Academics"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Accountability/","tags":["CompSci","CyberSec"]}
+{"dg-publish":true,"permalink":"/Accountability/","tags":["Academics","CyberSec"]}
 ---
 
 

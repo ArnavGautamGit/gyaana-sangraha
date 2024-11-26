@@ -14,6 +14,7 @@ Using that knowledge, for an [[Online Cyber Attack\|Online Cyber Attack]] coming
 These are the following "Entry Points":
 1. Code Vulnerabilities on Software Product/Service like vulnerability to [[SQL Injection Attack\|SQL Injection Attack]] or [[DOS Attack\|DOS Attack]].
 2. Internet Router due to inadequate router protection from an [[Online Cyber Attack\|Online Cyber Attack]].
+	1. Avoid by placing a good [[Firewall\|Firewall]], [[Intrusion Detection and Prevention System (IDPS)\|IDPS]] and [[Honey Pots\|Honey Pots]].
 3. Local Wi-Fi (Wireless LAN) or protection against Insider Attacks.
 	1. After Wi-Fi Password, the user must sign in with their user ID and its passwords
 4. Employee Accounts which provide Easy and Unrestricted Access.

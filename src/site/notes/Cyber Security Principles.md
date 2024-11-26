@@ -18,6 +18,8 @@ Using this analogy we can derive the Principles of Computer Security:
 
 > ***==Principle of Effectiveness==:*** *"Controls must be used - and used properly - to be effective. They must be efficient, easy to use, and appropriate."*
 
+> ***==Principle of Least Privilege==:*** *"Provide the least amount of access and privilege required to any user for the completion of their daily tasks."*
+
 > ***==Principle of Weakest Link==:*** *"Security can be no stronger than its weakest link."* 
 
 > ***==A Threat is blocked by control of a vulnerability==***

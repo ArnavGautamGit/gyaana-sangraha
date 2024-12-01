@@ -13,14 +13,14 @@ Here you will find all my learnings from the books. Take them as things that I h
 
 ---
 # Civilizational Importance
-[[India, that is Bharat\|India, that is Bharat]]
-[[India, Bharat and Pakistan\|India, Bharat and Pakistan]]
-[[Shrimad-Bhagavad Gītā\|Shrimad-Bhagavad Gītā]]
-[[Mahābhārata Unravelled\|Mahābhārata Unravelled]]
-[[Vivek-Chudamani\|Vivek-Chudamani]]
-[[Chanakya Neeti\|Chanakya Neeti]]
-[[Rāmāyaṇa\|Rāmāyaṇa]] (in 2 volumes printed by Gitapress)
-[[Mahābhārata\|Mahābhārata]] (in 6 volumes printed by Gitapress)
+1. [[India, that is Bharat\|India, that is Bharat]] (Controversial notes kept private)
+2. [[India, Bharat and Pakistan\|India, Bharat and Pakistan]] (Controversial notes kept private)
+3. [[Shrimad-Bhagavad Gītā\|Shrimad-Bhagavad Gītā]] 
+4. [[Mahābhārata Unravelled\|Mahābhārata Unravelled]] 
+5. [[Vivek-Chudamani\|Vivek-Chudamani]] 
+6. [[Chanakya Neeti\|Chanakya Neeti]] 
+7. [[Rāmāyaṇa\|Rāmāyaṇa]] (in 2 volumes printed by Gitapress) 
+8. [[Mahābhārata\|Mahābhārata]] (in 6 volumes printed by Gitapress)
 
 # Fiction
 [[DUNE\|DUNE]]

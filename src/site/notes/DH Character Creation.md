@@ -15,6 +15,7 @@ Things your character needs before completion:
 [[DH Character Creation#Additional Character Information\|#Additional Character Information]]
 [[DH Character Creation#Character Background\|#Character Background]]
 [[DH Character Creation#Character Experiences\|#Character Experiences]]
+[[DH Character Creation#Connections (Optional)\|#Connections (Optional)]]
 [[DH Character Creation#Domain Cards\|#Domain Cards]]
 
 ### Character Class
@@ -84,17 +85,15 @@ Any of the numbers can be assigned to any of the traits. So, one of the traits m
 ### Starting Equipment
 At the start of the game, each character can choose their character's armour type, primary weapon & an optional secondary weapon
 
-Armour Type will affect the [[Evasion Score\|Evasion Score]] and [[Armour Score\|Armour Score]].
+Armour Type will affect the [[Armour Score\|Armour Score]], [[Armour Points\|Armour Points]] and also depending upon how bulky the chosen armourset is, it may also change the [[Evasion Score\|Evasion Score]]. Armour Points dictate how many times you can subtract the Armour Score from the incoming damage to make it lower than the current threshold and lose less [[Hit Point Slots\|Hit Point Slots]].
 
-Weapons may (and generally do) have special features that alter the traits so be sure to update the values!
+Weapons may (and generally do) have special features that alter the traits so be sure to update the values! It is advised to write your [[Armour Score\|Armour Score]] 
 
 ### Additional Character Information
 Now is the time to calculate your [[Evasion Score\|Evasion Score]]! Starting Evasion Score is different from Class to Class and you can easily add or subtract any modifiers from armour or weapons into your evasion score.
 
-Also write down the [[Armour Score\|Armour Score]] due to your Armour Type.
-
 ### Character Background
-Create and Add a Character Backstory - please give this to your DM as well so they can use it to craft the story with parts of your character's story as a [[Plot Twist\|twist]] or test.
+Create and Add a Character Backstory - please give this to your DM as well so they can use it to craft the story with parts of your character's story as a [[Plot Twist\|twist]] or test. There are a few Background Questions that are included in the sheet and may aid you in Backstory Creation or add to the Bakstory.
 
 ### Character Experiences
 These are small phrases or pieces of wisdom your character has accumulated that they can use through the campaign.
@@ -106,15 +105,15 @@ You have to spend 1 [[Hope Token\|Hope Token]] to use 1 Experience - if the [[Ga
 
 You can add more experiences as you level up.
 
-### Connections
-Optional if the party members want to do something like this. Not important. Not helpful.
+### Connections (Optional)
+Optional if the party members want to do something like this. Not important. Not helpful. It is basically a section where if you are supposed to know another member of the party before hand, you wirte their name and how you know them in this section.
 
 ### Domain Cards
 Number of Domain Cards are decided by the character levels and you can carry a maximum of 5 in your loadout + few extras dependent on level.
 
-The Kind of Domain Cards you have is dependent on your [[DH Domains\|Domain]] - which is influenced by your [[DH Character Creation#Character Class\|#Character Class]].
+If you wamt to switch out Domain Cards, each Card has a [[Stress Point\|Stress Point]] indicator, you can mark off the number of Stess Points the new card (which was outside your Loadout) and swap that with another card of the same Domain. This is where 0 stress cards come in handy.
 
-You are only able to take 1 domain from a class if you multi-class. See [[DH Multiclassing Rules\|DH Multiclassing Rules]] for more info.
+The Kind of Domain Cards you have is dependent on your [[DH Domains\|Domain]] - which is influenced by your [[DH Character Creation#Character Class\|#Character Class]]. You are only able to take 1 domain from a class if you multi-class. See [[DH Multiclassing Rules\|DH Multiclassing Rules]] for more info. This means that you can only get domain cards for that domain.
 
 ---
 # Footnotes

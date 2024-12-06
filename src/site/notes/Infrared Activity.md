@@ -18,7 +18,7 @@ Infrared Active Elements that are unessential should be kept in check - like Car
 ## What makes a molecule IR Active?
 We know that each molecule has many different [[Dipole Moment\|dipole moments]] inside it which may or may not cancel out to give zero dipole moment. Good Example is Water ($\large H_2O$) which has two dipole moments which form a permanent dipole moment with Hydrogen atoms becoming the positive pole & Oxygen Atom becoming the negative pole.
 
-A molecule must showcase a temporary change in dipole moment during at least one of its vibrations modes to be called IR Active.
+A molecule must showcase a temporary change in dipole moment during at least one of its [[Vibration Mode of Molecules\|vibrations modes]] to be called IR Active.
 
 ---
 # Footnotes

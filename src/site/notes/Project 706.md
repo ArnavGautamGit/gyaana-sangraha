@@ -21,7 +21,7 @@ Even after all this and through Agha Hasan Abedi's private bank which collected 
 
 Thankfully for them by 1979, the Soviet-Afghan War was in full swing - which meant Pakistan would get money flowing from Uncle Sam (USA) which the Pakistanis would secretly used to fund their nuclear weapons program. 
 
-A.Q Khan was going to be sidelined before the tests in May 1998 in Chagai yet named the "Father of the Pakistani Nuclear Program" although we know it was [[Zulfiqar Ali Bhutto\|Zulfiqar Ali Bhutto]] instead. Khan even tried whitewashing Musharraf and was allowed to "disappear" honourably in February 2004 with the title of "National Asset". Evidence had mounted steadily by 2003 & the [[International Atomic Energy Agency\|International Atomic Energy Agency]] knew but could not implicate Pak for they were still needed for USA to fight the Al-Qaeda. 
+A.Q Khan was going to be sidelined before the tests in May 1998 in Chagai yet named the "Father of the Pakistani Nuclear Program" although we know it was [[Zulfiqar Ali Bhutto\|Zulfiqar Ali Bhutto]] instead. Khan even tried whitewashing Musharraf and was allowed to "disappear" honourably in February 2004 with the title of "National Asset". Evidence had mounted steadily by 2003 & the [[International Atomic Energy Agency (IAEA)\|International Atomic Energy Agency (IAEA)]] knew but could not implicate Pak for they were still needed for USA to fight the Al-Qaeda. 
 Not to mention Abdul Qadeer Khan had helped North Korea and Libya to build Nuclear Bombs in the 1990s.
 
 ---

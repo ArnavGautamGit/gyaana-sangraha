@@ -11,7 +11,7 @@ The first TTRPG system people learn often ends up being D&D.
 But it has some problems of its own. 
 Firstly, the sheer size of the game means that the player and the GM both have to spend a lot of time reading the rules. D&D over the years has streamlined the player experience but the GM still has a lot to keep in mind. First-time GM-ing is not easy.
 
-Secondly, the sheer number of edge cases and exceptions in the rules and so many rules about the magic system. Many GMs tend not to bother with the ingredients a Wizard needs and if their Wizards even have the ingredients in their inventory.
+Secondly, the sheer number of edge cases and exceptions in the rules and so many rules about the magic system. Many GMs tend not to bother with the ingredients a Wizard needs and if their Wizards even have the ingredients in their inventory. [[Pathfinder\|Pathfinder]] is an even more complex system (which is why I don't play it) but even that does not have as many edge cases as [[Dungeons & Dragons\|D&D]].
 
 Thirdly, Multiclassing in D&D more often than not creates a weaker character than just staying single class. Since taking a few levels of another class means they have to let go of the high level abilities of their original class. People get punished for creativity.
 

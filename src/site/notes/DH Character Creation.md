@@ -21,6 +21,8 @@ Things your character needs before completion:
 ### Character Class
 Each Class has Class Foundations (Sub-classes) and all classes have two Domains that overlap among classes in circular fashion. When creating a character, the player needs to select one of the Class Foundations and a number of Domain Cards (calculated from their character level). 
 
+Each Class also has a special ability that utilises 3x [[Hope Token\|Hope Token]] to do something special. Not to mention each Class has an extra choice of "Class Item" which is a special non-combat item that helps in building the story. Class Items can be homebrewed freely as long as they are unusable in combat.
+
 Multi-classing in 2 or more classes (max 3) is allowed as per [[DH Multiclassing Rules\|DH Multiclassing Rules]].
 
 Sticking to Foundations for this section, we have the following:
@@ -77,7 +79,7 @@ Choose one of both and then write them in your sheet as "Community Species".
 Example: "Highborne Human"
 
 ### Character Traits
-All the traits: Agility, Strength, Finesse, Instinct, Presence and Knowledge require to be given modifiers, there are no absolute scores - just modifiers.
+All the traits: [[Agility\|Agility]], [[Strength\|Strength]], [[Finesse\|Finesse]], [[Instinct\|Instinct]], [[Presence\|Presence]] and [[Knowledge\|Knowledge]] require to be given modifiers, there are no absolute scores - just modifiers.
 
 Modifiers are assigned from the standard array of: +2, +1, +1, 0, 0, -1.
 Any of the numbers can be assigned to any of the traits. So, one of the traits must be having +2, two must be +1 each, two must be 0 each and one must be -1. Any trait can be given any modifier, some players may like +2 strength, others may like -1, its okay.
@@ -111,9 +113,16 @@ Optional if the party members want to do something like this. Not important. Not
 ### Domain Cards
 Number of Domain Cards are decided by the character levels and you can carry a maximum of 5 in your loadout + few extras dependent on level.
 
-If you wamt to switch out Domain Cards, each Card has a [[Stress Point\|Stress Point]] indicator, you can mark off the number of Stess Points the new card (which was outside your Loadout) and swap that with another card of the same Domain. This is where 0 stress cards come in handy.
+If you wamt to switch out Domain Cards, each Card has a [[Stress Point\|Stress Point]] indicator, you can mark off the number of Stess Points the new card (which was outside your Loadout) and swap that with another card of the same Domain. This is where 0 stress cards come in handy. They may not be as strong, but when you need them specifically, those cards can be swapped in at 0 Stress Points.
 
-The Kind of Domain Cards you have is dependent on your [[DH Domains\|Domain]] - which is influenced by your [[DH Character Creation#Character Class\|#Character Class]]. You are only able to take 1 domain from a class if you multi-class. See [[DH Multiclassing Rules\|DH Multiclassing Rules]] for more info. This means that you can only get domain cards for that domain.
+The Kind of Domain Cards you have is dependent on your [[Domains in Daggerheart (DH)\|Domain]] - which is influenced by your [[DH Character Creation#Character Class\|#Character Class]]. You are only able to take 1 domain from a class if you multi-class. See [[DH Multiclassing Rules\|DH Multiclassing Rules]] for more info. This means that you can only get domain cards for that domain.
+
+### Character Levelling
+Character Levelling is based on four tiers.
+1. Level 1 is considered Tier 1
+2. Tier 2: Level 2 to Level 4
+3. Tier 3: Level 5 to Level 7
+4. Tier 4: Level 8 to Level 10
 
 ---
 # Footnotes

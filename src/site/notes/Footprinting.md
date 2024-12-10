@@ -41,7 +41,7 @@ Footprinting can be passive or active depending upon how "active" the process is
 
 ### Specific Techniques
 1. [[Website Mirroring\|Website Mirroring]]
-2. [[Footprinting via Social Engineering\|Footprinting via Social Engineering]]
+2. [[Social Engineering\|Social Engineering]] 
 3. [[Competitive Intelligence Gathering\|Competitive Intelligence Gathering]]
 4. [[Whois\|Whois]] based Footprinting
 5. [[DNS-based Footprinting\|DNS-based Footprinting]]

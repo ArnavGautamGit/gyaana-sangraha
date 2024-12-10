@@ -37,7 +37,9 @@ Syllabus is divided into 3 parts: T1, T2 and T3.
 - [[Computer Malware\|Computer Malware]] (Last topic of T2)
 - [[SQL Injection Attack\|SQL Injection Attack]]
 - [[Wireless Hacking\|Wireless Hacking]] (Use Slides for this)
-- [[Hacking Mobile Platforms\|Hacking Mobile Platforms]] 
+- [[Hacking Mobile Platforms\|Hacking Mobile Platforms]]
+	- [[Android OS\|Android OS]]
+	- [[iOS\|iOS]]
 - [[Web Hacking\|Web Hacking]]
 - [[Cyber Laws in India\|Cyber Laws in India]]
 - [[Cyber Laws in USA\|Cyber Laws in USA]]

@@ -25,7 +25,7 @@ Used a lot in markets & by companies which thrive on the factors listed above li
 - Where is the company located? ---> [[Using Google Earth as Spyware\|Using Google Earth as Spyware]]
 - What are their plans? ---> Use Tools like [[MarketWatch\|MarketWatch]] and [[The Wall Street Transcript\|The Wall Street Transcript]]
 - What are the expert opinions? ---> Tools like "Compete Pro" & "ProQuest"
-- What kind of Website Traffic are they getting ---> Use "web-stat" and "Monitis"
+- What kind of Website Traffic are they getting? ---> Use "web-stat" and "Monitis"
 - What is their Market Reputation ---> Use "ReputationDefender" and "Social Mention"
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Footprinting/","tags":["CompSci","CyberSec","EthHack","Espionage"]}
+{"dg-publish":true,"permalink":"/Footprinting/","tags":["Academics","CyberSec","EthHack","Espionage"]}
 ---
 
 

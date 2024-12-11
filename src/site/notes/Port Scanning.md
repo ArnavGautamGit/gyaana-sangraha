@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Port Scanning/","tags":["CompSci","CyberSec","CompNet","EthHack"]}
+{"dg-publish":true,"permalink":"/Port Scanning/","tags":["Academics","CyberSec","CompNet","EthHack"]}
 ---
 
 

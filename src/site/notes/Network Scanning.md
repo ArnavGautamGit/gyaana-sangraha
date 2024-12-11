@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Network Scanning/","tags":["CompSci","CyberSec","CompNet","EthHack"]}
+{"dg-publish":true,"permalink":"/Network Scanning/","tags":["Academics","CyberSec","CompNet","EthHack"]}
 ---
 
 

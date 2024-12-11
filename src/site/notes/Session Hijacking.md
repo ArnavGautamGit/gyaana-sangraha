@@ -7,7 +7,7 @@
 # Session Hijacking
 Before we understand what Session Hijacking is, we must understand what a session is.
 ***Definition of a session***:
-> A connection formed between client and server established after user entered their user id and password on the client PC connecting to the server.
+> A connection formed between client and server established after user [[Authentication\|authenticates]] themselves on the client PC connecting to the server via USer ID, Password and any other identifier needed.
 
 Now that we know what a Session is,
 ***Definition of Session-Hijacking***:

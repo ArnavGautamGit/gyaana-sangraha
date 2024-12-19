@@ -9,7 +9,7 @@
 > (See [[DH Character Creation#Character Class\|DH Character Creation#Character Class]] to get a general overview of classes)
 
 Bards (across TTRPGs) are famous for being scandalous and having an eloquent talent such as singing, dancing, poetry and such...
-But they also motivate their teammates and other abilities.
+They are also famous to be of aid when the need arises to motivate their teammates and provide them with new-found vigor, inspiration and abilities.
 
 ### Domains
 Domains of a Class decide what Domain Cards (and abilities) one gets to pick up.
@@ -57,12 +57,6 @@ The Bard has the following Subclass Options:
 		- Your Rally Songs also bolster the morale of your allies. Anyone who receives a Rally Dice can clear a [[Stress Point\|Stress Point]] or gain a [[Hope Token\|Hope Token]].
 	- ***Mastery Feature***
 		- You can perform each of your Foundation Songs another time per long rest.
-
-### Domain Cards - Level 1
-![Bard Domain Card L1.png](/img/user/Vaulted%20Images/Daggerheart%20Domain%20Cards/Bard%20Domain%20Card%20L1.png)
-
-### Domain Cards - Level 2
-![Bard Domain Cards L2.png](/img/user/Vaulted%20Images/Daggerheart%20Domain%20Cards/Bard%20Domain%20Cards%20L2.png)
 
 
 

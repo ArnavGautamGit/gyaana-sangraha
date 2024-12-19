@@ -76,7 +76,7 @@ The Wizard has *School of Knowledge* and *School of War* as foundations.
 Heritage of Characters is based on combining the [[DH Species Ancestry\|DH Species Ancestry]] and the strata of society (reflected by [[DH Community Heritage\|DH Community Heritage]]) the character was born in.
 
 Choose one of both and then write them in your sheet as "Community Species".
-Example: "Highborne Human"
+Example: "[[Highborne\|Highborne]] [[Human (DH)\|Human]]"
 
 ### Character Traits
 All the traits: [[Agility\|Agility]], [[Strength\|Strength]], [[Finesse\|Finesse]], [[Instinct\|Instinct]], [[Presence\|Presence]] and [[Knowledge\|Knowledge]] require to be given modifiers, there are no absolute scores - just modifiers.

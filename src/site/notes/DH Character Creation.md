@@ -19,58 +19,58 @@ Things your character needs before completion:
 [[DH Character Creation#Domain Cards\|#Domain Cards]]
 
 ### Character Class
-Each Class has Class Foundations (Sub-classes) and all classes have two Domains that overlap among classes in circular fashion. When creating a character, the player needs to select one of the Class Foundations and a number of Domain Cards (calculated from their character level). 
+Each Class has Class Foundations (Sub-classes) and all classes have two Domains that overlap among classes in a circular fashion. When creating a character, the player needs to select one of the given Class Foundations and a number of Domain Cards (calculated from their character level). 
 
-Each Class also has a special ability that utilises 3x [[Hope Token\|Hope Token]] to do something special. Not to mention each Class has an extra choice of "Class Item" which is a special non-combat item that helps in building the story. Class Items can be homebrewed freely as long as they are unusable in combat.
+Each Class also has a Special Hope Ability that utilises 3x [[Hope Token\|Hope Token]] to do something special. Not to mention each Class has an extra choice of "Class Item" which is a special non-combat item that helps in building the story. Class Items can be homebrewed freely as long as they are unusable in combat.
 
 Multi-classing in 2 or more classes (max 3) is allowed as per [[DH Multiclassing Rules\|DH Multiclassing Rules]].
 
-Sticking to Foundations for this section, we have the following:
+Here is a list of classes which provide an overview of what each Class and Subclass allows you to play as:
 
 [[Bard (DH)\|Bard (DH)]] 
 The Bard has *Wordsmith* and *Toubadour* as foundations.
-- *Wordsmith* allows players to roleplay a poetic bard who uses captivating words and inspiring wordplay to aid any comrades.
-- *Toubadour* allows players to rolepay the musical bard who inspires any comrades using the power of songs and music.
+- ***Wordsmith*** allows players to roleplay a poetic bard who uses captivating words and inspiring wordplay to aid any comrades.
+- ***Toubadour*** allows players to rolepay the musical bard who inspires any comrades using the power of songs and music.
 
 [[Druid (DH)\|Druid (DH)]]
 The Druid has *Warden of the Elements* and *Warden of Renewal* as foundations.
-- *Warden of the Elements* allows players to roleplay as the nature-oriented Druid
-- *Warden of Renewal* allows players to roleplay as the Healer Druid
+- ***Warden of the Elements*** allows players to roleplay as the Support Druid.
+- ***Warden of Renewal*** allows players to roleplay as the Healer Druid.
 
 [[Guardian (DH)\|Guardian (DH)]]
 The Guardian has *Stalwart* and *Vengeance* as foundations.
-- *Stalwart* allows players to roleplay as someone that can take hits and keep fighting
-- *Vengeance* allows players to roleplay as someone who avenges the damage dealt to comrades.
+- ***Stalwart*** allows players to roleplay as someone that can take hits and keep fighting
+- ***Vengeance*** allows players to roleplay as someone who avenges the damage dealt to comrades.
 
 [[Ranger (DH)\|Ranger (DH)]]
 The Ranger has *Wayfinder* and *Beastbound* as foundations.
-- *Wayfinder* allows players to roleplay as an unrelenting hunter.
-- *Beastbound* allows players to roleplay with a pet/familiar.
+- ***Wayfinder*** allows players to roleplay as an unrelenting hunter.
+- ***Beastbound*** allows players to roleplay with a pet/familiar.
 
 [[Seraph (DH)\|Seraph (DH)]]
 The Seraph has *Winged Sentinel* and *Divine Wielder* as foundations.
-- *Winged Sentinel* allows players to fly and become a air-bomber
-- *Divine Wielder* allows players to roleplay as a warrior with a legendary warrior
+- ***Winged Sentinel*** allows players to fly and become a air-bomber
+- ***Divine Wielder*** allows players to roleplay as a warrior with a legendary warrior
 
 [[Rogue (DH)\|Rogue (DH)]]
 The Rogue has *Nightwalker* and *Syndicate* as foundations.
-- *Nightwalker* allows players to manipulate shadows to move through the environment.
-- *Syndicate* allows players to roleplay as a person with high contacts everywhere.
+- ***Nightwalker*** allows players to manipulate shadows to move through the environment.
+- ***Syndicate*** allows players to roleplay as a person with high contacts everywhere.
 
 [[Sorcerer (DH)\|Sorcerer (DH)]]
 The Sorcerer has *Primal Origin* and *Elemental Origin* as foundations.
-- *Primal Origin* gives players versatile spells and extends the versatility.
-- *Elemental Origin* gives players raw magic in form of a specific element.
+- ***Primal Origin*** gives players versatile spells and extends the versatility.
+- ***Elemental Origin*** gives players raw magic in form of a specific element.
 
 [[Warrior (DH)\|Warrior (DH)]]
 The Warrior has *Call of the Slayer* and *Call of the Brave* as foundations.
-- *Call of the Slayer* allows players to strike enemies with loads of power.
-- *Call of the Brave* allows players to use the strength of the enemies to fuel them.
+- ***Call of the Slayer*** allows players to strike enemies with loads of power.
+- ***Call of the Brave*** allows players to use the strength of the enemies to fuel them.
 
 [[Wizard (DH)\|Wizard (DH)]]
 The Wizard has *School of Knowledge* and *School of War* as foundations.
-- *School of Knowledge* allows players to use magic for understanding the world.
-- *School of War* allows players to use magic for violent purposes.
+- ***School of Knowledge*** allows players to use magic for understanding the world.
+- ***School of War*** allows players to use magic for violent purposes.
 
 ### Character Heritage
 Heritage of Characters is based on combining the [[DH Species Ancestry\|DH Species Ancestry]] and the strata of society (reflected by [[DH Community Heritage\|DH Community Heritage]]) the character was born in.

@@ -13,6 +13,7 @@ They are also famous to be of aid when the need arises to motivate their teammat
 
 ### Domains
 Domains of a Class decide what Domain Cards (and abilities) one gets to pick up.
+Each class has 2 fixed Domains.
 The Bard's domains are: [[Grace\|Grace]] and [[Codex\|Codex]].
 
 ### Base Scores
@@ -21,12 +22,12 @@ Major Damage Threshold: 6
 Severe Damage Threshold: 12
 
 ### Class Items
-Each Class also has a specific item they can choose to have. They must have one of two.
-For a Bard, chose between a Romance Novel or a Letter never opened.
+Each Class also has a specific item they can choose to have - and they will become plot points in the story. They must have one of two.
+For a Bard, chose between EITHER a Romance Novel OR a Letter never opened.
 
-### Bard's Hope
-Bard's Hope is a special ability of the Bard class that utilizes.
-The player can spend 3 [[Hope Token\|Hope Token]] to intervene and negate the consequences of any [[Presence\|Presence]] Roll where a teammate close to them fails the roll or succeeds with Fear Dice (and hence deny the GM their [[Fear Token\|Fear Token]]).
+### Bard's Hope - Special Ability
+Bard's special that utilizes 3x [[Hope Token\|Hope Token]].
+Bard can spend 3x [[Hope Token\|Hope Token]] to intervene and negate the consequences of any [[Presence\|Presence]] Roll where a teammate close to them fails the roll or succeeds with Fear Dice (and hence deny the GM their [[Fear Token\|Fear Token]]).
 
 ### Class Feature - Rally
 Once per session, before entering a dangerous situation, you can chose to Rally your teammates and give your allies an extra d6 dice that they can roll. 

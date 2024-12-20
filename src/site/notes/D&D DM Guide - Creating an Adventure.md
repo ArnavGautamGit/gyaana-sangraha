@@ -5,7 +5,7 @@
 
 ---
 # D&D DM Guide - Creating an Adventure
-> An Adventure,also known as a campaign is a story told by the [[Dungeon Master\|Dungeon Master]] and other Players together in a [[Table-Top Role-Playing Game\|Table-Top Role-Playing Game]]. In a Game other than [[Dungeons & Dragons\|D&D]], Dungeon Masters (DMs) are called as a [[Game Master\|Game Master]].
+> An Adventure,also known as a campaign is a story told by the [[Dungeon Master (DM)\|Dungeon Master (DM)]] and other Players together in a [[Table-Top Role-Playing Game\|Table-Top Role-Playing Game]]. In a Game other than [[Dungeons & Dragons\|D&D]], a [[Dungeon Master (DM)\|Dungeon Master (DM)]] is often called as a [[Game Master (GM)\|Game Master (GM)]].
 
 This note although based on the "Dungeon Master's Guide" published by the creators of [[Dungeons & Dragons\|D&D]], also works for any other [[Table-Top Role-Playing Game\|TTRPG]] like [[Daggerheart\|Daggerheart]] as well.
 

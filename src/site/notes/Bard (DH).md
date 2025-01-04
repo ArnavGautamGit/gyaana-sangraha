@@ -5,11 +5,10 @@
 
 ---
 # Bard (DH)
-> A [[DH Character Creation#Character Class\|Character Class]] of a charismatic Musician, Wordmith or Motivator in the famous [[Table-Top Role-Playing Game\|Table-Top Role-Playing Game]] named [[Daggerheart\|Daggerheart]].
+> A [[DH Character Creation#Character Class\|Character Class]] of a charismatic Musician, Wordmith or Motivator in every famous [[Table-Top Role-Playing Game\|Table-Top Role-Playing Game]] which includes [[Daggerheart\|Daggerheart]]. Bards can cast spells for either motivationg or healing their allies with a few utility spells.
 > (See [[DH Character Creation#Character Class\|DH Character Creation#Character Class]] to get a general overview of classes)
 
-Bards (across TTRPGs) are famous for being scandalous and having an eloquent talent such as singing, dancing, poetry and such...
-They are also famous to be of aid when the need arises to motivate their teammates and provide them with new-found vigor, inspiration and abilities.
+Prioritise for [[Presence\|Presence]] trait when building a Bard.
 
 ### Domains
 Domains of a Class decide what Domain Cards (and abilities) one gets to pick up.

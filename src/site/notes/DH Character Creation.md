@@ -21,7 +21,9 @@ Things your character needs before completion:
 ### Character Class
 Each Class has Class Foundations (Sub-classes) and all classes have two Domains that overlap among classes in a circular fashion. When creating a character, the player needs to select one of the given Class Foundations and a number of Domain Cards (calculated from their character level). 
 
-Each Class also has a Special Hope Ability that utilises 3x [[Hope Token\|Hope Token]] to do something special. Not to mention each Class has an extra choice of "Class Item" which is a special non-combat item that helps in building the story. Class Items can be homebrewed freely as long as they are unusable in combat.
+Each Class also has a Special Hope Ability that utilises 3x [[Hope Token\|Hope Token]] to do something special. Not to mention any two characters can strike off 3x Hope Tokens each to attack a specific enemy together at the same time like a Tag-Team.
+
+Each Class has an extra choice of "Class Item" which is a special non-combat item that helps in building the story. Class Items can be homebrewed freely as long as they are unusable in combat.
 
 Multi-classing in 2 or more classes (max 3) is allowed as per [[DH Multiclassing Rules\|DH Multiclassing Rules]].
 
@@ -87,7 +89,7 @@ Any of the numbers can be assigned to any of the traits. So, one of the traits m
 ### Starting Equipment
 At the start of the game, each character can choose their character's armour type, primary weapon & an optional secondary weapon
 
-Armour Type will affect the [[Armour Score\|Armour Score]], [[Armour Points\|Armour Points]] and also depending upon how bulky the chosen armourset is, it may also change the [[Evasion Score\|Evasion Score]]. Armour Points dictate how many times you can subtract the Armour Score from the incoming damage to make it lower than the current threshold and lose less [[Hit Point Slots\|Hit Point Slots]].
+Armour Type will affect the [[Armour Score\|Armour Score]], [[Armour Slots\|Armour Slots]] and also depending upon how bulky the chosen armourset is, it may also change the [[Evasion Score\|Evasion Score]]. Armour Slots dictate how many times you can subtract the Armour Score from the incoming damage to make it lower than the current threshold and lose less [[Hit Point Slots\|Hit Point Slots]].
 
 Weapons may (and generally do) have special features that alter the traits so be sure to update the values! It is advised to write your [[Armour Score\|Armour Score]] 
 
@@ -120,9 +122,14 @@ The Kind of Domain Cards you have is dependent on your [[Domains in Daggerheart 
 ### Character Levelling
 Character Levelling is based on four tiers.
 1. Level 1 is considered Tier 1
-2. Tier 2: Level 2 to Level 4
-3. Tier 3: Level 5 to Level 7
-4. Tier 4: Level 8 to Level 10
+2. ***Tier 2***: Level 2 to Level 4
+3. ***Tier 3***: Level 5 to Level 7
+4. ***Tier 4***: Level 8 to Level 10
+
+At each Tier any character gains, the character is given the following:
+- The Character is allowed to take another [[DH Character Creation#Character Experiences\|Character Experience]].
+- The character is given one [[Proficiency Level\|Proficiency Level]] i.e., if the character was rolling nd6 for their weapon, they will now role (n+1) number of d6 dice.
+- On getting to Tier 3 and Tier 4 (i.e., on Level 5 and Level 8) all players can clear all marks on Character Traits and choose to increase them again on any level up.
 
 ---
 # Footnotes

@@ -32,7 +32,7 @@ Druid can use these 3x [[Hope Token\|Hope Token]] while in Beastform to increase
 ### Class Features - Wildtouch & Beastform
 The Druid is one of the few classes in Daggerheeart which have more than one Class Feature. The two class features being: Wildtouch and Beastform.
 - ***Wildtouch***: Perform a harmless, subtle effects (that involve nature) at will. Like making a flower grow or bloom instantly, start a campfire etc.
-- ***Beastform***: Mark a stress to into magical creature of your choice from the Beastform list (Homebrew allowed on [[Game Master (GM)\|GM]]'s prior approval). This form still allows you to freely mark [[Armour Points\|Armour Points]] & the form is immediately dropped on the last [[Stress Point\|Stress Point]] or [[Hit Point Slots\|HP Slot]] marked.
+- ***Beastform***: Mark a stress to into magical creature of your choice from the Beastform list (Homebrew allowed on [[Game Master (GM)\|GM]]'s prior approval). This form still allows you to freely mark [[Armour Slots\|Armour Slots]] & the form is immediately dropped on the last [[Stress Point\|Stress Point]] or [[Hit Point Slots\|HP Slot]] marked.
 
 ### Class Foundations (Subclasses)
 Each class has a certain number of subclasses to choose from. For a Druid, we have the following Subclass Options:
@@ -61,9 +61,14 @@ Each class has a certain number of subclasses to choose from. For a Druid, we ha
 		- **Regeneration**: Use an action and spend 3x [[Hope Token\|Hope Token]] to clear 1d4 [[Hit Point Slots\|HP Slots]] on a creature the Druid is touching.
 	- ***Specialisation Features***
 		- **Regeneration Upgrade**: It can be used on a creature within Very Close Range
-		- **Warden's Protection**: The Druid can use magic to repair armour outside [[DH Character Rest Rules#Downtime\|downtime]]. When the Druid takes this action, allies in Close Range can replenish [[Armour Points\|Armour Points]] equal to Druid's [[Instinct Trait\|Instinct Trait]].
+		- **Warden's Protection**: The Druid can use magic to repair armour outside [[DH Character Rest Rules#Downtime\|downtime]]. When the Druid takes this action, allies in Close Range can replenish [[Armour Slots\|Armour Slots]] equal to Druid's [[Instinct Trait\|Instinct Trait]].
 	- ***Mastery Feature***
 		- While the Druid maintains Beastform, when an ally in Close Range marks more than 2x [[Hit Point Slots\|HP Slots]], the Druid can mark 1x [[Stress Point\|Stress Point]] to reduce the amount of HP Slots their allies mark down to 1. 
 
 ---
 # Footnotes
+1. Beastform has specific rules that the Druid is needed to know.
+	1. The Druid cannot use equipment, spells or weapons in their animal form.
+	2. The Druid CAN use any abilities they may have such as Wildtouch.
+	3. Creatures are divided into categories which add or subtract to your traits, [[Evasion Score\|Evasion Score]] among other things such as providing advantage on certain rolls and may have specific weaknesses that will override any rules mentioned here.
+	4. Screenshot of the categories is given here: [[Daggerheart Beastform Rules 1.png|Beastform Categories (Tier 1 & 2)]] and [[Daggerheart Beastform Rules 2.png|Beastform Categories (Tier 3 & 4)]].

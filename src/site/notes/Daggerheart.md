@@ -16,13 +16,14 @@ The Combat is decribed in [[DH Combat Rules\|DH Combat Rules]].
 There are specific rules for Character Death in [[DH Character Death Rules\|DH Character Death Rules]].
 There are also no shortage of mechanics for [[DH Character Rest Rules\|DH Character Rest Rules]].
 
-Although checking if an attack hits or not is checked via the classic d20, there are other concepts like [[Hit Point Slots\|Hit Point Slots]] which are fixed for each character (unless increased by taking a specific Class or Foundation) while the characters can spend or mark off [[Armour Points\|Armour Points]] to avoid taking damage to their Hit Points and possibly dying. 
+Although checking if an attack hits or not is checked via the classic d20, there are other concepts like [[Hit Point Slots\|Hit Point Slots]] which are fixed for each character (unless increased by taking a specific Class or Foundation) while the characters can spend or mark off [[Armour Slots\|Armour Slots]] to avoid taking damage to their Hit Points and possibly dying. 
 
-If incoming damage is below the Minor Damage Threshold, the characters can mark their [[Stress Point\|Stress Point]] instead of Hit Points. Just like [[Hit Point Slots\|HP]] and [[Armour Points\|AP]], [[Stress Point\|SP]] are also limited.
+If incoming damage is below the Minor Damage Threshold, the characters can mark their [[Stress Point\|Stress Point]] instead of Hit Points. Just like [[Hit Point Slots\|HP Slots]] and [[Armour Slots\|Armour Slots]], [[Stress Point\|Stress Point]] are also limited.
 
 Advantage and Disadvantage is marked using a d6 dice along with the 2d12, if the player has an Advantage on a roll, add the d6 value. If the player has Disadvantage, subtract the d6 value.
 
-1x [[Hope Token\|Hope Token]] can be spent by any character to give another character an advantage on their rolls.
+1x [[Hope Token\|Hope Token]] can be spent by any character to give another character apart from themselves an advantage on their rolls. 
+Whereas any pair of characters can choose to strike off 3x [[Hope Token\|Hope Token]] each to team up & attack together at the same time.
 
 ---
 # Footnotes

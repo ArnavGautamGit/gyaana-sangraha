@@ -5,7 +5,7 @@
 
 ---
 # Galapa (Daggerheart)
-> A [[DH Species Ancestry\|DH Species Ancestry]] of anthromorphic turtles i.e., turtles that can walk on two of the legs & use the other two as hands with distinct, sharp fingers. 
+> A [[DH Species Ancestry\|DH Species Ancestry]] of anthromorphic bipedal turtles i.e., turtles that can walk on their hind limbs & use their fore limbs as hands with distinct, sharp fingers. 
 
 Galapa's are said to decorate their shells by carving and shaping them (similar to how a soft skinned species like Humans would get tattoos) or they could reinforce their shells with Armour. Their arms tend to be very thick. Damaged shells can be repaired and in roughly 10 years a heavily damaged shell regrows.
 

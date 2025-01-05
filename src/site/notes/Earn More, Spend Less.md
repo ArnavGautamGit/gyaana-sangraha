@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/Earn More, Spend Less/","tags":["Investing"]}
+{"dg-publish":true,"permalink":"/Earn More, Spend Less/","tags":["Investing","Finance"]}
 ---
 
 
 ---
 # Earn More, Spend Less
-> A phrase used to describe how to be richer and wealthier.
+> A phrase used to describe how to be richer and wealthier in life. A common denominator from all Finance-based Self-Help [[Books\|Books]].
 
-It is rumoured to be a Warren Buffet Quote, but I do not know if it actually is or not.
+The Principle is not to breed materialism, it is simply the following.
 Spending Less on the same salary as we work to increase our salary in the near future.
 
 ### How to Earn More?
@@ -33,19 +33,19 @@ Spending Less on the same salary as we work to increase our salary in the near f
 	1. breeds insecurity
 	2. breeds FOMO
 2. Focus on the present
-	1. Ab yahaan se aage kaise jaana hai ye dekho
-	2. Nikli hui train par focus mat karo
+	1. Focus on how to grow from the current situation.
+	2. Do not focus on the train which left station, focus on the next one coming.
 3. Prepare for big expenses
-	1. ***Vehicles***: 15 saal ki limit hai, apni, spouse ki aur baccho ke liye leni hongi, life mein 8-10 lene padenge. Agar abhi car chhoti hai toh 2nd aur 3rd aur badi honi chahiye.
-	2. ***Marriage***: Karja lene ki koi zarurat nahi hai, Parents se bolo ki venue se zyaada Gold aur Flats mein kharcha karein jisse aage chalke humaara faayda ho - Businessmen nahi hai jo badi statement dena zaruri hai.
+	1. ***Vehicles***: Cars can be used for a maximum of 15 years in most of the good parts of the country which means you will need 8-10 cars in a lifetime - a car for yourself, a car for your wife, kids etc.
+	2. ***Marriage***: No need to marry by taking loans, Tell your Parents that instead of massive venues and beautiful clothes, invest more in [[Physical Gold Purchases\|Physical Gold Purchases]] and Flats as gifts - We aren't Businessmen who need massive statements like lavish marriages for creating trust in the public.
 	3. ***House***: Best is to live with parents, you can easily afford housing, buy and get more houses to give them on rent and create a rental income from them.
 4. NEVER TAKE ANY LOAN EXCEPT MEDICAL OR HOUSE LOANS.
 5. NEVER USE ANY CREDIT CARDS (if important, set auto-payment).
 
 ### Some Major DON'Ts
-1. We never invest more than 20% of our potential in one asset
-2. We never invest in an asset where there is a chance of our money becoming zero.
-3. We never invest at the top
+1. We never invest more than 20% of our potential in one asset.
+2. We never invest in an asset where there is a chance of our money becoming zero i.e., [[Checking Asset Fundamentals\|Checking Asset Fundamentals]] is very important.
+3. We never invest at the top.
 4. We never trust anyone who claims to predict or time the market.
 
 ---

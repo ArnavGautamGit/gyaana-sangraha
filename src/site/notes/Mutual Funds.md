@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mutual Funds/","tags":["Investing"]}
+{"dg-publish":true,"permalink":"/Mutual Funds/","tags":["Investing","Finance"]}
 ---
 
 
@@ -39,3 +39,4 @@ There are two main paths to invest in Mutual Funds:
 
 ---
 # Footnotes
+1. Source: Labour Law Advisor Mutual Funds Playlist on Youtube

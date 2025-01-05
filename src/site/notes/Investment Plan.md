@@ -10,8 +10,8 @@
 Plans for investing must always be divided into sections according to risk and return profiles. It is widely known that Short-Term investing Strategies tend to be a high-risk high-reward endeavour and as the term length increases, risk decreases. [[Mutual Funds\|Mutual Funds]]
 
 ### Pre-requisites
-[[My Health Insurance\|My Health Insurance]]
-[[My Term Life Insurance\|My Term Life Insurance]]
+[[My Health Insurance\|My Health Insurance]] (private)
+[[My Term Life Insurance\|My Term Life Insurance]] (private)
 [[My Emergency Fund Plan\|My Emergency Fund Plan]] using Liquid Funds so withdrawal is fluid.
 
 ### The Actual Investment Plan

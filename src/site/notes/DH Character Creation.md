@@ -78,7 +78,7 @@ The Wizard has *School of Knowledge* and *School of War* as foundations.
 Heritage of Characters is based on combining the [[DH Species Ancestry\|DH Species Ancestry]] and the strata of society (reflected by [[DH Community Heritage\|DH Community Heritage]]) the character was born in.
 
 Choose one of both and then write them in your sheet as "Community Species".
-Example: "[[Highborne\|Highborne]] [[Human (DH)\|Human]]"
+Example: "[[DH Community Heritage#Highborne\|Highborne]] [[Human (DH)\|Human]]"
 
 ### Character Traits
 All the traits: [[Agility\|Agility]], [[Strength\|Strength]], [[Finesse\|Finesse]], [[Instinct\|Instinct]], [[Presence\|Presence]] and [[Knowledge\|Knowledge]] require to be given modifiers, there are no absolute scores - just modifiers.
@@ -105,7 +105,7 @@ These are small phrases or pieces of wisdom your character has accumulated that 
 ![DH Character Experiences.png](/img/user/Vaulted%20Images/DH%20Character%20Experiences.png)
 
 To use these Experiences, you will also have to describe how to the said experience helps you in the scenario. 
-You have to spend 1 [[Hope Token\|Hope Token]] to use 1 Experience - if the [[Game Master\|Game Master]] agrees with your experience being useful.
+You have to spend 1 [[Hope Token\|Hope Token]] to use 1 Experience - if the [[Game Master (GM)\|Game Master (GM)]] agrees with your experience being useful.
 
 You can add more experiences as you level up.
 

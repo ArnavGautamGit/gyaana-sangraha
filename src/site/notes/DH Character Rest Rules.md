@@ -11,7 +11,7 @@ Character Rests in [[Daggerheart\|Daggerheart]] are also governed by certain rul
 The Rules are as follows:
 1. Characters cannot take rest while in combat.
 2. Characters have to make a Downtime Move when resting.
-3. Characters can only make ONE Downtime Move unless an ability or feature allows you to make two.
+3. Characters can only make TWO Downtime Moves unless an ability or feature allows you to make two.
 4. Players have to describe each of their downtime moves.
 
 ### Downtime
@@ -24,9 +24,9 @@ The List of Downtime Player Moves are:
 4. ***Prepare***: You prepare for the oncoming path ahead and gain 1x [[Hope Token\|Hope Token]]. If you plan with one or more allies, each of you gains 2x [[Hope Token\|Hope Token]].
 
 The GM can also make Downtime Moves.
-If there is an event that the players need to rush to, the [[Game Master (GM)\|Game Master (GM)]] is suppose to have a short-term or long-term countdown.
-- In case of a Short Rest taken by the players, the GM gains 1x [[Fear Token\|Fear Token]] and can advance a long-term countdown by 1 tick. 
-- In case of a Long Rest taken by the players, the GM gains 2x [[Fear Token\|Fear Token]] and can advance a long-term countdown by 2 ticks.
+The [[Game Master (GM)\|Game Master (GM)]] is entitled to advance a relevant long-term countdown (if any).
+- In case of a Short Rest taken by the players, the GM gains [[Fear Token\|Fear Token]] equal to the result of a 1d4 dice roll. 
+- In case of a Long Rest taken by the players, the GM gains [[Fear Token\|Fear Token]] equal to the result of 1d4 dice roll + Total Number of Players.
 
 ---
 # Footnotes

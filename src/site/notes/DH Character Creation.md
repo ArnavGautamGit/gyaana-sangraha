@@ -8,15 +8,15 @@
 > This note describes the Character Creation process for a game of [[Daggerheart\|Daggerheart]] using a Digital or Paper-based Character Sheet.
 
 Things your character needs before completion:
-[[DH Character Creation#Character Class\|#Character Class]]
-[[DH Character Creation#Character Heritage\|#Character Heritage]]
-[[DH Character Creation#Character Traits\|#Character Traits]]
-[[DH Character Creation#Starting Equipment\|#Starting Equipment]]
-[[DH Character Creation#Additional Character Information\|#Additional Character Information]]
-[[DH Character Creation#Character Background\|#Character Background]]
-[[DH Character Creation#Character Experiences\|#Character Experiences]]
-[[DH Character Creation#Connections (Optional)\|#Connections (Optional)]]
-[[DH Character Creation#Domain Cards\|#Domain Cards]]
+[[DH Character Creation#Character Class\|Character Class]]
+[[DH Character Creation#Character Heritage\|Character Heritage]]
+[[DH Character Creation#Character Traits\|Character Traits]]
+[[DH Character Creation#Starting Equipment\|Starting Equipment]]
+[[DH Character Creation#Additional Character Information\|Additional Information]]
+[[DH Character Creation#Character Background\|Character Background (Backstory)]]
+[[DH Character Creation#Character Experiences\|Character Experiences]]
+[[DH Character Creation#Connections (Optional)\|Connections (Optional)]]
+[[DH Character Creation#Domain Cards\|Domain Cards]]
 
 ### Character Class
 Each Class has Class Foundations (Sub-classes) and all classes have two Domains that overlap among classes in a circular fashion. When creating a character, the player needs to select one of the given Class Foundations and a number of Domain Cards (calculated from their character level). 
@@ -84,17 +84,18 @@ Example: "[[DH Community Heritage#Highborne\|Highborne]] [[Human (DH)\|Human]]"
 All the traits: [[Agility\|Agility]], [[Strength\|Strength]], [[Finesse\|Finesse]], [[Instinct\|Instinct]], [[Presence\|Presence]] and [[Knowledge\|Knowledge]] require to be given modifiers, there are no absolute scores - just modifiers.
 
 Modifiers are assigned from the standard array of: +2, +1, +1, 0, 0, -1.
-Any of the numbers can be assigned to any of the traits. So, one of the traits must be having +2, two must be +1 each, two must be 0 each and one must be -1. Any trait can be given any modifier, some players may like +2 strength, others may like -1, its okay.
+Any of the numbers can be assigned to any of the traits. 
+So, one of the traits must be +2, two must be +1 each and one must be -1 and the remaining others are 0. Any trait can be given any modifier, some players may like +2 strength, others may like -1 totally depends on player preference and the class they want to use.
 
 ### Starting Equipment
-At the start of the game, each character can choose their character's armour type, primary weapon & an optional secondary weapon
+At the start of the game, each character can choose their character's armour type, primary weapon & an optional secondary weapon.
 
-Armour Type will affect the [[Armour Score\|Armour Score]], [[Armour Slots\|Armour Slots]] and also depending upon how bulky the chosen armourset is, it may also change the [[Evasion Score\|Evasion Score]]. Armour Slots dictate how many times you can subtract the Armour Score from the incoming damage to make it lower than the current threshold and lose less [[Hit Point Slots\|Hit Point Slots]].
+Armour Type will affect the total number of [[Armour Slots\|Armour Slots]] and also depending upon how bulky the chosen armourset is, it may also change the [[Evasion Score\|Evasion Score]]. Only one Armour Slot can be used against an attack. The use of Armour immediately reduces damage to a lower damage threshold.
 
-Weapons may (and generally do) have special features that alter the traits so be sure to update the values! It is advised to write your [[Armour Score\|Armour Score]] 
+Weapons may (and generally do) have special features that alter the [[DH Character Creation#Character Traits\|Traits]] so be sure to update the values! It is advised to write your [[Armour Score\|Armour Score]] and [[Evasion Score\|Evasion Score]] last since Armour Scores can changed based on [[DH Character Creation#Character Class\|Character Class and Subclass]].
 
 ### Additional Character Information
-Now is the time to calculate your [[Evasion Score\|Evasion Score]]! Starting Evasion Score is different from Class to Class and you can easily add or subtract any modifiers from armour or weapons into your evasion score.
+Now is the time to finalise your [[Evasion Score\|Evasion Score]]! Starting Evasion Score is different from Class to Class and you can easily add or subtract any modifiers from armour or weapons into your evasion score.
 
 ### Character Background
 Create and Add a Character Backstory - please give this to your DM as well so they can use it to craft the story with parts of your character's story as a [[Plot Twist\|twist]] or test. There are a few Background Questions that are included in the sheet and may aid you in Backstory Creation or add to the Bakstory.

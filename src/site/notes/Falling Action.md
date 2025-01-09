@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Falling Action/","tags":["CompSci","Literature"]}
+{"dg-publish":true,"permalink":"/Falling Action/","tags":["Academics","Literature"]}
 ---
 
 

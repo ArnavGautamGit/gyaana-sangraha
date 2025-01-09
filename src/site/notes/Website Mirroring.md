@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Website Mirroring/","tags":["CompSci","CyberSec","EthHack"]}
+{"dg-publish":true,"permalink":"/Website Mirroring/","tags":["Academics","CyberSec","EthHack"]}
 ---
 
 

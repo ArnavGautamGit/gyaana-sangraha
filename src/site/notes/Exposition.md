@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exposition/","tags":["CompSci","Literature"]}
+{"dg-publish":true,"permalink":"/Exposition/","tags":["Academics","Literature"]}
 ---
 
 

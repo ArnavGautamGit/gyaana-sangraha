@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hashing/","tags":["CompSci","CyberSec","Mathematics"]}
+{"dg-publish":true,"permalink":"/Hashing/","tags":["Academics","CyberSec","Mathematics"]}
 ---
 
 

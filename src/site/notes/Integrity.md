@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Integrity/","tags":["CompSci","CyberSec"]}
+{"dg-publish":true,"permalink":"/Integrity/","tags":["CyberSec","Academics"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Keyed Encryption/","tags":["CompSci","CyberSec"]}
+{"dg-publish":true,"permalink":"/Keyed Encryption/","tags":["Academics","CyberSec"]}
 ---
 
 

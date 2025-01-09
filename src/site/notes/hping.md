@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hping/","tags":["CompSci","CyberSec","CompNet","EthHack"]}
+{"dg-publish":true,"permalink":"/hping/","tags":["Academics","CyberSec","CompNet","EthHack"]}
 ---
 
 

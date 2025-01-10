@@ -5,7 +5,7 @@
 
 ---
 # Planning Phase of Productivity
-> A phase of productivity as explained in [[Attack Mode (Course)\|Attack Mode (Course)]].
+> A phase of productivity as explained in [[Attack Mode\|Attack Mode]].
 
 
 

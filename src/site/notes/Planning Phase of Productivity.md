@@ -5,7 +5,7 @@
 
 ---
 # Planning Phase of Productivity
-> A phase of productivity as explained in [[Attack Mode\|Attack Mode]].
+> A phase of productivity as explained in [[Attack Mode (Course)\|Attack Mode (Course)]].
 
 The Technique is simple. Repeatable Tasks that repeat for a certain frequency and you don't work on intensity or energy levels.
 

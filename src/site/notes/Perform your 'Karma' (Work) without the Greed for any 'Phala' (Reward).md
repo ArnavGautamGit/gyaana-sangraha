@@ -15,7 +15,7 @@ Moreover, when the person performs work with an expectation of reward in their m
 
 This is the reason that Krishna also says in the [[Shrimad-Bhagavad Gītā\|Shrimad-Bhagavad Gītā]] that "Expectation is the biggest cause for sorrow".
 
-In [[Attack Mode\|Attack Mode]], Shwetabh Gangwar argues that when the motivation for work is as selfish as a personal reward and happiness it tends to drive people towards pleasures, addictions and distractions (since they also release Dopamine and give us momentary happiness). 
+In [[Attack Mode (Course)\|Attack Mode (Course)]], Shwetabh Gangwar argues that when the motivation for work is as selfish as a personal reward and happiness it tends to drive people towards pleasures, addictions and distractions (since they also release Dopamine and give us momentary happiness). 
 He suggests to use an external source of motivation bigger than the individual seeking motivation. It could be the sense of nationalism in the individual, their faith in God or an attachment to creating/protecting their own Legacy which can drive them to strive to be better.
 
 ---

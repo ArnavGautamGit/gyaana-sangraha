@@ -18,8 +18,6 @@ Everything learnt from this course is documented here in this note.
 [[Fix not Fixate\|Fix not Fixate]] 
 [[Growth Mindset\|Growth Mindset]]
 [[Planning Phase of Productivity\|Planning Phase of Productivity]]
-
-
 [[Regions of Improvement\|Regions of Improvement]] (Classified)
 
 ### Exercises shared in the Course
@@ -28,6 +26,12 @@ The Answers are personal. Hence not uploaded online.
 [[Critical Thinking Exercise (EX2)\|Critical Thinking Exercise (EX2)]] 
 [[Practice Retreival Exercise (EX3)\|Practice Retreival Exercise (EX3)]] 
 [[Trash Your Plans\|Trash Your Plans]] is my summary of the chapter as demanded in EX4.
+
+### Templates shared in the Course
+[[NEW ME\|NEW ME]]
+[[Vault Templates/Logical Problem-Solving Template\|Logical Problem-Solving Template]] (could not share, due to technical reason)
+[[Emotional Problem-Solving Template\|Emotional Problem-Solving Template]] (could not share, due to technical reason)
+
 
 ---
 # Footnotes

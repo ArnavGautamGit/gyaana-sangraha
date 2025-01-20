@@ -15,16 +15,18 @@ Basic stuff. Refer to slides for details.
 
 ### Classification of Cyber Crimes
 Cyber Crimes can be classified into 3 types based on the target of the crime.
-1. Cybercrime against Individuals: [[Cyber Stalking\|Cyber Stalking]], [[Cyber Trafficking\|Cyber Trafficking]], [[Cyber Grooming\|Cyber Grooming]].
-2. Cybercrime against Property: [[Phishing\|Phishing]] and Bank Account Hacking, Email Hacking etc.
-3. Cybercrime against Nations: [[Cyber Terrorism\|Cyber Terrorism]].
+1. ***Cybercrime against Individuals***: [[Cyber Stalking\|Cyber Stalking]], [[Cyber Trafficking\|Cyber Trafficking]], [[Cyber Grooming\|Cyber Grooming]].
+2. ***Cybercrime against Property***: [[Phishing\|Phishing]] and Bank Account Hacking, Email Hacking etc.
+3. ***Cybercrime against Nations***: [[Cyber Terrorism\|Cyber Terrorism]].
 
 ### Motivations behind Cyber Crimes
-1. Information Theft
-2. Intelluctual Challenge
-3. Revenge
-4. Sexual Gratification or Stalking
+See [[Motives of Hackers\|Motives of Hackers]].
+1. Information or Data Theft
+2. Intelluctual Challenge - checking if they can crack a particular site.
+3. Revenge - Acting against someone who wronged them.
+4. Stalking or Harassing a person when they reject the hacker.
 5. Economic or Political Reasons.
+
 
 ### Handling & Reporting Cyber Crimes
 When you feel there is Cyber Crime that is being committed against you, stop interacting with the said person, take screenshots of the conversation & get them printed out in a hard copy format.  Hard Copy Screenshots are preferred when filing a Police Report because Soft Copy Screenshots can be edited in the days between the filing of the Police Report & the court hearing.

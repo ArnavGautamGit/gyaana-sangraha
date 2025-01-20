@@ -12,6 +12,7 @@ The Subject is taught by Professor Anshul Singh ma'am. She is a new joinee this 
 ### Syllabus
 - [[Digital Forensics\|Digital Forensics]]
 - [[Cyber Crime\|Cyber Crime]]
+- [[Methods & Tools in Cyber Crime\|Methods & Tools in Cyber Crime]]
 - 
 
 ---

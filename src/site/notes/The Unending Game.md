@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/The Unending Game/","tags":["politics","Espionage"]}
+{"dg-publish":true,"permalink":"/The Unending Game/","tags":["Espionage"]}
 ---
 
 ---

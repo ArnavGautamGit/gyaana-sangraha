@@ -25,13 +25,26 @@ The Answers are personal. Hence not uploaded online.
 [[Introspection Exercise (EX1)\|Introspection Exercise (EX1)]] 
 [[Critical Thinking Exercise (EX2)\|Critical Thinking Exercise (EX2)]] 
 [[Practice Retreival Exercise (EX3)\|Practice Retreival Exercise (EX3)]] 
-[[Trash Your Plans\|Trash Your Plans]] is my summary of the chapter as demanded in EX4.
+and others were also there which are not mentioned here.
 
 ### Templates shared in the Course
-[[NEW ME\|NEW ME]]
-[[Vault Templates/Logical Problem-Solving Template\|Logical Problem-Solving Template]] (could not share, due to technical reason)
-[[Emotional Problem-Solving Template\|Emotional Problem-Solving Template]] (could not share, due to technical reason)
+["NEW ME" Notion Template](https://crystal-position-63c.notion.site/NEW-ME-2697c303e0284712a9ea6bea022f56bd)
+[Problem Solving Notion Template](https://crystal-position-63c.notion.site/Problem-Solving-b5aed05cb80b4ac8bc800f187b280452)
+[When you mess up see this template](https://crystal-position-63c.notion.site/Script-When-you-mess-up-e10845ffec554a8b93c64607b6c30984)
+["Become Powerful" Notion Template](https://crystal-position-63c.notion.site/Power-System-90d4136d03d34f98a735929b730fecf7) (the bullet points in red could be any goals)
+["Deadline is God" Notion Template](https://crystal-position-63c.notion.site/GOD-Deadlines-0fdb872758324a19a1db962e07b2e635)
+[Goal Setting & Nuking Notion Template](https://crystal-position-63c.notion.site/Nuke-xyz-f3986233c4c746b8a36d60a213b591a8) (uses a Countdown Widget)
+[Nuclear System Notion Template](https://crystal-position-63c.notion.site/Nuclear-System-189a0de810584863a6d4f2d656a0eb90) (upgrade of "Become Powerful" Template)
+[Daily Task Management Notion Template](https://crystal-position-63c.notion.site/Nuke-Today-b9b63ff431114fd082c649f84ad293f8) (Known as "Nuke Today")
 
+
+Personal Variants of the Templates are listed below.
+These are personalised versions of Notion Templates above so that they work in Obsidian. (I don't use Notion)
+Not giving them online anymore due to Privacy Concerns.
+[[NEW ME\|NEW ME]]
+[[Vault Templates/Logical Problem-Solving Template\|Logical Problem-Solving Template]]
+[[Emotional Problem-Solving Template\|Emotional Problem-Solving Template]]
+[[Nuclear Goal-Tracking System\|Nuclear Goal-Tracking System]]
 
 ---
 # Footnotes

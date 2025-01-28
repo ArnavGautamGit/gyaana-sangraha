@@ -36,7 +36,7 @@ The Tasks that are repeated at a Frequency, check Tasks App. Some of the tasks a
 ### Progress
 Each Day has a Score. The Score for a day is calculated by the following Formula:
 $$\Large Score =\dfrac{Task \ Done}{Total \ Tasks}$$
-After the Score is Determined, we assign a Rating to the day as a number between 1-5.
+After the Score is Determined, we assign a Rating to the day as a number from 1-5.
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
 | Day    | Score | Rating (1-5) |

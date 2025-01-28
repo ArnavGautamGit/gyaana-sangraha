@@ -37,10 +37,8 @@ and others were also there which are not mentioned here.
 [Nuclear System Notion Template](https://crystal-position-63c.notion.site/Nuclear-System-189a0de810584863a6d4f2d656a0eb90) (upgrade of "Become Powerful" Template)
 [Daily Task Management Notion Template](https://crystal-position-63c.notion.site/Nuke-Today-b9b63ff431114fd082c649f84ad293f8) (Known as "Nuke Today")
 
-
-Personal Variants of the Templates are listed below.
-These are personalised versions of Notion Templates above so that they work in Obsidian. (I don't use Notion)
-Not giving them online anymore due to Privacy Concerns.
+### My Templates
+I don't use Notion so I made personalised versions of Notion Templates above so that they work in Obsidian. Only giving away ONE due to Privacy Concerns.
 [[NEW ME\|NEW ME]]
 [[Vault Templates/Logical Problem-Solving Template\|Logical Problem-Solving Template]]
 [[Emotional Problem-Solving Template\|Emotional Problem-Solving Template]]

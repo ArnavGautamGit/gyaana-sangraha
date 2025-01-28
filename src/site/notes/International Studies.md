@@ -23,6 +23,8 @@ The Subject is taught by the new Guest Lecturer, Mr. George Kutty. He is origina
 	- [[Idealism\|Idealism]]
 	- [[Realism\|Realism]]
 	- [[Neo-Realism\|Neo-Realism]]
+- [[National Power\|National Power]]
+- [[National Interest\|National Interest]]
 
 
 ---

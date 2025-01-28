@@ -44,7 +44,7 @@ Not giving them online anymore due to Privacy Concerns.
 [[NEW ME\|NEW ME]]
 [[Vault Templates/Logical Problem-Solving Template\|Logical Problem-Solving Template]]
 [[Emotional Problem-Solving Template\|Emotional Problem-Solving Template]]
-[[Nuclear Goal-Tracking System\|Nuclear Goal-Tracking System]]
+[[Nuclear Mode's Goal-Tracking System\|Nuclear Mode's Goal-Tracking System]]
 
 ---
 # Footnotes

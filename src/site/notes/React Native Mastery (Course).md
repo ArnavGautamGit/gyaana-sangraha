@@ -12,6 +12,7 @@ Developing 10 Apps is very intense.
 
 ### Notes from the Course
 [[React Native Installation Guide\|React Native Installation Guide]]
+[[First App Setup\|First App Setup]]
 
 
 ---

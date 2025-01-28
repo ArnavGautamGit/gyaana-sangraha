@@ -19,5 +19,11 @@ Case Study List:
 4. ***Doxware Ransomware***: Threatens to publically release any sensitive documents found on the infected device.
 5. ***Ransomware-as-a-Service (RaaS)***: A business model based around selling Ransomware Kits to hackers for launching attacks. Especially dangerous since it allows low-skilled Hackers and [[Script-Kiddies\|Script-Kiddies]] to inflict heavy damage.
 
+### Mode of Infection
+1. Via [[Phishing\|Phishing]] using [[Trojan Horse (Malware)\|Trojan]] links and files embedded in emails, SMS or Social Media messages acting as a downloader which downloads the Ransomware.
+2. Via Exploiting Security [[Cyber Security Terminology#Vulnerabilities\|Vulnerabilities]] in Software.
+3. Via leveraging [[Drive-by Downloads\|Drive-by Downloads]].
+4. Using [[CSRF Attack\|CSRF Techniques]] to redirect Traffic towards mallicious websites which steal data.
+
 ---
 # Footnotes

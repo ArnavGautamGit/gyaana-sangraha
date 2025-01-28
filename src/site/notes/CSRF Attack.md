@@ -5,7 +5,8 @@
 
 ---
 # Cross-Site Request Forgery (CSRF) Attack
-CSRF is an attack which involves duping an end user into performing unwanted tasks on a website they are currently logged/authenticated in.
+> An attack which involves duping an end user into performing unwanted tasks on a website they are currently logged/authenticated in.
+
 With the help of [[Social Engineering\|Social Engineering]] and [[Phishing\|Phishing]], one can easily make the user perform actions of the attacker's choosing (such as: clicking on a link that was sent to them via email or someplace else)
 
 A Successful Attack can compromise user data and the website as well (since the attacker can easily change the account password and linked email/phone/both). Although it is hard to do for the reason that most places would confirm such steps with Multi-Factor Authentication that includes signature and face-2-face authorisation.
@@ -23,7 +24,7 @@ Basically, the attacker aims to perform a [[Session Hijacking\|Session Hijacking
 On this Website, the user is asked to enter their credidentials like UserID, Password among any other possibly required credidentials or CAPTCHA & if the attacker's goal is [[Session Spoofing\|Session Spoofing]] or [[Identity Theft\|Identity Theft]] then the clone website either stores these credidentials or has a bot which enters these credidentials into the actual website's login page to login as the legitimate user and get the account for themselves by changing the password and the recovery email. In other cases, if the goal is [[Session Hijacking\|Session Hijacking]], then these credidentials are used to conduct ONE specific command. (like transfer of money) 
 
 ---
-# How is CSRF used with Phishing to fool Bank Account Owners?
+# How is CSRF combined with Phishing to steal from Bank Accounts?
 1. The Attacker forges a request for a fund transfer to some website i.e., the request is fake and the money is going to attacker's account.
 2. Attacker embeds the hyperlink into a message that is sent to users who may be logged in.
 3. Visitor clicks on the link being diverted to the payment gateway of the "website".

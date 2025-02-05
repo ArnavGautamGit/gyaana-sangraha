@@ -17,7 +17,7 @@ The Combat is decribed in [[DH Combat Rules\|DH Combat Rules]].
 There are specific rules for Character Death in [[Daggerheart#Character Death\|DH Character Death Rules]].
 There are also no shortage of mechanics for [[DH Character Rest Rules\|DH Character Rest Rules]].
 
-Checking if an attack hits or not is checked via the 2d12 [[Duality Dice\|Duality Dice]] instead of the classic d20, there are other concepts like [[Hit Point Slots\|Hit Point Slots]] which are fixed for each character (unless increased by taking a specific Class or Foundation) while the characters can spend or mark off [[Armour Slots\|Armour Slots]] to avoid taking damage to their Hit Points and possibly dying. 
+Checking if an attack hits or not is checked via the 2d12 [[Duality Dice\|Duality Dice]] instead of the classic d20, there are other concepts like [[Hit Point Slots\|Hit Point Slots]] which are fixed for each character (unless increased by taking a specific Class or Foundation) while the characters can spend or mark off [[Armour Slots\|Armour Slots]] to avoid taking as much damage to their Hit Points and possibly dying. 
 
 Advantage and Disadvantage is marked using a d6 dice along with the 2d12, if the player has an Advantage on a roll, add the d6 value. If the player has Disadvantage, subtract the d6 value.
 

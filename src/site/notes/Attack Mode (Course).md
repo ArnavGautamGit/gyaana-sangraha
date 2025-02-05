@@ -38,7 +38,7 @@ and others were also there which are not mentioned here.
 [Daily Task Management Notion Template](https://crystal-position-63c.notion.site/Nuke-Today-b9b63ff431114fd082c649f84ad293f8) (Known as "Nuke Today")
 
 ### My Templates
-I don't use Notion so I made personalised versions of Notion Templates above so that they work in Obsidian. Only giving away ONE due to Privacy Concerns.
+I don't use Notion so I made personalised versions of Notion Templates above so that they work in Obsidian. Only giving away ONE publically due to Privacy Concerns os sharing potentially private information publically.
 [[NEW ME\|NEW ME]]
 [[Vault Templates/Logical Problem-Solving Template\|Logical Problem-Solving Template]]
 [[Emotional Problem-Solving Template\|Emotional Problem-Solving Template]]

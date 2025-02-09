@@ -39,15 +39,15 @@ $$\Large Score =\dfrac{Task \ Done}{Total \ Tasks}$$
 After the Score is Determined, we assign a Rating to the day as a number from 1-5.
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day    | Score | Rating (1-5) | Notes                                              |
-| ------ | ----- | ------------ | -------------------------------------------------- |
-| Mond   | 2/2   | 4            | Doomscrolled too much                              |
-| Tuesd  | 0/2   | 2            | Had ample time despite feeling head & stomach ache |
-| Wedn   |       |              |                                                    |
-| Thurs  |       |              |                                                    |
-| Friday |       |              |                                                    |
-| Satur  |       |              |                                                    |
-| Sund   |       |              |                                                    |
+| Day    | Score | Rating (1-5) | Notes                                                |
+| ------ | ----- | ------------ | ---------------------------------------------------- |
+| Mond   | 2/2   | 4            | Doomscrolled too much                                |
+| Tuesd  | 0/2   | 2            | Had ample time despite feeling head & stomach ache   |
+| Wedn   | 2/2   | 4            | Got everything done & did stuff well                 |
+| Thurs  | Nil   | Nil          | Travelling to Rishikesh for attending wedding        |
+| Friday | Nil   | Nil          | Wedding Day                                          |
+| Satur  | Nil   | Nil          | Travelling back home from Rishikesh via Harki Paudi. |
+| Sund   |       |              |                                                      |
 
 
 | Week      | Weekly Rating | Notes                |

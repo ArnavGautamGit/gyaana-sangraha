@@ -5,7 +5,7 @@
 
 ---
 # Unmanned Aerial Vehicles (UAVs)
-> Refers to remotely piloted or completely autonomous flying vehicles which may emulate Helicopters or Planes in design.
+> Refers to remotely piloted or completely autonomous flying vehicles which may emulate Helicopters or Planes in design. Also called "Unmanned Aircraft Systems" or "UAS" in some countries like India. See [[Indian Drone Laws\|Indian Drone Laws]].
 
 Unlike popular belief & also unlike the reasoning of Janardhan sir, the word unmanned does not always mean autonomous here.
 Most of the time, there are humans that are giving the control inputs. Its called "unmanned" because there is no pilot physically sitting in any cockpit inside the vehicle.
@@ -15,8 +15,11 @@ UAVs are considered revolutionary because wars can take place without risking as
 ### Classification of UAVs
 UAVs can be classified on the basis of the following criteria:
 - Usecase (Civilian or Military)
+	- Civilian UAVs are used for Surveys & Deliveries
+	- Military UAVs are used for Patrolling & Bombing
 - Design (Fixed Wing or Multi-Rotor)
 - Propulsion (Electric or Fossil Fuel)
+- Weight (Nano to Large)
 
 ### Components of UAVs
 Many controllers such as [[PID Controller\|PID Controller]] and [[Kalman Filter\|Kalman Filter]] (which has subtypes such as [[Extended Kalman Filter\|Extended Kalman Filter]] among others).

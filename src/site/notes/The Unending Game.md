@@ -10,7 +10,9 @@ The book is basically the account of an ex-R&AW chief about how the organisation
 These are the main notes. There may be further branching from these notes.
 [[Project 706\|Project 706]]
 [[Intelligence (Espionage)\|Intelligence (Espionage)]]
+[[Strategic Intelligence\|Strategic Intelligence]]
 [[Transitioning between targets is not easy\|Transitioning between targets is not easy]]
 [[The Risk taken by Intelligence Agencies\|The Risk taken by Intelligence Agencies]]
 [[Success in Espionage\|Success in Espionage]]
 [[The Ideal Spy\|The Ideal Spy]]
+[[Mass-Surveillance\|Mass-Surveillance]]

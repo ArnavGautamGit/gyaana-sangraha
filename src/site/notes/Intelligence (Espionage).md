@@ -18,11 +18,9 @@ In my words - according to what I have studied, Intelligence is the secret colle
 
 ---
 # Why Intelligence is collected?
-Basic Purpose of collecting intelligence is to keep a know-how of what is happening around us and that no threat comes as a surprise to the government. In addition, it is preferred if the Government is able to have advanced knowledge of how to deal with the said threat.
+To keep a know-how of what is happening around us and that no threat comes as a surprise to the government. In addition, it is preferred if the Government is able to have advanced knowledge of how to deal with the said threat.
 
-Intelligence is collected by specific agencies on the behalf of the government. It is imperitive to note that certain countries may have separate agencies for internal and external threats, while other countries may not.
-
-The agency may itself become a threat if it starts to take independent decisions about which government is better or which person should become the next PM/President.
+The agency gathering Intelligence may itself become a threat to the Government if it starts to take independent decisions about which government is better or which person should become the next PM/President.
 
 ---
 # Desirable form of Intelligence - Strategic Intel
@@ -35,7 +33,7 @@ See Also:
 [[Types of HUMINT sources\|Types of HUMINT sources]]
 
 ---
-# Types of Intelligence (based on Sources)
+# Classification of Intelligence (based on Sources)
 There are different types of Intelligence that are classified on the basis of the source of the Intel.
 1. [[Human Intelligence (HUMINT)\|Human Intelligence (HUMINT)]]
 2. [[Signal Intelligence (SIGINT)\|Signal Intelligence (SIGINT)]]

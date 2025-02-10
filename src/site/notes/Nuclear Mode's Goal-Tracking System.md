@@ -47,12 +47,12 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | Thurs  | Nil   | Nil          | Travelling to Rishikesh for attending wedding        |
 | Friday | Nil   | Nil          | Wedding Day                                          |
 | Satur  | Nil   | Nil          | Travelling back home from Rishikesh via Harki Paudi. |
-| Sund   |       |              |                                                      |
+| Sund   | 0/1   | 1            | Too Long Breaks. Unable to re-adjust to hard work    |
 
 
 | Week      | Weekly Rating | Notes                |
 | --------- | ------------- | -------------------- |
-| 3-9 Feb   |               | Another Wedding      |
+| 3-9 Feb   | 2.75          | Another Wedding      |
 | 10-16 Feb |               | Birthday + Exam Week |
 | 17-24 Feb |               |                      |
 | 25-31 Feb |               |                      |

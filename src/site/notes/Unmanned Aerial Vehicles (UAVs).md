@@ -5,10 +5,11 @@
 
 ---
 # Unmanned Aerial Vehicles (UAVs)
-> Refers to remotely piloted or completely autonomous flying vehicles which may emulate Helicopters or Planes in design. Also called "Unmanned Aircraft Systems" or "UAS" in some countries like India. See [[Indian Drone Laws\|Indian Drone Laws]].
+> Refers to remotely piloted or completely autonomous flying vehicles which may emulate Helicopters or Planes in some aspects of their design. 
+> Also called "*Unmanned Aircraft Systems*" or "*Remotely Piloted Vehicles*" in some countries.
 
 Unlike popular belief & also unlike the reasoning of Janardhan sir when teaching [[Unmanned Aerial Vehicles (Subject)\|the Subject]], the word unmanned does not always mean autonomous here.
-Most of the time, there are humans that are giving the control inputs. Its called "unmanned" because there is no pilot physically sitting in any cockpit inside the vehicle.
+Most of the time, there are humans that are giving the control inputs. Its called "unmanned" because there is no pilot physically sitting in any cockpit inside the vehicle which is why the term  is also popular.
 
 UAVs are considered revolutionary because wars can take place without risking as many human lives with equipmet which can be manufactured for much cheaper. They have now an increased role outside of just Patrolling and Scouting, UAS are now a popular choice for Air-to-Ground Strikes, [[Reconnaissance\|Reconnaissance]] and [[Intelligence (Espionage)\|Intelligence (Espionage)]].
 
@@ -57,7 +58,7 @@ The Detailed Design Process involves a series of questions in a flowchart which 
 There are some basic components such as [[Landing Gear (LG)\|Landing Gear (LG)]], Wings, Fuselage among others. These Basic Components are listed here:
 ![UAV Basic Components.png](/img/user/Vaulted%20Images/UAV%20Basic%20Components.png)
 
-Many controllers such as [[PID Controller\|PID Controller]] and [[Kalman Filter\|Kalman Filter]] (which has subtypes such as [[Extended Kalman Filter\|Extended Kalman Filter]] among others).
+Many controllers such as [[PID Controller\|PID Controller]] and [[Kalman Filter\|Kalman Filter]] (which has subtypes such as [[Extended Kalman Filter\|Extended Kalman Filter]] among others) are also required for fine-tuning the flight controls.
 
 ---
 # Footnotes

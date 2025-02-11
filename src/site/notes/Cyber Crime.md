@@ -15,13 +15,13 @@ Basic stuff. Refer to slides for details.
 
 ### Classification of Cyber Crimes
 Cyber Crimes can be classified into 3 types based on the target of the crime.
-1. ***Cybercrime against Individuals***: [[Cyber Stalking\|Cyber Stalking]], [[Cyber Trafficking\|Cyber Trafficking]], [[Cyber Grooming\|Cyber Grooming]].
-2. ***Cybercrime against Property***: [[Phishing\|Phishing]] and Bank Account Hacking, Email Hacking etc.
+1. ***Cybercrime against Individuals***: [[Cyber Stalking\|Cyber Stalking]], [[Cyber Grooming\|Cyber Grooming]] etc.
+2. ***Cybercrime against Property***: [[Phishing\|Phishing]], [[CSRF Attack#How is CSRF combined with Phishing to steal from Bank Accounts?\|Bank Account]] & Email Hacking etc.
 3. ***Cybercrime against Nations***: [[Cyber Terrorism\|Cyber Terrorism]].
 
 ### Challenges in punishing Cyber Criminals
-Due to Internet bewing global, it is only natural extension of logic that ***==Cyber Crime is similarly Global in Nature== making it difficult to Track Criminals*** since they can attack any system or network from anywhere in the world at any time of day. 
-Due to differing definitions of Cyber Crime throughout the World, it is ***very hard to initiate or maintain Internation Cooperation since there is no singular Internationally-accepted Legal Definition or International Judiciary which could settle such matters***. The Legal & Cybersecurity System is biased towards [[Outsider Attacks\|Outsider Attacks]] which is why many [[Insider Attacks\|Insider Attacks]] are successful these days. 
+Due to Internet being global, it is only natural extension of logic that ***==Cyber Crime is similarly Global in Nature== making it difficult to Track Criminals*** since they can attack any system or network from anywhere in the world at any time of day. 
+Due to differing definitions of Cyber Crime throughout the World, it is ***very hard to initiate or maintain International Cooperation since there is no singular Internationally-accepted Legal Definition which could help settle such matters***. The Legal & Cybersecurity System is biased towards preventing [[Outsider Attacks\|Outsider Attacks]] which is why many [[Insider Attacks\|Insider Attacks]] are successful these days. 
 
 ### Motivations & Methods behind Cyber Crimes
 Motivations are given in:[[Motives of Hackers\|Motives of Hackers]].

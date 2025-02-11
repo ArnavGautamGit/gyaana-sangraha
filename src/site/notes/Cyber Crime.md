@@ -10,7 +10,7 @@
 In the course [[Digital Forensics and Cyber Laws\|Digital Forensics and Cyber Laws]], we are taught Digital Forensics and Laws regarding the same. We only cover the [[Cyber Crime#History of Cyber Crimes\|History]] and [[Cyber Crime#Classification of Cyber Crimes\|Classification]]. We already know that the [[Motives of Hackers\|motivation]] is the same as other kinds of lesser Cyber Criminals like hackers.
 
 ### History of Cyber Crimes
-We wewre taught how the earliest Cyber Crimes like the [[USA Free Calling\|USA Free Calling]] and [[Call System Hacking\|Call System Hacking]] were done and how.
+We were taught how the earliest Cyber Crimes like the [[USA Free Calling\|USA Free Calling]] and [[Call System Hacking\|Call System Hacking]] were done and how.
 Basic stuff. Refer to slides for details.
 
 ### Classification of Cyber Crimes

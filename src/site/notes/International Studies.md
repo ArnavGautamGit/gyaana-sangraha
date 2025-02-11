@@ -14,7 +14,7 @@ The Subject is taught by the new Guest Lecturer, Mr. George Kutty. He is origina
 ### Syllabus
 - [[State (United Nations)\|State (United Nations)]]
 - [[Theoretical Idea of a Nation\|Theoretical Idea of a Nation]] (includes how it is different from State)
-- [[Regional Frameworks in Geopolitics\|Regional Frameworks in Geopolitics]] (and why they are made)
+- [[Regional Economic Frameworks in Geopolitics\|Regional Economic Frameworks in Geopolitics]] (and why they are made)
 	- [[South Asian Association for Regional Cooperation (SAARC)\|South Asian Association for Regional Cooperation (SAARC)]]
 	- [[Association of South East Asian Nations (ASEAN)\|Association of South East Asian Nations (ASEAN)]]
 	- [[European Union (EU)\|European Union (EU)]]
@@ -25,8 +25,8 @@ The Subject is taught by the new Guest Lecturer, Mr. George Kutty. He is origina
 	- [[Neo-Realism\|Neo-Realism]]
 - [[National Power\|National Power]]
 - [[National Interest\|National Interest]]
-- [[National Security\|National Security]]
 - [[Balance Of Power\|Balance Of Power]]
+- [[Collective Security\|Collective Security]]
 
 
 ---

@@ -14,7 +14,7 @@ The Comparison between the two is very simple and straight forward. I compared t
 ### Habitica
 ✅ Offers a segregated list of To-Do, Recurring Tasks (branded as *Dailies*) and Habits.
 ✅ Offers users a way to reward themselves with custom rewards when they do well.
-✅ Unchecked Recurring Tasks (*Dailies*) get cancelled.
+✅ Unchecked Recurring Tasks (*Dailies*) get cancelled & reduce health (consequence).
 ✅ Allows teaming up with friends for accountability partnerships.
 ✅ Easy to use for a new user due to easily available tutorials.
 🟰 Cross-Platform. Can be used both on phone and PC. (matter of preference)
@@ -28,10 +28,13 @@ The Comparison between the two is very simple and straight forward. I compared t
 ✅ Syncs with Google Calendar and other Digital Calendars.
 ✅ Cleaner Interface (due to no gamified stats to showcase).
 ✅ One-hand friendly since the UI elements are mostly at the bottom of the screen.
-✅ Natively allows priority based sorting.
+✅ Natively allows priority-based sorting since all tasks have priority rating.
+✅ Specific List named "Today" allows checking all the tasks for THAT day.
+✅ More advanced & fine-tuned settings available.
 🟰 Better Security (all your data on one device, if you prefer that).
-❌ Recurring Tasks cannot be marked "missed", if you don't do them, they persist.
-❌ Tags (in this app) are useless.
+❌ Recurring Tasks (*Dailies*) cannot be marked "missed" (no consequence).
+❌ Tags (in this app) are useless if lists are segregated.
+❌ No option for ANY rewards.
 ❌ Multiple lists confuses a new user.
 ❌ No available tutorials on YouTube. (or not as many as Habitica - which itself is small)
 

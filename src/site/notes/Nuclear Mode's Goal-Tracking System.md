@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Nuclear Mode's Goal-Tracking System/"}
+{"dg-publish":true,"permalink":"/Nuclear Mode's Goal-Tracking System/","tags":["Productivity"]}
 ---
 
 
@@ -32,6 +32,10 @@ The List of Goals you want to achieve:
 ### Daily Tasks
 The Tasks that are repeated at a Frequency, check Tasks App. Some of the tasks could be stuff like: Completing College Notes and Learning from the React Native Course.
 
+All one needs is to find a way to stay accountable to the goals & tasks for the day. Since it is an era of technology, one needs an app to keep them accountable and often gamification of productivity is a good way of staying accountable. 
+So there is a big clash between Habitica (representing gamified productivity) and Tasks.org App (representing serious productivity).
+[[Habitica App vs Tasks App (Productivity)\|Habitica App vs Tasks App (Productivity)]]
+
 ---
 ### Progress
 Each Day has a Score. The Score for a day is calculated by the following Formula:
@@ -39,15 +43,15 @@ $$\Large Score =\dfrac{Task \ Done}{Total \ Tasks}$$
 After the Score is Determined, we assign a Rating to the day as a number from 1-5.
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day    | Score | Rating (1-5) | Notes                                                |
-| ------ | ----- | ------------ | ---------------------------------------------------- |
-| Mond   | 2/2   | 4            | Doomscrolled too much                                |
-| Tuesd  | 0/2   | 2            | Had ample time despite feeling head & stomach ache   |
-| Wedn   | 2/2   | 4            | Got everything done & did stuff well                 |
-| Thurs  | Nil   | Nil          | Travelling to Rishikesh for attending wedding        |
-| Friday | Nil   | Nil          | Wedding Day                                          |
-| Satur  | Nil   | Nil          | Travelling back home from Rishikesh via Harki Paudi. |
-| Sund   | 0/1   | 1            | Too Long Breaks. Unable to re-adjust to hard work    |
+| Day    | Score | Rating (1-5) | Notes                                       |
+| ------ | ----- | ------------ | ------------------------------------------- |
+| Mond   | 2/3   | 3            | Exam & Studies went well, forgot to Workout |
+| Tuesd  | 1/1   | 3            | Moved Workouts to start from next week      |
+| Wedn   | 2/2   | 4            | Birthday Today! Need to find a gift         |
+| Thurs  |       |              |                                             |
+| Friday |       |              |                                             |
+| Satur  |       |              |                                             |
+| Sund   |       |              |                                             |
 
 
 | Week      | Weekly Rating | Notes                |

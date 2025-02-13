@@ -5,9 +5,15 @@
 
 ---
 # Maritime Borders
-> The part of any Large Water Body (like Sea or Ocean) over which either one of the [[State (United Nations)\|Member States]] has jurisdiction. This includes the [[Territorial Sea\|Territorial Sea]], [[Internal Waters\|Internal Waters]], [[Contiguous Maritime Zone (CMZ)\|Contiguous Maritime Zone (CMZ)]] and [[Exclusive Economic Zone (EEZ)\|Exclusive Economic Zone (EEZ)]] of any State.
+> The part of any Large Water Body (like Sea or Ocean) over which either one of the [[State (United Nations)\|Member States]] has jurisdiction. The edge of this jurisdiction form a Maritime Border. Any 2 states are considered to be "Maritime Neighbours" when their Maritime Borders touch. 
 
-Different Rules apply to overlapping claims depending upon which part of the Martime Borders of the respective countries are overlapping. Check them in their own Respective Notes.
+There are various layers of Maritime Borders:
+[[Internal Waters\|Internal Waters]]
+[[Territorial Sea\|Territorial Sea]]
+[[Contiguous Maritime Zone (CMZ)\|Contiguous Maritime Zone (CMZ)]] 
+[[Exclusive Economic Zone (EEZ)\|Exclusive Economic Zone (EEZ)]]
+
+Different Rules apply to overlapping claims depending upon which layer of the Martime Borders of the respective countries are overlapping. Check the details in the Respective Notes of those layers.
 
 ---
 # Footnotes

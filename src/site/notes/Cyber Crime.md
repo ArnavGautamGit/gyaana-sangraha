@@ -7,10 +7,11 @@
 # Cyber Crime
 > In the law, it is defined as a crime committed via Cyber/Internet/Electronic means.
 
-In the course [[Digital Forensics and Cyber Laws\|Digital Forensics and Cyber Laws]], we are taught Digital Forensics and Laws regarding the same. We only cover the [[Cyber Crime#History of Cyber Crimes\|History]] and [[Cyber Crime#Classification of Cyber Crimes\|Classification]]. We already know that the [[Motives of Hackers\|motivation]] is the same as other kinds of lesser Cyber Criminals like hackers.
+In the course [[Digital Forensics and Cyber Laws\|Digital Forensics and Cyber Laws]], we are taught about [[Digital Forensics\|Digital Forensics]], Cyber Crime and the Laws regarding these topics. We only cover the [[Cyber Crime#History of Cyber Crimes\|History]] and the [[Cyber Crime#Classification of Cyber Crimes\|Classification]] of Cyber Crimes. 
+We already know that the [[Motives of Hackers\|motivation]] is the same as other kinds of lesser Cyber Criminals like [[Black-Hat Hackers\|Black-Hat Hackers]]. Although Cyber Crime is the umbrella term used for all kinds of crime that happens over the internet, here we will mark a distinction between Cyber Crime and [[Malicious Hacking\|Cyber Attacks]] with the latter being a targeted crime while attacks aimed at the masses are a part of the umbrella term which is the former.
 
 ### History of Cyber Crimes
-We were taught how the earliest Cyber Crimes like the [[USA Free Calling\|USA Free Calling]] and [[Call System Hacking\|Call System Hacking]] were done and how.
+We were taught how the earliest Cyber Crimes like the [[USA Free Calling Scam\|USA Free Calling Scam]] emerged.
 Basic stuff. Refer to slides for details.
 
 ### Classification of Cyber Crimes

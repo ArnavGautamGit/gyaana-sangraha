@@ -18,7 +18,9 @@ In case of an Archipalegic [[State (United Nations)\|Member State]], the islands
 </div></div>
 
 
-Using the point quoted above, any land which is within these Straight Baselines are also considered Internal Waters of any Archipelagic [[State (United Nations)\|Member State]] but since geographically these areas are effectively Straits & paths between islands, they have to allow [[Innocent Passage\|Innocent Passage]] to avoid an area of the seas becoming completely sealed off and using this loophole one State or group of States can isolate other(s).
+Using the point quoted above, any land which is within these Straight Baselines are also considered Internal Waters of any Archipelagic [[State (United Nations)\|Member State]] but since geographically these areas are effectively Straits & paths between islands, they have to allow [[Innocent Passage\|Innocent Passage]] to avoid an area of the seas becoming completely sealed off and avoid creating a loophole one State or group of States can use to isolate another.
+
+Using this ruling in favour of Straight Baselines, India & Bangladesh have both taken Straight Baselines across the Sundarban Delta. India has also claimed Chillaka Lake in Odisha as Internal Waters using this rule.
 
 ---
 # Footnotes

@@ -9,7 +9,7 @@
 
 > Here, International Studies refers to a subject in the 8th semester (Last Semester) of my B.Tech Computer Science Engineering Degree at Jaypee Institute of Information Technology.
 
-The Subject is taught by the new Guest Lecturer, Mr. George Kutty. He is originally from Kerela but living in Mayur Vihar Phase - 1 in Delhi (probably on rent i am guessing). He has a great way of teaching.
+The Subject is taught by the new Guest Lecturer, Mr. George Kutty. He is originally from Kerela but living near Mayur Vihar Pocket - 1 Metro Station in Delhi (probably on rent i am guessing). He has a great way of teaching.
 
 ### Syllabus
 - [[State (United Nations)\|State (United Nations)]]

@@ -23,7 +23,7 @@ The Comparison between the two is very simple and straight forward. I compared t
 ❌ When Habitica servers are down, the app doesn't work. (got frequent in 2024)
 ❌ Does not Natively allow priority based sorting (possible using "Tags")
 
-### Tasks
+### Tasks.org App
 ✅ Free & Open Source.
 ✅ Syncs with Google Calendar and other Digital Calendars.
 ✅ Cleaner Interface (due to no gamified stats to showcase).
@@ -37,6 +37,7 @@ The Comparison between the two is very simple and straight forward. I compared t
 ❌ No option for ANY rewards.
 ❌ Multiple lists confuses a new user.
 ❌ No available tutorials on YouTube. (or not as many as Habitica - which itself is small)
+❌ Not available for iOS.
 
 
 ---

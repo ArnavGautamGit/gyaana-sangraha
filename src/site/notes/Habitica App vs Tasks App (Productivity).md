@@ -24,8 +24,8 @@ The Comparison between the two is very simple and straight forward. I compared t
 ❌ Does not Natively allow priority based sorting (possible using "Tags")
 
 ### Tasks.org App
-✅ Free & Open Source.
-✅ Syncs with Google Calendar and other Digital Calendars.
+✅ Free & Open Source. (available on Google Play Store & F-Droid)
+✅ Syncs for free with Google Calendar and others except Tasks.org website.
 ✅ Cleaner Interface (due to no gamified stats to showcase).
 ✅ One-hand friendly since the UI elements are mostly at the bottom of the screen.
 ✅ Natively allows priority-based sorting since all tasks have priority rating.

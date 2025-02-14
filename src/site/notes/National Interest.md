@@ -23,7 +23,7 @@ Due to better documentation and discussion among learned people, we know what me
 5. ***Coercive Measures*** ---> Intervention, Embargos, Boycotts and Severance of Relations are often used to tell other states to "walk the line" if they want to avoid the consequences.
 
 ### Classification of National Interest
-Notes from Andrew Heyburn's Reference book will be updated on the day before the exam (don't remember the exact name of the author).
+Notes from Andrew Heywood's Reference book will be updated after the exam.
 
 
 ---

@@ -22,23 +22,28 @@ Generally it is observed that National Power is developed by the State to safegu
 for other popular definitions fpr State Power, please check the slides provided by Professor George Kutty sir. He has a slide which lists these definitions and quotes from eminent personalities in International Politics who define State Power in their own way.
 
 ### Elements of National Power
-National Power is not an abstract concept anymore. There is a set definition & elements that it entails:
+National Power is not an abstract concept anymore. There is a set definition & elements that it entails. Elements of National Power may be Tangible or Intangible.
+
+"***Tangible Elements of National Power***" are those that can be scientifically measured to a great degree of accuracy and precision & reliance on estimates is minimal.
+
 1. ***Geography*** ---> It is the most stable and tangible natural element that decides National Power of a [[State (United Nations)\|State]] since it may act as a natural defensive structure (like the Himalayas defended India for Centuries) and also seldom acts as a State's natural edge over others. The United Kingdom became a great Naval Force due to being surrounded by Water. Even [[Napoleon Bonaparte\|Napoleon Bonaparte]] once said that "Foreign Policy of a country is decided by its geography". 
 2. ***Natural Resources*** ---> Having certain resources enables a country to lead a specific sector. Before Oil was found in Saudi Arabia, people used to live like Nomads in tents. Now their decendents are one of the richest people in the world.
 3. ***Population*** ---> Skilled, healthy, disciplined, literate and employed population is always a great advantage to any State. Imagine if Japan's cost of living was not as high as it is today, it would allow people to have a higher population. Japan could have emerged so far ahead.
 4. ***Industrial Capacity*** ---> Technology & Industrialisation help in development of Industrial Capacity. A state that cannot even manufacture a nailcutter will not last long economically when it comes to war with another state.
 5. ***Technology*** ---> Technology helps the development of transport, communication, infrastructure, military, Information Technology and everything in between. Export of many technologies creates a softpower especially when the other State can be locked out of it at an instant as in case of Russia being kicked out of the SWIFT Payments Network.
 6. ***Military Preparedness*** ---> If your military is not prepared for war, you cannot fight it. If you do, you will lose.
-7. ***Ideology*** ---> Certain Ideologies are just cumbersome instead of helpful. Example: In case of War, the Ideology of handing people freebies (Originating in Communism) will weigh down the government as there will be very less food to give and giving it for free will mean that the state is paying for it.
-8. ***Leadership & Quality of Government*** ---> A strong-willed Leader like [[Subhash Chandra Bose\|Subhash Chandra Bose]], [[Chandragupta Maurya\|Chandragupta Maurya]] or [[Mustafa Kamal Ataturk\|Mustafa Kamal Ataturk]] is an asset of its own. People of that quality that can identify and utilise every kind of Human Resource in some position or the other can channel the national spirit in the right direction.
-9. ***National Character & Morale*** ---> High Morale would mean higher participation in the economy and creation of higher demand which drives Economic Growth.
-10. ***Diplomacy*** ---> The Skill to have more friends than enemies (preferably no enemies at all) helps the State to focus solely on fixing the internal issues and its economy.
 
-### Tangible Elements
-Elements that can be scientifically measured to a great degree of accuracy and precision & reliance on estimates is minimal. The First 6 of the elements are Tangible.
+"***Intangible Elements of National Power***" are those that cannot be measured scientifically to any significant degree and we have to stick to simplified estimates of elements such as State Morale & Diplomat Quality.
 
-### Intangible Elements
-Elements that cannot be measured scientifically to any significant degree and we have to stick to estimates of State Morale & Diplomat Quality or abstract concepts such as a state's Ideology & Nationalism. The last 4 of the elements listed above are Intangible. 
+1. ***Ideology*** ---> Certain Ideologies are just cumbersome instead of helpful. Example: In case of War, the Ideology of handing people freebies (Originating in Communism) will weigh down the government as there will be very less food to give and giving it for free will mean that the state is paying for it.
+2. ***Leadership & Quality of Government*** ---> A strong-willed Leader like [[Subhash Chandra Bose\|Subhash Chandra Bose]], [[Chandragupta Maurya\|Chandragupta Maurya]] or [[Mustafa Kamal Ataturk\|Mustafa Kamal Ataturk]] is an asset of its own. People of that quality that can identify and utilise every kind of Human Resource in some position or the other can channel the national spirit in the right direction.
+3. ***National Character & Morale*** ---> High Morale would mean higher participation in the economy and creation of higher demand which drives Economic Growth.
+4. ***Diplomacy*** ---> The Skill to have more friends than enemies (preferably no enemies at all) helps the State to focus solely on fixing the internal issues and its economy.
+
+### Classification
+National Power can be classified on the basis of which of the elements (Tangible or Intangible) a [[State (United Nations)\|State]] relies upon to get its way in International Relations.
+- [[Hard Power\|Hard Power]] is when a state relies on Tangible elements like Military & Economic strength to channel a military intervention or place sanctions.
+- [[Soft Power\|Soft Power]] is when a state relies on Intangible elements like Diplomacy, Similar Ideology or Culture to concince another state to agree.
 
 ### My Views and Philosophy
 Minimum Amount of National Power that the Nation must have is with respect to defending the State's people, their livelihood & machinery such as governments.

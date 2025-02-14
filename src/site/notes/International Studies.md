@@ -24,6 +24,8 @@ The Subject is taught by the new Guest Lecturer, Mr. George Kutty. He is origina
 	- [[Realism\|Realism]]
 	- [[Neo-Realism\|Neo-Realism]]
 - [[National Power\|National Power]]
+	- [[Hard Power\|Hard Power]]
+	- [[Soft Power\|Soft Power]]
 - [[National Interest\|National Interest]]
 - [[Balance Of Power\|Balance Of Power]]
 - [[Collective Security\|Collective Security]]

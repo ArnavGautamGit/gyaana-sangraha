@@ -12,7 +12,11 @@ These are the main notes. There may be further branching from these notes.
 [[Intelligence (Espionage)\|Intelligence (Espionage)]]
 [[Strategic Intelligence\|Strategic Intelligence]]
 [[Transitioning between targets is not easy\|Transitioning between targets is not easy]]
-[[The Risk taken by Intelligence Agencies\|The Risk taken by Intelligence Agencies]]
+[[The Risks taken by Intelligence Agencies\|The Risks taken by Intelligence Agencies]]
 [[Success in Espionage\|Success in Espionage]]
 [[The Ideal Spy\|The Ideal Spy]]
+[[Defectors & Moles in the Espionage World\|Defectors & Moles in the Espionage World]] (page 61-62)
+[[KGB Espionage Tactics\|KGB Espionage Tactics]] (page 54 & Active Measures)
+[[China's Silent Espionage\|China's Silent Espionage]] (page 74-81)
+[[Mitrokhin Archive\|Mitrokhin Archive]]
 [[Mass-Surveillance\|Mass-Surveillance]]

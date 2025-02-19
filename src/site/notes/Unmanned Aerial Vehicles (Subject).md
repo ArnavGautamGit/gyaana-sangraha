@@ -13,6 +13,7 @@ The Subject is taught by Janadhan Sir who is notorious as a professor who doesn'
 - [[Unmanned Aerial Vehicles (UAVs)\|Unmanned Aerial Vehicles (UAVs)]]
 - [[UAV Aerodynamics & Structural Design\|UAV Aerodynamics & Structural Design]]
 - [[UAV Autopilot Design\|UAV Autopilot Design]]
+- [[UAV Communication Architecture\|UAV Communication Architecture]]
 
 
 ---

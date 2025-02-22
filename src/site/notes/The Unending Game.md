@@ -16,7 +16,7 @@ These are the main notes. There may be further branching from these notes.
 [[Success in Espionage\|Success in Espionage]]
 [[The Ideal Spy\|The Ideal Spy]]
 [[Defectors & Moles in the Espionage World\|Defectors & Moles in the Espionage World]] (page 61-62)
-[[KGB Espionage Tactics\|KGB Espionage Tactics]] (page 54 & Active Measures)
+[[KGB Espionage Tactics\|KGB Espionage Tactics]]
 [[China's Silent Espionage\|China's Silent Espionage]] (page 74-81)
 [[Mitrokhin Archive\|Mitrokhin Archive]]
 [[Mass-Surveillance\|Mass-Surveillance]]

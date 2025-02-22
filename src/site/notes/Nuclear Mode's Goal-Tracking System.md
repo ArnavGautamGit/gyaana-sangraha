@@ -43,21 +43,21 @@ $$\Large Score =\dfrac{Task \ Done}{Total \ Tasks}$$
 After the Score is Determined, we assign a Rating to the day as a number from 1-5.
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day    | Score | Rating (1-5) | Notes                                       |
-| ------ | ----- | ------------ | ------------------------------------------- |
-| Mond   | 2/3   | 3            | Exam & Studies went well, forgot to Workout |
-| Tuesd  | 1/1   | 3            | Moved Workouts to start from next week      |
-| Wedn   | 2/2   | 4            | Birthday Today! Need to find a gift         |
-| Thurs  |       |              |                                             |
-| Friday |       |              |                                             |
-| Satur  |       |              |                                             |
-| Sund   |       |              |                                             |
+| Day    | Score | Rating (1-5) | Notes                       |
+| ------ | ----- | ------------ | --------------------------- |
+| Mond   | 2/2   | 4            | Day of MahaKumbh Snaan      |
+| Tuesd  | Nil   | Nil          | Travelling from MahaKumbh   |
+| Wedn   | 2/5   | 2            | Day out w/ friends          |
+| Thurs  | 3/3   | 5            | Perfect Day (almost)        |
+| Friday | 2/4   | 2.5          | Day out w/ same friends     |
+| Satur  | 2/5   |              | Pushed 2 tasks to next week |
+| Sund   |       |              |                             |
 
 
 | Week      | Weekly Rating | Notes                |
 | --------- | ------------- | -------------------- |
 | 3-9 Feb   | 2.75          | Another Wedding      |
-| 10-16 Feb |               | Birthday + Exam Week |
+| 10-16 Feb | 3             | Birthday + Exam Week |
 | 17-24 Feb |               |                      |
 | 25-31 Feb |               |                      |
 

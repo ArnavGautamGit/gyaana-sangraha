@@ -15,8 +15,12 @@ These are the main notes. There may be further branching from these notes.
 [[The Risks taken by Intelligence Agencies\|The Risks taken by Intelligence Agencies]]
 [[Success in Espionage\|Success in Espionage]]
 [[The Ideal Spy\|The Ideal Spy]]
-[[Defectors & Moles in the Espionage World\|Defectors & Moles in the Espionage World]] (page 61-62)
+[[Defectors & Moles in the Espionage World\|Defectors & Moles in the Espionage World]]
 [[KGB Espionage Tactics\|KGB Espionage Tactics]]
-[[China's Silent Espionage\|China's Silent Espionage]] (page 74-81)
+[[Coomar Narain Case\|Coomar Narain Case]] (mentioned by name only)
+[[CIA created Islamic Terrorism\|CIA created Islamic Terrorism]]
+[[Spy Games in India\|Spy Games in India]]
+[[Reasons for no Indo-Pak Intelligence Collaboration\|Reasons for no Indo-Pak Intelligence Collaboration]]
+[[China's Silent Espionage\|China's Silent Espionage]]
 [[Mitrokhin Archive\|Mitrokhin Archive]]
 [[Mass-Surveillance\|Mass-Surveillance]]

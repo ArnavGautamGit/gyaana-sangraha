@@ -50,16 +50,17 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | Wedn   | 2/5   | 2            | Day out w/ friends          |
 | Thurs  | 3/3   | 5            | Perfect Day (almost)        |
 | Friday | 2/4   | 2.5          | Day out w/ same friends     |
-| Satur  | 2/5   |              | Pushed 2 tasks to next week |
-| Sund   |       |              |                             |
+| Satur  | 3/5   | 3            | Pushed 2 tasks to next week |
+| Sund   | 2/2   | 5            | Raghav's Engagement         |
 
 
 | Week      | Weekly Rating | Notes                |
 | --------- | ------------- | -------------------- |
 | 3-9 Feb   | 2.75          | Another Wedding      |
 | 10-16 Feb | 3             | Birthday + Exam Week |
-| 17-24 Feb |               |                      |
-| 25-31 Feb |               |                      |
+| 17-23 Feb | 3.58          | Outings Week         |
+| 24-31 Feb |               |                      |
+
 
 | Month     | Avg Rating | Notes                                  |
 | --------- | ---------- | -------------------------------------- |
@@ -75,5 +76,10 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | October   |            |                                        |
 | November  |            |                                        |
 | December  |            |                                        |
+
+| Year | Avg Rating | Notes                                         |
+| ---- | ---------- | --------------------------------------------- |
+| 2025 |            | Year 1 of using Shwetabh's Attack Mode Course |
+
 
 ---

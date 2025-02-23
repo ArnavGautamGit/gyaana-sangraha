@@ -3,8 +3,9 @@
 ---
 
 ---
-# What is the book about?
-The Book is about finding your own [[Ikigai (Japanese Concept)\|Ikigai]] and enhance your longetivity due to actually doing something you love and reducing stress and making small lifestyle changes that eventually enable you to live longer.
+# What is *"Ikigai"* about?
+The Book is about finding your own [[Ikigai (Japanese Concept)\|Ikigai]] and enhance your longetivity due to actually doing something you love and reducing stress.
+The book also emphasises how most of the journey at its core comprises of making small lifestyle changes that eventually compound to enable you to live longer.
 
 ### Some Criticism
 My Criticism for the book is that it focuses a bit too much on the part of longevity and how to live longer - instead of the reason I picked up the book i.e., finding the [[Ikigai (Japanese Concept)\|Ikigai]]. Although the book does introduce the concept and gives you a Venn Diagram, the entire conversation is focused more around how to use your Ikigai and certain lifestyle changes to live longer instead of how to find your Ikigai in the first place.

@@ -3,7 +3,7 @@
 ---
 
 ---
-# What is the book about?
+# What is *"The Art of Thinking Clearly"* about?
 > A book that teaches the reader a path of taking clear decisions based solely on the factual reality & free from any biases whether inherent or artificially planted in our brain. 
 
 The book was originally written in German and translated to English by Nicky Griffin. I am reading the English Variant. It is an important book for taking clear decisions in life - especially in our Youth - since choices that are made here shape the direction of our lives - clarity of decisions would mean we are actually working towards a goal and making progress instead of being left course-correcting our entire Youth.

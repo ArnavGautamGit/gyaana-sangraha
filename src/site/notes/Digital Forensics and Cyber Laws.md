@@ -21,6 +21,7 @@ The Subject is taught by Professor Anshul Singh ma'am. She is a new joinee this 
 	- [[Deep Web\|Deep Web]]
 	- [[Dark Web\|Dark Web]]
 - [[Indian Cyber Laws\|Indian Cyber Laws]]
+- [[Security Incidents\|Security Incidents]] and [[Incident Handling\|Incident Handling]]
 
 ---
 # Footnotes

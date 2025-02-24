@@ -9,7 +9,7 @@
 
 The Layers of Internet are often grouped like the following:
 1. Surface Web ---> Includes all websites we visit using regular Browsers.
-2. [[Deep Web\|Deep Web]] ---> Parts of the Web not linked to other parts.
+2. [[Deep Web\|Deep Web]] ---> Parts of the Web not linked to other parts, Social Media etc.
 3. [[Dark Web\|Dark Web]] ---> Servers using .onion domain and require a [[The Onion Router (TOR)\|specific browser]].
 
 Although the term "Global Web" and "World Wide Web" are also popular 

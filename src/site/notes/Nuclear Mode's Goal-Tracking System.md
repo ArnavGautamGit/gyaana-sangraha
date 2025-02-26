@@ -43,15 +43,15 @@ $$\Large Score =\dfrac{Task \ Done}{Total \ Tasks}$$
 After the Score is Determined, we assign a Rating to the day as a number from 1-5.
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day    | Score | Rating (1-5) | Notes                       |
-| ------ | ----- | ------------ | --------------------------- |
-| Mond   | 2/2   | 4            | Day of MahaKumbh Snaan      |
-| Tuesd  | Nil   | Nil          | Travelling from MahaKumbh   |
-| Wedn   | 2/5   | 2            | Day out w/ friends          |
-| Thurs  | 3/3   | 5            | Perfect Day (almost)        |
-| Friday | 2/4   | 2.5          | Day out w/ same friends     |
-| Satur  | 3/5   | 3            | Pushed 2 tasks to next week |
-| Sund   | 2/2   | 5            | Raghav's Engagement         |
+| Day    | Score | Rating (1-5) | Notes                                          |
+| ------ | ----- | ------------ | ---------------------------------------------- |
+| Mond   | 4/4   | 5            | Finished Work despite visit to Papa's Mausa Ji |
+| Tuesd  | 4/4   | 5            | Finished all the Work and learnt to cook Lunch |
+| Wedn   |       |              |                                                |
+| Thurs  |       |              |                                                |
+| Friday |       |              |                                                |
+| Satur  |       |              |                                                |
+| Sund   |       |              |                                                |
 
 
 | Week      | Weekly Rating | Notes                |
@@ -59,13 +59,13 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | 3-9 Feb   | 2.75          | Another Wedding      |
 | 10-16 Feb | 3             | Birthday + Exam Week |
 | 17-23 Feb | 3.58          | Outings Week         |
-| 24-31 Feb |               |                      |
+| 24-31 Feb |               | Learnt to Cook Lunch |
 
 
 | Month     | Avg Rating | Notes                                  |
 | --------- | ---------- | -------------------------------------- |
 | January   | 2.5        | Could have done more, busy in weddings |
-| February  |            |                                        |
+| February  |            | Improved, Learnt to Cook Lunch         |
 | March     |            |                                        |
 | April     |            |                                        |
 | May       |            |                                        |

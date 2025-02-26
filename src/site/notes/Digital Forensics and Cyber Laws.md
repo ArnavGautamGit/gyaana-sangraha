@@ -11,6 +11,9 @@ The Subject is taught by Professor Anshul Singh ma'am. She is a new joinee this 
 
 ### Syllabus
 - [[Digital Forensics\|Digital Forensics]]
+	- [[Computer Forensics\|Computer Forensics]]
+	- [[Mobile Device Forensics\|Mobile Device Forensics]]
+	- [[Network Forensics\|Network Forensics]]
 - [[Cyber Crime\|Cyber Crime]]
 	- [[Motives of Hackers\|Motives of Hackers]]
 	- [[Methods & Tools in Cyber Crime\|Methods & Tools in Cyber Crime]]

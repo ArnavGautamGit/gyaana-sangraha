@@ -20,7 +20,6 @@ These are the main notes. There may be further branching from these notes.
 [[Coomar Narain Case\|Coomar Narain Case]] (mentioned by name only)
 [[CIA created Islamic Terrorism\|CIA created Islamic Terrorism]]
 [[Spy Games in India\|Spy Games in India]]
-[[Reasons for no Indo-Pak Intelligence Collaboration\|Reasons for no Indo-Pak Intelligence Collaboration]]
 [[China's Silent Espionage\|China's Silent Espionage]]
 [[Mitrokhin Archive\|Mitrokhin Archive]]
 [[Mass-Surveillance\|Mass-Surveillance]]

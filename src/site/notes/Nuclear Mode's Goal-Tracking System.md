@@ -43,29 +43,29 @@ $$\Large Score =\dfrac{Task \ Done}{Total \ Tasks}$$
 After the Score is Determined, we assign a Rating to the day as a number from 1-5.
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day    | Score | Rating (1-5) | Notes                                          |
-| ------ | ----- | ------------ | ---------------------------------------------- |
-| Mond   | 4/4   | 5            | Finished Work despite visit to Papa's Mausa Ji |
-| Tuesd  | 4/4   | 5            | Finished all the Work and learnt to cook Lunch |
-| Wedn   |       |              |                                                |
-| Thurs  |       |              |                                                |
-| Friday |       |              |                                                |
-| Satur  |       |              |                                                |
-| Sund   |       |              |                                                |
+| Day    | Score | Rating (1-5) | Notes                                  |
+| ------ | ----- | ------------ | -------------------------------------- |
+| Mond   | 1/3   |              | Holiday on the next day of Synergy '25 |
+| Tuesd  |       |              |                                        |
+| Wedn   |       |              |                                        |
+| Thurs  |       |              |                                        |
+| Friday |       |              |                                        |
+| Satur  |       |              |                                        |
+| Sund   |       |              |                                        |
 
 
-| Week      | Weekly Rating | Notes                |
-| --------- | ------------- | -------------------- |
-| 3-9 Feb   | 2.75          | Another Wedding      |
-| 10-16 Feb | 3             | Birthday + Exam Week |
-| 17-23 Feb | 3.58          | Outings Week         |
-| 24-31 Feb |               | Learnt to Cook Lunch |
+| Week      | Weekly Rating | Notes                               |
+| --------- | ------------- | ----------------------------------- |
+| 3-9 Mar   |               | Week after Synergy '25 College Fest |
+| 10-16 Mar |               |                                     |
+| 17-23 Mar |               |                                     |
+| 24-31 Mar |               |                                     |
 
 
 | Month     | Avg Rating | Notes                                  |
 | --------- | ---------- | -------------------------------------- |
 | January   | 2.5        | Could have done more, busy in weddings |
-| February  |            | Improved, Learnt to Cook Lunch         |
+| February  | 3.3325     | Improved, Learnt to Cook Lunch         |
 | March     |            |                                        |
 | April     |            |                                        |
 | May       |            |                                        |

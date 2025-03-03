@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/KGB Espionage Tactics/"}
+{"dg-publish":true,"permalink":"/KGB Espionage Tactics/","tags":["Espionage"]}
 ---
 
 

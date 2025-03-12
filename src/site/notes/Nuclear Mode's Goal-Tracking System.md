@@ -43,21 +43,21 @@ $$\Large Score =\dfrac{Task \ Done}{Total \ Tasks}$$
 After the Score is Determined, we assign a Rating to the day as a number from 1-5.
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day    | Score | Rating (1-5) | Notes                                  |
-| ------ | ----- | ------------ | -------------------------------------- |
-| Mond   | 1/3   |              | Holiday on the next day of Synergy '25 |
-| Tuesd  |       |              |                                        |
-| Wedn   |       |              |                                        |
-| Thurs  |       |              |                                        |
-| Friday |       |              |                                        |
-| Satur  |       |              |                                        |
-| Sund   |       |              |                                        |
+| Day    | Score | Rating (1-5) | Notes          |
+| ------ | ----- | ------------ | -------------- |
+| Mond   |       | 1            | PC Crash Day 1 |
+| Tuesd  |       | 1            | PC Crash Day 2 |
+| Wedn   |       | 2            | PC Fixed       |
+| Thurs  |       |              |                |
+| Friday |       |              |                |
+| Satur  |       |              |                |
+| Sund   |       |              |                |
 
 
 | Week      | Weekly Rating | Notes                               |
 | --------- | ------------- | ----------------------------------- |
-| 3-9 Mar   |               | Week after Synergy '25 College Fest |
-| 10-16 Mar |               |                                     |
+| 3-9 Mar   | 1.5           | Sick after Synergy '25 College Fest |
+| 10-16 Mar |               | PC Crash & Boot Loop Problem        |
 | 17-23 Mar |               |                                     |
 | 24-31 Mar |               |                                     |
 
@@ -66,7 +66,7 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | --------- | ---------- | -------------------------------------- |
 | January   | 2.5        | Could have done more, busy in weddings |
 | February  | 3.3325     | Improved, Learnt to Cook Lunch         |
-| March     |            |                                        |
+| March     |            | Got Sick in First Week                 |
 | April     |            |                                        |
 | May       |            |                                        |
 | June      |            |                                        |

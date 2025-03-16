@@ -7,7 +7,18 @@
 # DH Community Heritage
 > Each Character in [[Daggerheart\|Daggerheart]] comes not just from an [[DH Species Ancestry\|Ancestry]], but they also descend from a Community - which could be understood as a neighbourhood or geographic location. Every Character has a Species Background and a neighbourhood.
 
-In your character sheet, whenever you are asked for your character's heritage, always write it in the format of `"<Community> <Ancestry>"` like "Highborne Human" as example where the term [[DH Community Heritage#Highborne\|Highborne]] is a Community wheareas [[Human (DH)\|Human]] is an ancestry. 
+In your character sheet, whenever you are asked for your character's heritage, always write it in the format of `"<Community> <Ancestry>"` like "Highborne Human" as example where the term [[DH Community Heritage#Highborne\|Highborne]] is a Community wheareas [[Human (DH)\|Human]] is an ancestry.
+
+A general list of Communities is as follows:
+[[DH Community Heritage#Highborne\|Highborne]]
+[[DH Community Heritage#Loreborne\|Loreborne]]
+[[DH Community Heritage#Orderborne\|Orderborne]]
+[[DH Community Heritage#Ridgeborne\|Ridgeborne]]
+[[DH Community Heritage#Seaborne\|Seaborne]]
+[[DH Community Heritage#Slyborne\|Slyborne]]
+[[DH Community Heritage#Underborne\|Underborne]]
+[[DH Community Heritage#Wanderborne\|Wanderborne]]
+[[DH Community Heritage#Wildborne\|Wildborne]]
 
 ### Highborne
 Being a Highborne - as the name may suggests - reflects that your character is from an affluent background which is rich due to direct or indirect Royal connections. Highborne individuals are often seen as amicable, enterprising, candid but you can make you Highborne as you wish

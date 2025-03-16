@@ -43,15 +43,15 @@ $$\Large Score =\dfrac{Task \ Done}{Total \ Tasks}$$
 After the Score is Determined, we assign a Rating to the day as a number from 1-5.
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day    | Score | Rating (1-5) | Notes          |
-| ------ | ----- | ------------ | -------------- |
-| Mond   |       | 1            | PC Crash Day 1 |
-| Tuesd  |       | 1            | PC Crash Day 2 |
-| Wedn   |       | 2            | PC Fixed       |
-| Thurs  |       |              |                |
-| Friday |       |              |                |
-| Satur  |       |              |                |
-| Sund   |       |              |                |
+| Day    | Score | Rating (1-5) | Notes                                 |
+| ------ | ----- | ------------ | ------------------------------------- |
+| Mond   | 0     | 1            | PC Crash Day 1                        |
+| Tuesd  | 0     | 1            | PC Crash Day 2                        |
+| Wedn   | 1/3   | 2            | PC Fixed, tasks $\longrightarrow$ Sat |
+| Thurs  | 3/3   | 5            | Went to AGRC w/ Papa                  |
+| Friday | 1/3   | 1.5          | Forgot RB Workout                     |
+| Satur  | 1/3   | 2            | Tasks pending since Wed               |
+| Sund   | 0/6   |              | Hopefully finish all tasks            |
 
 
 | Week      | Weekly Rating | Notes                               |
@@ -62,20 +62,20 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | 24-31 Mar |               |                                     |
 
 
-| Month     | Avg Rating | Notes                                  |
-| --------- | ---------- | -------------------------------------- |
-| January   | 2.5        | Could have done more, busy in weddings |
-| February  | 3.3325     | Improved, Learnt to Cook Lunch         |
-| March     |            | Got Sick in First Week                 |
-| April     |            |                                        |
-| May       |            |                                        |
-| June      |            |                                        |
-| July      |            |                                        |
-| August    |            |                                        |
-| September |            |                                        |
-| October   |            |                                        |
-| November  |            |                                        |
-| December  |            |                                        |
+| Month     | Avg Rating | Notes                                   |
+| --------- | ---------- | --------------------------------------- |
+| January   | 2.5        | Could have done more, busy in weddings  |
+| February  | 3.3325     | Improved, Learnt to Cook Lunch          |
+| March     |            | Got Sick in 1st Week, PC crashed in 2nd |
+| April     |            |                                         |
+| May       |            |                                         |
+| June      |            |                                         |
+| July      |            |                                         |
+| August    |            |                                         |
+| September |            |                                         |
+| October   |            |                                         |
+| November  |            |                                         |
+| December  |            |                                         |
 
 | Year | Avg Rating | Notes                                         |
 | ---- | ---------- | --------------------------------------------- |

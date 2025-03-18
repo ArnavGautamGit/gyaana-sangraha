@@ -43,21 +43,21 @@ $$\Large Score =\dfrac{Task \ Done}{Total \ Tasks}$$
 After the Score is Determined, we assign a Rating to the day as a number from 1-5.
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day    | Score | Rating (1-5) | Notes                                 |
-| ------ | ----- | ------------ | ------------------------------------- |
-| Mond   | 0     | 1            | PC Crash Day 1                        |
-| Tuesd  | 0     | 1            | PC Crash Day 2                        |
-| Wedn   | 1/3   | 2            | PC Fixed, tasks $\longrightarrow$ Sat |
-| Thurs  | 3/3   | 5            | Went to AGRC w/ Papa                  |
-| Friday | 1/3   | 1.5          | Forgot RB Workout                     |
-| Satur  | 1/3   | 2            | Tasks pending since Wed               |
-| Sund   | 0/6   |              | Hopefully finish all tasks            |
+| Day    | Score | Rating (1-5) | Notes                                      |
+| ------ | ----- | ------------ | ------------------------------------------ |
+| Mond   | 2/6   |              | Missed RB Training but not Park Gym + Walk |
+| Tuesd  |       |              |                                            |
+| Wedn   |       |              |                                            |
+| Thurs  |       |              |                                            |
+| Friday |       |              |                                            |
+| Satur  |       |              |                                            |
+| Sund   |       |              |                                            |
 
 
 | Week      | Weekly Rating | Notes                               |
 | --------- | ------------- | ----------------------------------- |
 | 3-9 Mar   | 1.5           | Sick after Synergy '25 College Fest |
-| 10-16 Mar |               | PC Crash & Boot Loop Problem        |
+| 10-16 Mar | 2             | PC Crash & Boot Loop Problem        |
 | 17-23 Mar |               |                                     |
 | 24-31 Mar |               |                                     |
 

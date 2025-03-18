@@ -29,6 +29,20 @@ The Rise of [[Fascism\|Fascism]] and the majority world leaders being men & most
 
 This thought started propogating that men are war-mongerers and the women & children have to stand up for themselves. [[Feminism\|Feminism]] saw a rising number of women supporting it Post-War and took great strides. The thought that women had to conform to societal norms, be effectively banished from working in certain jobs and still had no say in choosing their political leaders even in the "democratic" governments make them not much different than dictatorships for the women. The World Wars brought women in the industries where they talked to men who were yet to be drafted and saw it first hand how a woman's world and a man's world were so drastically different despite potentially coming from the same city or neighbourhood.
 
+### Post-WW2 Structure of International Relations
+After the end of the [[The Second World War (WW2)\|The Second World War (WW2)]], The Yalta Conference was held in 1945. The President of the United States of America (Theodore Roosevelt), The Prime Minister of the UK (Winston Churchill) and the Leader of the [[Union of Soviet Socialist Republics (USSR)\|Soviet Union]] (Joseph Stalin) met in the conference to decide the structure of the post-colonial world since most of the world was either an ally of the USA or an ally of USSR.
+
+The remaining few were colonies of the the UK and other European powers who would soon gain independence but would be so poor (so sucked dry) that they couldn't do anything.
+
+This situation was very similar to how peaceful negotiations in the [[Russia-Ukraine War\|Russia-Ukraine War]] are being done by The President of United States of America (Donald Trump), The Prime Minister of the UK (Keir Stamer) and The President of Russia (Vladimir Putin) where the last person in the list was the invader of Ukraine.
+
+In the Formation of the [[United Nations (U.N)\|United Nations (U.N)]] after the War, the [[Allied Powers\|Allied Powers]] were made the members of a group called the [[United Nations Security Council (U.N.S.C)\|United Nations Security Council (U.N.S.C)]] where they had the power to Veto any resolution regardless of it passing the [[United Nations General Assembly (U.N.G.A)\|United Nations General Assembly (U.N.G.A)]] or not.
+
+This formed a [[Unipolar World\|Unipolar World]] where all the power was concentrated with one state or one group of states.
+
+Soon after the formation of the [[United Nations (U.N)\|U.N]], 
+the 1950s marked the beginning of [[The U.S-Soviet Cold War\|The U.S-Soviet Cold War]] where both of the states followed different Political and Economic Ideologies which caused a [[Cold War\|Cold War]] between the two countries which got very close to becoming a [[Full-Scale War\|Full-Scale War]] but did not. Rather, the two states engaged via [[Proxy War\|Proxy Wars]].
+
 ---
 # Footnotes
 1. People viewing this page on the Website may or may not be able to see these notes since the contents of said notes is a bit controversial and may be considered or twisted to be anti-Christian even though it is only against radical Christian Evangelism.

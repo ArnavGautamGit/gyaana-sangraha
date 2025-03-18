@@ -30,6 +30,7 @@ The Subject is taught by the new Guest Lecturer, Mr. George Kutty. He is origina
 - [[Balance Of Power\|Balance Of Power]]
 - [[Collective Security\|Collective Security]]
 - [[International Relations in the 20th Century\|International Relations in the 20th Century]]
+- [[The U.S-Soviet Cold War\|The U.S-Soviet Cold War]]
 
 
 ---

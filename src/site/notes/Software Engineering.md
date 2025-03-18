@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/Software Engineering/","tags":["CompSci","Software-Development"]}
 ---
 
-# Index/Contents
-[[Software Engineering#What is Software Engineering?\|#What is Software Engineering?]]
-[[Software Engineering#Footnotes\|#Footnotes]]
 
 -----
 # What is Software Engineering?
@@ -18,6 +15,15 @@ Syllabus:
 	- [[SDLC Models\|SDLC Models]]
 		- [[Build & Fix Model\|Build & Fix Model]]
 		- [[Waterfall Model\|Waterfall Model]]
+		- [[Incremental Process Model\|Incremental Process Model]]
+	- [[Evolutionary Software Models\|Evolutionary Software Models]]
+		- [[Prototyping Model\|Prototyping Model]]
+		- [[Spiral Model\|Spiral Model]]
+	- [[Agile Software Methodology\|Agile Software Methodology]]
+		- [[Extreme Programming (XP)\|Extreme Programming (XP)]]
+		- [[SCRUM Programming Model\|SCRUM Programming Model]]
+		- [[Test-Driven Software Development\|Test-Driven Software Development]]
+		- [[LEAN Development Model\|LEAN Development Model]]
 - [[Project Scheduling\|Project Scheduling]]
 - [[Introduction to UML\|Introduction to UML]]
 - [[Code Optimization\|Code Optimization]]

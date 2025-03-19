@@ -30,5 +30,7 @@ if the [[Security Incidents\|Incident]] is a network intrusion (regardless of it
 5. Recovery of losses
 6. Follow-up Response
 
+We resort to [[Digital Forensics\|Digital Forensics]] techniques in case of a device being hit with some kind of [[Security Incidents\|Security Incident]].
+
 ---
 # Footnotes

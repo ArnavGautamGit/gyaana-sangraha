@@ -61,7 +61,7 @@ Each class has a certain number of subclasses to choose from. For a Druid, we ha
 		- **Regeneration**: Use an action and spend 3x [[Hope Token\|Hope Token]] to clear 1d4 [[Hit Point Slots\|HP Slots]] on a creature the Druid is touching.
 	- ***Specialisation Features***
 		- **Regeneration Upgrade**: It can be used on a creature within Very Close Range
-		- **Warden's Protection**: The Druid can use magic to repair armour outside [[DH Character Rest Rules#Downtime\|downtime]]. When the Druid takes this action, allies in Close Range can replenish [[Armour Slots\|Armour Slots]] equal to Druid's [[Instinct Trait\|Instinct Trait]].
+		- **Warden's Protection**: The Druid can use magic to repair armour outside [[DH Character Rest Rules#Downtime\|downtime]]. When the Druid takes this action, allies in Close Range can replenish [[Armour Slots\|Armour Slots]] equal to Druid's [[Instinct\|Instinct]].
 	- ***Mastery Feature***
 		- While the Druid maintains Beastform, when an ally in Close Range marks more than 2x [[Hit Point Slots\|HP Slots]], the Druid can mark 1x [[Stress Point\|Stress Point]] to reduce the amount of HP Slots their allies mark down to 1. 
 

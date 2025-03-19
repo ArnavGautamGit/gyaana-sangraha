@@ -45,8 +45,8 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 
 | Day    | Score | Rating (1-5) | Notes                                      |
 | ------ | ----- | ------------ | ------------------------------------------ |
-| Mond   | 2/6   |              | Missed RB Training but not Park Gym + Walk |
-| Tuesd  |       |              |                                            |
+| Mond   | 2/6   | 2            | Missed RB Training but not Park Gym + Walk |
+| Tuesd  | 3/6   | 2.5          | Many tasks carrying over from last 2 weeks |
 | Wedn   |       |              |                                            |
 | Thurs  |       |              |                                            |
 | Friday |       |              |                                            |

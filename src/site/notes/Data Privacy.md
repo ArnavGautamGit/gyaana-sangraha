@@ -11,6 +11,7 @@ We know how many companies around the world participate in [[Data Mining\|Data M
 
 Data Privacy during Data Mining is maintained by the data being [[Data Anonymisation\|Anonymised]] i.e, all Identifiers that can be used to directly identify a person like name, exact address are removed. While all of the Quasi-Identifiers are either masked or they are modified to be indirect.
 
+Generally in cases of [[Data Mining\|Data Mining]], the data has all the identifiers removed but why do companies not want to do that? Because it hurts Transparency in their data. The results obtained from [[Data Anonymisation\|anonymised data]] are neither as high quality nor as accurate (due to missing information) and this is why a leaked dataset sells for such a good price on the [[Dark Web\|Dark Web]].
 
 ---
 # Footnotes

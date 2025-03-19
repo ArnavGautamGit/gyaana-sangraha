@@ -26,9 +26,10 @@ It is also important to be noted that [[Too Much of Anything is Dangerous\|Too M
 There are various models developed to attain different levels and types of Data Anonymisation. Some of them are:
 - [[K-anonymity\|K-anonymity]]: Data of one tuple is made to look exact to the other k-1 tuple except the main attributes along which we need to compare the dataset.
 - [[L-diversity\|L-diversity]]:
-- [[T-closeness\|T-closeness]]
-- [[Epsilon-differential privacy\|Epsilon-differential privacy]]
+- [[T-closeness\|T-closeness]]:
+- [[Epsilon-differential privacy\|Epsilon-differential privacy]]:
 
+The reality is that no matter how much we try, unless we use [[Data Pseudonymisation\|Data Pseudonymisation]], we cannot reduce Information Loss & it can never be 0% anyway - unlike Pseudonymisation which replaces identifiers with pseudonyms. It allows for retaining information and data accuracy while protecting [[Data Privacy\|Data Privacy]] to some degree.  
 
 ---
 # Footnotes

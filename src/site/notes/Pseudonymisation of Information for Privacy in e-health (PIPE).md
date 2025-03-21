@@ -17,7 +17,7 @@ As Doctors and Researchers needed to research about correlation between a partic
 With Technology, [[Electronic Health Records (EHR)\|Electronic Health Records (EHR)]] have become popular to a point when they are almost a necessity. We need PIPE more than ever.
 
 ### Working
-It borrows the concept from [[Substitution-based Ciphers\|Substitution-based Ciphers]] where the [[Key\|Key]] is a simple collection of Pseudonyms used to replace respective attributes that the Pseudonyms pertain to.
+It borrows the concept from [[Substitution-based Ciphers\|Substitution-based Ciphers]] where the [[Cryptographic Key\|Cryptographic Key]] is a simple collection of Pseudonyms used to replace respective attributes that the Pseudonyms pertain to.
 
 Anyone, be it the attacker or the researcher can only see the Pseudonymised Data and cannot identify, trace or trouble the original data.
 

@@ -5,7 +5,7 @@
 
 ---
 # Fenrir - D&D Character for TWR
-Fenrir is my first D&D character I ever made using D&D Beyond (also written as DND Beyond) when I first entered [[The Wandering Realms (TWR)\|The Wandering Realms (TWR)]] in June 2022.
+Fenrir is my first D&D character I ever made using D&D Beyond (also written as DND Beyond) when I first entered [[The Wandering Realm (TWR)\|The Wandering Realm (TWR)]] in June 2022.
 I later moved away from it, but in 2024 wanting to get back there & play D&D again lead me to get confused between the Forgotten Realms and [[The Forgotten Forest\|The Forgotten Forest]].
 
 I deleted Fenrir from Avrae after I lost hope of being able to find my old server again...

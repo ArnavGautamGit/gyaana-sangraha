@@ -16,7 +16,7 @@ A quick but naïve solution is to avoid OBVIOUS patterns between the original da
 
 ### Present Solution
 Using the principles of [[Pseudonymisation of Information for Privacy in e-health (PIPE)\|Pseudonymisation of Information for Privacy in e-health (PIPE)]].
-It uses the concept of [[Substitution-based Ciphers\|Substitution-based Ciphers]] but with the [[Key\|Key]] being a collection of Pseudonyms used to replace respective attributes that the Pseudonyms pertain to. There is very basic amount of [[Data Anonymisation\|Data Anonymisation]] where Primary Identifiers (such as name and address) are removed.
+It uses the concept of [[Substitution-based Ciphers\|Substitution-based Ciphers]] but with the [[Cryptographic Key\|Cryptographic Key]] being a collection of Pseudonyms used to replace respective attributes that the Pseudonyms pertain to. There is very basic amount of [[Data Anonymisation\|Data Anonymisation]] where Primary Identifiers (such as name and address) are removed.
 
 ---
 # Footnotes

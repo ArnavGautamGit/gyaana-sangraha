@@ -32,7 +32,7 @@ There are some terms we must keep in mind:
 7. ***Ciphertext***: Message in its *encrypted* form.
 { #7}
 
-8. ***[[Key\|Key]]***: A value or group of values used to encrypt and decrypt the message. It is always fixed for a specific message or a specific kind of message.
+8. ***[[Cryptographic Key\|Cryptographic Key]]***: A value or group of values used to encrypt and decrypt the message. It is always fixed for a specific message or a specific kind of message.
 { #8}
 
 9. ***Sender***: The entity (human or machine) which is sending the message.

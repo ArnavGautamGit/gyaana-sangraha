@@ -12,6 +12,7 @@ Avoiding Losses caused by [[Security Incidents\|Security Incidents]] leads to le
 
 ### Aims
 Figure out what exactly the cause, process and effect of any [[Security Incidents\|Security Incidents]] that have affected or hit the Database.
+When conducting Forensic Analysis after a incident, the priority lies in identifying unauthorised changes, recover any deleted data, analyse the database logs of transactions, verify Data [[Integrity\|Integrity]] and track any [[Attack Vectors\|Attack Vectors]].
 
 ### Things to Consider
 - How to regain access to the system

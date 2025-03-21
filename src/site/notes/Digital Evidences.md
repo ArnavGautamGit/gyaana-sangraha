@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/Digital Evidences/","tags":["Academics","CyberSec"]}
+---
+
+
+---
+# Digital Evidences
+> Items and Data such as system logs, call logs, timestamped messages, social media activity or other data or meta data that can act as evidence to prove a [[Cyber Crime\|Cyber Crime]] or [[Malicious Hacking\|Malicious Hacking]] case in court.
+
+Evidences and their forms may change depending on the Operating System used by the user. Linux Filesystem is ext4 whereas NTFS is primarily used by Windows while Mac uses HFS+. FAT32 is also used by Windows but generally considered cross-platform.
+
+Evidence is often collected in the form of files copied from the filesystem or as [[Computer Artefacts\|Computer Artefacts]] of various operating systems. Often [[Browser Artefacts\|Browser Artefacts]] are also a great source of data.
+
+Users may use [[Whole Disk Encryption\|Whole Disk Encryption]] to protect against their data being seen, read, edited or deleted by another person outside of the circle of authorised people who know the password. 
+
+---
+# Footnotes

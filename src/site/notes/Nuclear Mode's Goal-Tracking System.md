@@ -43,15 +43,15 @@ $$\Large Score =\dfrac{Task \ Done}{Total \ Tasks}$$
 After the Score is Determined, we assign a Rating to the day as a number from 1-5.
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day    | Score | Rating (1-5) | Notes                                      |
-| ------ | ----- | ------------ | ------------------------------------------ |
-| Mond   | 2/6   | 2            | Missed RB Training but not Park Gym + Walk |
-| Tuesd  | 3/6   | 2.5          | Many tasks carrying over from last 2 weeks |
-| Wedn   |       |              |                                            |
-| Thurs  |       |              |                                            |
-| Friday |       |              |                                            |
-| Satur  |       |              |                                            |
-| Sund   |       |              |                                            |
+| Day    | Score | Rating (1-5) | Notes                                       |
+| ------ | ----- | ------------ | ------------------------------------------- |
+| Mond   | 2/6   | 2            | Missed RB Training but not Park Gym + Walk  |
+| Tuesd  | 3/6   | 2.5          | Many tasks carrying over from last 2 weeks  |
+| Wedn   | 2/5   | 3            | Reallocated old pending tasks to Post-T2    |
+| Thurs  | 2/3   | 4            | Could not go on a walk w/ Papa as studying  |
+| Friday | 0/2   |              | Slept in the day, had to skip both workouts |
+| Satur  |       |              |                                             |
+| Sund   |       |              |                                             |
 
 
 | Week      | Weekly Rating | Notes                               |

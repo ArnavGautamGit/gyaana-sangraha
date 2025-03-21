@@ -2,16 +2,9 @@
 {"dg-publish":true,"permalink":"/Forms of Adaptation/","tags":["Literature","Academics"]}
 ---
 
-***Created on: 30/01/2024
-Last updated: 30/01/2024***
-
-----
-# Index/Contents
-[[Forms of Adaptation#What are the various forms of Adaptation?\|#What are the various forms of Adaptation?]]
-[[Forms of Adaptation#Footnotes\|#Footnotes]]
 
 -----
-# What are the various forms of Adaptation?
+# Forms of Adaptation?
 ***==Adaptation==*** is the act of changing something to make it suitable for new purpose or situation.
 ***==Literary Adaptation==*** is (by extension) the act of changing the literary piece written by the same author or someone else to make it suitable for a new audience of (possibly) a new time period or set of beliefs. 
 

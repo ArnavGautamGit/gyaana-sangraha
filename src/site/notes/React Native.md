@@ -17,7 +17,7 @@ The Components in React Native are given in [[React Native Components\|React Nat
 ---
 ### List of Projects made using React Native & Expo
 
-1. [[FitRaho Fitness App\|FitRaho Fitness App]]
+1. FitRaho Fitness App
 2. [[SWIFT - Secure Weather Info For Travellers\|SWIFT - Secure Weather Info For Travellers]]
 
 ---

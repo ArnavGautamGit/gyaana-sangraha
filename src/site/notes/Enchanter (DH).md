@@ -5,7 +5,7 @@
 
 ---
 # Enchanter (DH)
-> A Hombrew [[DH Character Creation#Character Class\|Character Class]] in [[Daggerheart\|Daggerheart]] that I made to accomodate more players.
+> A ***HOMEBREW*** [[DH Character Creation#Character Class\|Character Class]] in [[Daggerheart\|Daggerheart]] that I made to accomodate more players.
 > Enchanters are a class of individuals who can easily enchant & influence people. They may live anywhere & can utilise a Beastform like a [[Druid (DH)\|Druid (DH)]] while having a charismatic presence of a [[Bard (DH)\|Bard (DH)]].
 
 The only restriction on Beastform is that the Enchanter can only Beastform into ONE singular beast, there are no options. The player has to specify which beast they want to have as their singular Beastform.

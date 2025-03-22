@@ -9,20 +9,29 @@
 
 Evidences and their forms may change depending on the Operating System used by the user. Linux Filesystem is ext4 whereas NTFS is primarily used by Windows while Mac uses HFS+. FAT32 is also used by Windows but generally considered cross-platform.
 
-Evidence is often collected in the form of files copied from the filesystem or as [[Computer Artefacts\|Computer Artefacts]] of various operating systems. Often [[Browser Artefacts\|Browser Artefacts]] are also a great source of data.
+### Identification
+The Forensic Team must be able to identify all of the evidence pertaining to a case & be able to store & collect it. Popular points of Evidence include: [[Computer Artefacts\|Computer Artefacts]], [[Browser Artefacts\|Browser Artefacts]], Call Logs, Social Media Activity, Computer Logs and Network Logs among other relavant material depending upon case details.
 
-Users may use [[Whole Disk Encryption\|Whole Disk Encryption]] to protect against their data being seen, read, edited or deleted by another person outside of the circle of authorised people who know the password. 
+### Collection
+Evidence is often collected in the form of files copied from the filesystem or as [[Computer Artefacts\|Computer Artefacts]] and [[Browser Artefacts\|Browser Artefacts]] of various operating systems and browsers used on the Machine. 
 
-the process of collection of Digital Evidences depend on whether the forensic analysis is done as [[Live Forensics\|Live Forensics]] or [[Dead Forensics\|Dead Forensics]].
+It is important to note that Digital Evidences collected in this phase are copied onto Fresh SSDs & not older ones.
 
-### Maintaining the Chain of Custody
-An important step in Collection of Digital Evidence. 
-In the step, we are expected to document everything so it is easy to conduct a Forensic Analysis in case things actualy go south. Not to mention that the court requires immensely detailed logs of all investigative steps to accept any digital evidence presented. The Documentation helps in reproducibility & tracking the investigation process if any other experts want to reproduce our results using the same processes.
+### Preservation
+The Drives storing the evidence are then put through [[Whole Disk Encryption\|Whole Disk Encryption]].
+They must also be then properly labelled by drive identifier and device idetifier. Certain companies may use individual names or numbers for devices and each OS assigns a name to individual Storage Drives connected to it.
 
+Regardless of if the same drives from the source are being used or data being copied onto new drives, they must also be placed in auto-seal ziplocks which are labelled by devices and carry the same drives that the specific computer/laptop was having in it.
 
-We must use Tamper-proof storage with clear labels and keep them properly sealed and limit access to authorised personnel only.
+We must also maintain and store any Hash Values of the Storage Devices to check and recheck if there have been any unauthorised changes that have been made in the drives. This protects the Data [[Integrity\|Integrity]] of the individual drives and in-turn protects the Integrity of the Evidence. 
 
-To preserve the evidence and maintain Data [[Integrity\|Integrity]], we should always maintain Hash Values of the storage drives. In terms of approach to handle evidence we shoud use the approach of Acquire, Authenticate and Analyse.
+### Documentation & Analysis
+Documentation of the Evidence is the most important step. Documentation helps identify the chain of custody from the Evidence first being generated and being collected by the Forensic Team, all the way to the Court Presentation. 
+
+All the processes performed on the Evidence for Analysis are also documented to help in making the results more reproducible by other experts.
+
+Documentation is also immensely helpful in case the Hon'ble Court asks to transfer the case to another authority or in cases where the Forensic Team experiences changes in personnel.
+
 
 ---
 # Footnotes

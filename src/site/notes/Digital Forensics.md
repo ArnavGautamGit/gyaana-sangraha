@@ -5,14 +5,9 @@
 
 ---
 # Digital Forensics
-> Process of identifying, preserving, analysing, presenting Digital Evidences. It includes the area of analyses like Storage Media, Hardware, [[Operating Systems and Systems Programming\|Operating Systems]], [[Computer Networks\|Networks]], Applications etc. 
+> Process of identifying, preserving, analysing, presenting [[Digital Evidences\|Digital Evidences]]. It includes the area of analyses like Storage Media, Hardware, [[Operating Systems and Systems Programming\|Operating Systems]], [[Computer Networks\|Networks]], Applications etc. 
 
-The Process of Digital Forensics involves the following 5 steps:
- 1. Identification of Evidence
- 2. Collection of Evidence
- 3. Analysis of Evidence
- 4. Documentation of Evidence
- 5. Presentation of Evidence (in court)
+The Digital Evidence is first identified, then collected, preserved, analysed, documented and later presented to the superiors and/or presented in court.
 
 ### Types of Digital Forensics
 1. *[[Computer Forensics\|Computer Forensics]]*: Analyse digital evidence obtained from laptops, computers & storage media to support ongoing investigation and legal proceedings.

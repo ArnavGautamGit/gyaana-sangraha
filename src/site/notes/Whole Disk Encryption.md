@@ -13,7 +13,7 @@ Although for general ease-of-use, Software-based Encryption is considered suffic
 ### Tools
 BitLocker is a popular Disk Encryption tool for Windows & works by leaving an unencrypted partition of the drive to boot from but the entire Operating System is encrypted. Meaning that a person would need to know the password to gain entry. 
 
-VeraCrypt is a good choice for cross-platform [[On-The-Fly Encryption (OTFE)\|On-The-Fly Encryption (OTFE)]] also called as "Transparent Encryption" where the encryption & decryption occurs automatically as you open and close files, given that you have already provided the key to access the files for the first time. 
+VeraCrypt is a good choice for cross-platform [[On-The-Fly Encryption (OTFE)\|On-The-Fly Encryption (OTFE)]] also called as "Transparent Encryption" where the encryption & decryption occurs automatically as you open and close files, given that you have already provided the key to access the files for the first time. VeraCrypt works on Windows, MacOS and Linux. It is also to be noted that VeraCrypt is [[Free & Open Source Software (FOSS)\|Free & Open Source Software (FOSS)]].
 
 ---
 # Footnotes

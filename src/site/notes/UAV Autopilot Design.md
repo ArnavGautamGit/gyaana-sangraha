@@ -5,7 +5,7 @@
 
 ---
 # UAV Autopilot Design
-Autopilots in UAVs need to have 3 subsystems done right: Automatic Flight Controls Systems, Guidance System & Navigation System i.e., where the drone wants to go, calculation of the path to get there and control inputs to pick that trajectory.
+Autopilots in UAVs need to have 3 subsystems done right: Automatic [[UAV Control System Design\|Flight Controls Systems]], [[UAV Guidance System Design\|Guidance System]] & [[UAV Navigation System Design\|Navigation System]] i.e., where the drone wants to go, calculation of the path to get there and control inputs to pick that trajectory.
 
 ![Autopilot Subsystems.png](/img/user/Vaulted%20Images/Autopilot%20Subsystems.png)
 
@@ -13,7 +13,7 @@ The Constraints are that the entire system needs to be a Dynamic, [[Real-Time Sy
 
 ![Autopilot Design Process.png](/img/user/Vaulted%20Images/Autopilot%20Design%20Process.png)
 
-Three major sections of control system, guidance system, and navigation system are designed in parallel. At any stage of the design procedure, the output is checked with the design requirements, and a feedback is taken. The process is repeated until the requirements are met.
+Three major sections of [[UAV Control System Design\|control system]], [[UAV Guidance System Design\|guidance system]], and [[UAV Navigation System Design\|navigation system]] are designed in parallel. At any stage of the design procedure, the output is checked with the design requirements, and a feedback is taken. The process is repeated until the requirements are met.
 
 Major Requirements from any Autopilot system is the required accuracy, stability, structural stiffness, maneuverability, flying quality, reliability, cost and processor.
 

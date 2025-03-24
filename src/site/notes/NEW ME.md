@@ -22,7 +22,7 @@
 		- The truth is: a) it is temporary b) there is no grand revelation c) no need to overthink, continue sticking to your plan d) in time, it will stop completely.
 - ***==Learnings Derived from Introspection==***:
 	- Schedule Time Table's major tasks on Full or Half Hours (2-3pm or 2:30-3:30) and avoid quarter timings or similar
-	- 
+	- Ask friends to drop you to the nearest Metro Station. Comibines Bakchodi with Travel Times. 
 - ***==Detailed Data of Problems & their Triggers==***:
 	- I tend to not study or work when alone.
 	- Doomscrolling after coming back home tired from College takes up all my time.
@@ -33,7 +33,7 @@
 	- Similarities from Past Experiences:
 - ***==Purpose in Life==***
 	- Providing an affluent household and the best education for my children that money can buy.
-	- To have the money to retire anytime I want.
+	- To have the money to pre-order Daggerheart.
 	- Holistic Growth encompassing Financial, Emotional and Spiritual Growth.
 	- Enough Knowledge to speak on nearly all topics and Enough Wisdom to know that we must not open our mouths everywhere.
 

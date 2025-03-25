@@ -47,7 +47,7 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | Day    | Score | Rating (1-5) | Notes                                                     |
 | ------ | ----- | ------------ | --------------------------------------------------------- |
 | Mond   | 2/3   | 3.334        | New Formula now multiplies the Score with 5 to get rating |
-| Tuesd  | 2/2   | 5            | New Formula make ratings objective, no                    |
+| Tuesd  | 2/2   | 5            | New Formula make Ratings objective, no subjectivity       |
 | Wedn   |       |              |                                                           |
 | Thurs  |       |              |                                                           |
 | Friday |       |              |                                                           |
@@ -59,24 +59,24 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | --------- | ------------- | ----------------------------------- |
 | 3-9 Mar   | 1.5           | Sick after Synergy '25 College Fest |
 | 10-16 Mar | 2             | PC Crash & Boot Loop Problem        |
-| 17-23 Mar | 3             | Out of Rhythm. Not able to balance  |
-| 24-31 Mar |               |                                     |
+| 17-23 Mar | 3             | Out of Rhythm, Momentum Lost        |
+| 24-31 Mar |               | Formula for Rating Changed          |
 
 
-| Month     | Avg Rating | Notes                                      |
-| --------- | ---------- | ------------------------------------------ |
-| January   | 2.5        | Could have done more, busy in weddings     |
-| February  | 3.3325     | Improved, Learnt to Cook Lunch             |
-| March     |            | Got Sick in 1st Week, PC crashed in 2nd    |
-| April     |            | First Month w/ new Score to Rating Formula |
-| May       |            |                                            |
-| June      |            |                                            |
-| July      |            |                                            |
-| August    |            |                                            |
-| September |            |                                            |
-| October   |            |                                            |
-| November  |            |                                            |
-| December  |            |                                            |
+| Month     | Avg Rating | Notes                                    |
+| --------- | ---------- | ---------------------------------------- |
+| January   | 2.5        | Could have done more, busy in weddings   |
+| February  | 3.3325     | Improved, Learnt to Cook Lunch           |
+| March     |            | Got Sick, PC crashed, New Rating Formula |
+| April     |            |                                          |
+| May       |            |                                          |
+| June      |            |                                          |
+| July      |            |                                          |
+| August    |            |                                          |
+| September |            |                                          |
+| October   |            |                                          |
+| November  |            |                                          |
+| December  |            |                                          |
 
 | Year | Avg Rating | Notes                                         |
 | ---- | ---------- | --------------------------------------------- |

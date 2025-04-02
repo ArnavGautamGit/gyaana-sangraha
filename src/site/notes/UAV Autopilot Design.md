@@ -17,7 +17,7 @@ Three major sections of [[UAV Control System Design\|control system]], [[UAV Gui
 
 Major Requirements from any Autopilot system is the required accuracy, stability, structural stiffness, maneuverability, flying quality, reliability, cost and processor.
 
-The [[PID Controller\|PID Controller]] is often used in Control Systems Design.
+The [[PID Controller\|PID Controller]] is often used in [[UAV Control System Design\|UAV Control System Design]].
 The [[Kalman Filter\|Kalman Filter]] is often used for Linearisation - a system as complex as a UAV with multiple variables can never be linear but Taylor Series Expansions are used to Linearise the equations around certain Equilibrium points. 
 
 ---

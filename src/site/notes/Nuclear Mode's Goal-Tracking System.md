@@ -48,7 +48,7 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | ------ | ----- | ------------ | --------------------------------------------------------- |
 | Mond   | 2/3   | 3.334        | New Formula now multiplies the Score with 5 to get rating |
 | Tuesd  | 2/2   | 5            | New Formula make Ratings objective, no subjectivity       |
-| Wedn   |       |              |                                                           |
+| Wedn   | 1/3   | 1.667        |                                                           |
 | Thurs  |       |              |                                                           |
 | Friday |       |              |                                                           |
 | Satur  |       |              |                                                           |

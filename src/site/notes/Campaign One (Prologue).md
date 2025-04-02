@@ -5,7 +5,7 @@
 
 ---
 # Campaign One - Daggerheart One Shot
-This is a prologue campaign to the main Homebrew [[Campaign One - House of Forechester\|Campaign One - House of Forechester]]. While the main campaign is supposed to be played with Friends & Players I find, this one is supposed to be played in our College Fest as a way to find players and test my skill as a GM because this will be the first time I will be playing face-to-face [[Daggerheart\|Daggerheart]] and also be the first time ever that I will be the GM.
+This is a prologue campaign to the main Homebrew [[Campaign One - Storms of Eslance\|Campaign One - Storms of Eslance]]. While the main campaign is supposed to be played with Friends & Players I find, this one is supposed to be played in our College Fest as a way to find players and test my skill as a GM because this will be the first time I will be playing face-to-face [[Daggerheart\|Daggerheart]] and also be the first time ever that I will be the GM.
 
 The Story starts in our Homebrew World.    
 ![Map of Campaign One.jpg](/img/user/Vaulted%20Images/Map%20of%20Campaign%20One.jpg)

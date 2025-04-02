@@ -44,30 +44,31 @@ Earlier, after the Score used to be determined, we assigned an arbitrary rating 
 $$\Large Rating = Score \times 5$$
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day    | Score | Rating (1-5) | Notes                                                     |
-| ------ | ----- | ------------ | --------------------------------------------------------- |
-| Mond   | 2/3   | 3.334        | New Formula now multiplies the Score with 5 to get rating |
-| Tuesd  | 2/2   | 5            | New Formula make Ratings objective, no subjectivity       |
-| Wedn   | 1/3   | 1.667        |                                                           |
-| Thurs  |       |              |                                                           |
-| Friday |       |              |                                                           |
-| Satur  |       |              |                                                           |
-| Sund   |       |              |                                                           |
+| Day    | Score | Rating (1-5) | Notes                            |
+| ------ | ----- | ------------ | -------------------------------- |
+| Mond   | nil   | nil          | April started on Tuesday         |
+| Tuesd  | 1/1   | 5/5          | Last T2 Exam on April Fool's Day |
+| Wedn   |       |              |                                  |
+| Thurs  |       |              |                                  |
+| Friday |       |              |                                  |
+| Satur  |       |              |                                  |
+| Sund   |       |              |                                  |
 
 
-| Week      | Weekly Rating | Notes                               |
-| --------- | ------------- | ----------------------------------- |
-| 3-9 Mar   | 1.5           | Sick after Synergy '25 College Fest |
-| 10-16 Mar | 2             | PC Crash & Boot Loop Problem        |
-| 17-23 Mar | 3             | Out of Rhythm, Momentum Lost        |
-| 24-31 Mar |               | Formula for Rating Changed          |
+| Week      | Weekly Rating | Notes |
+| --------- | ------------- | ----- |
+| 1-6 Apr   |               |       |
+| 7-13 Apr  |               |       |
+| 14-20 Apr |               |       |
+| 21-27 Apr |               |       |
+| 27-30 Apr |               |       |
 
 
 | Month     | Avg Rating | Notes                                    |
 | --------- | ---------- | ---------------------------------------- |
 | January   | 2.5        | Could have done more, busy in weddings   |
 | February  | 3.3325     | Improved, Learnt to Cook Lunch           |
-| March     |            | Got Sick, PC crashed, New Rating Formula |
+| March     | 2.458      | Got Sick, PC crashed, New Rating Formula |
 | April     |            |                                          |
 | May       |            |                                          |
 | June      |            |                                          |

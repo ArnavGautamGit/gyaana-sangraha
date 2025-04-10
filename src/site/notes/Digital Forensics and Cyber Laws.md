@@ -32,6 +32,7 @@ My major point of Critique through the semester was how we are taught laws and t
 - [[Indian Cyber Laws\|Indian Cyber Laws]]
 - [[Security Incidents\|Security Incidents]] and [[Incident Handling\|Incident Handling]]
 - [[Digital Evidences\|Digital Evidences]]
+- [[Digital Forensic Analysis\|Digital Forensic Analysis]]
 
 ---
 # Footnotes

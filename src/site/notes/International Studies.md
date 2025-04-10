@@ -30,7 +30,19 @@ The Subject is taught by the new Guest Lecturer, Mr. George Kutty. He is origina
 - [[Balance Of Power\|Balance Of Power]]
 - [[Collective Security\|Collective Security]]
 - [[International Relations in the 20th Century\|International Relations in the 20th Century]]
-- [[The U.S-Soviet Cold War\|The U.S-Soviet Cold War]]
+	- [[The First World War (WW1)\|The First World War (WW1)]]
+	- [[League of Nations\|League of Nations]]
+	- [[The Second World War (WW2)\|The Second World War (WW2)]]
+	- [[The U.S-Soviet Cold War\|The U.S-Soviet Cold War]]
+- [[United Nations (U.N)\|United Nations (U.N)]]
+	- [[United Nations General Assembly (U.N.G.A)\|United Nations General Assembly (U.N.G.A)]]
+	- [[United Nations Security Council (U.N.S.C)\|United Nations Security Council (U.N.S.C)]]
+	- [[International Court of Justice (ICJ)\|International Court of Justice (ICJ)]]
+	- [[Economic Social Council (E.S.C)\|Economic Social Council (E.S.C)]]
+		- [[World Health Organisation (W.H.O)\|World Health Organisation (W.H.O)]]
+		- [[UNESCO\|UNESCO]]
+	- [[Trusteeship Council\|Trusteeship Council]]
+	- [[U.N Secretariat\|U.N Secretariat]]
 
 
 ---

@@ -44,24 +44,24 @@ Earlier, after the Score used to be determined, we assigned an arbitrary rating 
 $$\Large Rating = Score \times 5$$
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day    | Score | Rating (1-5) | Notes                            |
-| ------ | ----- | ------------ | -------------------------------- |
-| Mond   | nil   | nil          | April started on Tuesday         |
-| Tuesd  | 1/1   | 5/5          | Last T2 Exam on April Fool's Day |
-| Wedn   |       |              |                                  |
-| Thurs  |       |              |                                  |
-| Friday |       |              |                                  |
-| Satur  |       |              |                                  |
-| Sund   |       |              |                                  |
+| Day    | Score | Rating (1-5) | Notes                      |
+| ------ | ----- | ------------ | -------------------------- |
+| Mond   | nil   | nil          | Did the Resistance Workout |
+| Tuesd  | nil   | nil          | Unknown                    |
+| Wedn   | nil   | nil          | Unknown                    |
+| Thurs  | 4/6   |              | Shifted from PC to Laptop  |
+| Friday |       |              |                            |
+| Satur  |       |              |                            |
+| Sund   |       |              |                            |
 
 
-| Week      | Weekly Rating | Notes |
-| --------- | ------------- | ----- |
-| 1-6 Apr   |               |       |
-| 7-13 Apr  |               |       |
-| 14-20 Apr |               |       |
-| 21-27 Apr |               |       |
-| 27-30 Apr |               |       |
+| Week      | Weekly Rating | Notes                                 |
+| --------- | ------------- | ------------------------------------- |
+| 1-6 Apr   | Unknown       | Only Known Rating is 5/5 on 1st April |
+| 7-13 Apr  |               | Shifted to Laptop (permanently)       |
+| 14-20 Apr |               |                                       |
+| 21-27 Apr |               |                                       |
+| 27-30 Apr |               |                                       |
 
 
 | Month     | Avg Rating | Notes                                    |
@@ -69,7 +69,7 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | January   | 2.5        | Could have done more, busy in weddings   |
 | February  | 3.3325     | Improved, Learnt to Cook Lunch           |
 | March     | 2.458      | Got Sick, PC crashed, New Rating Formula |
-| April     |            |                                          |
+| April     |            | Shifted to Laptop permanently            |
 | May       |            |                                          |
 | June      |            |                                          |
 | July      |            |                                          |
@@ -78,6 +78,7 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | October   |            |                                          |
 | November  |            |                                          |
 | December  |            |                                          |
+
 
 | Year | Avg Rating | Notes                                         |
 | ---- | ---------- | --------------------------------------------- |

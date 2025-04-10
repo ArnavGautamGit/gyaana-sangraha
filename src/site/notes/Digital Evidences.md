@@ -44,6 +44,11 @@ All the processes performed on the Evidence for Analysis are also documented to 
 
 Documentation is also immensely helpful in case the Hon'ble Court asks to transfer the case to another authority or in cases where the Forensic Team experiences changes in personnel.
 
+---
+## Classification of Digital Evidences
+Digital Evidences are classified on the basis of Data Volatility and other factors. The Classification is given below.
+
+
 
 ---
 # Footnotes

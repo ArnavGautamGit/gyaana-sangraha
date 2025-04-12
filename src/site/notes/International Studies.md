@@ -9,7 +9,7 @@
 
 > Here, International Studies refers to a subject in the 8th semester (Last Semester) of my B.Tech Computer Science Engineering Degree at Jaypee Institute of Information Technology.
 
-The Subject is taught by the new Guest Lecturer, Mr. George Kutty. He is originally from Kerela but living near Mayur Vihar Pocket - 1 Metro Station in Delhi (probably on rent i am guessing). He has a great way of teaching.
+The Subject is taught by the new Guest Lecturer, Dr. George Kutty. He is originally from Kerela but living near Mayur Vihar Pocket - 1 Metro Station in Delhi (probably on rent i am guessing). He has a great way of teaching. He made me enthusiastic about the subject. In the same semester, he was also teaching "Global Politics" to Junior Students.
 
 ### Syllabus
 - [[State (United Nations)\|State (United Nations)]]
@@ -34,15 +34,23 @@ The Subject is taught by the new Guest Lecturer, Mr. George Kutty. He is origina
 	- [[League of Nations\|League of Nations]]
 	- [[The Second World War (WW2)\|The Second World War (WW2)]]
 	- [[The U.S-Soviet Cold War\|The U.S-Soviet Cold War]]
+	- [[Non-Alligned Movement (NAM)\|Non-Alligned Movement (NAM)]]
 - [[United Nations (U.N)\|United Nations (U.N)]]
 	- [[United Nations General Assembly (U.N.G.A)\|United Nations General Assembly (U.N.G.A)]]
 	- [[United Nations Security Council (U.N.S.C)\|United Nations Security Council (U.N.S.C)]]
 	- [[International Court of Justice (ICJ)\|International Court of Justice (ICJ)]]
 	- [[Economic Social Council (E.S.C)\|Economic Social Council (E.S.C)]]
 		- [[World Health Organisation (W.H.O)\|World Health Organisation (W.H.O)]]
+		- [[International Labour Organisation (I.L.O)\|International Labour Organisation (I.L.O)]]
 		- [[UNESCO\|UNESCO]]
+		- [[UNICEF\|UNICEF]]
 	- [[Trusteeship Council\|Trusteeship Council]]
 	- [[U.N Secretariat\|U.N Secretariat]]
+- [[Diplomacy\|Diplomacy]]
+	- [[Debt-Trap Diplomacy\|Debt-Trap Diplomacy]]
+	- [[Checkbook Diplomacy\|Checkbook Diplomacy]]
+	- [[Ping-Pong Diplomacy\|Ping-Pong Diplomacy]]
+	- [[Gunboat Diplomacy\|Gunboat Diplomacy]]
 
 
 ---

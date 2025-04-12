@@ -46,20 +46,20 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 
 | Day    | Score | Rating (1-5) | Notes                      |
 | ------ | ----- | ------------ | -------------------------- |
-| Mond   | nil   | nil          | Did the Resistance Workout |
+| Mond   | 2/5   | 2 (at least) | Did the Resistance Workout |
 | Tuesd  | nil   | nil          | Unknown                    |
 | Wedn   | nil   | nil          | Unknown                    |
-| Thurs  | 4/6   |              | Shifted from PC to Laptop  |
-| Friday |       |              |                            |
-| Satur  |       |              |                            |
-| Sund   |       |              |                            |
+| Thurs  | 4/6   | 3.334        | Shifted from PC to Laptop  |
+| Friday | 2/5   | 2            | Slept through the day      |
+| Satur  | 1/5   | 1            | Wasted time on YT          |
+| Sund   | 2/7   |              | 2 tasks done last Night    |
 
 
 | Week      | Weekly Rating | Notes                                 |
 | --------- | ------------- | ------------------------------------- |
 | 1-6 Apr   | Unknown       | Only Known Rating is 5/5 on 1st April |
 | 7-13 Apr  |               | Shifted to Laptop (permanently)       |
-| 14-20 Apr |               |                                       |
+| 14-20 Apr |               | Rhythm broken after PC crash          |
 | 21-27 Apr |               |                                       |
 | 27-30 Apr |               |                                       |
 
@@ -69,7 +69,7 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | January   | 2.5        | Could have done more, busy in weddings   |
 | February  | 3.3325     | Improved, Learnt to Cook Lunch           |
 | March     | 2.458      | Got Sick, PC crashed, New Rating Formula |
-| April     |            | Shifted to Laptop permanently            |
+| April     |            | Shifted to Laptop, Need to regain rhythm |
 | May       |            |                                          |
 | June      |            |                                          |
 | July      |            |                                          |

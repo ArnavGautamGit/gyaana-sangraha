@@ -15,6 +15,7 @@
 - ***==Self-Destructive Patterns==***:
 	- I hang around for Bakchodi with my friends. It pushes my schedule by 2 or more hours and fucks the day. (Since I need to sleep early after Dinner to wake up early for morning classes).
 	- Whenever I am alone, I slack off & don't work.
+	- [[Problem: No Fixed Sleep Routine\|Problem: No Fixed Sleep Routine]]
 - ***==Whenever in Doubt, Read the following==***:
 	- If you have a solution or conclusion, stick with it. It may take 3 months to apply. Impatience to want to make it happen instantly will make it take 3 years instead.
 	- Be a train that has set off to its destination. There is no point of stopping once you know what you know.

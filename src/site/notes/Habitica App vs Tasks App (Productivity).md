@@ -18,7 +18,8 @@ The Comparison between the two is very simple and straight forward. I compared t
 ✅ Allows teaming up with friends for accountability partnerships.
 ✅ Easy to use for a new user due to easily available tutorials.
 🟰 Cross-Platform. Can be used both on phone and PC. (matter of preference)
-❌ Too many RPG options clutter the UI (armour & weapons is enough)
+❌ Does not sync tasks to Google Calendar & you have to specifically check the app.
+❌ Cannot set *Dailies* to be due at a specific time (cannot time-block tasks)
 ❌ Has a paid tier (i.e., NOT Free & Open Source)
 ❌ When Habitica servers are down, the app doesn't work. (got frequent in 2024)
 ❌ Does not Natively allow priority based sorting (possible using "Tags")
@@ -39,6 +40,10 @@ The Comparison between the two is very simple and straight forward. I compared t
 ❌ No available tutorials on YouTube. (or not as many as Habitica - which itself is small)
 ❌ Not available for iOS.
 
+### TL;DR
+- Tasks.Org App works well when syncing to Google Calendar is much more valuable than being able to also manage Habits along with To-Dos.
+- Habitica is better in case one wants to use Habit Tracking. Habitica also punishes the user for missing a task.
+- Comparing the number of cons, Habitica is slightly better but it depends on how much individual pros or cons matter to a specific user.
 
 ---
 # Footnotes

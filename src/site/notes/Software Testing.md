@@ -2,12 +2,8 @@
 {"dg-publish":true,"permalink":"/Software Testing/","tags":["CompSci","Software-Development"]}
 ---
 
-# Index/Contents
-[[Software Testing#What is Software Testing?\|#What is Software Testing?]]
-[[Software Testing#Footnotes\|#Footnotes]]
-
------
-# What is Software Testing?
+---
+# Software Testing
 > Testing is a process to test whether the provided solution runs correctly & efficiently as intended without throwing any errors.
 
 It can also be defined as:
@@ -20,19 +16,21 @@ Most big Multi-National Companies operate a separate testing wing for Software T
 2. Logic Errors
 3. Boundary Value Performance
 
-# Bug, Error, Fault and Failure
+## What is a Bug, Error, Fault or Failure?
 A Bug is a mistake in the code made by the programmer.
 An error is the reflection of that mistake on the terminal.
-A fault is a mistake in the ER diagram or Class or Sequence or other diagrams - which if occuring in the software would lead to failure!
+A fault is a mistake in the [[ER diagram\|ER diagram]] or Class or Sequence or other diagrams - which if occuring in the software would lead to failure! A failure in general is defined as a point or event in Software which makes it fail to stick to (or fulfill) its objective.
 
+---
 # Types of Software Tests
 1. ***==Alpha Tests==***: Performed by Developers/testers on their end.
 2. ***==Beta Tests==***: Performed by users on the users' end.
-3. ***==Functional Tests==***: Input Daalo, Ouput Nikaalo - also called "Blackbox Testing".
+3. ***==Functional Tests==***: Input Daalo, Output Nikaalo - also called "[[Black-Box Testing\|Black-Box Testing]]".
 4. ***==Structural Tests==***: Complementary approach to Functional Tests - used to check if the structure of the code is efficient or if the code needs restructuring.
 5. ***==Path Testing==***: Using Flow Graphs and applying [[McCabe's Software Metrics\|McCabe's Software Metrics]].
 
-# How are Softwares Tested?
+---
+# Methods of Software Testing
 Any software is tested based on one of the following methodologies:
 1. Boundary Value Analysis
 2. Robustness Testing
@@ -75,7 +73,7 @@ In this method, we need two things to implement this:
 2. ***Making/Choosing Test Cases***: The next step is to test the classes, which is done using Equivalence classes, first we take the valid class and build as many test cases on the class as possible in phase 1 of testing. In phase 2, we go for the invalid classes, although we do keep some cases from valid classes but we makle sure to add at least 1 case from each invalid class to check if valid output is given invalid input values.
 
 ## Decision Table based Testing
-It is a type of Blackbox Testing.
+It is a type of [[Black-Box Testing\|Black-Box Testing]].
 Used when a vareity of actions exist and we need to take a particular action depending uponthe existing condition.
 ![Decision Table Format.png](/img/user/Vaulted%20Images/Decision%20Table%20Format.png)
 

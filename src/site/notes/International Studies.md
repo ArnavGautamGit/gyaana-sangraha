@@ -51,6 +51,7 @@ The Subject is taught by the new Guest Lecturer, Dr. George Kutty. He is origina
 	- [[Checkbook Diplomacy\|Checkbook Diplomacy]]
 	- [[Ping-Pong Diplomacy\|Ping-Pong Diplomacy]]
 	- [[Gunboat Diplomacy\|Gunboat Diplomacy]]
+- Project-Based Learning (PBL): [[Latin America during the US-Soviet Cold War\|Latin America during the US-Soviet Cold War]]
 
 
 ---

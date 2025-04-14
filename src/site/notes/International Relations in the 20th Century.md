@@ -43,6 +43,8 @@ This formed a [[Unipolar World\|Unipolar World]] where all the power was concent
 Soon after the formation of the [[United Nations (U.N)\|U.N]], 
 the 1950s marked the beginning of [[The U.S-Soviet Cold War\|The U.S-Soviet Cold War]] where both of the states followed different Political and Economic Ideologies which caused a [[Cold War\|Cold War]] between the two countries which got very close to becoming a [[Full-Scale War\|Full-Scale War]] but did not. Rather, the two states engaged via [[Proxy War\|Proxy Wars]].
 
+Some Countries (India included) began the [[Non-Alligned Movement (NAM)\|Non-Alligned Movement (NAM)]] where they refused to align with either party but due to our neighbours (Pakistan) alligning with the USA, we were eventually forced to seek allignment with the [[Union of Soviet Socialist Republics (USSR)\|Soviet Union]]. I am sure other countries also had their reasons.
+
 ---
 # Footnotes
 1. People viewing this page on the Website may or may not be able to see these notes since the contents of said notes is a bit controversial and may be considered or twisted to be anti-Christian even though it is only against radical Christian Evangelism.

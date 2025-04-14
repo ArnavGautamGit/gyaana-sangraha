@@ -22,6 +22,8 @@ H) Any messages hidden inside Images using [[Steganography\|Steganography]]
 among other relavant material depending upon case details.
 
 ### Collection
+> Main Note: [[Acquisition of Digital Evidence\|Acquisition of Digital Evidence]]
+
 Evidence is often collected in the form of files copied from the filesystem or as [[Computer Artefacts\|Computer Artefacts]] and [[Browser Artefacts\|Browser Artefacts]] of various operating systems and browsers used on the Machine. 
 It is important to note that Digital Evidences collected in this phase are copied onto Tamper-Proof SSDs & not older commercial ones. Original Drives may be used for Forensic Research but they are mainly used to tally data to showcase that no evidence tampering has occured. 
 
@@ -48,6 +50,13 @@ Documentation is also immensely helpful in case the Hon'ble Court asks to transf
 ## Classification of Digital Evidences
 Digital Evidences are classified on the basis of Data Volatility and other factors. The Classification is given below.
 
+### Based on Data Storage Volatility
+- ***==Volatile==***: Data can disappear quickly. 
+	- Example: [[Logic Gates\|Logic Gates]] and RAMs
+- ***==Non-Volatile==***: Data remains stored on devices. 
+	- Example: HDD, SSD etc.
+- ***==Physical==***: Devices themselves that may contain data. 
+	- Example: Smartwatches
 
 
 ---

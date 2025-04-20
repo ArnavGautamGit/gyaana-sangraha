@@ -44,27 +44,27 @@ Earlier, after the Score used to be determined, we assigned an arbitrary rating 
 $$\Large Rating = Score \times 5$$
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day    | Score | Rating (1-5) | Notes                                |
-| ------ | ----- | ------------ | ------------------------------------ |
-| Mond   | 3/4   | 3.75         | Returned to Habitica, missed Workout |
-| Tuesd  |       |              | Added Reminders to Habitica Dailies  |
-| Wedn   |       |              |                                      |
-| Thurs  |       |              |                                      |
-| Friday |       |              |                                      |
-| Satur  |       |              |                                      |
-| Sund   |       |              |                                      |
+| Day    | Score | Daily Rating (1-5) | Daily Summary                                               |
+| ------ | ----- | ------------------ | ----------------------------------------------------------- |
+| Mond   |       |                    | College Notes, DFCS PBL and Workout after quite a long time |
+| Tuesd  |       |                    | Interview Day for AventIQ at 11 AM in their Badarpur Office |
+| Wedn   |       |                    | Wednesday is also a workout day in the new system!          |
+| Thurs  |       |                    |                                                             |
+| Friday |       |                    |                                                             |
+| Satur  |       |                    |                                                             |
+| Sund   |       |                    |                                                             |
 
 
-| Week      | Weekly Rating | Notes                                 |
-| --------- | ------------- | ------------------------------------- |
-| 1-6 Apr   | 5             | Only Known Rating is 5/5 on 1st April |
-| 7-13 Apr  | 2.4446        | Shifted to Laptop (permanently)       |
-| 14-20 Apr |               | Hopefully regaining rhythm            |
-| 21-27 Apr |               |                                       |
-| 27-30 Apr |               |                                       |
+| Week      | Weekly Rating | Weekly Summary                                               |
+| --------- | ------------- | ------------------------------------------------------------ |
+| 1-6 Apr   | unknown       | Only Known Rating is 5/5 on 1st April                        |
+| 7-13 Apr  | 2.4446        | Permanently Shifted to Laptop & PC is only used for printing |
+| 14-20 Apr | 2.774         | Regaining Rhythm after coming back to Habitica               |
+| 21-27 Apr |               |                                                              |
+| 27-30 Apr |               |                                                              |
 
 
-| Month     | Avg Rating | Notes                                    |
+| Month     | Avg Rating | Monthly Summary                          |
 | --------- | ---------- | ---------------------------------------- |
 | January   | 2.5        | Could have done more, busy in weddings   |
 | February  | 3.3325     | Improved, Learnt to Cook Lunch           |

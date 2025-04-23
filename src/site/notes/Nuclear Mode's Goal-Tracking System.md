@@ -64,20 +64,20 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | 27-30 Apr |               |                                                              |
 
 
-| Month     | Avg Rating | Monthly Summary                          |
-| --------- | ---------- | ---------------------------------------- |
-| January   | 2.5        | Could have done more, busy in weddings   |
-| February  | 3.3325     | Improved, Learnt to Cook Lunch           |
-| March     | 2.458      | Got Sick, PC crashed, New Rating Formula |
-| April     |            | Shifted to Laptop, Need to regain rhythm |
-| May       |            |                                          |
-| June      |            |                                          |
-| July      |            |                                          |
-| August    |            |                                          |
-| September |            |                                          |
-| October   |            |                                          |
-| November  |            |                                          |
-| December  |            |                                          |
+| Month     | Avg Rating | Monthly Summary                                               |
+| --------- | ---------- | ------------------------------------------------------------- |
+| January   | 2.5        | Could have done more, busy in weddings                        |
+| February  | 3.3325     | Improved, Learnt to Cook Lunch for myself (just in case)      |
+| March     | 2.458      | Got Sick, PC crashed, New Rating Formula may lower ratings    |
+| April     |            | Shifted to Laptop and back to Habitica, Need to regain rhythm |
+| May       |            |                                                               |
+| June      |            |                                                               |
+| July      |            |                                                               |
+| August    |            |                                                               |
+| September |            |                                                               |
+| October   |            |                                                               |
+| November  |            |                                                               |
+| December  |            |                                                               |
 
 
 | Year | Avg Rating | Notes                                         |

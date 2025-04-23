@@ -44,15 +44,15 @@ Earlier, after the Score used to be determined, we assigned an arbitrary rating 
 $$\Large Rating = Score \times 5$$
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day    | Score | Daily Rating (1-5) | Daily Summary                                               |
-| ------ | ----- | ------------------ | ----------------------------------------------------------- |
-| Mond   |       |                    | College Notes, DFCS PBL and Workout after quite a long time |
-| Tuesd  |       |                    | Interview Day for AventIQ at 11 AM in their Badarpur Office |
-| Wedn   |       |                    | Wednesday is also a workout day in the new system!          |
-| Thurs  |       |                    |                                                             |
-| Friday |       |                    |                                                             |
-| Satur  |       |                    |                                                             |
-| Sund   |       |                    |                                                             |
+| Day    | Score | Daily Rating (1-5) | Daily Summary                                                                                                                            |
+| ------ | ----- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Mond   | 1/3   | 1.667              | College Notes, DFCS PBL and Workout after quite a long time                                                                              |
+| Tuesd  | 2/2   | 5                  | Interview Day for AventIQ at 11 AM + Swaang Kabira at 6 PM                                                                               |
+| Wedn   | 2/2   | 5                  | Lack of support & help led to me relegating Major Project PPT and Poster to Khushi. Nature of tasks changed, but "completed" (in a way). |
+| Thurs  |       |                    | First Day of Joining!                                                                                                                    |
+| Friday |       |                    |                                                                                                                                          |
+| Satur  |       |                    |                                                                                                                                          |
+| Sund   |       |                    |                                                                                                                                          |
 
 
 | Week      | Weekly Rating | Weekly Summary                                               |

@@ -18,7 +18,7 @@ A process can only use any resource after the request of using the aforementione
 ## 1.2 Necessary Conditions for Deadlocks
 Conditions that need to hold simultaneously in the system for a deadlock to occur.
 1. ==***Mutual Exclusion***==: At least one resource must be held in a non-sharable mode; i.e., only one process should work at a time (on a specific resource).
-2. ==***Hold and Wait***==: A prtocess must be holding a non-sharable resource and be waiting for another resource (held by other processes) to finish before it can release the control of this one.
+2. ==***Hold and Wait***==: A process must be holding a non-sharable resource and be waiting for another resource (held by other processes) to finish before it can release the control of this one.
 3. ==***No Preemption***==: Resources cannot be preempted. i.e., a resource cannot be released by a process until the task which utilizes the resource has completely finished.
 4. ==***Circular Wait***==: A series of waiting processes must exist such that $P_0$ is waiting for a resource which is currently held by $P_1$ as $P_1$ itself waits for a resource held by $P_2$ and so on.
 ## 1.3 Resource Allocation Graph

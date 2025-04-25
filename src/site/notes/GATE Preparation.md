@@ -19,7 +19,7 @@ Syllabus:
 [[Theory of Computation\|Theory of Computation]]
 [[Compiler Design\|Compiler Design]]
 [[Introduction to OS\|Introduction to OS]]
-[[Database Mnagement Systems (DBMS)\|Database Mnagement Systems (DBMS)]]
+[[Database Management Systems (DBMS)\|Database Management Systems (DBMS)]]
 [[Computer Networks\|Computer Networks]]
 [[Engineering Maths\|Engineering Maths]]
 [[General Aptitude\|General Aptitude]]

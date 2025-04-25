@@ -49,9 +49,9 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | Mond   | 1/3   | 1.667              | College Notes, DFCS PBL and Workout after quite a long time                                                                              |
 | Tuesd  | 2/2   | 5                  | Interview Day for AventIQ at 11 AM + Swaang Kabira at 6 PM                                                                               |
 | Wedn   | 2/2   | 5                  | Lack of support & help led to me relegating Major Project PPT and Poster to Khushi. Nature of tasks changed, but "completed" (in a way). |
-| Thurs  |       |                    | First Day of Joining!                                                                                                                    |
-| Friday |       |                    |                                                                                                                                          |
-| Satur  |       |                    |                                                                                                                                          |
+| Thurs  | 1/1   | 5                  | First Day of Joining! Devang and Ayush got late. Joining Date postponed to May due to miscommunication between Company and College.      |
+| Friday | 3/5   | 3                  | Missed both my Dailies (College Notes and Workout) but finished some To-Do Tasks pending on Habitica.                                    |
+| Satur  |       |                    | Finish Leftover College Notes and UAVs Assignment before any OSSP and DBMS notes restructuring and study.                                |
 | Sund   |       |                    |                                                                                                                                          |
 
 

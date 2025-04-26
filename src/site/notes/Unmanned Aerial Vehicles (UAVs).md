@@ -18,7 +18,9 @@ UAVs can be classified on the basis of many criteria. There are a few Criterions
 - Usecase (Civilian or Military)
 	- Civilian UAVs are used for Surveys & Deliveries
 	- Military UAVs are used for Scouting & Bombing
-- Flight Design (Fixed Wing or Multi-Rotor)
+- Flight Design (Fixed-Wing or [[Multi-Rotor UAVs\|Multi-Rotor UAVs]])
+	- [[Fixed-Wing UAVs\|Fixed-Wing UAVs]] look similar to airplanes & use fixed wings to generate lift.
+	- [[Multi-Rotor UAVs\|Multi-Rotor UAVs]] (AKA Rotorcrafts) which use rotating propellers to generate lift.
 - Propulsion (Electric or Fossil Fuel)
 - Weight (Nano to Large)
 

@@ -16,9 +16,11 @@ The Subject is taught by Janadhan Sir who is notorious as a professor who doesn'
 	- [[UAV Control System Design\|UAV Control System Design]]
 	- [[UAV Guidance System Design\|UAV Guidance System Design]]
 	- [[UAV Navigation System Design\|UAV Navigation System Design]]
-- [[UAV Communication Architecture\|UAV Communication Architecture]]
+- [[UAV Communication System\|UAV Communication System]]
 - [[UAV Hardware Architecture\|UAV Hardware Architecture]]
 - [[Ground Control System\|Ground Control System]] and [[UAV Ground Control\|UAV Ground Control]]
+- [[Payload\|Payload]] and [[Payload Design\|Payload Design]]
+- 
 
 
 ---

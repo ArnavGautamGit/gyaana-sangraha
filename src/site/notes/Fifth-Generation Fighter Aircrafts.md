@@ -29,7 +29,7 @@ There are countries that want to join the list. These are:
 1. Source: [StudyIQ's video on AMCA](https://youtu.be/vEy6d_DEK_w?si=LMg8nqfGIfJEoswj)
 { #1}
 
-2. Hardpoints are fixed points on an aircraft which allows mounting of fuel tanks or a missile arsenal or anything that may need to be dropped. Some Hardpoints may only allow one missile/tank on them and are called ***Pylons***. Others may allow two or more attachments and hence called ***Racks***. Moreover Hardpoints may be internal or external. External Hardpoints although most commonly wing-mounted but now belly-mounted hardpoints are also seen (although only 1-2 on a single aircraft) used most often to carry external fuel tanks (Drop Tanks) since it does not affect Weight Distribution on the wings.
+2. Hardpoints are fixed points on an aircraft for carrying equipment & are also often referred to as [[Aircraft Pylons\|Aircraft Pylons]]
 { #2}
 
 3. US Air Force and the US Navy operate F-22 Raptors and F-35 Lightning-II Aircrafts which are made either specifically for close-range dogfights or specifically for [[Beyond Visual Range (BVR)\|Beyond Visual Range (BVR)]] combat respectively.

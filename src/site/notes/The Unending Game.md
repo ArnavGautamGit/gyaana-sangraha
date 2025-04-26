@@ -17,9 +17,10 @@ These are the main notes. There may be further branching from these notes.
 [[The Ideal Spy\|The Ideal Spy]]
 [[Defectors & Moles in the Espionage World\|Defectors & Moles in the Espionage World]]
 [[KGB Espionage Tactics\|KGB Espionage Tactics]]
-[[Coomar Narain Case\|Coomar Narain Case]] (mentioned by name only)
+[[Coomar Narain Case (1985)\|Coomar Narain Case (1985)]] (mentioned by name only)
 [[CIA created Islamic Terrorism\|CIA created Islamic Terrorism]]
 [[Spy Games in India\|Spy Games in India]]
+[[Larkin Brothers Case (1980s)\|Larkin Brothers Case (1980s)]] (mentioned by name only)
 [[China's Silent Espionage\|China's Silent Espionage]]
 [[Mitrokhin Archive\|Mitrokhin Archive]]
 [[Mass-Surveillance\|Mass-Surveillance]]

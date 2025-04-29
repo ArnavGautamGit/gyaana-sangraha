@@ -14,7 +14,9 @@ Using this note everyday will keep me accountable to the Goals I have set.
 ### Goal List
 The List of Goals you want to achieve:
 - [ ] Get a SGPA of 9 this semester.
-- [X] Get a Job
+- [ ] Get a Job
+	- [x] Get an internship
+	- [ ] Convert to PPO
 - [ ] Get in shape
 	- [ ] Eat Healthy
 	- [ ] Regular Resistance Workout
@@ -45,20 +47,19 @@ At the end of each day, unfinished Dailies damage the user's health while unfini
 
 Each Day has a Score. The Score for a day is calculated by the following Formula:
 $$\Large Score =\dfrac{{Dailies \ Done} + {Tasks \ Done}}{{Total \ Dailies} + {Active \ Tasks}}$$
-Earlier, the Score was determined by the number of tasks on Tasks.org App completed that were due for a given day and after the Score used to be determined, we assigned an arbitrary rating to the day as a number from 1-5. But in the last week of March 2025, a new system was introduced where Ratings had a more objective formula:
 $$\Large Rating = Score \times 5$$
 Now, even the rating of 0 is possible.
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day    | Habitica Dailies | Habitica To-Dos | Score | Daily Rating (0-5) | Daily Summary                                                                                                                               |
-| ------ | ---------------- | --------------- | ----- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mond   | 1/2              | 0/1             | 1/3   | 1.667              | Worked only on College Notes, no DFCS PBL work or workout perfromed                                                                         |
-| Tuesd  | 0/0<br>postponed | 2/2             | 2/2   | 5                  | Interview Day for AventIQ at 11 AM + Swaang Kabira at 6 PM                                                                                  |
-| Wedns  | 0/0<br>postponed | 2/2             | 2/2   | 5                  | Lack of support & help led to me relegating Major Project PPT and Poster to Khushi. Nature of tasks changed, but "completed" (in a way).    |
-| Thursd | 0/0<br>postponed | 1/1             | 1/1   | 5                  | First Day of Joining! Devang and Ayush got late. Joining Date postponed to May due to miscommunication between Company and College.         |
-| Friday | 0/2              | 3/3             | 3/5   | 3                  | Missed both my Dailies (College Notes and Workout) but finished some To-Do Tasks pending on Habitica.                                       |
-| Satur  | 2/2              | 1/4             | 3/6   | 2.5                | Made the International Studies PBL Report with Harsh Khamankar. Finished a good chunk of UAVs notes. Restarted Reading 'The Unending Game'. |
-| Sund   |                  |                 |       |                    |                                                                                                                                             |
+| Day    | Habitica Dailies | Habitica To-Dos | Total<br>Score | Daily Rating (0-5) | Daily Summary                                                                               |
+| ------ | ---------------- | --------------- | -------------- | ------------------ | ------------------------------------------------------------------------------------------- |
+| Mond   | 1/3              | 1/1             | 2/4            | 2.5                | Submitted the Hard Copy Version of UAV Assignment 2. <br>Missed on Workout & College Notes. |
+| Tuesd  | 1/2              | 1/1             | 2/3            |                    | Finished & Submitted International Studies PBL Report.<br>Need to Finish College Notes.     |
+| Wedns  |                  |                 |                |                    |                                                                                             |
+| Thursd |                  |                 |                |                    |                                                                                             |
+| Friday |                  |                 |                |                    |                                                                                             |
+| Satur  |                  |                 |                |                    | Presentation at 9:00 AM of Major Project 2 in College                                       |
+| Sund   |                  |                 |                |                    |                                                                                             |
 
 
 | Week      | Weekly Rating | Weekly Summary                                                                                                                                                                                                   |
@@ -66,8 +67,8 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | 1-6 Apr   | unknown       | Only Known Rating is 5/5 on 1st April                                                                                                                                                                            |
 | 7-13 Apr  | 2.4446        | Permanently Shifted to Laptop & PC is only used for printing                                                                                                                                                     |
 | 14-20 Apr | 2.774         | Regaining Rhythm after coming back to Habitica                                                                                                                                                                   |
-| 21-27 Apr |               | Changed the formula for calculating Score to break tasks into dailies and to-dos like Habitica does. Seems to have made it more compatible with Habitica while the older system worked better for Tasks.org App. |
-| 27-30 Apr |               |                                                                                                                                                                                                                  |
+| 21-27 Apr | 3.642         | Changed the formula for calculating Score to break tasks into dailies and to-dos like Habitica does. Seems to have made it more compatible with Habitica while the older system worked better for Tasks.org App. |
+| 28-30 Apr |               |                                                                                                                                                                                                                  |
 
 
 | Month     | Avg Rating | Monthly Summary                                               |
@@ -92,3 +93,6 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 
 
 ---
+### Changes
+1. After the Score used to be determined, we assigned an arbitrary rating to the day as a number between 1 and 5. In the last week of March 2025, a new system was introduced where Ratings had a more objective formula of multiplying the score with 5 to get the final score out of 5 with a possible rating of 0 (unlike previous system where rating was subjective and not doing anything could still get you a non-zero score)
+2. Before 26th April 2025, the Score was determined by the number of tasks on Tasks.org App completed that were due for a given day and it was not as compatible with Habitica. Now Score is calculated as a sum of the dailies completed out of the total & any To-Do finished as Bonus!

@@ -7,7 +7,7 @@
 # National Interest
 > A Concept describing any assets, goals, values and interest a [[State (United Nations)\|State]] may have & may wish to protect.
 
-We learnt in the note [[State (United Nations)\|State (United Nations)]] where in the definition of a State we saw 4 main components. Fixed Population, Stable borders, the State's Government and Sovereignity are the four primary assets a State has. If any of these assets are attacked directly or indirectly, the threatened state is fully authorised to act & neutralise that threat since it has the guaranteed right of self defence as per the [[Charter of the United Nations (1945)\|Charter of the United Nations (1945)]].
+We learnt in the note [[State (United Nations)\|State (United Nations)]] where in the definition of a State we saw 4 main components. Fixed Population, Stable borders, the State's Government and Sovereignity are the four primary assets a State has. If any of these assets are attacked directly or indirectly, the threatened state is fully authorised to act & neutralise that threat since it has the guaranteed right of self defence as per [[The Charter of the United Nations (1945)\|The Charter of the United Nations (1945)]].
 
 Certain States do have assets in other States & assets can comprise of more things than the 4 aspects that collectively define a state. For Example: Indian-built Dams and Infrastructure in Afghanistan is still an asset of India. 
 

@@ -5,7 +5,7 @@
 
 ---
 # State (United Nations)
-> The State as defined by the [[Charter of the United Nations (1945)\|Charter of the United Nations (1945)]] is a body which comprises of the following aspects:
+> The State as defined by [[The Charter of the United Nations (1945)\|The Charter of the United Nations (1945)]] is a body which comprises of the following aspects:
 > - Territory
 > - Government
 > - Sovereignity

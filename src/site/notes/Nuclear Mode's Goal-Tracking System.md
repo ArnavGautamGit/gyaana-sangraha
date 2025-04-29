@@ -54,7 +54,7 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | Day    | Habitica Dailies | Habitica To-Dos | Total<br>Score | Daily Rating (0-5) | Daily Summary                                                                               |
 | ------ | ---------------- | --------------- | -------------- | ------------------ | ------------------------------------------------------------------------------------------- |
 | Mond   | 1/3              | 1/1             | 2/4            | 2.5                | Submitted the Hard Copy Version of UAV Assignment 2. <br>Missed on Workout & College Notes. |
-| Tuesd  | 1/2              | 1/1             | 2/3            |                    | Finished & Submitted International Studies PBL Report.<br>Need to Finish College Notes.     |
+| Tuesd  | 2/2              | 1/1             | 3/3            | 5                  | Finished & Submitted International Studies PBL Report.<br>Need to Finish College Notes.     |
 | Wedns  |                  |                 |                |                    |                                                                                             |
 | Thursd |                  |                 |                |                    |                                                                                             |
 | Friday |                  |                 |                |                    |                                                                                             |

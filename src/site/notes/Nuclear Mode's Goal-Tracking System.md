@@ -51,15 +51,15 @@ $$\Large Rating = Score \times 5$$
 Now, even the rating of 0 is possible.
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day    | Habitica Dailies | Habitica To-Dos | Total<br>Score | Daily Rating (0-5) | Daily Summary                                                                               |
-| ------ | ---------------- | --------------- | -------------- | ------------------ | ------------------------------------------------------------------------------------------- |
-| Mond   | 1/3              | 1/1             | 2/4            | 2.5                | Submitted the Hard Copy Version of UAV Assignment 2. <br>Missed on Workout & College Notes. |
-| Tuesd  | 2/2              | 1/1             | 3/3            | 5                  | Finished & Submitted International Studies PBL Report.<br>Need to Finish College Notes.     |
-| Wedns  |                  |                 |                |                    |                                                                                             |
-| Thursd |                  |                 |                |                    |                                                                                             |
-| Friday |                  |                 |                |                    |                                                                                             |
-| Satur  |                  |                 |                |                    | Presentation at 9:00 AM of Major Project 2 in College                                       |
-| Sund   |                  |                 |                |                    |                                                                                             |
+| Day    | Habitica Dailies | Habitica To-Dos | Total<br>Score | Daily Rating (0-5) | Daily Summary                                                                                                                                                |
+| ------ | ---------------- | --------------- | -------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Mond   | 1/3              | 1/1             | 2/4            | 2.5                | Submitted the Hard Copy Version of UAV Assignment 2. <br>Missed on Workout & College Notes.                                                                  |
+| Tuesd  | 2/2              | 1/1             | 3/3            | 5                  | Finished & Submitted International Studies PBL Report.<br>Need to Finish College Notes.                                                                      |
+| Wedns  | 1/5              | 0/0             | 0/5            | 0                  | Woke up at 2 PM but I notice Workouts get skipped since College Notes take time. Order must be flipped on Habitica. Added new Daily for maintaining Hygiene. |
+| Thursd |                  |                 |                |                    |                                                                                                                                                              |
+| Friday |                  |                 |                |                    |                                                                                                                                                              |
+| Satur  |                  |                 |                |                    | Presentation at 9:00 AM of Major Project 2 in College                                                                                                        |
+| Sund   |                  |                 |                |                    |                                                                                                                                                              |
 
 
 | Week      | Weekly Rating | Weekly Summary                                                                                                                                                                                                   |

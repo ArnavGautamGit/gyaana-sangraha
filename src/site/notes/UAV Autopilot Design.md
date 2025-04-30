@@ -22,5 +22,12 @@ Major Requirements from any Autopilot system is the required accuracy, stability
 The [[PID Controller\|PID Controller]] is often used in [[UAV Control System Design\|UAV Control System Design]].
 The [[Kalman Filter\|Kalman Filter]] is often used for Linearisation - a system as complex as a UAV with multiple variables can never be linear but Taylor Series Expansions are used to Linearise the equations around certain Equilibrium points. 
 
+### Autopilot Software Suites: ArduPilot vs PX4
+> see full note: [[Autopilot Software for UAS\|Autopilot Software for UAS]]
+
+Among Softwares capable of controlling aspects of the UAVs for facilitating [[Autopilot\|Autopilot]], there are two main players in the space namely [[ArduPilot\|ArduPilot]] and [[PX4\|PX4]].
+
+Both of the options have their own pros and cons. Where ArduPilot is more popular than PX4 in enthusiast circles, PX4 is more common in university and real-world drones.
+
 ---
 # Footnotes

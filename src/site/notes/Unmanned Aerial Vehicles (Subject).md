@@ -7,7 +7,7 @@
 # Unmanned Aerial Vehicles (Subject)
 > It was also the name of a subject in my 8th Semester (final semester) of my B.Tech Computer Science Engineering Degree at JIIT, Noida. 
 
-The Subject is taught by Janadhan Sir who is notorious as a professor who doesn't give a flying fuck about when you walk into the class. His teaching skill sucks and his handwriting really resembles dead bugs on the Whiteboard. He is extremely lazy about sharing study resources and either shares slides one day before exam or doesn't share them at all.
+The Subject is taught by Janadhan Sir who is notorious as a professor who doesn't give a flying fuck about when you walk into the class. His teaching skill sucks and his handwriting really resembles dead bugs on the Whiteboard. He is extremely lazy about sharing study resources and either shares slides one day before exam or doesn't share them at all. He does not *teach* any chapters, just gives us a summary & tells us to read the book, he doesn't even HAVE a presentation that he can blindly read.
 
 ### Syllabus
 - [[Unmanned Aerial Vehicles (UAVs)\|Unmanned Aerial Vehicles (UAVs)]]
@@ -22,8 +22,10 @@ The Subject is taught by Janadhan Sir who is notorious as a professor who doesn'
 - [[UAV Communication System\|UAV Communication System]]
 - [[UAV Hardware Architecture\|UAV Hardware Architecture]]
 - [[Ground Control System\|Ground Control System]] and [[UAV Ground Control\|UAV Ground Control]]
+- [[Launch & Recovery Systems\|Launch & Recovery Systems]]
 - [[Payload\|Payload]] and [[Payload Design\|Payload Design]]
-- 
+- [[Microcontroller\|Microcontroller]] and [[Microcontrollers in Drones\|Microcontrollers in Drones]]
+- [[Real-World Applications of UAS\|Real-World Applications of UAS]]
 
 
 ---

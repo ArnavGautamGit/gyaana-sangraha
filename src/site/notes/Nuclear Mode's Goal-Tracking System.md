@@ -51,24 +51,24 @@ $$\Large Rating = Score \times 5$$
 Now, even the rating of 0 is possible.
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day    | Habitica Dailies | Habitica To-Dos | Total<br>Score | Daily Rating (0-5) | Daily Summary                                                                                                                                                |
-| ------ | ---------------- | --------------- | -------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Mond   | 1/3              | 1/1             | 2/4            | 2.5                | Submitted the Hard Copy Version of UAV Assignment 2. <br>Missed on Workout & College Notes.                                                                  |
-| Tuesd  | 2/2              | 1/1             | 3/3            | 5                  | Finished & Submitted International Studies PBL Report.<br>Need to Finish College Notes.                                                                      |
-| Wedns  | 1/5              | 0/0             | 0/5            | 0                  | Woke up at 2 PM but I notice Workouts get skipped since College Notes take time. Order must be flipped on Habitica. Added new Daily for maintaining Hygiene. |
-| Thursd |                  |                 |                |                    |                                                                                                                                                              |
-| Friday |                  |                 |                |                    |                                                                                                                                                              |
-| Satur  |                  |                 |                |                    | Presentation at 9:00 AM of Major Project 2 in College                                                                                                        |
-| Sund   |                  |                 |                |                    |                                                                                                                                                              |
+| Day    | Habitica Dailies | Habitica To-Dos | Total<br>Score | Daily Rating (0-5) | Daily Summary                                                                                                                                  |
+| ------ | ---------------- | --------------- | -------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mond   | 2/6              | 4/4             | 6/10           | 3                  | 4 To-Dos & 6 Dailies due including my Resistance Workout. Busy Day.<br>I downloaded Tron: Legacy's Subtitles and movie but we couldn't see it. |
+| Tuesd  | 2/4              | 1/1<br>Farewell | 3/5            | 3                  | Farewell at 62 in the evening. No more College Notes.                                                                                          |
+| Wedns  | 2/5              | 1/1<br>Farewell | 3/6            | 2.5                | Farewell at 128 in the day.                                                                                                                    |
+| Thursd | 2/4              | 0/0             | 2/4            | 2.5                | Consistenctly missing Job Search & Post-Dinner Hygiene Habit Stack.                                                                            |
+| Friday | 2/5              | 0/0             | 2/5            | 2                  | Missed Workout Again. Should I move it? Purged Useless Tasks or pushed them to later dates.                                                    |
+| Satur  | 2/3              | 1/1             | 1/4            |                    | Limit my Social Media with app limits. Cannot Fall into this rabbit hole again.                                                                |
+| Sund   |                  |                 |                |                    |                                                                                                                                                |
 
 
-| Week      | Weekly Rating | Weekly Summary                                                                                                                                                                                                   |
-| --------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1-6 Apr   | unknown       | Only Known Rating is 5/5 on 1st April                                                                                                                                                                            |
-| 7-13 Apr  | 2.4446        | Permanently Shifted to Laptop & PC is only used for printing                                                                                                                                                     |
-| 14-20 Apr | 2.774         | Regaining Rhythm after coming back to Habitica                                                                                                                                                                   |
-| 21-27 Apr | 3.642         | Changed the formula for calculating Score to break tasks into dailies and to-dos like Habitica does. Seems to have made it more compatible with Habitica while the older system worked better for Tasks.org App. |
-| 28-30 Apr |               |                                                                                                                                                                                                                  |
+| Week      | Weekly Rating | Weekly Summary                                                                                                                             |
+| --------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1-4 May   | 3.292         | Completed International Studies notes, Successfully Restarted Sketching & Fine Art, Week started with 5/5, fucked the week after that day. |
+| 5-11 May  |               | Gave Major Project - 2 Presentation, Finished Art and Prepped for End Sems.                                                                |
+| 12-18 May |               | Exam Week. Only Goal is Study & Health.                                                                                                    |
+| 19-25 May |               | Last Exam on 20th May & Daggerheart Launched Worldwide on the same day! Downloaded my copy from DriveThruRPG & introduced the campaign!    |
+| 26-31 May |               |                                                                                                                                            |
 
 
 | Month     | Avg Rating | Monthly Summary                                               |
@@ -76,18 +76,18 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | January   | 2.5        | Could have done more, busy in weddings                        |
 | February  | 3.3325     | Improved, Learnt to Cook Lunch for myself (just in case)      |
 | March     | 2.458      | Got Sick, PC crashed, New Rating Formula may lower ratings    |
-| April     |            | Shifted to Laptop and back to Habitica, Need to regain rhythm |
-| May       |            |                                                               |
-| June      |            |                                                               |
+| April     | 3.091      | Shifted to Laptop and back to Habitica, Need to regain rhythm |
+| May       |            | May began on a thursday with a 5/5 rating for 1st May.        |
+| June      |            | My first paid month at AventIQ starts June Last Week.         |
 | July      |            |                                                               |
 | August    |            |                                                               |
 | September |            |                                                               |
-| October   |            |                                                               |
+| October   |            | Internship at AventIQ ends this month.                        |
 | November  |            |                                                               |
 | December  |            |                                                               |
 
 
-| Year | Avg Rating | Notes                                         |
+| Year | Avg Rating | Yearly Summary                                |
 | ---- | ---------- | --------------------------------------------- |
 | 2025 |            | Year 1 of using Shwetabh's Attack Mode Course |
 
@@ -96,3 +96,11 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 ### Changes
 1. After the Score used to be determined, we assigned an arbitrary rating to the day as a number between 1 and 5. In the last week of March 2025, a new system was introduced where Ratings had a more objective formula of multiplying the score with 5 to get the final score out of 5 with a possible rating of 0 (unlike previous system where rating was subjective and not doing anything could still get you a non-zero score)
 2. Before 26th April 2025, the Score was determined by the number of tasks on Tasks.org App completed that were due for a given day and it was not as compatible with Habitica. Now Score is calculated as a sum of the dailies completed out of the total & any To-Do finished as Bonus!
+3. 
+
+
+### Ideas for Next Year
+1. Have 52 entries for each week. No need to track months, it is a waste of time to compute since all months do not start on a Monday and the weeks which are split across months are not counted in full, yet have the same weightage. Use Daily Score to compute Weekly and Yearly Averages only.
+	1. Yes, it does add to the challenge and yes, life is not fair
+	2. But, this is not a scientific way of measurement if unequal weeks are given the same weightage during measurement.
+2. 

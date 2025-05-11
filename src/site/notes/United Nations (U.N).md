@@ -12,15 +12,18 @@ Although it was made to be more stringent than the [[League of Nations\|League o
 ### Founding
 The UN was created in 1945 and the global acceptance was ensured via most states signing [[The Charter of the United Nations (1945)\|The Charter of the United Nations (1945)]] to gain membership. Now new members have to be approved by getting diplomatic support from the existing members similar to how back in the day we needed a referral or person to "introduce" us if we wanted a bank account in a private bank.
 
-### Subsidiary Bodies
-Over the period of time since 1945, the UN has grown many subsidiaries - even new ones beyond those declared in the [[Charter of the United Nations (1945)\|Charter of the United Nations (1945)]]. These bodies can only be approached by [[State (United Nations)\|UN Member States]], not by individuals or organisations.
+### Purpose
+The Priary Purpose of the UN is to solve internal issues between [[State (United Nations)\|UN Member States]] using [[Diplomacy\|Diplomacy]] instead of War, Weapons, [[Terrorism\|Terrorism]], Regime Change or other policies. The idea was that each [[State (United Nations)\|UN Member State]] will represent their case either directly via their ministers and Leaders of State being present or their diplomats representing them. Nowadays, Diplomats brief the Leaders on how to say things to make the maximum impact without angering any party.
 
-These Bodies include:
+### Principal Organs
+Over the period of time since 1945, the UN has grown many organs - even new ones beyond those declared in the [[Charter of the United Nations (1945)\|Charter of the United Nations (1945)]]. These bodies can only be approached by [[State (United Nations)\|UN Member States]], not by individuals or organisations. Regard;ess, there are only six ***Principal Organs*** of the UN.
+
+These six Primary Organs of the United Nations are:
 [[United Nations General Assembly (U.N.G.A)\|United Nations General Assembly (U.N.G.A)]]
 [[United Nations Security Council (U.N.S.C)\|United Nations Security Council (U.N.S.C)]]
 [[International Court of Justice (ICJ)\|International Court of Justice (ICJ)]]
-[[Economic Social Council (E.S.C)\|Economic Social Council (E.S.C)]]
-[[Trusteeship Council\|Trusteeship Council]]
+[[Economic Social Council (ECOSOC)\|Economic Social Council (ECOSOC)]]
+[[U.N Trusteeship Council\|U.N Trusteeship Council]]
 [[U.N Secretariat\|U.N Secretariat]]
 
 ### Declarations, Laws & Legislations

@@ -24,7 +24,7 @@ The Subject is taught by Janadhan Sir who is notorious as a professor who doesn'
 - [[Ground Control System\|Ground Control System]] and [[UAV Ground Control\|UAV Ground Control]]
 - [[Launch & Recovery Systems\|Launch & Recovery Systems]]
 - [[Payload\|Payload]] and [[Payload Design\|Payload Design]]
-- [[Microcontroller\|Microcontroller]] and [[Microcontrollers in Drones\|Microcontrollers in Drones]]
+- [[Microcontroller\|Microcontroller]]
 - [[Real-World Applications of UAS\|Real-World Applications of UAS]]
 
 

@@ -51,40 +51,40 @@ $$\Large Rating = Score \times 5$$
 Now, even the rating of 0 is possible.
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day    | Habitica Dailies | Habitica To-Dos | Total<br>Score | Daily Rating (0-5) | Daily Summary                                                                                                                                  |
-| ------ | ---------------- | --------------- | -------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mond   | 2/6              | 4/4             | 6/10           | 3                  | 4 To-Dos & 6 Dailies due including my Resistance Workout. Busy Day.<br>I downloaded Tron: Legacy's Subtitles and movie but we couldn't see it. |
-| Tuesd  | 2/4              | 1/1<br>Farewell | 3/5            | 3                  | Farewell at 62 in the evening. No more College Notes.                                                                                          |
-| Wedns  | 2/5              | 1/1<br>Farewell | 3/6            | 2.5                | Farewell at 128 in the day.                                                                                                                    |
-| Thursd | 2/4              | 0/0             | 2/4            | 2.5                | Consistenctly missing Job Search & Post-Dinner Hygiene Habit Stack.                                                                            |
-| Friday | 2/5              | 0/0             | 2/5            | 2                  | Missed Workout Again. Should I move it? Purged Useless Tasks or pushed them to later dates.                                                    |
-| Satur  | 2/3              | 1/1             | 1/4            |                    | Limit my Social Media with app limits. Cannot Fall into this rabbit hole again.                                                                |
-| Sund   |                  |                 |                |                    |                                                                                                                                                |
+| Day       | Habitica Dailies | Habitica To-Dos | Total<br>Score | Daily Rating (0-5) | Daily Goals for the day                              | Daily Summary of the day                                        |
+| --------- | ---------------- | --------------- | -------------- | ------------------ | ---------------------------------------------------- | --------------------------------------------------------------- |
+| Monday    | 2/3              | 0/1             | 0/4            | 0                  | - Syllabus<br>- Assignments<br>- Workout             | - Workout Postponed<br>- Syllabus Done<br>- Assignments Pending |
+| Tuesday   |                  |                 |                |                    | - Give the first exam <br>- Prep for the next paper. | -                                                               |
+| Wednesday |                  |                 |                |                    |                                                      |                                                                 |
+| Thursday  |                  |                 |                |                    | - Give the 2nd Exam<br>- Prepare for Last Exam.      | -                                                               |
+| Friday    |                  |                 |                |                    |                                                      |                                                                 |
+| Saturday  |                  |                 |                |                    |                                                      |                                                                 |
+| Sunday    |                  |                 |                |                    |                                                      |                                                                 |
 
 
 | Week      | Weekly Rating | Weekly Summary                                                                                                                             |
 | --------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1-4 May   | 3.292         | Completed International Studies notes, Successfully Restarted Sketching & Fine Art, Week started with 5/5, fucked the week after that day. |
-| 5-11 May  |               | Gave Major Project - 2 Presentation, Finished Art and Prepped for End Sems.                                                                |
-| 12-18 May |               | Exam Week. Only Goal is Study & Health.                                                                                                    |
+| 5-11 May  | 3.107         | Gave Major Project - 2 Presentation, Attended Farewell at both campuses and Prepped for End Sems.                                          |
+| 12-18 May |               | Exam Week. Only Goal is Study & Health. "Daily Goals" Section Added                                                                        |
 | 19-25 May |               | Last Exam on 20th May & Daggerheart Launched Worldwide on the same day! Downloaded my copy from DriveThruRPG & introduced the campaign!    |
 | 26-31 May |               |                                                                                                                                            |
 
 
-| Month     | Avg Rating | Monthly Summary                                               |
-| --------- | ---------- | ------------------------------------------------------------- |
-| January   | 2.5        | Could have done more, busy in weddings                        |
-| February  | 3.3325     | Improved, Learnt to Cook Lunch for myself (just in case)      |
-| March     | 2.458      | Got Sick, PC crashed, New Rating Formula may lower ratings    |
-| April     | 3.091      | Shifted to Laptop and back to Habitica, Need to regain rhythm |
-| May       |            | May began on a thursday with a 5/5 rating for 1st May.        |
-| June      |            | My first paid month at AventIQ starts June Last Week.         |
-| July      |            |                                                               |
-| August    |            |                                                               |
-| September |            |                                                               |
-| October   |            | Internship at AventIQ ends this month.                        |
-| November  |            |                                                               |
-| December  |            |                                                               |
+| Month     | Avg Rating | Monthly Summary                                                                                            |
+| --------- | ---------- | ---------------------------------------------------------------------------------------------------------- |
+| January   | 2.5        | Could have done more, busy in weddings                                                                     |
+| February  | 3.3325     | Improved, Learnt to Cook Lunch for myself (just in case)                                                   |
+| March     | 2.458      | - Got Sick 1st Week <br>- PC crashed 2nd Week, <br>- 3rd Week's New Rating Formula may lower ratings       |
+| April     | 3.091      | - Shifted to Laptop <br>- Back to Habitica, Need to regain rhythm                                          |
+| May       |            | - May began on a thursday with a 5/5 rating for 1st May. <br>- College Over & "Daily Goals" section added. |
+| June      |            | My first paid month at AventIQ starts Last Week of June.                                                   |
+| July      |            |                                                                                                            |
+| August    |            |                                                                                                            |
+| September |            |                                                                                                            |
+| October   |            | Internship at AventIQ ends this month.                                                                     |
+| November  |            |                                                                                                            |
+| December  |            |                                                                                                            |
 
 
 | Year | Avg Rating | Yearly Summary                                |
@@ -103,4 +103,4 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 1. Have 52 entries for each week. No need to track months, it is a waste of time to compute since all months do not start on a Monday and the weeks which are split across months are not counted in full, yet have the same weightage. Use Daily Score to compute Weekly and Yearly Averages only.
 	1. Yes, it does add to the challenge and yes, life is not fair
 	2. But, this is not a scientific way of measurement if unequal weeks are given the same weightage during measurement.
-2. 
+2. Use Dataview or better more powerful plugin instead of regular Tables. 

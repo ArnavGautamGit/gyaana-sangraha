@@ -10,13 +10,16 @@
 This term is often used in Aviation (Aeronautics) and Aerospace. Seldom also in the process of Designing Fighter Jets & [[UAV Design\|Designing UAVs]].
 
 ## Classification of Payload
-Payloads can be classified on the basis of either function, storage location or weight.
+Payloads can be classified on the basis of either function, dispensibility, storage location or weight.
 Functional Classifications help in [[Payload Design\|Payload Design]] by telling us the way the payload needs to be handled while Weight Classifications help us define the carrying capacity & affect on the range of the vehicle.
 
 ### Classification by Function
 Function of a Payload may be surveillance, cargo shipment or it may be droppable/throwable.
 While this classification is used less often, it is equally important since the function defines the [[Payload Design\|Payload Design]] & how the payload needs to be treated. 
 Surveillance payload may include Cameras and RADARs which need to be treated differently than Cargo & Shipment based payloads which may stay onboard or be dropped
+
+### Classification by Dispensibility
+Some Payloads may need to be Dispensed (like Bombs or Certain other Cargo Supplies) and others may be non-dispensible (like Cameras). [[Payload Design\|Payload Design]] may have to accomodate by trying to create Lifting & Lowering Systems for [[Multi-Rotor UAVs\|Multi-Rotor UAVs]] or accomodating Internal Payload Bays in the fuselage of [[Fixed-Wing UAVs\|Fixed-Wing UAVs]].
 
 ### Classification by Storage Location
 Payloads are often calssified by Storage Location such as onboard and deliverables. 

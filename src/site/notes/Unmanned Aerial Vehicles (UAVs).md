@@ -27,6 +27,8 @@ UAVs can be classified on the basis of many criteria. There are a few Criterions
 In India, the Laws laid out by Directorate General of Civil Aviation (DGCA) classifies UAS on the basis of Flight Design and on the basis of Weight.
 
 ### Design Process for a UAV
+> To be moved to: [[UAV Design\|UAV Design]]
+
 Design of a UAV or Drone is dependent upon the usecase & problem it is aimed at solving.
 Some Design Criteria may change depending upon whether the UAV is meant for Civil or Military use but generally, there are mainly 5 criteria: 
 1. Cost of Building & Upkeep
@@ -61,6 +63,12 @@ There are some basic components such as [[Landing Gear (LG)\|Landing Gear (LG)]]
 ![UAV Basic Components.png](/img/user/Vaulted%20Images/UAV%20Basic%20Components.png)
 
 Many controllers such as [[PID Controller\|PID Controller]] and [[Kalman Filter\|Kalman Filter]] (which has subtypes such as [[Extended Kalman Filter\|Extended Kalman Filter]] among others) are also required for fine-tuning the flight controls.
+
+### Software Requirements
+A Good [[Operating System\|Operating System]] that can perform reliably, is lightweight & portable and allows easy porting of applications is a must. Generally Linux is preferred for conversing with Microcontrollers since automatic updates on Windows can brick the system & Apple is very picky on who can & cannot use their software.
+
+In Aircrafts, RC Planes and UAS, it is important to note that Software must also include a mission management system which is used to control [[Autopilot\|Autopilot]], [[Payload\|Payload]] among other things on the UAS. The [[Operating System\|Operating System]] is used for the [[Ground Control System\|Ground Control Station (GCS)]] only. Large Defence Contractors like [[Lockheed Martin\|Lockheed Martin]] may be able to choose from the multiple options of various [[Mission Management Software (MMS)\|Mission Management Software (MMS)]] they may have at a given point of time. Many [[Autopilot\|Autopilot]] Softwares also come fitted with their own [[Inertial Navigation Systems (INS)\|Inertial Navigation Systems (INS)]] these days.
+
 
 ---
 # Footnotes

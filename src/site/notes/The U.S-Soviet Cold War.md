@@ -15,7 +15,7 @@ The two sides never really openly fought each other since it is the "Cold" War, 
 
 ## Chronological Sequence of Events
 1. 1945: Formation of [[United Nations (U.N)\|United Nations (U.N)]]
-2. 1947: [[Truman Doctrin\|Truman Doctrin]] introduced by US President Truman
+2. 1947: [[Truman Doctrine\|Truman Doctrine]] introduced by US President Truman
 3. 1948: [[Berlin Blockade\|Berlin Blockade]]
 4. August 1949: [[Union of Soviet Socialist Republics (USSR)\|USSR]] tests Nuclear Bomb
 5. October 1949: [[Chinese Communist Revolution (1949)\|Chinese Communist Revolution (1949)]]

@@ -12,7 +12,7 @@ The Subject is taught by Janadhan Sir who is notorious as a professor who doesn'
 ### Syllabus
 - [[Unmanned Aerial Vehicles (UAVs)\|Unmanned Aerial Vehicles (UAVs)]]
 - [[UAV Aerodynamics & Structural Design\|UAV Aerodynamics & Structural Design]]
-- [[UAV Autopilot Design\|UAV Autopilot Design]]
+- [[UAV Autopilot Design\|UAV Autopilot Design]] and [[Autopilot\|Autopilot]]
 	- [[UAV Control System Design\|UAV Control System Design]]
 	- [[UAV Guidance System Design\|UAV Guidance System Design]]
 	- [[UAV Navigation System Design\|UAV Navigation System Design]]

@@ -51,12 +51,19 @@ The Subject is taught by the new Guest Lecturer, Dr. George Kutty. He is origina
 	- [[Checkbook Diplomacy\|Checkbook Diplomacy]]
 	- [[Ping-Pong Diplomacy\|Ping-Pong Diplomacy]]
 	- [[Gunboat Diplomacy\|Gunboat Diplomacy]]
-	- [[Diaspora\|Diaspora]] and [[Diaspora Diplomacy\|Diaspora Diplomacy]]
+	- [[Diaspora\|Diaspora]], [[Indian Diaspora\|Indian Diaspora]] and [[Diaspora Diplomacy\|Diaspora Diplomacy]]
 - [[Foreign Policy\|Foreign Policy]]
 	- [[India's Foreign Policy\|India's Foreign Policy]]
 		- [[Look East Policy\|Look East Policy]]
 		- [[Act East Policy\|Act East Policy]]
 		- [[QUAD\|QUAD]]
+- Issues of Global Concern
+	- [[Terrorism\|Terrorism]]
+	- [[Human Rights\|Human Rights]]
+		- [[Universal Declaration of Human Rights (UDHR)\|Universal Declaration of Human Rights (UDHR)]]
+		- [[Human Rights Council\|Human Rights Council]]
+	- [[Nuclear Proliferation\|Nuclear Proliferation]]
+		- [[Non-Proliferation Treaty (NPT)\|Non-Proliferation Treaty (NPT)]]
 - Project-Based Learning (PBL): [[Latin America during the US-Soviet Cold War\|Latin America during the US-Soviet Cold War]]
 
 

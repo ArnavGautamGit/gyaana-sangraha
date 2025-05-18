@@ -54,11 +54,11 @@ The Weekly Rating is the average of all the individual days in a week. The Month
 | Day       | Habitica Dailies | Habitica To-Dos | Total<br>Score | Daily Rating (0-5) | Daily Goals for the day                              | Daily Summary of the day                                        |
 | --------- | ---------------- | --------------- | -------------- | ------------------ | ---------------------------------------------------- | --------------------------------------------------------------- |
 | Monday    | 2/3              | 1/1             | 3/4            | 3.75               | - Syllabus<br>- Assignments<br>- Workout             | - Workout Postponed<br>- Syllabus Done<br>- Assignments Pending |
-| Tuesday   | 1/3              | 1/1             | 2/4            |                    | - Give the first exam <br>- Prep for the next paper. | - UAVs Exam went well<br>- Prepping for next one.               |
-| Wednesday |                  |                 |                |                    |                                                      |                                                                 |
-| Thursday  |                  |                 |                |                    | - Give the 2nd Exam<br>- Prepare for Last Exam.      | -                                                               |
-| Friday    |                  |                 |                |                    |                                                      |                                                                 |
-| Saturday  |                  |                 |                |                    |                                                      |                                                                 |
+| Tuesday   | 2/3              | 1/1             | 3/4            | 3.75               | - Give the first exam <br>- Prep for the next paper. | - UAVs Exam went well<br>- Prepping for next one.               |
+| Wednesday | 2/3              | 1/1             | 3/4            | 3.75               | - Prep for next exam                                 | - Prepped Well                                                  |
+| Thursday  | 1/3              | 0/0             | 1/3            | 1.667              | - Give the 2nd Exam<br>                              | - Second Paper Given<br>- Taking a break from studies           |
+| Friday    | 3/4              | 1/1             | 3/5            | 3                  | - Prepare for Last Exam<br>- Workout                 | - Missed Workout<br>- Preparation going well.                   |
+| Saturday  | 1/3              | 0/1             | 1/4            |                    |                                                      |                                                                 |
 | Sunday    |                  |                 |                |                    |                                                      |                                                                 |
 
 

@@ -5,7 +5,7 @@
 
 ---
 # Digital Forensics
-> Process of identifying, preserving, analysing, presenting [[Digital Evidences\|Digital Evidences]]. It includes the area of analyses like Storage Media, Hardware, [[Operating Systems and Systems Programming\|Operating Systems]], [[Computer Networks\|Networks]], Applications etc. 
+> Process of identifying, preserving, analysing, presenting [[Digital Evidences\|Digital Evidences]]. It includes the area of [[Digital Forensic Analysis\|analyses]] like Storage Media, Hardware, [[Operating Systems and Systems Programming\|Operating Systems]], [[Computer Networks\|Networks]], Applications etc. 
 
 The Digital Evidence is first identified, then collected, preserved, analysed, documented and later presented to the superiors and/or presented in court.
 

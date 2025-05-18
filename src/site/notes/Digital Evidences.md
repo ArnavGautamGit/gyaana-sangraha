@@ -16,10 +16,12 @@ B) [[Browser Artefacts\|Browser Artefacts]]
 C) Call Logs
 D) Social Media Activity
 E) Computer Logs and Network Logs
-F) GPS Logs (Google Maps Digest) 
+F) GPS Logs & [[GPS Forensics\|GPS Forensics]] ([[Google Maps Digest\|Google Maps Digest]]) 
 G) AI Chat Logs
 H) Any messages hidden inside Images using [[Steganography\|Steganography]]
-among other relavant material depending upon case details.
+
+The Digital Evodence shall change depending upon the [[Digital Forensics#Types of Digital Forensics\|Environment of Digital Forensics]] i.e, the devices or services the evidence is being collected from. 
+For Example: Law Enforcement and Forensic Teams use a completely different list of potential sources in [[Mobile Device Forensics\|Mobile Device Forensics]].
 
 ### Collection
 > Main Note: [[Acquisition of Digital Evidence\|Acquisition of Digital Evidence]]
@@ -40,24 +42,18 @@ We must also maintain and store any Hash Values of the Storage Devices to check 
 Use Industry Standard Practices as described in NIST, ISO 27037.
 
 ### Documentation & Analysis
-Documentation of the Evidence is the most important step. Documentation helps identify the chain of custody from the Evidence first being generated and being collected by the Forensic Team, all the way to the Court Presentation. 
+> Main Note: [[Digital Forensic Analysis\|Digital Forensic Analysis]]
+
+Documentation of the Evidence is the most important step. Documentation helps identify the chain of custody from the Evidence first being generated and being collected by the Forensic Team, all the way to the Court Presentation. Logs of who collected the evidence, who handled it and all the people the evidence was passed across (often including the reasons they were handed the evidence and any actions or analyses each one of them performed)
 
 All the processes performed on the Evidence for Analysis are also documented to help in making the results more reproducible by other experts.
 
-Documentation is also immensely helpful in case the Hon'ble Court asks to transfer the case to another authority or in cases where the Forensic Team experiences changes in personnel.
+Documentation is also immensely helpful in case the Hon'ble Court asks to transfer the case to another judge or in cases where the Forensic Team experiences changes in personnel. It also helps when the cases is appealed to a higher court.
 
----
-## Classification of Digital Evidences
-Digital Evidences are classified on the basis of Data Volatility and other factors. The Classification is given below.
-
-### Based on Data Storage Volatility
-- ***==Volatile==***: Data can disappear quickly. 
-	- Example: [[Logic Gates\|Logic Gates]] and RAMs
-- ***==Non-Volatile==***: Data remains stored on devices. 
-	- Example: HDD, SSD etc.
-- ***==Physical==***: Devices themselves that may contain data. 
-	- Example: Smartwatches
-
+### Further Reading
+[[Acquisition of Digital Evidence\|Acquisition of Digital Evidence]] 
+[[Classification of Digital Evidence\|Classification of Digital Evidence]]
+[[Digital Forensic Analysis\|Digital Forensic Analysis]]
 
 ---
 # Footnotes

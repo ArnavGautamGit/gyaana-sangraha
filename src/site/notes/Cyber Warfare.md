@@ -7,7 +7,7 @@
 # Cyber Warfare
 > Defined as a series of Cyber Attacks on an enemy nation's computer systems and/or networks by one or multiple nations with the goal of causing damage, disruption or loss of life to the enemy. 
 
-Additional Goals include to weaken the enmy, crpple their infrastrcture & logistics capabilities and isrupt vital systems.
+Additional Goals include to weaken the enemy, cripple their infrastructure, logistic capabilities and disrupt vital systems like Banking, Government Schemes etc.
 
 ### Methods & Tools used
 1. Infecting the targets with [[Computer Malware\|Computer Malware]] like [[Stuxnet (Worm)\|Stuxnet (Worm)]] and [[Code Red (Worm)\|Code Red (Worm)]] attacks.
@@ -16,6 +16,7 @@ Additional Goals include to weaken the enmy, crpple their infrastrcture & logist
 
 ### Real-World Examples
 1. Russia's use of multiple different [[Wiper (Malware)\|Wiper (Malware)]] against Ukraine in 2022 Ukraine Cyberattacks which targeted Government and Bank Websites to siphon away money & stagnate any government communications with people.
+2. Pakistan's use of [[Cyber Terrorism\|Cyber Terrorists]] to take down several university websites & [[Website Defacement\|deface]] them during the [[5th India-Pakistan War (2025)\|India-Pakistan 3-Day War]] in May 2025.
 
 ---
 # Footnotes

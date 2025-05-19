@@ -33,11 +33,21 @@ In iOS or iPadOS, one just needs to connect the iPhone or iPad to their Macbook 
 Then the process is the same as described in [[Target-Disc Mode (TDM)#Verifying the Target Disk\|Analysis & Verification of Disks in TDM]] since we have essentially copied the entire disk.
 
 ### Acquisition Techniques for Android Phones
-> Main note: [[Mobile Device Forensics\|Mobile Device Forensics]]
+ Following Text is transcluded from the main note: [[Mobile Device Forensics\|Mobile Device Forensics]]
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/mobile-device-forensics/#forensic-tools-required" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+### Forensic Tools Required
 Tools such as [[Magnet AXIOM\|Magnet AXIOM]], [[Cellebrite (UFED)\|Cellebrite (UFED)]] or [[Oxygen Forensic Detective\|Oxygen Forensic Detective]] are used by Law Enforcement and Forensic teams for [[Logical Data Extraction\|Logical]] and [[Physical Data Extraction\|Physical Data Extraction]]. In these methods the Collection of Data is performed by scanning and copying the entire File System of the device along with any files that are contained inside it.
 
-If the device has a locked or encrypted disk, then the option of Physical Data Extraction exists where the entire disk is copied bit-by-bit & reconstructed - either bypassing the encryption or being successfully able to create enough copies that the disk can be [[Exhaustive Key Search\|Brute-Forced]] given the password is simple enough.
+If the device has a locked or encrypted disk, then the option of Physical Data Extraction exists where the entire disk is copied bit-by-bit & reconstructed - which bypasses most encryptions.
+
+
+</div></div>
+
 
 
 ---

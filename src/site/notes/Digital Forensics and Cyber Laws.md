@@ -14,7 +14,7 @@ My major point of Critique through the semester was how we are taught laws and t
 ### Syllabus
 - [[Digital Forensics\|Digital Forensics]]
 	- [[Computer Forensics\|Computer Forensics]]
-	- [[Mobile Device Forensics\|Mobile Device Forensics]]
+	- [[Mobile Device Forensics\|Mobile Device Forensics]] (important)
 	- [[Network Forensics\|Network Forensics]]
 	- [[Database Forensics\|Database Forensics]]
 		- [[Data Anonymisation\|Data Anonymisation]]
@@ -23,7 +23,7 @@ My major point of Critique through the semester was how we are taught laws and t
 - [[Cyber Crime\|Cyber Crime]]
 	- [[Motives of Hackers\|Motives of Hackers]]
 	- [[Methods & Tools in Cyber Crime\|Methods & Tools in Cyber Crime]]
-- [[Ransomware\|Ransomware]]
+- [[Ransomware\|Ransomware]] (important)
 - [[Cyber Terrorism\|Cyber Terrorism]]
 - [[Cyber Warfare\|Cyber Warfare]]
 - [[Layers of Internet\|Layers of Internet]]
@@ -32,9 +32,9 @@ My major point of Critique through the semester was how we are taught laws and t
 - [[Indian Cyber Laws\|Indian Cyber Laws]]
 - [[Security Incidents\|Security Incidents]] and [[Incident Handling\|Incident Handling]]
 - [[Digital Forensic Analysis\|Digital Forensic Analysis]]
-	- [[Digital Evidences\|Digital Evidences]]
-		- [[Acquisition of Digital Evidence\|Acquisition of Digital Evidence]]
-			- [[Target-Disc Mode (TDM)\|Target-Disc Mode (TDM)]]
+	- [[Digital Evidences\|Digital Evidences]] (important)
+		- [[Acquisition of Digital Evidence\|Acquisition of Digital Evidence]] (important)
+			- [[Target-Disc Mode (TDM)\|Target-Disc Mode (TDM)]] (important)
 		- [[Classification of Digital Evidence\|Classification of Digital Evidence]]
 	- [[Forensic Imaging\|Forensic Imaging]]
 

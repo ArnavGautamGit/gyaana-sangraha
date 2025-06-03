@@ -16,7 +16,7 @@ Containers are shared and replicated using a Docker Image
 ### Image
 The file which contains the instructions of regenerating the container i.e., the container can be shared by using the image as the shared file. It is similar to the concept of how a [[Object Oriented Programming#Classes\|Class]] is used to define a template to create an [[Object Oriented Programming#Objects\|Object]].
 
-### DockerHub
+### Docker Hub
 A website like GitHub which allows users to upload & share their Docker Images to share and update our Container.
 
 ### Differences with AWS

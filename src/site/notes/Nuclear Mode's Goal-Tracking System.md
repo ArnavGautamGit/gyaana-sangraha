@@ -51,15 +51,15 @@ $$\Large Rating = Score \times 5$$
 Now, even the rating of 0 is possible.
 The Weekly Rating is the average of all the individual days in a week. The Monthly Rating is the average of Weekly Rating.
 
-| Day       | Habitica Dailies | Habitica To-Dos | Total<br>Score | Daily Rating <br>(0-5) | Daily Goals for the day          | Daily Summary of the day |
-| --------- | ---------------- | --------------- | -------------- | ---------------------- | -------------------------------- | ------------------------ |
-| Monday    | 1/4              | 0/1             | 1/5            | 1                      | - Finish JavaScript<br>- Workout | - Workout done<br>-      |
-| Tuesday   |                  |                 |                |                        |                                  |                          |
-| Wednesday |                  |                 |                |                        |                                  |                          |
-| Thursday  |                  |                 |                |                        |                                  |                          |
-| Friday    |                  |                 |                |                        |                                  |                          |
-| Saturday  |                  |                 |                |                        |                                  |                          |
-| Sunday    |                  |                 |                |                        |                                  |                          |
+| Day       | Habitica Dailies | Habitica To-Dos | Total<br>Score | Daily Rating <br>(0-5) | Daily Goals for the day                                                      | Daily Summary of the day                                                              |
+| --------- | ---------------- | --------------- | -------------- | ---------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Monday    | 4/4              | 1/2             | 5/6            | 4.167                  | - Finish JavaScript<br>- Workout<br>- Keep the book Meditations in your bag. | - Workout done<br>- Couldn't finish JavaScript.<br>- Kept the book Meditations in bag |
+| Tuesday   | 2/3              | 1/1             | 3/4            | 3.75                   | - Finish JS<br>- Start React<br>- Read                                       | - Finished JS<br>- Started React<br>- Read some                                       |
+| Wednesday |                  |                 |                |                        |                                                                              |                                                                                       |
+| Thursday  |                  |                 |                |                        |                                                                              |                                                                                       |
+| Friday    |                  |                 |                |                        |                                                                              |                                                                                       |
+| Saturday  |                  |                 |                |                        |                                                                              |                                                                                       |
+| Sunday    |                  |                 |                |                        |                                                                              |                                                                                       |
 
 
 | Week       | Weekly Rating | Weekly Summary |

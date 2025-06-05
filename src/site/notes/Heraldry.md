@@ -15,6 +15,18 @@ Regardless of its origins, Heraldry was first practiced in Europe in the 12th ce
 ### Heraldry in India
 The practice of Heraldry in India has been inspired by many European Empires (French, British and Portuguese) who colonised parts of India during 18th to 20th Century since it helped the Europeans keep track of various kingdoms, they also brought their own customs. Many Laws were common and a wide majority of kingdoms in India followed either the [[English Heraldic Traditions\|English]] or the [[French Heraldic Traditions\|French Heraldic Traditions]].
 
+### Registering Private Coat of Arms
+Most countries that have an monarchical system of government (i.e., are run by monarchs) have a heraldic institution or college of arms which will register said arms for civic and monarchic bodies given that they have a culture of heraldry.
+
+If the country is a republic or said monarchy has no culture of heraldry, there is no guarantee of a coat of arms registration college/institution being present (most republics do not have them), in that case, one can go to the [Heraldry of the World (HOTW)](https://www.heraldry-wiki.com/wiki/Heraldry_of_the_world) to register their arms with them. Note that this is an informal registration, there are other ways which include mailing a sealed envelope of your heraldic design to yourself - effectively timestamping the creation of the achievement.
+
+Even my [[Personal Coat of Arms\|Personal Coat of Arms]] are registered on HOTW.
+One has to send an email in prescribed format at: hotwregister@gmail.com
+To check the format, visit the [HOTW's Arms Regisration Website](https://www.heraldry-wiki.com/wiki/How_to_submit_a_registration)
+
+> [!important] IMPORTANT: Format of Registration
+> It is stated at HOTW that if the format of registration is not respected, your registration will be rejected automatically.
+
 
 ---
 # Footnotes

@@ -9,25 +9,45 @@
 
 It is important to note that I did NOT make this to intentionally fake or claim a nobel rank in a democratic republic like India or elsewhere. It is only made for the intention of creating a unique personal brand to be used in informal printables and/or informal digital works as complementary or supplementary to my name & identity. This will never be used in government works and I shall never use it to violate any law or guidelines set by the government of India or wherever I reside. 
 
-### Design
-I have avoided using any Helm on this Coat of Arms since the rules regarding them differ across traditions and are fairly dubious anyway. Neither have there been a use of supporters since they are usually granted after a great deed. One could disregard these rules but shall be seen as pretentious. The only contention I have heard online is the use of the letter Omega, since it is characterised as an alphabet & not a true charge or symbol of any kind. I tried using the Ouroboros in its place but it did not look as imposing.
-
-![Coat of Arms 1.png](/img/user/Vaulted%20Images/Coat%20of%20Arms%201.png)
-***Copyright©2025 Arnav Gautam, All Rights Reserved***
-
 ### Blazon
-> "*Gules, an omega majuscule Or, a chief of the second charged with a longsword sword, point to sinister, of the first*"
+> "*Gules, an omega majuscule Or, a chief of the second charged with a Claymore Greatsword, point to sinister, of the first*"
 
 As seen in Historical Records, each Coat of Arms required a blazon which would be used as a descriptor of the design that needed to be painted on the shield of each soldier that does not carry a personal Coat of Arms. Even among those that do, it was common to use the state's Coat of Arms in cases of War if their own arms are not extensively famous.
+
+Blazons were also read out aloud on Jousting Arena for both riders. The designs are dependent on the blazons written & the design may change certain specifics depending upon artstyle and things not specified in the Blazon (since it needs to be short). Example: my shield may have a different version with a different artstyle or shield shape depending upon the artist. 
+
+### Design Meaning
+The colours Gules (Red) and Or (Gold) reflect passion and reverence for the subjects and topics depicted via charges on the arms.
+
+The Greatsword is placed in chief to depict his appreciation of martial prowess as he formerly used to practice martial arts (Karate and Judo) in the earliest part of his life as a child and have always held an interest in [[Historical European Martial Arts (HEMA)\|Historical European Martial Arts (HEMA)]] and [[Swordfighting\|Swordfighting]]. The Sword placed fesswise (horizontally) depicts that the sword is laid peacefully, only to be picked up in defence (i.e., I only use my martial prowess in defence of my loved ones). 
+
+The majuscule (capital) Omega displays his conscientiousness & diligence. I finish any task I start and take it to a logical end. The Omega is also the last alphabet of the greek alphabet which (here) also depicts my interest in learning both Greek and Indian Philosophies. It also hold the philosophical meaning that the end of life (or death) must not be feared from, rather be held as a reminder that we need to make this life as great as possible before it inevitably ends - whenever death arrives.
+
+The Conch Shell ("Śankha" or "Shankha") depicts one's call towards duty like the Divine Shankha blown by Lord Krishna on the battlefield of Kurukshetra in the Hindu Epic of [[Mahābhārata\|Mahābhārata]] (and by extension also the [[Shrimad-Bhagavad Gītā\|Shrimad-Bhagavad Gītā]]). It is a reminder of one must focus on one's Karma (Duty) to their best ability and not on the Phala (Result) one gets after performing it since the diligence of their work lies in their hands even if the result is not in their control (solution-based approach).
+
+As mentioned previously, artstyles may change on the artist who designed and coloured the arms or the charges within it. Both are considered Heraldically correct as long as the Blazon is followed.
+
+In the modern day, the artstyle changes on the softwares used as hence have made the final version on June 6th, 2025 using another website named [Heraldicon](https://heraldicon.org).
+
+Full Heraldic Achievement:
+![Personal Heraldic Achievement.png](/img/user/Vaulted%20Images/Personal%20Heraldic%20Achievement.png)
+***Copyright©2025 Arnav Gautam, All Rights Reserved***
+
+
+Shield-only Variant:
+![Coat of Arms (Heraldicon).png](/img/user/Vaulted%20Images/Coat%20of%20Arms%20(Heraldicon).png)
+***Copyright©2025 Arnav Gautam, All Rights Reserved***
+
+If my personal preference is to go by, the Heraldicon variant is my preferred choice due to it being not just an SVG but also that it is of greater quality, better authenticity and comes with a transparent background out of the box.
 
 ### Copyright Information
 This artwork is a personal & original artwork by Arnav Gautam. Unauthorised use, reproduction or adaptation or impersonation are not permitted.
 Arnav's Contact Information: arnavgautam2003@gmail.com.
 
-This artwork was finished & almost immediately posted on Reddit (particularly the subreddit pertaining to [[Heraldry\|Heraldry]], known as r/heraldry) and garnered praise and upvotes since it fit most rules of Heraldry except the only one mentioned in the design section above. The Link is provided in the footnotes. It is to be notes however that this does not detract from my copyright over the ARTWORK itself as it remains my original. Since it was not submitted for Heraldry of the World or Formal Copyright, the artwork as shared on Reddit may look lower quality.
+This artwork was finished & almost immediately posted on Reddit (particularly the subreddit pertaining to [[Heraldry\|Heraldry]], known as r/heraldry) and garnered praise and upvotes since it fit most rules of Heraldry except the only one mentioned in the design section above. The Link is provided in the footnotes. It is to be notes however that this does not detract from my copyright over the ARTWORK itself as it remains my original. Since it was not meant to be submitted for Heraldry of the World or Formal Copyright, the artwork as shared on Reddit may look lower quality but the copy that is now my Reddit Profile Picture is the highest quality banner made using the same elements (charges & colours) of the Coat of Arms.
 
 The Design was created in May 2025. Formal Registration of Copyright is underway.
-Applied for Registration on [Heraldry of the World (HOTW)](https://www.heraldry-wiki.com/wiki/Heraldry_of_the_world).
+Applied for Registration on [Heraldry of the World (HOTW)](https://www.heraldry-wiki.com/wiki/Heraldry_of_the_world) on 4th of June, 2025.
 
 ---
 # Footnotes

@@ -17,7 +17,7 @@ Great Historical Figures like [[Marcus Aurelius\|Marcus Aurelius]] and [[Seneca\
 > 1. "The thing we love are like the leaves of a tree: They can fall at any moment with a gust of wind."
 > 2. "Changes in the world are not accidental rather form part of the essence of the universe"
 > 
-> ~ Marcus Aurelius in [[Meditations (Book)\|Meditations (Book)]].
+> ~ Marcus Aurelius in [[Meditations\|Meditations]].
 
 and also these:
 > "All things human are short-lived and perishable"

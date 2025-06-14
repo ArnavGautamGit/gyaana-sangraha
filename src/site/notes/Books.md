@@ -41,7 +41,7 @@ On clicking on an individual book's name you will find all my learnings from the
 # Books of Special Interest
 [[MOSSAD (Book)\|MOSSAD (Book)]]
 [[The Unending Game\|The Unending Game]]
-[[Meditations (Book)\|Meditations (Book)]] by Marcus Aurelius (Roman Emperor)
+[[Meditations\|Meditations]] by Marcus Aurelius (Roman Emperor)
 
 # Library Borrowings
 [[Habit Stacking\|Habit Stacking]]

@@ -130,7 +130,8 @@ const Counter = () => {
 }
 ```
 
-"Hook" is regarded as a Special Feature for functional components.  Hooks let us use different React features from our components like State, Life Cycle Methods, Side Effects etc.
+A "Hook" is regarded as a Special Feature for functional components.
+Hooks let us use different React features from our components like State, Life Cycle Methods, Side Effects etc.
 
 When we see `use` as a prefix in front of any functionality's name in its import statement such as `useState` or `useID`, we know they are possible only through Hooks i.e., these functionalities are a hook like states are also hooks.
 
@@ -180,9 +181,7 @@ function App(){
 		</div>
 	}
 }
-```
 
-```JSX
 // User.jsx
 // Data from App.jsx is moved through here. No one will know.
 function User({name, age, email}) {
@@ -199,7 +198,330 @@ function User({name, age, email}) {
 export default User;
 ```
 
-### 
+Now, we learn the basics of how to pass HTML and CSS via Props in ReactJS:
+```JSX
+//Inside App.jsx
+import User from "./User.jsx"
+function App(){
+	return {
+		<div>
+			<h1>Props in ReactJS</h1>
+			<User name="Arnav Gautam"/>
+		</div>
+	}
+}
+
+//Inside User.jsx
+function User(name = "New User"){ // default value = "New User"
+	return{
+		<div>
+			<h1>User Component</h1>
+			<h3>Hi, {name}</h3>
+		</div>
+	}
+}
+```
+
+To pass proper JSX through the props. we showcase the example with a new component called "Wrapper":
+```JSX
+// Inside Wrapper.jsx
+function Wrapper(children) {
+	return {
+		<div>
+			{children}
+		</div>
+	}
+}
+
+//Inside App.jsx
+import User from "./User.jsx"
+function App(){
+	return {
+		<div>
+			<h1>Props in ReactJS</h1>
+			<Wrapper>
+				<h1>Hello Everyone</h1>
+			</Wrapper>
+		</div>
+	}
+}
+```
+
+### Input Field Operations
+In the tutorials, there is an example usecase where there exists an input field whose contents should show outside the input textbox on the line below
+```JSX
+//Inside App.jsx
+import User from "./User.jsx";
+import { useState } from "react";
+
+function App(){
+	const [val,setVal] = useState;
+	return {
+		<div>
+		<h1>Props in ReactJS</h1>
+		<input type="text" onChange={(event) => setVal(event.target.value)} placeholder="Enter User Name"/>
+		<h2>{val}</h2>
+		<button onClick={()=>setVal("")}> Clear Value </button>
+		</div>
+	}
+}
+
+export default App;
+```
+
+### Controlled Components
+A controlled component is a form whose input value is controlled by React's `useState` Hook.
+
+Here's how it works:
+- Store input field value in state
+- Use `onChange` handler with input field
+- Value attribute attached with State
+
+Benefits:
+- Validation and Manipulation before submit.
+- Dynamically update values.
+- Single Source of Information i.e., single source of variable value.
+
+```JSX
+// I am going to skip directly to inside App Function.
+// Saves time and space. no point repeating boiler plate code.
+
+function App (){
+	const [name, setName] = useState('');
+	const [password, setPassword] = useState('');
+	const [email, setEmail] = useState('');
+	
+	return {
+	<div>
+	<h1> Controller Component</h1>
+	<form action="" method="get">
+		<input type="text" value={name} placeholder="Enter Name"/>
+		<br/><br/>
+		<input type="password" value={password} placeholder="Enter Password"/>
+		<input type="text" value={email} placeholder="Enter Email"/>
+		<br/><br/>
+		<button>Submit</button>
+		<button>Clear</button>
+		<h3>{name}</h3>
+		<h3>{password}</h3>
+		<h3>{email}</h3>
+	</form>
+	</div>
+	}
+}
+
+export default App;
+```
+
+Apart from this,
+In an uncontrolled document, the data is passed through the DOM without using States or Hooks. This is more often used in Form Handling. It is to be noted that Controlled Components are preferred instead.
+
+### Handling Checkboxes in States
+Handling checkbox is slightly different since it has a boolean value as opposed to a string value.
+- Make Checkbox
+- Define State for Checkbox
+- Remove the attribute from view by unchecking
+
+```JSX
+//Skills.jsx
+function Skills(){
+	const [skills, setSkills] = useState([]);
+	const handleSkills=(event)=>{
+		console.log(event.target.value, event.target.checked);
+		if(event.target.checked){
+			setSkills([...skills,event.target.value]);
+			//"..." is spread operator
+			// It allows an array to be written
+		} 
+		else {
+			setSkills([...skills.filter((item)=>item!=event.target.value)])
+		}
+	}
+	return {
+	<div>
+		<h3> Select Skills </h3>
+		<input onChange={handleSkills} type="checkbox" id="Python" value="Python"/>
+		<label htmlFor="Python">Python</label>
+		<br /><br />
+		<input onChange={handleSkills} type="checkbox" id="CPP" value="CPP"/>
+		<label htmlFor="CPP">C++</label>
+		<br /><br />
+		<input onChange={handleSkills} type="checkbox" id="Java" value="Java"/>
+		<label htmlFor="Java">Python</label>
+				
+	</div>
+	}
+}
+
+
+//App.jsx
+function App(){
+	
+	return {
+	<div>
+	<h1> Handle Checkbox in ReactJS</h1>
+	<Skills />
+	</div>
+	}
+}
+```
+
+### Handling Radio Buttons & Dropdowns
+Similar to Checkboxes, we may also have to manage Radio Buttons or Dropdowns in forms. We first showcase how to manage them outside the form tag.
+
+```JSX
+//App.jsx
+import { useState } from "react";
+
+function App(){
+	const [gender, setGender] = useState();
+	const [city, setCity]=useState();
+	return {
+		<div>
+		<h1>Handle Radio and Dropdown</h1>
+		<h3> Select Gender </h3>
+		<input onChange= {(event)=>setGender(event.target.value)} type="radio" name="gender" checked={gender=="female"} id="male" value={"male"}/>
+		<label htmlFor="male">Male</label>
+		<input onChange={(event)=>setGender(event.target.value)} type="radio" name="gender" checked={gender=="female"} id="female" value={"female"} />
+		<label htmlFor="female">Female</label>
+		<br /><br /><br />
+		<h3>Select City</h3>
+		<select onChange={(event)=>setCity(event.target.value)} defaultValue={"City"}>
+		<option value="City">City</option>
+		<option value="Noida">Noida</option>
+		<option value="Delhi">Delhi</option>
+		<option value="Gurugram">Gurugram</option>
+		</select>
+		</div>
+	}
+}
+
+export default App;
+```
+
+### Other Popular Hooks in ReactJS
+We have already seen the basics in [[ReactJS#States & Hooks in ReactJS\|the section on States]].
+Popular hooks include `useState`, `useEffect`, `useContext`, `useRef` and `useReducer` among others.
+
+An important rule of thumb that whenever a functionality starts with the name `use` it generally means the functionality is a Hook.
+
+Custom Hooks can be created on ReactJS.
+
+### useEffect Hook in ReactJS
+It is often used as one of the life cycle methods, or to fetch data, or remove a side effect from inside or outside a particular component.
+
+Syntax:
+```JSX
+useEffect(()=>{
+	// stuff to trigger on dependency
+}, [dependency])
+
+// "dependency" must be replaced by a pre-defined state.
+// Dependency Array, if left empty will cause only 1 call
+// Dependency Array, if removed will cause call at every change
+```
+
+Multiple Effects can be used in one function. Multiple Functions can be used in the same component.
+
+useEffect can be used for Life Cycle Methods and they can grow
+ReactJS components only has 3 stages in their life cycle: Mounting, Updating and Unmounting.
+
+### CSS in ReactJS
+There are a few differences between regular CSS and the CSS used in ReactJS. For example, instead of using a hyphen to separate words like `background-color` we use CamelCase version that is `backgroundColor`. Similarly, we use commas instead of semicolons to separate CSS properties
+
+Statements for CSS in React JS need to be presented in brackets for example: `<div style = {{ color: 'red' }}> Text </div>`.
+
+To define CSS in a variable:
+```JSX
+const cardStyle = ()=> {
+	border: "1px solid red",
+	width: '200px',
+	boxShadow: "1px, 1px, 1px, 1px #ccc"
+	margin: "10px"
+}
+```
+
+If you have defined the CSS as a const, you can use:
+`<div style = {style}> Text </div>`
+
+If themes are to be made, one can also define the styling variable as a State:
+```JSX
+const [cardColor, setCardColor]=useStyle(
+	{
+	border: "1px solid red",
+	width: '200px',
+	boxShadow: "1px, 1px, 1px, 1px #ccc",
+	margin: "10px"
+	}
+)
+
+const updateTheme=(bgColor, textColor)=>{
+	setCardColor({...cardColor, backgroundColor:bgColor})
+	setTextColor({textColor})
+}
+
+//inside the function return:
+<div>
+	<h1>Heading</h1>
+	<button onClick={()=>updateTheme('gray', 'red')}>
+	Click Here for Gray Theme
+	</button>
+	<p style={{ color: textColor}}>HEHE</p>
+</div>
+
+// On clicking the button, the values: grey and red are passed.
+// The updateTheme function gets grey & red.
+```
+
+### useRef Hook in ReactJS
+Before using the Hook, one needs to import said Hook: 
+```JSX
+import { useRef } from "react";
+```
+
+Then we add the line:
+```JSX
+const inputRef = useRef(null);
+```
+
+Now, we can use the Ref tag on any input field to manage the focus to that field.
+
+### useFormStatus Hook in ReactJS
+Does not work on old versions of ReactJS - it is a more recent addition to React. It is one of the shortest way to define whther the form has been submitted or not in a Boolean Value of True or False.
+
+Import Hook:
+```JSX
+import { useFormStatus } from "react";
+```
+
+Using:
+```JSX
+const {pending} = useFormStatus();
+
+<button disabled={pending}>{pending?"Submitting...":"Submit"}</button>
+// The button is disabled until submission is complete
+```
+
+### useActionState Hook in ReactJS
+Used to handle forms easily in ReactJS. Its internal state updates everytime you complete an action in the form. It can also be used to handle errors and validations.
+
+We continue the example given in the previous section:
+```JSX
+const [data, action, pending] = useActionState (handleSubmit, undefined);
+```
+
+### useID Hook in ReactJS
+Simple & Useful Hook used for generating unique IDs that can be passed to accessibility attributes. It generates a unique ID no matter how many times you call it in the same code.
+
+```JSX
+import { useID } from "react"
+
+// We skip any function used in component
+// saves time, I don't have to repeat myself
+const name = useID();
+```
+
+
 
 ---
 # Footnotes

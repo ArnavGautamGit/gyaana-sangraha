@@ -36,7 +36,7 @@ Substituting the value of Force of Friction in the above equation:
 $$\Large F_L - \mu Wcos\theta - Wcos\theta = ma$$
 $$\Large F_L = Wcos\theta (1+\mu) + ma$$
 
-Note that launching with an angle of 190 degrees (parallel to the ground) like Aircraft Carriers is going to make the launcher require either more thrust or more length (bigger apparatus). To reduce the footprint of any Launching Apparatus, it is beneficial to keep the Aircraft speed at the end of the launcher/runway to be 10-30% of [[Stall Speed\|Stall Speed]] and launching angle to be around 45 degrees.
+Note that launching with an angle of 180 degrees (parallel to the ground) like Aircraft Carriers is going to make the launcher require either more thrust or more length (bigger apparatus). To reduce the footprint of any Launching Apparatus, it is beneficial to keep the Aircraft speed at the end of the launcher/runway to be 10-30% of [[Stall Speed\|Stall Speed]] and launching angle to be around 45 degrees.
 
 ## Rail Launcher
 Using a part of the Aircraft or UAV to be fixed/attached into the launcher rails (which generally comprise of Two Rails and mobility wheels) on which the Aircraft is accelerated until it can reach speeds which can sustain flight. Using the equations given above.

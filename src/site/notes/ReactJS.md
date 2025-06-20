@@ -521,6 +521,58 @@ import { useID } from "react"
 const name = useID();
 ```
 
+### Custom Hooks in ReactJS
+When ReactJS does not have a prebuilt Hook for the usecase you want, you can define & create your own custom hook which does what you want to accomplish.
+
+```JSX
+import { useState } from "react";
+
+const useToggle = (defaultVal) => {
+	const [value, setValue] = useState(defaultVal);
+}
+```
+
+### React Router & Setup
+What is the React Router? How to install it?
+React Router is used to make web pages in React.
+
+Run this command to install the library:
+```bash
+npm i react-router
+```
+[[Node Package Manager (NPM)\|Node Package Manager (NPM)]] will download the latest version automatically... Note that we download the library, not the framework (when we work with React Router in ReactJS).
+
+An alternate way is to download it via Vite:
+```bash
+npx create vite
+```
+
+you will be prompted to enter a name, choose your library (React-Router), then coding language among JavaScript and TypeScript.
+
+then inside the terminal, we run:
+```bash
+npm i react-router
+```
+
+It is not like webpages cannot be made without React Router, but it makes things easier for us simmilar to how horses made travel faster compared to travelling on foot - this is why horse-riding comprised the major part of human history.
+
+To test the React Router & if it is working properly, use the tag `<BrowserRouter />` as a wrapper over the same page, if it continues working with no errors in the terminal/console then its working perfectly fine.
+
+To link a page use the following syntax:
+```JSX
+<Routes>
+<Route path="#" element ="XYZ.jsx" />
+</Routes>
+```
+
+### Tailwind CSS Integration
+Use Vite for integration from this link: https://tailwindcss.com/docs/guide/vite#react
+Make sure you are using the correct tutorial which integrates [[Tailwind CSS\|Tailwind CSS]] into React only.
+
+### Fetch Data from APIs
+Using and Fetching data from an [[Application Programming Interface (API)\|Application Programming Interface (API)]]
+It fetches, provides and keeps an eye on what kind & volume of data is being asked - if the demand is more than usual, it is also responsible for flagging it.
+
 
 
 ---

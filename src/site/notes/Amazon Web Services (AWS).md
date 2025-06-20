@@ -21,6 +21,7 @@ Everything in AWS from the region where the Instance is located to the services 
 - [[AWS Cloud Development Kit (CDK)\|AWS Cloud Development Kit (CDK)]]
 - Most Popular & Most Used on AWS:
 	- [[Amazon EC2\|Amazon EC2]]
+	- [[Amazon Lambda\|Amazon Lambda]]
 	- [[Amazon S3\|Amazon S3]]
 	- [[Amazon RDS\|Amazon RDS]] for Relational Databases (it is a [[Platform-as-a-Service (PAAS)\|PAAS]])
 		- [[Amazon Aurora\|Amazon Aurora]] is a fully managed RDS compatible with MySQL and PostgreSQL.

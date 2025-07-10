@@ -42,7 +42,7 @@ I don't use Notion so I made personalised versions of Notion Templates above so 
 [[NEW ME\|NEW ME]]
 [[Vault Templates/Logical Problem-Solving Template\|Logical Problem-Solving Template]]
 [[Emotional Problem-Solving Template\|Emotional Problem-Solving Template]]
-[[Nuclear Mode's Goal-Tracking System\|Nuclear Mode's Goal-Tracking System]]
+[[Goal-Tracking System (Legacy)\|Goal-Tracking System (Legacy)]]
 
 ---
 # Footnotes

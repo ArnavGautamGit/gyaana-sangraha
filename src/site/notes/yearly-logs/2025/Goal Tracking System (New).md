@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/yearly-logs/2025/Goal Tracking System (New)/","tags":["Productivity"]}
 ---
 
+
 ---
 # Nuclear Mode's Goal-Tracking System (NEW)
 

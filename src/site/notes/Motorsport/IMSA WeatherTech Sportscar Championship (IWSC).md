@@ -5,7 +5,7 @@
 
 ---
 # IMSA WeatherTech Sporstscar Championship (IWSC)
-> A Motorsport championship that is built around 4 major classes of cars: [[LeMans Prototype 2 (LMP2)\|LMP2]], [[Grand Touring Prototype (GTP)\|GTP]], [[Grand Touring Daytona (GTD)\|GTD]] and [[Grand Touring Daytona Pro (GTD PRO)\|GTD-Pro]] whose name is often abbreviated to IWSC.
+> A Motorsport championship that is built around 4 major classes of cars: [[Motorsport/LeMans Prototype 2 (LMP2)\|LMP2]], [[Motorsport/Grand Touring Prototype (GTP)\|GTP]], [[Motorsport/Grand Touring Daytona (GTD)\|GTD]] and [[Motorsport/Grand Touring Daytona Pro (GTD PRO)\|GTD-Pro]] whose name is often abbreviated to IWSC.
 
 It races on tracks such as the [[Daytona Speedway\|Daytona Speedway]], [[Laguna Seca\|Laguna Seca]], [[Sebring\|Sebring]], [[Watkins Glen\|Watkins Glen]] etc. 
 

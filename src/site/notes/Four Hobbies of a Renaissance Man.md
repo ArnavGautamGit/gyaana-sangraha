@@ -17,14 +17,14 @@ Odysseas describes the following four categories of Hobbies:
 ## Extra Notes from Pocket Notebook
 > Categories cannot overlap but you can have multiple hobbies in the same category. To truly become a renaissance man, it is recommmend to have at least one in each category!
 
-> I have one social hobby (i.e., [[Dungeons & Dragons\|Dungeons & Dragons]]) but I barely have time to follow it. I have two mental hobbies - Reading [[Books\|Books]] and Playing [[Chess/Chess\|Chess]]. I am not following any artistic hobby but have many contenders: [[Film Photography\|Film Photography]], [[Music Composition\|Music Composition]], [[Sketching\|Sketching]], [[Bookmark Painting\|Bookmark Painting]] and even coding! I am still missing a Physical Hobby - although I can take either Football or Gym. 
+> I have one social hobby (i.e., [[D&D Compendium/Dungeons & Dragons\|Dungeons & Dragons]]) but I barely have time to follow it. I have two mental hobbies - Reading [[Books\|Books]] and Playing [[Chess/Chess\|Chess]]. I am not following any artistic hobby but have many contenders: [[Film Photography\|Film Photography]], [[Music Composition\|Music Composition]], [[Sketching\|Sketching]], [[Bookmark Painting\|Bookmark Painting]] and even coding! I am still missing a Physical Hobby - although I can take either Football or Gym. 
 
 Note: Coding here could be in any language: [[Python\|Python]], [[JavaScript\|JavaScript]], [[React Native\|React Native]] etc.
 
 ### Personal Hobby Spread
 Among the Social Category, I have the following hobbies that can be placed in the "Social" Category: 
 - [[Dialectic\|Dialectic]] - engaging in reasoned argumentation or dialogue to explore ideas in depth.
-- Playing any [[Table-Top Role-Playing Game\|Table-Top Role-Playing Game]] such as [[Dungeons & Dragons\|D&D]] or [[Daggerheart\|Daggerheart]] although drawing art for the same may be classified as Artistic.
+- Playing any [[Table-Top Role-Playing Game\|Table-Top Role-Playing Game]] such as [[D&D Compendium/Dungeons & Dragons\|D&D]] or [[Daggerheart\|Daggerheart]] although drawing art for the same may be classified as Artistic.
 
 On the other hand, for Mental Hobbies, I can either read [[Books\|Books]] or play [[Chess/Chess\|Chess]].
 Physical Hobbies include: [[Exercise\|Exercise]] and [[Football\|Football]].

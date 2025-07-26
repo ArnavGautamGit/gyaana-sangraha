@@ -10,25 +10,30 @@
 It is important to note that I did NOT make this to intentionally fake or claim a nobel rank in a democratic republic like India or elsewhere. It is only made for the intention of creating a unique personal brand to be used in informal printables and/or informal digital works as complementary or supplementary to my name & identity. This will never be used in government works and I shall never use it to violate any law or guidelines set by the government of India or wherever I reside. 
 
 ### Blazon
-> "*Gules, an omega majuscule Or, a chief of the second charged with a Longsword, point to sinister, of the first*"
+> [!quote] Blazon (English)
+> Shield: "*Gules, an omega majuscule Or, a chief of the second charged with a Claymore Sword, point to sinister, of the first*"
+> 
+> Crest: *"Issuant from a torse Gules and Or, a conch shell Argent resting fesswise with its mouth to sinister"*
+> 
+> Mantling: *"Gules doubled Or"*
 
 As seen in Historical Records, each Coat of Arms required a blazon which would be used as a descriptor of the design that needed to be painted on the shield of each soldier that does not carry a personal Coat of Arms. Even among those that do, it was common to use the state's Coat of Arms in cases of War if their own arms are not extensively famous.
 
 Blazons were also read out aloud on Jousting Arena for both riders. The designs are dependent on the blazons written & the design may change certain specifics depending upon artstyle and things not specified in the Blazon (since it needs to be short). Example: my shield may have a different version with a different artstyle or shield shape depending upon the artist. 
 
-Alternate Blazon to the same escutscheon (shield) just that this one specifies the sword and its orientation more specifically:
-> *"Gules, an omega majascule Or, a chief of the second charged with a Claymore Longsword of the first, laying fesswise with its point to sinister."*
+Alternate Blazon to the same escutscheon (shield) in Hindi:
+> 
 
 ### Design Meaning
-The colours Gules (Red) and Or (Gold) reflect passion and reverence for the subjects and topics depicted via charges on the arms.
+The colours Gules (Red) and Or (Gold) reflect passion and reverence respectively for the subjects and topics depicted via charges on the arms.
 
 The Two-handed Sword is placed in chief to depict the armiger's (Arnav's) appreciation of martial prowess as he formerly used to practice martial arts (Karate and Judo) in the earliest part of his life as a child and have always held an interest in [[Historical European Martial Arts (HEMA)\|Historical European Martial Arts (HEMA)]] and [[Swordfighting\|Swordfighting]]. The Sword placed fesswise (horizontally) depicts that the sword is laid peacefully, only to be picked up in defence (i.e., I only use my martial prowess in defence of my loved ones). 
 
 The majuscule (capital) Omega displays his conscientiousness & diligence. I finish any task I start and take it to a logical end. The Omega is also the last alphabet of the greek alphabet which (here) also depicts my interest in learning both Greek and Indian Philosophies. It also hold the philosophical meaning that the end of life (or death) must not be feared from, rather be held as a reminder that we need to make this life as great as possible before it inevitably ends - whenever death arrives.
 
-The Conch Shell ("Śankha" or "Shankha") depicts one's call towards duty like the Divine Shankha blown by Lord Krishna on the battlefield of Kurukshetra in the Hindu Epic of [[Mahābhārata\|Mahābhārata]] (and by extension also the [[Shrimad-Bhagavad Gītā\|Shrimad-Bhagavad Gītā]]). It is a reminder of one must focus on one's Karma (Duty) to their best ability and not on the Phala (Result) one gets after performing it since the diligence of their work lies in their hands even if the result is not in their control (solution-based approach).
+The Conch Shell ("Śankha" or "Shankha") depicts one's call towards duty like the Divine Shankha blown by Lord Krishna on the battlefield of Kurukshetra in the Hindu Epic of [[Mahābhārata\|Mahābhārata]] (and by extension also the [[Shrimad-Bhagavad Gītā\|Shrimad-Bhagavad Gītā]]). It is a reminder that one must focus on one's Karma (Duty) to their best ability and not on the Phala (Result) one gets after performing it since the diligence of their work lies in their hands even if the result is not in their control so one should only act, without worrying about things out of their control (solution-based approach).
 
-As mentioned previously, artstyles may change on the artist who designed and coloured the arms or the charges within it. Both are considered Heraldically correct as long as the Blazon is followed.
+As mentioned previously, artstyles may change on the artist who designed and coloured the arms or the charges within it. Different representations are considered heraldically correct as long as the Blazon is followed.
 
 In the modern day, the artstyle changes on the softwares used as hence have made the final version on June 6th, 2025 using another website named [Heraldicon](https://heraldicon.org).
 

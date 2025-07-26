@@ -4,7 +4,7 @@
 
 
 ---
-# Kratos-inspired [[Dungeons & Dragons\|D&D]] Character
+# Kratos-inspired [[D&D Compendium/Dungeons & Dragons\|D&D]] Character
 Basically if Kratos turned into a healer after God of War 3. Only design and look is inspired, nothing more. Personality, Role and Class is completely different.
 
 ![Zeuxis.png](/img/user/Vaulted%20Images/Zeuxis.png)

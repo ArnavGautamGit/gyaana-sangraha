@@ -5,7 +5,7 @@
 
 ---
 # Aldric Wisdomkeeper (Greyhawk) - D&D Charater
-Character I made for the [[Greyhawk Lives!\|Greyhawk Lives!]] Discord [[Dungeons & Dragons\|D&D]] server
+Character I made for the [[Greyhawk Lives!\|Greyhawk Lives!]] Discord [[D&D Compendium/Dungeons & Dragons\|D&D]] server
 It is a [[Wizard (D&D)\|Wizard (D&D)]] and he passed on his 3rd adventure of all-time.
 The Character was remade as [[Aldric Wisdomkeeper (DH)\|Aldric Wisdomkeeper (DH)]] to be played in some Daggerheart setting of my choice.
 

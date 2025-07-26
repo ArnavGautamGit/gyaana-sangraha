@@ -4,7 +4,7 @@
 
 ---
 # "Grewhawk Lives!" Discord D&D Server
-A [[Westmarch\|Westmarch]] [[Dungeons & Dragons\|Dungeons & Dragons]] Discord Server where primarily Indo-Europeans play.
+A [[Westmarch\|Westmarch]] [[D&D Compendium/Dungeons & Dragons\|Dungeons & Dragons]] Discord Server where primarily Indo-Europeans play.
 It is set in one of the timelines of Greyhawk.
 
 ---
@@ -21,7 +21,7 @@ There is guild named as "The Gilded Hand" which is seemingly very strong.
 
 ---
 # Magic System of the Setting
-Standard [[Dungeons & Dragons\|D&D]] magic system.
+Standard [[D&D Compendium/Dungeons & Dragons\|D&D]] magic system.
 
 ---
 # Footnotes

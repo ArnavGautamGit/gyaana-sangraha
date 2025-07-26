@@ -43,6 +43,7 @@ I don't use Notion so I made personalised versions of Notion Templates above so 
 [[Vault Templates/Logical Problem-Solving Template\|Logical Problem-Solving Template]]
 [[Emotional Problem-Solving Template\|Emotional Problem-Solving Template]]
 [[Goal-Tracking System (Legacy)\|Goal-Tracking System (Legacy)]]
+[[yearly-logs/2025/Goal-Tracking System (New)\|Goal-Tracking System (New)]]
 
 ---
 # Footnotes

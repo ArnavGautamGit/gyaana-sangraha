@@ -27,7 +27,7 @@ My account on [Lichess.org](https://lichess.org) is: @Gautam_Chess
 
 ### Variants
 [[Chaturaji (Chess)\|Chaturaji (Chess)]] is a variant of chess played with 4 players instead of one.
-[[Dragonchess\|Dragonchess]] is a chess variant referenced in [[Dungeons & Dragons\|Dungeons & Dragons]] and uses Dragons along with a triple-layered board.
+[[Dragonchess\|Dragonchess]] is a chess variant referenced in [[D&D Compendium/Dungeons & Dragons\|Dungeons & Dragons]] and uses Dragons along with a triple-layered board.
 many chess variants are available on [Chess.com](https://www.chess.com) although they use the rules as described by the [[United States Chess Federation (USCF)\|United States Chess Federation (USCF)]] instead of [[International Chess Federation (FIDE)\|International Chess Federation (FIDE)]] rules that are the standard.
 
 ### Chess Theory

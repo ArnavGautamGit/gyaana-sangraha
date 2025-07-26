@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/NEW ME/"}
+{"dg-publish":true,"permalink":"/NEW ME/","tags":["Productivity"]}
 ---
 
 
@@ -8,7 +8,8 @@
 > A Template taken from Shwetabh Gangwar's [[Attack Mode (Course)\|Attack Mode (Course)]] for achieving and absolutely Nuking my Goals.
 
 - ***==Affirmations to read everyday==***:
-	- No Motivation $\large\neq$ Excuse for No Work. Workouts that feel the best are those where you show up despite having low motivation.
+	- No Motivation $\large\neq$ Excuse for No Work. 
+		- Workouts that feel the best are those where you show up despite having low motivation.
 	- Reminder lagaaye hai, reminder ya alarm bajega, jo likha ho wo kar lo.
 	- "Life is a set of Puzzles, the more you solve, the better you become." ~ Sir Radzig
 	- You can change anything with effort. Karma is your superpower.
@@ -39,6 +40,10 @@
 
 
 Remove Problems from the list as you overcome them.
+
+Solve problems by the following templates: 
+[[Vault Templates/Logical Problem-Solving Template\|Logical Problem-Solving Template]]
+[[Emotional Problem-Solving Template\|Emotional Problem-Solving Template]]
 
 ---
 # Footnotes

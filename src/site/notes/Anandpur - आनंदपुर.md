@@ -59,5 +59,8 @@ The 2200 years of History of Vadnagar (then Anandpur) is divided into 7 periods 
 2. 
 
 
+
+
+
 ---
 # Footnotes

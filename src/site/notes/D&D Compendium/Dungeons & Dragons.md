@@ -13,10 +13,13 @@ To play a D&D game, the best path is to follow the list below:
 [[D&D Compendium/D&D Player's Handbook\|D&D Player's Handbook]]
 [[D&D Compendium/D&D Dungeon Master's Guide\|D&D Dungeon Master's Guide]]
 [[D&D Monster Manual\|D&D Monster Manual]]
-[[D&D Xanathar's Guide to Everything\|D&D Xanathar's Guide to Everything]] (not owned by me)
-[[D&D Player's Handbook (2024)\|D&D Player's Handbook (2024)]]
+[[D&D 5.5e Conversion Guide\|D&D 5.5e Conversion Guide]] (helps convert 2014 rules to 2024)
 
-Pre-made Adventure Modules that I own:
+Expanded Rulebooks from 2014:
+[[D&D Xanathar's Guide to Everything\|D&D Xanathar's Guide to Everything]] (not owned by me)
+[[D&D Tasha's Cauldron of Everything\|D&D Tasha's Cauldron of Everything]] (not owned by me)
+
+Pre-made Adventure Modules from 2014 that I own:
 [[Lost Mines of Phandelver\|Lost Mines of Phandelver]]
 [[Candlekeep Mysteries\|Candlekeep Mysteries]]
 [[Dragon of Icespire Peak\|Dragon of Icespire Peak]]

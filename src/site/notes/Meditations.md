@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Meditations/","tags":["Philosophy","WorldCulture"]}
 ---
 
+
 ---
 # What is *"Meditations"* about?
 It is a book that is a posthumously published as a collection of all the notes from the collection of personal diaries of Roman Emperor [[Marcus Aurelius\|Marcus Aurelius]] after his death by the members of his court.
@@ -27,5 +28,8 @@ I would recommend going for the edition without commentary if you do not want to
 [[Providence\|Providence]] 
 [[Procrastination\|Procrastination]]
 [[People-Pleasers often forget themselves\|People-Pleasers often forget themselves]]
-[[There is no Rebirth, Death is the same for all\|There is no Rebirth, Death is the same for all]] (Book 2, Verse 14)
-[[Philosophy behind Death, Warfare & all else\|Philosophy behind Death, Warfare & all else]] (Book 2, Verse 17)
+[[There is no Rebirth, Death is the same for all\|There is no Rebirth, Death is the same for all]]
+[[Philosophy behind Death, Warfare & all else\|Philosophy behind Death, Warfare & all else]]
+[[Ideal Behaviour of Man\|Ideal Behaviour of Man]]
+[[Clarity is source of Power for the men of Old\|Clarity is source of Power for the men of Old]]
+

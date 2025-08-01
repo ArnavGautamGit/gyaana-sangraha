@@ -26,7 +26,7 @@ Reflections on the Year that just went by.
 ## 📅 Monthly View Table
 | Month     | Monthly Rating |
 | --------- | -------------- |
-| July 2025 | 1.79           |
+| July 2025 | 2.3            |
 
 { .block-language-dataview}
 
@@ -48,7 +48,10 @@ Firstly, the table which dumps every single day of 2025 at a glance in a singula
 | [[yearly-logs/2025/2025-07-22\|2025-07-22]] | 22 July 2025 | 1          | 9         | 0.56   |
 | [[yearly-logs/2025/2025-07-23\|2025-07-23]] | 23 July 2025 | 0          | 9         | 0      |
 | [[yearly-logs/2025/2025-07-25\|2025-07-25]] | 25 July 2025 | 2          | 3         | 3.33   |
-| [[yearly-logs/2025/2025-07-26\|2025-07-26]] | 25 July 2025 | 0          | 5         | 0      |
+| [[yearly-logs/2025/2025-07-26\|2025-07-26]] | 26 July 2025 | 3          | 5         | 3      |
+| [[yearly-logs/2025/2025-07-27\|2025-07-27]] | 27 July 2025 | 2          | 6         | 1.67   |
+| [[yearly-logs/2025/2025-07-28\|2025-07-28]] | 28 July 2025 | 3          | 4         | 3.75   |
+| [[yearly-logs/2025/2025-07-29\|2025-07-29]] | 29 July 2025 | 1          | 1         | 5      |
 
 { .block-language-dataview}
 

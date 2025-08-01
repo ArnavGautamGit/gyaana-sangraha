@@ -13,7 +13,7 @@ Geography - although is a vast topic that may be taught at various levels of sch
 - *River System of India*
 	- Himalayan Rivers
 		- [[Indus River System\|Indus River System]]
-		- [[Gangetic River System\|Gangetic River System]]
+		- [[Ganga-Brahmaputra-Barak River System\|Ganga-Brahmaputra-Barak River System]]
 		- [[Brahmaputra River System\|Brahmaputra River System]]
 	- Aravalian Rivers
 		- [[Luni River\|Luni River]]

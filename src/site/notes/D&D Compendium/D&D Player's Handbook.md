@@ -1,22 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/D&D Compendium/D&D Player's Handbook/","tags":["TTRPG"]}
+{"dg-publish":true,"permalink":"/D&D Compendium/D&D Player's Handbook/"}
 ---
 
 
 ---
-# D&D Player's Handbook
+# D&D Player's Handbook (2024)
 > The [[D&D Compendium/Dungeons & Dragons\|D&D]] Rulebook to function as Player's Guide to creating characters and navigating adventures among other tasks.
 
-This note is about the 5th Edition rules of 2014, If you want the new 2024 Edition's rules, you can consult the note: [[D&D Player's Handbook (2024)\|D&D Player's Handbook (2024)]]. 
+This note is about the 2024 update to the 5th Edition which is also popularly called "5.5e" or 5.5th Edition or D&D 2024 
 
-For newbies creating characters on D&D Beyond, these rules listed here (the 2014 rules) are flagged as "Legacy" and if your DM tells you to use 2014 rules, please use only Legacy rules.
+For Newbies, these are all the rules on D&D Beyond that are not tagged as Legacy Rules.
 
-### Things to Read
-[[D&D Compendium/D&D Character Creation\|D&D Character Creation]]
-[[D&D Multiclassing Rules\|D&D Multiclassing Rules]]
+### Map of Content
+[[D&D d20 Tests\|D&D d20 Tests]]
+[[Proficiency (D&D)\|Proficiency (D&D)]]
+[[D&D Action Rules\|D&D Action Rules]]
+[[D&D Exploration Rules\|D&D Exploration Rules]]
 [[D&D Combat Rules\|D&D Combat Rules]]
-[[D&D Rest Rules\|D&D Rest Rules]]
-[[D&D Death Rules\|D&D Death Rules]]
+[[D&D Damage & Healing Rules\|D&D Damage & Healing Rules]]
+[[D&D Character Creation\|D&D Character Creation]] - [[D&D Character Classes\|D&D Character Classes]], [[D&D Character Origins\|D&D Character Origins]]
+[[Character Feats\|Character Feats]]
+[[D&D Spell List\|D&D Spell List]]
 
 ---
 # Footnotes

@@ -5,7 +5,7 @@
 
 ---
 # Nuclear Mode's Goal-Tracking System
-> Template ***DERIVED*** from Shwetabh Gangwar's [[Attack Mode (Course)\|Attack Mode (Course)]]. Where another smaller Course Nuclear Mode was included.
+> Template ***DERIVED*** from Shwetabh Gangwar's [[Attack Mode/Attack Mode (Course)\|Attack Mode (Course)]]. Where another smaller Course Nuclear Mode was included.
 
 Contains a Goal List, Daily Tasks and Progress towards the Goals.
 Using this note everyday will keep me accountable to the Goals I have set.

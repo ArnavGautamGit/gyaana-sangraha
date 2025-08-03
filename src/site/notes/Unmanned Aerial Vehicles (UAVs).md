@@ -52,7 +52,7 @@ The Design Pipeline consists of many Reviews at each stage - including Evaluatio
 The Performance Design of UAVs was developed by Sadraey himself in 2012 - in his book "Aircraft Design: A Systems Engineering Approach" which was developed on the basis of NASA's Technical Report (as claimed by the author). His book on UAV Design ([[Unmanned Aerial Vehicles (UAVs)#^1\|#^1]]) is used as a source for these notes. 
 Performance Design is used in Conceptual and Preliminary Design Stages in the Design Pipeline.
 
-![UAV Performance Design.png](/img/user/Vault%20Templates/UAV%20Performance%20Design.png)
+![UAV Performance Design.png](/img/user/Vaulted%20Images/UAV%20Performance%20Design.png)
 
 The Detailed Design Process involves a series of questions in a flowchart which are answered on the basis of Rigorous Testing in that specific field. Various Subsystems and components are checked throughout the process such as: [[Landing Gear (LG)\|Landing Gear (LG)]], Propulsion system, Wings etc.
 

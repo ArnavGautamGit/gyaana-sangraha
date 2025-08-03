@@ -5,7 +5,7 @@
 
 ---
 # Year of 2025
-> Detailed yearly view template derived from Shwetabh Gangwar's [[Attack Mode (Course)\|Attack Mode (Course)]] where a smaller course called "Nuclear Mode" was included. 
+> Detailed yearly view template derived from Shwetabh Gangwar's [[Attack Mode/Attack Mode (Course)\|Attack Mode (Course)]] where a smaller course called "Nuclear Mode" was included. 
 
 The Template details the Monthly and Daily Views of the Year of 202X.
 The template can be customised and uses a Community Plugin named "Dataview".
@@ -13,10 +13,10 @@ The template can be customised and uses a Community Plugin named "Dataview".
 ### How to use the template
 Firstly, one must have the dataview plugin installed for Obsidian, if one wants to learn Obsidian refer to the note named: [[Arnav's Guide to Using Obsidian\|Arnav's Guide to Using Obsidian]]. 
 
-Secondly, it is recommended to completely download this file (or the entire vault) from GitHub in the src/sites/notes folder. The github repo is named "gyaana-sangraha" on GitHub. It is currently a private repo but will be made public soon enough.
+Secondly, it is recommended to completely download this file (or the entire vault) from GitHub in the src/sites/notes folder. The github repo is named "gyaana-sangraha" on GitHub. It is currently a private repo but will be made public soon enough. The people that know me personally may ask for a zip file version which I have prepared on my laptop.
 
 Thirdly,
-Edit the code in the dataview files to correct the folder name to "yearly-logs/year" where year is the year in number. That is, year of 2025 requires folder "yearly-logs/2025".
+Edit the code in the dataview files to correct the folder name to "yearly-logs/year" where year is the year in number. That is, year of 2025 requires folder "yearly-logs/2025" and the [[yearly-logs/2026/Year of 2026\|Year of 2026]] note will require "yearly-logs/2026" etc.
 
 ---
 ## Yearly Reflections

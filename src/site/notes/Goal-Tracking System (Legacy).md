@@ -13,14 +13,14 @@ Using this note everyday will keep me accountable to the Goals I have set.
 ---
 ### Goal List
 The List of Goals you want to achieve:
-- [ ] Get a SGPA of 9 this semester.
-- [ ] Get a Job
+- Get a SGPA of 9 this semester.
+- Get a Job
 	- [x] Get an internship
-	- [ ] Convert to PPO
-- [ ] Get in shape
-	- [ ] Eat Healthy
-	- [ ] Regular Resistance Workout
-- [ ] Get Intelligent (by reading more books)
+	- Convert to PPO
+- Get in shape
+	- Eat Healthy
+	- Regular Resistance Workout
+- Get Intelligent (by reading more books)
 
 ---
 ### Daily Recurring Tasks (Dailies)

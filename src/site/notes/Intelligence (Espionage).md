@@ -16,6 +16,9 @@ In the worlds of former [[R&AW\|R&AW]] chief, Vikram Sood,
 
 In my words - according to what I have studied, Intelligence is the secret collection of any kind of data, information and experiences which helps the government to take actions against any threats against any nation regardless of if the threat is internal or external.
 
+### Piece of Intelligence
+An item or finding in the world of espionage which provides intelligence about the adversary and preferrably points us to find more is called a piece of Intelligence since in English it is one of the few words which is naturally plural.
+
 ---
 # Why Intelligence is collected?
 To keep a know-how of what is happening around us and that no threat comes as a surprise to the government. In addition, it is preferred if the Government is able to have advanced knowledge of how to deal with the said threat.

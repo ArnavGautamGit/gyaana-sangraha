@@ -28,14 +28,16 @@
 	- I tend to not study or work when alone.
 	- Doomscrolling in leisure.
 - ***==Specific Problem if any==***:
-	- Triggers:
-	- Rooted in:
-	- Extent of Problem:
-	- Similarities from Past Experiences:
+	- Problem 1:
+		- Triggers:
+		- Rooted in:
+		- Extent of Problem:
+		- Similarities from Past Experiences:
+	- Problem 2:
 - ***==Purpose in Life==***
 	- To fulfill and achieve all the [[Things to accomplish before dying\|Things to accomplish before dying]].
-	- Holistic Growth encompassing Financial, Emotional and Spiritual Growth.
-	- Enough Knowledge to speak on nearly all topics and Enough Wisdom to know that we must not open our mouths everywhere.
+	- To afford all the Material Growth and exhaust [[My Wishlist of Success\|My Wishlist of Success]].
+	- Most importantly, Ghar mein respect chahiye bhai
 
 
 Solve problems by the following templates: 

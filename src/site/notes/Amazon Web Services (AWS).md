@@ -14,16 +14,16 @@ Everything in AWS from the region where the Instance is located to the services 
 ### Topics to Study
 - [[Cloud Computing\|Cloud Computing]]
 	- [[Cloud Computing Sevice Models\|Cloud Computing Sevice Models]]
-		- [[Infrastructure-as-a-Service (IAAS)\|Infrastructure-as-a-Service (IAAS)]]
-		- [[Platform-as-a-Service (PAAS)\|Platform-as-a-Service (PAAS)]]
-		- [[Software-as-a-Service (SAAS)\|Software-as-a-Service (SAAS)]]
+		- [[Infrastructure-as-a-Service (IaaS)\|Infrastructure-as-a-Service (IaaS)]]
+		- [[Platform-as-a-Service (PaaS)\|Platform-as-a-Service (PaaS)]]
+		- [[Software-as-a-Service (SaaS)\|Software-as-a-Service (SaaS)]]
 - [[AWS Management Console\|AWS Management Console]]
 - [[AWS Cloud Development Kit (CDK)\|AWS Cloud Development Kit (CDK)]]
 - Most Popular & Most Used on AWS:
 	- [[Amazon EC2\|Amazon EC2]]
 	- [[Amazon Lambda\|Amazon Lambda]]
 	- [[Amazon S3\|Amazon S3]]
-	- [[Amazon RDS\|Amazon RDS]] for Relational Databases (it is a [[Platform-as-a-Service (PAAS)\|PAAS]])
+	- [[Amazon RDS\|Amazon RDS]] for Relational Databases (it is a [[Platform-as-a-Service (PaaS)\|PAAS]])
 		- [[Amazon Aurora\|Amazon Aurora]] is a fully managed RDS compatible with MySQL and PostgreSQL.
 
 ---

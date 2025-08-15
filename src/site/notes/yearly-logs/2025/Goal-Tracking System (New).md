@@ -29,7 +29,7 @@ The details for each year are given below:
 
 | Year | Average Rating |
 | ---- | -------------- |
-| 2025 | 2.08           |
+| 2025 | 2.14           |
 
 { .block-language-dataview}
 

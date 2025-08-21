@@ -5,20 +5,21 @@
 
 ---
 # Kali Linux (Operating System)
-> A Linux OS based on Debian and Ubuntu originally made by Offensive Security. Now the most popular OS for both [[Malicious Hacking\|Malicious Hacking]] and [[Penetration Testing\|PenTesting]].
+> A [[Linux\|Linux]] Distribution based on [[Debian Linux\|Debian Linux]] and originally made by a company called "Offensive Security". 
 
-It is purposefully made with a lower security level and lesser firewall to aid in easy access to otherwise non-accessible tasks - which is why it is always run as a [[Virtual Machine\|Virtual Machine]]
+Now the most popular OS for both [[Malicious Hacking\|Malicious Hacking]] and [[Ethical Hacking\|Ethical Hacking]].
+It is purposefully made with a lower security level and weaker Firewall to aid in easy access to otherwise non-accessible tasks - which is why it is always run as a [[Virtual Machine\|Virtual Machine]] so that no one can leverage that against the hacker itself.
 
-The tools that come with the OS (including, but not limited to) the list:
-1. [[Wireshark\|Wireshark]]
-2. [[Metasploit\|Metasploit]]
-3. [[BurpSuite\|BurpSuite]]
-4. [[Social Engineering Toolkit\|Social Engineering Toolkit]]
-5. [[Armitage\|Armitage]]
-6. [[Nmap\|Nmap]]
-7. [[Kismet\|Kismet]]
-8. [[Aircrack\|Aircrack]]
-9. [[hping\|hping]]
+### CyberSec Standard
+Kali Linux allows the users more transparency and control with background processes and has a community which keeps developing tools for the OS.
+It also ships built in with [[Wireshark\|Wireshark]], [[BurpSuite\|BurpSuite]], [[Nmap\|Nmap]], [[hping\|hping]], [[Aircrack\|Aircrack]], [[Metasploit\|Metasploit]] etc.
+
+### Commands
+Commands are the same as [[Debian Linux#Commands\|Debian Linux > Commands]] due to it being Debian-based.
+Please check that link to see all the basic commands for Kali Linux.
+
+
+
 
 ---
 # Footnotes

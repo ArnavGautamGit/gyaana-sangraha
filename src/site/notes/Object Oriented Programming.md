@@ -10,22 +10,23 @@
 Object Oriented Programming is only possible in languages that support it, like C++, Python, Java etc.
 Here we will use C++ for OOP concepts
 
-## Chapter 1: Classes & Objects
-### Classes
+---
+# Chapter 1: Classes & Objects
+## Classes
 Defined as a specific classification of a certain kind of objects. Sometimes also defined as a group of objects. Similar to an actual class of students where each indicidual student is an Object.
 
 Classes have a name based on what it signifies (like Car) are associated with a group of attributes which define it. Like a Car has 4 wheels, completely covered passenger bay etc. These attributes are also called Properties.
 
-### Member Functions
+## Member Functions
 Classes may also contain specifc functions inside them to avoid repetition of theirs. These functions usually operate on the objects or properties of their class which is why they are included IN the class to avoid repetition. These Functions are called "Methods" or "Member Functions"
 
-### Objects
+## Objects
 Individual Entities in the real world like individual kids in a class of students in school or college. Each Object can be assigned individual properties
 
-### Access Modifiers
+## Access Modifiers
 Specific keywords which decide whether the data in the form of attributes and variables whose access needs to be decidied whether they need to be private (visible only to THIS class), public (visible to all) and protected (private but [[Object Oriented Programming#Inheritance\|inheritable]]).
 
-### Example of OOPs in School
+## Example of OOPs in School
 ```CPP
 class Teacher {// if employee class exists use ": public Employee"
 	// properties or attributes
@@ -69,16 +70,14 @@ t1.dept = 'C++'
 // and so on
 }
 ```
-### Constructor
+## Constructor
 Public Function in a [[Object Oriented Programming#Classes\|class]] which is automatically called whenever a new object is initialised. It has the same name as the class while it does not have a return type (see [[Object Oriented Programming#Example of OOPs in School\|#Example of OOPs in School]]). Default constructor is called by the compiler in case it is not specified. It cannot be called independently.
 
-#### Non-Parameterised Constructor
-Does not take input like a function in parenthesis
+### Classification on Parameterisation
+Non-Parameterised Constructor does not take input like a function in parenthesis
+While Parameterised Constructor is a type of Constructor which directly takes in any values inside the parenthesis.
 
-#### Parameterised Constructor
-It is a type of Constructor which takes in any values directly in parenthesis
-
-#### Copy Constructor
+### Copy Constructor
 Parameterised Constructor which creates a new object which is a copy of another by taking the existing object as a parameter. It has a default constructor in case coder does not add it manually.
 
 ```CPP
@@ -119,11 +118,11 @@ class Student {
 };
 ```
 
-#### Constructor Overloading
+### Constructor Overloading
 Process of creating multiple constructors of the same name in the same class to accept any different combination of parameters depending upon the situation's context - the number of variables, the types of variables called etc.
 
-### Destructor
-opposite of [[Object Oriented Programming#Constructor\|Constructor]].
+## Destructor
+Opposite of [[Object Oriented Programming#Constructor\|Constructor]].
 Default Entity that is automatically called to deallocate memory.
 Not having destructors creates a problem where people forget to deallocate memory that was allocated using the "new" keyword in [[Dynamic Memory Allocation (DMA)\|Dynamic Memory Allocation (DMA)]] or Deep Copy Constructors. This is why compiler uses a default destructor.
 
@@ -142,14 +141,15 @@ class Student {
 };
 ```
 
-## Chapter 2: Pillars of OOP
+---
+# Chapter 2: Pillars of OOP
 The Pillars which support OOP and their definitions are always asked in interviews. These four pillars are: Encapsulation, Abstraction, Inheritance and Polymorphism.
 
-### Encapsulation
+## Encapsulation
 Wrapping attributes, member functions in a single unit known as a "[[Object Oriented Programming#Classes\|class]]".
 This pillar is extensively helpful to protect [[Data Privacy\|Data Privacy]] on the coding level.
 
-### Inheritance
+## Inheritance
 Child (Derived) [[Object Oriented Programming#Classes\|class]] inherits attributes from Parent (Base) Class as it is.
 
 In case the child class has an [[Object Oriented Programming#Objects\|object]] in it, the base class [[Object Oriented Programming#Constructor\|constructor]] is called first, followed by the derived class constructor because children cannot be born without their parents being born first. It is the other way around for [[Object Oriented Programming#Destructor\|destructors]].
@@ -173,14 +173,14 @@ class TeachingAssistant : public Student, public Teacher {
 }
 ```
 
-#### Types of Inheritance
+There are many different types of Inheritance possible on the basis of the structure formed by the number of parent & child classes and their relationships.
 1. Single level: Parent + Child
 2. Multi-level: Parent + Child + Grandchild
 3. Multiple: One child inherits from two parents separated by commas
 4. Heirarchal: Two Children inherit from same parent
 5. Hybrid: game of thrones
 
-### Abstraction
+## Abstraction
 Hiding unnecessary details and showing only the important parts
 Example: [[Object Oriented Programming#Access Modifiers\|Access Mods]] and Abstract Classes (meant to be used as a base class to define an interface for other derived classes, cannot create their own objects)
 
@@ -193,21 +193,22 @@ class shape { // Abstract Class
 // A class with a pure virtual function is always an abstract class
 ```
 
-### Polymorphism
+## Polymorphism
 Ability of objects to take multiple forms depending upon context.
-Best example is [[Object Oriented Programming#Constructor Overloading\|constructor overloading]].
+Best example is [[Object Oriented Programming#Constructor Overloading\|Constructor Overloading]].
 
-#### Types of Polymorphism
-1. Compile-Time: [[Object Oriented Programming#Constructor Overloading\|constructor overloading]], [[Object Oriented Programming#Function Overloading\|function overloading]], [[Operator Overloading\|Operator Overloading]]
-2. Run-Time (also called Dynamic Polymorphism): [[Object Oriented Programming#Function Overriding\|Function Overriding]], 
+Polymorphism can be subdivided on the basis of when it occurs in the code's running cycle.
+It can also be described as whether the Polymorphism is Static or Dynamic.
+1. ***Compile-Time:*** [[Object Oriented Programming#Constructor Overloading\|Constructor Overloading]], [[Object Oriented Programming#Function Overloading\|Function Overloading]], [[Operator Overloading\|Operator Overloading]]
+2. ***Run-Time (Dynamic):*** [[Object Oriented Programming#Function Overriding\|Function Overriding]]. 
 
-#### Function Overloading
+### Function Overloading
 Creating two or more functions of different number or typr of input parameters & return distinct output. The compiler differentiates dependent on context defined by parameter type & number.
 
-#### Function Overriding
+### Function Overriding
 Creating a new version of the function in child class which was originally used in a parent class. If the child's function is called, it overrides the parent's version of the function to ship its own.
 
-#### Virtual Functions
+### Virtual Functions
 A member function which can be expected to be redefined in a derived class.
 Naam ke aage virtual lagaado.
 ```CPP

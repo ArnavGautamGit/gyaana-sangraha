@@ -16,6 +16,13 @@ In CyberSec, approaches depend on the company on how strict or forgiving they wa
 2. ***Risk-Based:*** Company applies secure protocols in descending order of risk.
 3. ***Ad-hoc:*** Company only applies security when they need it (i.e., attack happened).
 
+### Common Types
+There are multiple types of CyberSecurity depending upon the basis of classification, but there is two kinds of CyberSec: [[Defensive Security\|Defensive Security]] and [[Ethical Hacking\|Offensive Security]]. Where the Defeinsive one believes in using SIEM Tools to protect existing infratstructure, the Offensive One aims to find new vulnerabilities in bug bounties hosted by companies.
+
+Both Types have their own merit and place since one needs to continue finding vulnerabilities and evolving the code with time - making it safer, while there is also a valid point made by those that host said bounties that the returns start to diminish fast after a certain point and one has to transition to Defense.
+
+Professionals are supposed to know both sides of Cyber Security to promise maximum employability however most courses and colleges focus on Offensive Security while SIEM Tools are (more often than not) entirely skipped or skimmed past. 
+
 ### Syllabus
 For Advanced UNderstanding, one must be able to understand the following:
 [[The Need For Cyber Security\|The Need For Cyber Security]]

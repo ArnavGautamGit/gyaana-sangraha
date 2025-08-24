@@ -27,7 +27,7 @@ Reflections on the Year that just went by.
 | Month       | Monthly Rating |
 | ----------- | -------------- |
 | July 2025   | 2.3            |
-| August 2025 | 1.98           |
+| August 2025 | 1.96           |
 
 { .block-language-dataview}
 
@@ -67,6 +67,7 @@ Firstly, the table which dumps every single day of 2025 at a glance in a singula
 | [[yearly-logs/2025/2025-08-19\|2025-08-19]] | 20 August 2025 | 2          | 4         | 2.5    |
 | [[yearly-logs/2025/2025-08-20\|2025-08-20]] | 20 August 2025 | 1          | 4         | 1.25   |
 | [[yearly-logs/2025/2025-08-21\|2025-08-21]] | 21 August 2025 | 1          | 3         | 1.67   |
+| [[yearly-logs/2025/2025-08-22\|2025-08-22]] | 22 August 2025 | 1          | 3         | 1.67   |
 
 { .block-language-dataview}
 

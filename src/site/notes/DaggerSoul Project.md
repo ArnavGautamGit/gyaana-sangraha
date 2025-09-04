@@ -5,7 +5,7 @@
 
 ---
 # DaggerSoul Project - Discord Bot & Mobile App
-> A Discord Bot and Mobile App for whether you are playing [[Daggerheart\|Daggerheart]] online or offline on a table! DaggerSoul is there to help you!
+> A Discord Bot and Mobile App for whether you are playing [[Compendiums/Gaming/TTRPG/Daggerheart Compendium/Daggerheart\|Daggerheart]] online or offline on a table! DaggerSoul is there to help you!
 
 Combines my itch for Gaming and Entrepreneurship via Programming. 
 Its like a 2-in-1 itch reduction!

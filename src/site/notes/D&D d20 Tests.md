@@ -5,7 +5,7 @@
 
 ---
 # D&D d20 Tests
-> A d20 Test is any roll in [[D&D Compendium/Dungeons & Dragons\|Dungeons & Dragons]] which would require you to roll a D20 Dice and add modifiers to it. The resultant of the roll is used to determine success or failure of the Action is uncertain.
+> A d20 Test is any roll in [[Compendiums/Gaming/TTRPG/D&D Compendium/Dungeons & Dragons\|Dungeons & Dragons]] which would require you to roll a D20 Dice and add modifiers to it. The resultant of the roll is used to determine success or failure of the Action is uncertain.
 
 D20 Tests come in three flavours: Ability Checks, Saving Throws and Attack Rolls.
 Each Test requires the players to firstly roll a 1d20, then add any modifiers.

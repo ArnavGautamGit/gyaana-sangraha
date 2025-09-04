@@ -5,7 +5,7 @@
 
 ---
 # NEW ME
-> A Template taken from Shwetabh Gangwar's [[Attack Mode/Attack Mode (Course)\|Attack Mode (Course)]] for achieving and absolutely Nuking my Goals.
+> A Template taken from Shwetabh Gangwar's [[Independent Courses/Attack Mode/Attack Mode (Course)\|Attack Mode (Course)]] for achieving and absolutely Nuking my Goals.
 
 - ***==Affirmations to read everyday==***:
 	- No Motivation $\large\neq$ Valid Excuse for No Work.

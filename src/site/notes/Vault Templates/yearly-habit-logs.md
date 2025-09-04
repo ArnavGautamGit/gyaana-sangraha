@@ -5,7 +5,7 @@
 
 ---
 # {{title}}
-> Detailed yearly view template derived from Shwetabh Gangwar's [[Attack Mode/Attack Mode (Course)\|Attack Mode (Course)]] where a smaller course called "Nuclear Mode" was included. 
+> Detailed yearly view template derived from Shwetabh Gangwar's [[Independent Courses/Attack Mode/Attack Mode (Course)\|Attack Mode (Course)]] where a smaller course called "Nuclear Mode" was included. 
 
 The Template details the Monthly and Daily Views of the Year of 202X.
 The template can be customised and uses a Community Plugin named "Dataview".

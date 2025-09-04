@@ -17,7 +17,7 @@ Answer the following questions as truthfully as humanly possible.
 ***Do I have the power to solve this problem or is this emanating from a external figure of authority?***
 (Space for Answer)
 
-Now, we leverage the philosophical principle [[Attack Mode/Repair not Blame\|Repair not Blame]] to find solutions.
+Now, we leverage the philosophical principle [[Independent Courses/Attack Mode/Repair not Blame\|Repair not Blame]] to find solutions.
 ***What do I have the power to do and change?***
 (Space for Solution)
 

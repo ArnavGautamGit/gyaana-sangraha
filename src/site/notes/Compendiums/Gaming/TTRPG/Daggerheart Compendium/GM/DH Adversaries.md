@@ -11,6 +11,7 @@ Notice how I define it as "acting" against the adversary, the act generally invo
 
 See [[Vault Templates/DH Adversary Template\|DH Adversary Template]] for templates to create adversaries.
 See [[Compendiums/Gaming/TTRPG/Daggerheart Compendium/GM/Adversary Rolls\|Adversary Rolls]] to see how to roll for Adversaries as a [[Game Master (GM)\|GM]].
+See [[Compendiums/Gaming/TTRPG/Daggerheart Compendium/GM/DH Encounter Design\|DH Encounter Design]] to learn how to use the correct type & number of adversaries.
 
 An Adversary always has: 
 1. Name (either specific like "Jacob" or generic like "Goblin 1")

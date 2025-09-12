@@ -4,7 +4,7 @@
 
 ---
 # Rhino: The OG Tank since 2013
-Although Rhino was always a Crowd Control Warframe, its third ability of Iron Skin technically makes him a Tank according to our section on [[Compendiums/Gaming/Video Games/Warframe Compendium/Warframe#Modding the Warframes\|Warframe#Modding the Warframes]] 
+Although Rhino was always a Crowd Control Warframe, its third ability of Iron Skin technically makes him a Tank according to our section on [[Compendiums/Warframe Compendium/Warframe#Modding the Warframes\|Warframe#Modding the Warframes]] 
 Rhino is classified as a Tank which also is capable of increasing its survivability using his Abilities. So he fits into two classes of survivability at the same time. 
 It is unclear whether Rhino is a Health-Tank or Shield-Tank because he seems to have great amounts of both. 
 

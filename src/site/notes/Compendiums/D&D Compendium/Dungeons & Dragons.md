@@ -1,0 +1,65 @@
+---
+{"dg-publish":true,"permalink":"/Compendiums/D&D Compendium/Dungeons & Dragons/","tags":["TTRPG"]}
+---
+
+
+---
+# Dungeons & Dragons
+> A [[Table-Top Role-Playing Game\|Table-Top Role-Playing Game]], originally made in the 20th century but has received many updates over the years. The Latest one (which this notes uses) is the 2024 update to the game's 5th Edition. 
+
+A D&D game is really set around the players - the players make their characters and the DM (Dungeon Master) is the one that really crafts the story to life - the individual stories of all the players and also the overall story of the world.
+
+To play a D&D game, the best path is to follow the list below:
+[[Compendiums/D&D Compendium/Corebooks/D&D Player's Handbook\|D&D Player's Handbook]]
+[[Compendiums/D&D Compendium/Corebooks/D&D Dungeon Master's Guide\|D&D Dungeon Master's Guide]]
+[[D&D Monster Manual\|D&D Monster Manual]]
+[[D&D 5.5e Conversion Guide\|D&D 5.5e Conversion Guide]] (convert modules to 5.5e)
+
+
+Expanded Rulebooks (2014 Rules):
+[[Compendiums/D&D Compendium/Expanded Rules/D&D Xanathar's Guide to Everything\|D&D Xanathar's Guide to Everything]]
+[[Compendiums/D&D Compendium/Expanded Rules/D&D Tasha's Cauldron of Everything\|D&D Tasha's Cauldron of Everything]]
+
+
+Adventure Modules (2014):
+[[Compendiums/D&D Compendium/Modules/Lost Mines of Phandelver\|Lost Mines of Phandelver]] (acclaimed, beginner)
+[[Compendiums/D&D Compendium/Modules/Candlekeep Mysteries\|Candlekeep Mysteries]] (acclaimed, beginner)
+[[Compendiums/D&D Compendium/Modules/Dragon of Icespire Peak\|Dragon of Icespire Peak]] (acclaimed, beginner)
+[[Compendiums/D&D Compendium/Modules/Storm Kings Thunder\|Storm Kings Thunder]] (meh)
+[[Compendiums/D&D Compendium/Modules/Curse of Strahd\|Curse of Strahd]] (acclaimed, popular, veteran)
+[[Compendiums/D&D Compendium/Modules/Hoard of the Dragon Queen\|Hoard of the Dragon Queen]]
+[[Compendiums/D&D Compendium/Modules/Out of the Abyss\|Out of the Abyss]]
+[[Compendiums/D&D Compendium/Modules/Waterdeep: Dragon Heist\|Waterdeep: Dragon Heist]]
+[[Compendiums/D&D Compendium/Modules/Wayfinder's Guide to Eberron\|Wayfinder's Guide to Eberron]]
+[[Compendiums/D&D Compendium/Modules/Tomb of Annihilation\|Tomb of Annihilation]]
+[[Compendiums/D&D Compendium/Modules/Eberron: Rising from the Last War\|Eberron: Rising from the Last War]]
+[[Compendiums/D&D Compendium/Modules/Ghosts of Saltmarsh\|Ghosts of Saltmarsh]]
+[[Compendiums/D&D Compendium/Modules/Lost Laboratory of Kwalish\|Lost Laboratory of Kwalish]]
+[[Compendiums/D&D Compendium/Modules/Baldur's Gate: Descend into Avernus\|Baldur's Gate: Descend into Avernus]] (connected to Baldur's Gate 1-3)
+
+
+All the Ancestries that exist in the game:
+[[Compendiums/D&D Compendium/Player/Ancestries/Human (D&D)\|Human (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Dragonborn (D&D)\|Dragonborn (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Tiefling (D&D)\|Tiefling (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Aasimar (D&D)\|Aasimar (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Variant Aasimar (D&D)\|Variant Aasimar (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Dwarf (D&D)\|Dwarf (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Orc (D&D)\|Orc (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Half-Orc (D&D)\|Half-Orc (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/High Elf (D&D)\|High Elf (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Half-Elf (D&D)\|Half-Elf (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Wood-Elf (D&D)\|Wood-Elf (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Sea Elf (D&D)\|Sea Elf (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Astral Elf (D&D)\|Astral Elf (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Shadar Kai (D&D)\|Shadar Kai (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Drow (D&D)\|Drow (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Halfling (D&D)\|Halfling (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Fairy (D&D)\|Fairy (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Genasi (D&D)\|Genasi (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Satyr (D&D)\|Satyr (D&D)]]
+[[Compendiums/D&D Compendium/Player/Ancestries/Kobold (D&D)\|Kobold (D&D)]]
+
+
+---
+# Footnotes

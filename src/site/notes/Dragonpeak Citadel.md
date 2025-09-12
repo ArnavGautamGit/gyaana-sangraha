@@ -9,7 +9,7 @@
 
 The City is made as an inclosed Citadel with muany layers of walls forming multiple Bailies and is considered immensely secure due to also the ability of summoning a massive army of close to 50 Dragons apart from being able to muster 40,000 soldiers.
 
-The City enclosed in the Citadel has a thriving population of [[Compendiums/Gaming/TTRPG/Daggerheart Compendium/Player/Ancestries/Human (DH)\|Human (DH)]], [[Compendiums/Gaming/TTRPG/Daggerheart Compendium/Player/Ancestries/Drakona (DH)\|Drakona (DH)]] ancestries with minority representation of [[Compendiums/Gaming/TTRPG/Daggerheart Compendium/Player/Ancestries/Dwarf (DH)\|Dwarves]] from the Wyvern Peaks and the [[Compendiums/Gaming/TTRPG/Daggerheart Compendium/Player/Ancestries/Giant (DH)\|Giants]] of the [[Free Eastern Cities\|Free Eastern Cities]] (which are also a part of Dragonpeak now) 
+The City enclosed in the Citadel has a thriving population of [[Compendiums/Daggerheart Compendium/Player/Ancestries/Human (DH)\|Human (DH)]], [[Compendiums/Daggerheart Compendium/Player/Ancestries/Drakona (DH)\|Drakona (DH)]] ancestries with minority representation of [[Compendiums/Daggerheart Compendium/Player/Ancestries/Dwarf (DH)\|Dwarves]] from the Wyvern Peaks and the [[Compendiums/Daggerheart Compendium/Player/Ancestries/Giant (DH)\|Giants]] of the [[Free Eastern Cities\|Free Eastern Cities]] (which are also a part of Dragonpeak now) 
 
 The City Map (new one coming on Wonderdraft):
 ![Forechester Castle.jpg](/img/user/Vaulted%20Images/Forechester%20Castle.jpg)

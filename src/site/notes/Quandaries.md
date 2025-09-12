@@ -10,7 +10,7 @@
 The word "Quandary" when translated to Hindi means "Dharam Sankat". It is a popular term used in Hindi Literature and Storytelling.
 
 ### Quandaries in D&D
-The Concept of using Quandaries to create interesting situations in your [[Compendiums/Gaming/TTRPG/D&D Compendium/Dungeons & Dragons\|D&D]] Games to drive the players to think creatively for solutions is often mentioned in the [[Compendiums/Gaming/TTRPG/D&D Compendium/D&D Dungeon Master's Guide\|D&D DM's Guide]] and also gives common types of Quandaries  that can be leveraged.
+The Concept of using Quandaries to create interesting situations in your [[Compendiums/D&D Compendium/Dungeons & Dragons\|D&D]] Games to drive the players to think creatively for solutions is often mentioned in the [[Compendiums/D&D Compendium/Corebooks/D&D Dungeon Master's Guide\|D&D DM's Guide]] and also gives common types of Quandaries  that can be leveraged.
 
 D&D Quandaries can be of many types:
 1. ***Ally-based***: There are 2 allies but neither of them can even stand each other let alone work together, the decision-making character(s) must choose one of the two.

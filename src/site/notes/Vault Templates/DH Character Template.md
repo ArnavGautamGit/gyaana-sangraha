@@ -18,8 +18,9 @@
 **Hope:** {Starts with 2}
 
 ### FEATURES
-***{Feature Name} - {Source}:*** *{Description}*
-***{Feature Name} -{Source}:*** *{Description}*
+***{Feature Name} - {Class/Hope}:*** *{Description}*
+***{Feature Name} -{Ancestry}:*** *{Description}*
+***{Feature Name} -{Community}:*** *{Description}*
 
 ### ACTIVE WEAPONS
 **Proficiency:** X/6

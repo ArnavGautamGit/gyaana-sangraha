@@ -5,7 +5,7 @@
 
 ---
 # Journey to Discover My Ikigai
-Pre-requisite: [[Ikigai (Japanese Concept)\|Ikigai (Japanese Concept)]]
+Pre-requisite: [[Books Library/Related Notes/Ikigai (Japanese Concept)\|Ikigai (Japanese Concept)]]
 This is an evolving note.
 
 This is my documented journey to discover myself and my purpose/calling in life.

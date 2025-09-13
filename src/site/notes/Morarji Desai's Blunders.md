@@ -14,7 +14,7 @@ Then US President Jimmy Carter offered India heavy water ([[Morarji Desai's Blun
 It was Morarji Desai who flauntingly told the Pakistani General [[Zia ul-Haq\|Zia ul-Haq]] about India having the knowledge of the Pakistani Nuclear Project meaning he indirectly told the Pakistani General of India having infiltrated [[Project 706\|Project 706]].
 What followed was the witch hunt & extermination of each and every R&AW asset that existed in Pakistan. Not to mention Desai had also reduced R&AW funding by 30% or so.
 
-Source for both above mentioned blunders: Vikram Sood's book [[The Unending Game\|The Unending Game]] Prologue, page xxiii.
+Source for both above mentioned blunders: Vikram Sood's book [[Books Library/The Unending Game\|The Unending Game]] Prologue, page xxiii.
 
 ---
 # Footnotes

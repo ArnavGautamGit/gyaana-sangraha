@@ -9,7 +9,7 @@
 
 Open Sources also include media, newspapers, public government data, academic publications from a university and other stuff including Twitter Handles that specifically operate as "Open Source XYZ" or "OSINT ABC" like names cn sometimes show information. A lot of it.
 
-It is hard to verify this information if the open source is TOO open i.e., a YouTube Video or a podcast of someone since that is vulnerable to [[Story Bias\|Story Bias]] or [[The Art of Thinking Clearly#Biases and Fallacies that can affect Decisions\|Other Biases]].
+It is hard to verify this information if the open source is TOO open i.e., a YouTube Video or a podcast of someone since that is vulnerable to [[Story Bias\|Story Bias]] or [[Books Library/The Art of Thinking Clearly#Biases and Fallacies that can affect Decisions\|Other Biases]].
 
 ---
 # Footnotes

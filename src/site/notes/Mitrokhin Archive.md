@@ -13,7 +13,7 @@ The Archive was published in 2 parts with the second one publishing after the pa
 > "Posted since 1956 in the archives department of the First Chief Directorate, Mitrokhin had surreptitiously copied out the contents of the records in his own handwriting, even taking the papers home. Every Night, he would laboriously type out the records and store them in an empty milk cartons which he hid under the floor. There were 25,000 pages that the SUS would help retrieve from Moscow.
 > 
 > Over time, the documents were translated, placed in order and analysed, and finally, Operation GUNNER of the SIS yielded two books: *'The Sword and the Shield: The Mitrokhin Archive and the Secret History of the KGB'* (1999) and *'The World Was Going Our Way: The KGB and the Battle for the Third World'* (2005). The first book appeared 7 years after Mitrokhin's escape, it took another six years for the second to be published a year after the Russian died in 2004"
-> ~ Source: [[Vikram Sood\|Vikram Sood]] in his book [[The Unending Game\|The Unending Game]], Pages 55-56
+> ~ Source: [[Vikram Sood\|Vikram Sood]] in his book [[Books Library/The Unending Game\|The Unending Game]], Pages 55-56
 
 ### Popular Criticisms of the Archive
 It requires immense effort to be able to type out 25,000 pages of unordered, sometimes incomplete and often unconnected documents without knowing what to do with them. Especially when we do not know whether that process of manually copying the files was done without errors.

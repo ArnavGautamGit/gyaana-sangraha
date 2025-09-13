@@ -14,7 +14,7 @@ Columbus hence assumed that these Native Americans were not a people with a 'dif
 In Christianity, absence of religion is considered as an absence of soul with a soul being the entity needed to communicate and connect with the divine [[God in Christianity\|Christian God]] and hence these natives since they were without souls could be mercilessly murdered, raped, pillaged and burned since it is their lack of souls which makes them worship nature over God who created nature.
 This distinction between those with a soul and those without is basically what created the racial divide according to Torres.
 
-What followed has been covered in [[European Destruction of the Native Americas\|European Destruction of the Native Americas]] and the process is explained in [[European Method of Colonisation\|European Method of Colonisation]]
+What followed has been covered in [[Books Library/Related Notes/European Destruction of the Native Americas\|European Destruction of the Native Americas]] and the process is explained in [[Books Library/Related Notes/European Method of Colonisation\|European Method of Colonisation]]
 
 
 ---

@@ -16,7 +16,7 @@
 
 ### Avoidance
 - Use Rationality in making decisions & take help of [[Soliloquies\|Soliloquies]] for weighing the options
-- Be detached to what life throws at you & focus only on the next move. ([[Shrimad-Bhagavad Gītā#Quotes\|Shrimad-Bhagavad Gītā#Quotes]])
+- Be detached to what life throws at you & focus only on the next move. ([[Books Library/Shrimad-Bhagavad Gītā#Quotes\|Shrimad-Bhagavad Gītā#Quotes]])
 
 ---
 # Footnotes

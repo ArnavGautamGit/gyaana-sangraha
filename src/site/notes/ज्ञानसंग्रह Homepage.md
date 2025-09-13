@@ -24,7 +24,7 @@ Else, please keep reading.
 
 The First few thing you should know about me are the following:
 - I am ready to offend people in my quest of the truth because I believe that one often needs to ask uncomfortable & offensive questions in order to get the answers. 
-	- Which is precisely why I have zero qualms in passing harsh criticism to some of the very popular books marketed by YouTubers. I have heavily critiqued books like [[Ikigai - The Japanese Secret to a Long and Happy Life\|Ikigai]] and [[The Art of Thinking Clearly\|The Art of Thinking Clearly]].
+	- Which is precisely why I have zero qualms in passing harsh criticism to some of the very popular books marketed by YouTubers. I have heavily critiqued books like [[Books Library/Ikigai - The Japanese Secret to a Long and Happy Life\|Ikigai]] and [[Books Library/The Art of Thinking Clearly\|The Art of Thinking Clearly]].
 - I usually do not write much in Politics, so there are no problems there. Even when I do, I will never put them out in public unless they are so heavily researched that I can survive a lawsuit.
 
 ---
@@ -44,6 +44,6 @@ I talk of many Social Science subjects:
 [[Critical Theories of Literature\|Critical Theories of Literature]]
 [[Psycho-Analysis in Literature\|Psycho-Analysis in Literature]]
 
-Apart from things I learnt in Academics, I also talk of many [[Books\|Books]] I have read & reviewed here among many other notes in the Vault that you are free to see, you will also spot in-depth notes on [[Sukhoi SU-57 Felon\|Sukhoi SU-57 Felon]] and other [[Fifth-Generation Fighter Aircrafts\|Fifth-Generation Fighter Aircrafts]].
+Apart from things I learnt in Academics, I also talk of many [[Books Library/Books\|Books]] I have read & reviewed here among many other notes in the Vault that you are free to see, you will also spot in-depth notes on [[Sukhoi SU-57 Felon\|Sukhoi SU-57 Felon]] and other [[Fifth-Generation Fighter Aircrafts\|Fifth-Generation Fighter Aircrafts]].
 
 I would not call myself a polymath, but I will say that I am trying my best to become one.

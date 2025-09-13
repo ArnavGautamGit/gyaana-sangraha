@@ -7,7 +7,7 @@
 # Overconfidence Effect
 > Tendency to over-estimate one's abilities, skills, value or any other attribute.
 
-Although no source has been provided in the book, the author of the English Edition/Version of  [[The Art of Thinking Clearly\|The Art of Thinking Clearly]], states two main things:
+Although no source has been provided in the book, the author of the English Edition/Version of  [[Books Library/The Art of Thinking Clearly\|The Art of Thinking Clearly]], states two main things:
 - Men are more likely to be Overconfident about themselves than women.
 - Subject Experts are more likely to be Overconfident about their knowledge.
 

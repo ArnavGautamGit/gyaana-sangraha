@@ -5,7 +5,7 @@
 
 ---
 # 3 Things to Know
-On the 2nd Day of my [[IIT-K CyberSec Course\|IIT-K CyberSec Course]], our instructor for the course, Binayak Prasad Gupta told us something that he was told by his professor and mentor in the field of CyberSec.
+On the 2nd Day of my [[Independent Courses/IIT Kanpur CyberSec/IIT-K CyberSec Course\|IIT-K CyberSec Course]], our instructor for the course, Binayak Prasad Gupta told us something that he was told by his professor and mentor in the field of CyberSec.
 
 > [!quote] QUOTE: Three Things to Know
 > "Knowledge can be classified into 3 broad types:

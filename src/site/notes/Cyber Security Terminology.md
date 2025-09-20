@@ -42,8 +42,16 @@ My phone (without password protection) lying inside a locked room is a vulnerabi
 ---
 ## Attacker
 > An entity that attacks or is a threat to the system - could be human or a bot.
+> Also called "Threat Actors"
 
 Human Attackers are often known as "[[Hackers\|Hackers]]" or "[[Black-Hat Hackers\|Black-Hat Hackers]]" more specifically.
+There are various types of Threat Actors:
+[[Script-Kiddies\|Script-Kiddies]]
+[[Hacktivism\|Hacktivism]]
+[[Inside-Attacker\|Inside-Attacker]]
+[[State-Sponsored Hackers\|State-Sponsored Hackers]]
+[[Suicide Hackers\|Suicide Hackers]]
+[[Cyber Terrorism\|Cyber Terrorists]]
 
 ---
 ## Attack
@@ -59,6 +67,9 @@ See Also: [[Types of Cyber Attacks\|Types of Cyber Attacks]]
 > "The potential that a given threat will exploit vulnerabilities of an asset or group of assets and thereby cause harm to the organization."
 
 Risk shows the damage caused to the system assets by the occurrence of threats.
+[[Risk Assessment & Management\|Risk Assessment]] Risk can be of two different types: Quantitative or Qualitatitive
+
+
 There are multiple methods to find its value:
 [[The OWASP Method\|The OWASP Method]]
 [[The CRAMM\|The CRAMM]]

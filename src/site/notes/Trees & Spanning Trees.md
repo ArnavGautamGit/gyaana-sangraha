@@ -1,20 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/Trees & Spanning Trees/","tags":["CompSci"]}
+{"dg-publish":true,"permalink":"/Trees & Spanning Trees/","tags":["Academics"]}
 ---
 
-***Created on: 03/02/2024
-Last updated: 03/02/2024***
 
-----
-# Index/Contents
-[[Trees & Spanning Trees#What are Trees & Spanning Trees?\|#What are Trees & Spanning Trees?]]
-[[Trees & Spanning Trees#What is the Borůvka's (Sollin's) Algorithm?\|#What is the Borůvka's (Sollin's) Algorithm?]]
-[[Trees & Spanning Trees#What is the Kruskal's Algorithm?\|#What is the Kruskal's Algorithm?]]
-[[Trees & Spanning Trees#What is the Prim's Algorithm?\|#What is the Prim's Algorithm?]]
-[[Trees & Spanning Trees#Footnotes\|#Footnotes]]
+---
+# Trees & Spanning Trees
+> A "Tree" is a [[Data Structure\|Data Structure]] named after the naturally found trees in the environment since they diverge into smaller and smaller branches. 
 
------
-# What are Trees & Spanning Trees?
+In proper definition, Tree is a Connected, Uni-Directed Acyclic [[Graph (Data Structure)\|Graph]]. 
+The "Spanning Tree" is the subset of a [[Graph (Data Structure)\|Graph]] which all the vertices covered with a minimum possible number of edges and only one path containing any pair of the vertices. 
 ## Trees
 - Can also be called as a Connected Undirected Acyclic Graph.
 - Only 1 path is available between any pair of vertices
@@ -55,7 +49,7 @@ This was the first ever algorithm for finding an MST.
 Start from any one vertex and keep connecting the edges with the smallest edge weights. No backtracking allowed.
 
 ---
-Next Chapter ---> [[Trees & Spanning Trees\|Trees & Spanning Trees]]
+Next Chapter ---> [[Graph Covering\|Graph Covering]]
 # Footnotes
 1. ***==Branches==***: They are the edges of the graph that are ALSO present in the Minimum Spanning Tree (MST).
 { #1}

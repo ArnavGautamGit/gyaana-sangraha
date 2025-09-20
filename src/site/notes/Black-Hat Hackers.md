@@ -10,5 +10,6 @@
 They almost never earn a consistent income and aim to find a fish so great that the payout can keep them going for a few months or years.
 [[Stay Richer by Spending Less\|Stay Richer by Spending Less]] (especially if income is low or irregular)
 
+
 ---
 # Footnotes

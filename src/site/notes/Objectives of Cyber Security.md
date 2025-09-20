@@ -11,6 +11,7 @@
 4. [[Non-Repudiation\|Non-Repudiation]] - Ability to avoid the user being able to deny their actions even when they were performed by them.
 5. [[Accountability\|Accountability]] - Holding the user accountable to their actions performed on the system/systems.
 
+It is also to be noted that often we only talk of the first 3 (CIA) when we talk of CyberSec in general.
 
 ---
 # Footnotes

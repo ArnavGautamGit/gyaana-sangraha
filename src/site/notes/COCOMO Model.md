@@ -22,7 +22,7 @@ COCOMO has existed in three types:
 3. ***Detailed COCOMO***
 
 While Basic & Intermediate varaints are in syllabus, we have to note that the Detailed one isn't.
-I am not sure of the GATE syllabus, since it is also said that COCOMO is considered an important topic in [[GATE Preparation\|GATE Preparation]].
+I am not sure of the GATE syllabus, since it is also said that COCOMO is considered an important topic in [[Graduate Aptitude Test for Engineering (GATE)\|Graduate Aptitude Test for Engineering (GATE)]].
 
 # Types of Cocomo (based on Software Type)
 Cocomo can be typed on the basis of the tpe of software the devs are trying to build since each software type may need a different type of testing and help to make it work.

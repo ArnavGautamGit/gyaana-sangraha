@@ -12,7 +12,9 @@ We can safeguard Availability by authentication and limiting the session time, e
 Maintaining Availability requires:
 - Defence against [[DOS Attack\|DOS Attack]].
 - Component Redundancy.
+- Clustering
 - Fault and Failure Tolerant Software.
+- Backups
 
 ---
 # Footnotes

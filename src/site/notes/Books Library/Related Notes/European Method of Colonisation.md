@@ -23,7 +23,7 @@ Although expansionist mindsets did exist in Europe such as [[Alexander The Great
 
 We also know that sometime later the Christian Victory over the Saxons would lead to the [[Christian destruction of Irminsul\|Christian destruction of Irminsul]] in the 770s... we see that something changed in the European mentality in the timeline - the change brought in by the advent of Christianity where the same Europeans who adored the [[Afghan Buddhist Statues\|Afghan Buddhist Statues]] then destroyed Irminsul.
 
-Also see the [[Racism is rooted in Christianity\|Racism is rooted in Christianity]] to see how racism is entrenched in Christianity and there is no thought that dates before Christianity which is this racist.
+Also see the [[Books Library/Related Notes/Racism is rooted in Christianity\|Racism is rooted in Christianity]] to see how racism is entrenched in Christianity and there is no thought that dates before Christianity which is this racist.
 
 As established above, we have seen how race was central to colonisation & how the roots of racism lay in Christianity, it will not be wrong to say that the root of colonialism and coloniality (along with colonialist thought) is Christianity which aims to "save" the world by converting everyone to Christianity.
 

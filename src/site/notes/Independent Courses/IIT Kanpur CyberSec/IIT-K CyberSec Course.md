@@ -65,7 +65,13 @@ Syllabus covered in Module 2:
 - [[Digital Signatures\|Digital Signatures]]
 
 Syllabus covered in Module 3:
-- 
+- [[Defensive Security\|Defensive Security]] and [[Ethical Hacking\|Offensive Security]]
+- [[Purple Team\|Purple Team]] in CyberSec
+- [[Objectives of Cyber Security\|CIA Triad]]
+- [[Cyber Security Terminology\|Cyber Security Terminology]]
+- [[Risk Assessment & Management\|Risk Assessment & Management]]
+- [[Governance, Risk Management and Compliance (GRC)\|Governance, Risk Management and Compliance (GRC)]]
+- [[Firewall\|Firewall]]
 
 ---
 # Footnotes

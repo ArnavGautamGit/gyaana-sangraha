@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Compendiums/Daggerheart Compendium/Homebrew/Flaming Lotus/Flaming Lotus/"}
+{"dg-publish":true,"permalink":"/Compendiums/Daggerheart Compendium/Homebrew/Flaming Lotus/Flaming Lotus/","tags":["TTRPG"]}
 ---
 
 
@@ -32,17 +32,15 @@ Ancestries which you find in the mythical and religious lore of these regions.
 The table below lists a number of ancestries and the communities where they are most often associated with due to geographical and socio-economic reasons for adoption.
 Click on ancestry names (once image links are added) to see image examples of ancestries.
 
-| ***Ancestry***   | ***Features***                                                                                                                                                                                                                                                                           | ***Preferred Region***       |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| Naga             | - *Snake-headed:* You can find hidden foes due to thermal vision.<br><br>- *Well-Read:* +2 to [[Knowledge\|Knowledge]] Rolls<br>- *Loved:* +3 to [[Presence Rolls\|Presence Rolls]]                                                                                                                                 | Cliffsides & Mountain Lakes. |
-| Deva             | - *Heroic:* If NPCs know your ancestry, they adore you. Acts that are unethical or perceived as such rapidly lower your popularity & people are less likely to help you or interact with you.<br><br>- *Respected:* +2 to [[Presence\|Presence]] Rolls<br>- *Well-Read:* +2 to [[Knowledge\|Knowledge]] Rolls | Region-free                  |
-| Gandharva        | - *Musically Adept:* +1 to Presence if playing Bard<br>- *Strong:* +2 to [[Strength\|Strength]] Rolls                                                                                                                                                                                              | Region-free                  |
-| Manushya (Human) | Stays the same                                                                                                                                                                                                                                                                           | Region-free                  |
-| Rakshasa         | - *Tusks:* Protruding Tusks, often adorned<br><br>- *Cunning:* +2 to [[Instinct\|Instinct]] Rolls<br>- *Omnivores:* Eats Everything, even humans                                                                                                                                                   | Region-free                  |
-| Daitya           | - *Tusks:* Protruding Tusks, often adorned<br><br>- *Omnivores:* Eats Everything, even humans<br>- *Hated:* -3 on [[Presence\|Presence]] Rolls<br>- *Strong:* +2 to [[Strength\|Strength]] Rolls                                                                                                             | Forests                      |
-| Daanava          | - *Uncivilised:* Live in closed tribes away from cities.<br><br>- *Gigantic:* Use Melee weapons as Very Close<br>- *Omnivores:* Eats everything, even humans                                                                                                                             | Forests.                     |
-| Yaksha           | - *Musically Adept:* +1 to Presence if playing Bard<br>- *Agile:* +2 to [[Agility\|Agility]] Rolls                                                                                                                                                                                                | City-centres                 |
+| ***Ancestry***   | ***Features***                                                                                                                                                                                                                                      | ***Preferred Region***       |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| Naga             | - *Loved:* Due to your good nature and being a well-read community, people think of you as an ideal minority, you get +3 on all [[Presence Rolls\|Presence Rolls]]<br><br>- *Well-Read:* +2 to [[Knowledge\|Knowledge]] Rolls<br>- *Snake-headed:* You gain immunity to Poison | Cliffsides & Mountain Lakes. |
+| Gandharva        | - *Musically Adept:* +1 to Presence if playing Bard<br>- *Strong:* +2 to [[Strength\|Strength]] Rolls                                                                                                                                                         | Region-free                  |
+| Manushya (Human) | Stays the same as the classic Daggerheart Human                                                                                                                                                                                                     | Region-free                  |
+| Rakshasa         | - Hated: Due to the man-eating tendencies of your ancestry, people are scared around you. You get a -3 on all [[Presence\|Presence]] Rolls<br><br>- *Cunning:* +2 to [[Instinct\|Instinct]] Rolls<br>- *Omnivores:* Eats Everything, even humans                        | Region-free                  |
 
+### Homebrew Classes
+The Druid Class is renamed to "Yaksha". Your Ancestry (mechanically) needs to be Human.
 
 
 

@@ -18,11 +18,11 @@ Some Universities in Germany and Singapore also accept GATE Scores although ther
 
 ## Syllabus (CompSci Branch)
 [[Digital Logic\|Digital Logic]]
-[[Basics of Computer Architecture\|Basics of Computer Architecture]]
+[[Computer Organisation & Architecture\|Computer Organisation & Architecture]]
 [[Data Structures & Algorithms (DSA)\|Data Structures & Algorithms (DSA)]]
-[[Theory of Computation\|Theory of Computation]]
+[[Theoretical Foundations of Computer Science\|Theoretical Foundations of Computer Science]]
 [[Compiler Design\|Compiler Design]]
-[[Introduction to OS\|Introduction to OS]]
+[[Operating Systems and Systems Programming\|Operating Systems and Systems Programming]]
 [[Database Management Systems (DBMS)\|Database Management Systems (DBMS)]]
 [[Computer Networks\|Computer Networks]]
 [[Engineering Maths\|Engineering Maths]]

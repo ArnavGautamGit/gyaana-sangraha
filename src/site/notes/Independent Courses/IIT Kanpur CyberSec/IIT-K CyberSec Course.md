@@ -71,7 +71,11 @@ Syllabus covered in Module 3:
 - [[Cyber Security Terminology\|Cyber Security Terminology]]
 - [[Risk Assessment & Management\|Risk Assessment & Management]]
 - [[Governance, Risk Management and Compliance (GRC)\|Governance, Risk Management and Compliance (GRC)]]
-- [[Firewall\|Firewall]]
+- [[Firewall\|Firewall]] and its types
+	- [[Web Application Firewall\|Web Application Firewall]] is software toggle switch.
+	- [[Next Generation Firewall\|Next Generation Firewall]] is hardware based.
+- [[Unified Threat Management (UTM)\|Unified Threat Management (UTM)]]
+- 
 
 ---
 # Footnotes

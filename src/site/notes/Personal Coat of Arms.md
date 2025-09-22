@@ -5,7 +5,7 @@
 
 ---
 # Personal Coat of Arms
-> A practice in [[Heraldry\|Heraldry]] where a person would depict themselves either with a [[Coat of Arms\|Coat of Arms]] or a [[Heraldic Achievement\|Heraldic Achievement]] for identification of participants in a case of war or any public tournaments.
+> A practice in [[Heraldry\|Heraldry]] where a person would depict themselves either with a [[Escutcheon\|Escutcheon]] or a [[Heraldic Achievement\|Heraldic Achievement]] for identification of participants in a case of war or any public tournaments.
 
 It is important to note that I did NOT make this to intentionally fake or claim a nobel rank in a democratic republic like India or elsewhere. It is only made for the intention of creating a unique personal brand to be used in informal printables and/or informal digital works as complementary or supplementary to my name & identity. This will never be used in government works and I shall never use it to violate any law or guidelines set by the government of India or wherever I reside. 
 

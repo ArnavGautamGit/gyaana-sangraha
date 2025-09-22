@@ -12,15 +12,11 @@ The template however has expanded beyond. To recreate this template, one would n
 
 ---
 ## 📈 Tracking Progress
-Progress was formerly tracked manually with daily ratings calculated manually. Now I upload a daily log according to the template: [[Vault Templates/daily-habit-log\|daily-habit-log]] and the template then the table below gets auto-populated.
+Earlier I started with Habitica, moved to Tasks.org (Tasks App), moved back to Habitica since May 2025. This new system now is app-agnostic. It is your choice whether you want to use a separate app for task management or want to do it inside the daily logs itself.
 
-Earlier I started with Habitica, moved to Tasks.org, moved back to Habitica but now I am solidly settling on Tasks.org for a sizable time.
+Progress was formerly tracked manually with daily ratings calculated manually. Now I upload a daily log according to the template: [[Vault Templates/daily-habit-log\|daily-habit-log]] and then all the tables get populated automatically, this note is only to see the years of progress at a glance, for in-depth view of any year, click on the respective note.
 
-In the legacy system, there were no daily notes, there was a weekly table where I would 
-If you want to check out the Legacy version of the Goal Tracking System, It is available on the note named: [[Goal-Tracking System (Legacy)\|Goal-Tracking System (Legacy)]]
-
-The details for each year are given below:
-[[yearly-logs/2025/Year of 2025\|Year of 2025]]
+[[yearly-logs/2025/Year of 2025\|Year of 2025]] (current year)
 [[yearly-logs/2026/Year of 2026\|Year of 2026]]
 [[yearly-logs/2027/Year of 2027\|Year of 2027]]
 
@@ -29,7 +25,7 @@ The details for each year are given below:
 
 | Year | Average Rating |
 | ---- | -------------- |
-| 2025 | 2.13           |
+| 2025 | 2.17           |
 
 { .block-language-dataview}
 

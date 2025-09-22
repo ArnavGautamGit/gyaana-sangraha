@@ -42,12 +42,12 @@ My phone (without password protection) lying inside a locked room is a vulnerabi
 ---
 ## Attacker
 > An entity that attacks or is a threat to the system - could be human or a bot.
-> Also called "Threat Actors"
+> Also called "***Threat Actors***"
 
 Human Attackers are often known as "[[Hackers\|Hackers]]" or "[[Black-Hat Hackers\|Black-Hat Hackers]]" more specifically.
 There are various types of Threat Actors:
 [[Script-Kiddies\|Script-Kiddies]]
-[[Hacktivism\|Hacktivism]]
+[[Hacktivism\|Hacktivists]]
 [[Inside-Attacker\|Inside-Attacker]]
 [[State-Sponsored Hackers\|State-Sponsored Hackers]]
 [[Suicide Hackers\|Suicide Hackers]]

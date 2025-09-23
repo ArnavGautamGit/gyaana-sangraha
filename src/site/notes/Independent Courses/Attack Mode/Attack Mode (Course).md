@@ -43,7 +43,10 @@ I don't use Notion so I made personalised versions of Notion Templates above so 
 [[Vault Templates/Logical Problem-Solving Template\|Logical Problem-Solving Template]]
 [[Vault Templates/Emotional Problem-Solving Template\|Emotional Problem-Solving Template]]
 [[Goal-Tracking System (Legacy)\|Goal-Tracking System (Legacy)]]
-[[yearly-logs/2025/Goal-Tracking System (New)\|Goal-Tracking System (New)]]
+[[yearly-logs/2025/Goal-Tracking System (New)\|Goal-Tracking System (New)]] (based on a mixture of Being Powerful and Nuclear System)
+[[Vault Templates/Nuke your Goals Template\|Nuke your Goals Template]] (for singular goals like competitive exams)
+
 
 ---
 # Footnotes
+1. Email me at: `arnavgautam2003@gmail.com` if you want these templates for yourself. I always keep a zip file ready to send you the files, ***==given that you can show me (with proof) that you HAVE PURCHASED Attack Mode.==***

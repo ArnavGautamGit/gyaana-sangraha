@@ -16,6 +16,8 @@ It is important to note that I did NOT make this to intentionally fake or claim 
 > Crest: *"Issuant from a torse Gules and Or, a conch shell Argent resting fesswise with its mouth to sinister"*
 > 
 > Mantling: *"Gules doubled Or"*
+{ #5bb205}
+
 
 As seen in Historical Records, each Coat of Arms required a blazon which would be used as a descriptor of the design that needed to be painted on the shield of each soldier that does not carry a personal Coat of Arms. Even among those that do, it was common to use the state's Coat of Arms in cases of War if their own arms are not extensively famous.
 

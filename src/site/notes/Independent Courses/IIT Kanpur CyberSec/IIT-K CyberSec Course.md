@@ -70,10 +70,12 @@ Syllabus covered in Module 3:
 - [[Objectives of Cyber Security\|CIA Triad]]
 - [[Cyber Security Terminology\|Cyber Security Terminology]]
 - [[Risk Assessment & Management\|Risk Assessment & Management]]
+	- [[Security Controls\|Security Controls]]
 - [[Governance, Risk Management and Compliance (GRC)\|Governance, Risk Management and Compliance (GRC)]]
 - [[Firewall\|Firewall]] and its types
-	- [[Web Application Firewall\|Web Application Firewall]] is software toggle switch.
-	- [[Next Generation Firewall\|Next Generation Firewall]] is hardware based.
+	- [[Web Application Firewall (WAF)\|Web Application Firewall (WAF)]] is software toggle switch.
+	- [[Next-Generation Firewall (NGFW)\|Next-Generation Firewall (NGFW)]] is hardware based.
+- [[The Onion Router (TOR)\|The Onion Router (TOR)]]
 - [[Unified Threat Management (UTM)\|Unified Threat Management (UTM)]]
 - 
 

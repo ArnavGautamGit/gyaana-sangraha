@@ -14,9 +14,9 @@ In the book, "[[Books Library/Ikigai - The Japanese Secret to a Long and Happy L
 
 According to this Venn Diagram, the intersection of the following:
 1. What one loves (their likes)
-2. What one is good at (their strengths) 
-3. What one can be paid for (their skills)
-4. What the world needs (problems they can solve)
+2. What one is good at (skills in general) 
+3. What one can be paid for (marketable skills)
+4. What the world needs (problems)
 
 My major criticism of the book (as voiced [[Books Library/Ikigai - The Japanese Secret to a Long and Happy Life#Some Criticism\|here]]) is that the part of how one discovers their Ikigai was not mentioned, the only thing in that chapter was this Venn Diagram and the starting definition block (which is also altered to be easy to understand). The book quickly moved towards "how to live long using Ikigai as a tool".
 

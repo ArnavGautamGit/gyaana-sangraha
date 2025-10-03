@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Vault Templates/Nuke your Goals Template/"}
 ---
 
+
 ---
 # {{title}}
 ***Deadline:*** 
@@ -15,15 +16,18 @@ to:
 ```
 
 
-| What Works (do more) | What doesn't work (needs to be changed) |
-| -------------------- | --------------------------------------- |
-|                      |                                         |
+| Things that Work (do more) | Things that don't (change 'em) |
+| -------------------------- | ------------------------------ |
+|                            |                                |
 
 ---
 ### Tasks Today
+Check your tasks from Habitica or other task management app
+As redundancy, you may choose add them here.
 - [ ] Task 1
 - [ ] Task 2
-- [ ] Task 3
+
+Make sure to mark off your tasks in Habitica!
 
 ---
 ### Next Tasks
@@ -33,6 +37,6 @@ Tasks that you will do the next time:
 - [ ] Task 4
 - [ ] Task 5
 
+Add these Tasks to Habitica with due dates, set reminders & alarms if needed. 
+
 ---
-### All Related Notes/MOC
-If the tasks required studying existing notes or a syllabus, list it here.

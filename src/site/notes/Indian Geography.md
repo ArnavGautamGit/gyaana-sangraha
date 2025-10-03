@@ -39,12 +39,6 @@ Indian Geography is a prominent subject in Government Exams such as the [[Combin
 	- [[Bay of Bengal\|Bay of Bengal]]
 	- [[Arabian Sea\|Arabian Sea]]
 	- [[Indian Ocean\|Indian Ocean]]
-- *Globe*
-	- [[Latitude Lines\|Latitude Lines]]
-		- [[Equator Line\|Equator Line]]
-		- [[Tropic of Cancer\|Tropic of Cancer]]
-		- [[Tropic of Capricorn\|Tropic of Capricorn]]
-	- [[Longitude Lines\|Longitude Lines]]
 
 ---
 # Footnotes

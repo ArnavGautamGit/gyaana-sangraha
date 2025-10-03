@@ -12,7 +12,7 @@ I may skip Fiction Books notes entirely and may even delete the listing.
 On clicking on an individual book's name you will find all my learnings from the books. Take them as things that I have discovered. To re-iterate what was written from the Homepage, I am not afraid of offending people in my quest of truth - because to find the answers you often need to ask questions regardless of how hard, offensive or taboo they may be considered.
 
 ---
-# Hinduism & Old Indic Civilisation
+# Hinduism & Indic Civilisation
 1. [[Books Library/India, that is Bharat\|India, that is Bharat]] (Controversial notes kept private)
 2. [[Books Library/India, Bharat and Pakistan\|India, Bharat and Pakistan]] (Controversial notes kept private)
 3. [[Books Library/Shrimad-Bhagavad Gītā\|Shrimad-Bhagavad Gītā]] 

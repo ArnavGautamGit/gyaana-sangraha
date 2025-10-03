@@ -49,7 +49,7 @@ Designed to hide itself from detection by using compression and *code mutation*.
 Code Mutation is a technique used by a virus to edit its own code!
 The Virus edits its own code, jumbles functions up and down to change its signature and maintain stealth.
 ### 3. Polymorphic Virus
-==*Polymorphism*==: Singular entity taking different/multiple forms. For Example: Hinduism is a polymorphic religion.
+==*Polymorphism*==: Singular entity taking different/multiple forms. For Example: Hinduism is a polymorphic religion since God is considered to have infinite forms.
 In the case for Viruses, A polymorphic virus is designed to change its signature (using Code Mutation) regardless of replicating currently or not. The replica (obviously) will have a different signature.
 ==Advanced Polymorphic Viruses are able to replicating in such a way to change their signatures to something never seen before. Many are able to change their distinct bit patterns to maintain stealth==. 
 ### 4. Metamorphic Virus

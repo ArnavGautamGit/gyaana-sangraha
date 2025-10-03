@@ -29,5 +29,6 @@ I would recommend going for the edition without commentary if you do not want to
 [[Books Library/Related Notes/There is no Rebirth, Death is the same for all\|There is no Rebirth, Death is the same for all]]
 [[Books Library/Related Notes/Philosophy behind Death, Warfare & all else\|Philosophy behind Death, Warfare & all else]]
 [[Ideal Behaviour of Man\|Ideal Behaviour of Man]]
-[[Clarity is source of Power for the men of Old\|Clarity is source of Power for the men of Old]]
+[[Clarity is Power\|Clarity is Power]]
+[[Opinion of others does not matter\|Opinion of others does not matter]]
 

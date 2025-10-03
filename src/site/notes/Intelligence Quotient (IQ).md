@@ -36,7 +36,7 @@ while only 2% would score more than 130 or under 70.
 ### Correlations
 According to a study in 2005, there is 0.33 (or 33%) correlation between the IQ of an individual and their brain volume.
 
-IQ is considered to have a correlation of 0.2 to 0.8 with USA-based curriculums. Many argue that SAT, ACT, GRE and similar tests are basically IQ tests with a correlation of 0.8 i.e., 1330 on a SAT corresponds to roughly an IQ of 130. 
+IQ is considered to have a correlation of 0.2 to 0.8 with USA-based curriculums. Many argue that SAT, ACT, GRE and similar tests are basically IQ tests with a correlation of 0.8 i.e., 1330 on a SAT corresponds to roughly an IQ of 130 but doesn't that make the tests trainable? A person with a great training and good understanding of question patterns can easily ace the IQ test.
 
 ### Problems
 - Similarity in the types of questions asked.
@@ -46,10 +46,10 @@ IQ is considered to have a correlation of 0.2 to 0.8 with USA-based curriculums.
 	- Due to the reasons mentioned above, the tests can be trained on.
 	- A person who has trained on a similar type of questions will score higher.
 	- If a test can be trained/prepared for, are you testing natural general intelligence or are you testing the ability to recite and vomit whatever a person has crammed?
-- IQ tests do not account for Cutural Changes, they are al white-European Centric.
-	- Cultures that are oral in nature, would they even perceive things the same way when contrasted with cultures that are more focused on the written word.
+- IQ tests do not account for Cutural Changes, they are all white-European Centric.
+	- Cultures that are oral in nature, would they even perceive things the same way when contrasted with cultures that are more focused on the written word?
 - IQ is only one form of intelligence. many may be more intelligent or naturally "gifted" with Nature, Survival, Music, Emotions etc.
-- The Flynn Effect in IQ is an effect discovered by a person named Mr. Flynn where he checked and saw that every few decades, IQ scores had to be normalised and 100 years ago, average American IQ has increased by 30 leading to the fact that Americans that were "mentally retarded" by today's standard of 70 IQ were 100 IQ back then. Nutrition and Education made that difference more than likely. 
+- The Flynn Effect in IQ is an effect discovered by researcher James Flynn where he checked and saw that every few decades, IQ scores had to be normalised and 100 years ago, average American IQ has increased by 30 leading to the fact that Americans of the past were "mentally retarded" by today's standard of 70 IQ which were 100 IQ back then. Nutrition and Education made that difference more than likely. 
 
 ---
 # Footnotes

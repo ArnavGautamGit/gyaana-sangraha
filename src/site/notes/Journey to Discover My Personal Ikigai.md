@@ -10,53 +10,28 @@ This is an evolving note.
 
 This is my documented journey to discover myself and my purpose/calling in life.
 Just like any other journey, here is the list of stuff we require:
-1. [[Journey to Discover My Personal Ikigai#My Likes\|#My Likes]]
-2. [[Journey to Discover My Personal Ikigai#My Strengths\|#My Strengths]]
-3. [[Journey to Discover My Personal Ikigai#My Skills\|#My Skills]]
-4. [[Journey to Discover My Personal Ikigai#Problems I can solve\|#Problems I can solve]]
+1. Do I love it?
+2. Am I good at it?
+3. Can I get paid for it?
+4. Does it solve a problem at scale?
+	1. Will the world pay for getting it? (or they want it for free)
 
-Once we have that then we can easily figure out what my calling in Life must be.
+Once we have that then we can easily figure out what my calling in Life is by adding them in the "Jobs & Businesses" column of the table below and check for the conditions as we listed above.
 
-### My Likes
-Things I can do for long hours without getting bored or feeling tired. Also includes any and all tasks where I can easily attain flow and forget about time and get lost in the task.
-1. Gaming
-2. Storytelling in any medium - particularly Writing
-3. Research & Organisation of Knowledge
-4. Learning new things
-5. Imparting Knowledge or Speaking in Public about a topic.
-6. Streaming, Recording of Podcasts or Games etc.
-7. Technology
-8. Sports
-	1. Olympic Shooting
-	2. Cricket
-	3. Football
+| ***Jobs & Businesses***                       | ***Do I love it?***                   | ***Am I good at it?*** | ***Can I get paid for it?***    | ***Does it solve a problem at scale?*** | *Result*                            |
+| --------------------------------------------- | ------------------------------------- | ---------------------- | ------------------------------- | --------------------------------------- | ----------------------------------- |
+| Starting a Football Club                      | Yes                                   | Never Tried            | Probably No                     | Yes                                     | Dream                               |
+| Gaming Streaming                              | Yes                                   | Yes                    | Probably No                     | No                                      | Fine Hobby                          |
+| Becoming an author                            | Yes                                   | Above Average          | Yes (very little in the start)  | Depends on book                         | Worth a try                         |
+| ***Public Speaking and imparting knowledge*** | ***Yes***                             | ***Yes***              | ***useful in a few jobs***      | ***Yes (leadership)***                  | ***==Should involve in Ikigai==***  |
+| Olympic Shooting Athlete                      | Yes                                   | Never Tried            | Probably no                     | Yes (Olympic Tally)                     | Possible Hobby                      |
+| ***Starting a Game Development Studio***      | ***Yes***                             | ***Never Tried***      | ***Yes (little in the start)*** | ***Yes***                               | ***==Possible Ikigai==***           |
+| Full-Stack Development                        | No                                    | Average                | Yes                             | No                                      | Short-term Profession               |
+| ***Football Podcast***                        | ***Yes***                             | ***Above Average***    | ***Very Little (if yes)***      | ***Yes (Indian Football Coverage)***    | ***==Can try, but bit crowded==***. |
+| ***Becoming a Professor or Teacher***         | ***Yes***                             | ***Yes***              | ***Yes***                       | ***Yes***                               | ***==Possible Ikigai==***           |
+| Becoming a Voice Actor                        | Yes                                   | Never Tried            | Very Little (if yes)            | Probably no                             | Possible Part-time work             |
+| Going for SSC CGL                             | don't enjoy the prep, the job is good | Slightly Above Average | Yes (if I pass)                 | It doesn't need to                      | Possible Profession                 |
 
-### My Strengths
-Tasks that I currently or sometime in the past have been complimented or praised for being able to do very well.
-1. Gaming
-2. Storytelling (particularly Writing)
-3. Research & Organisation of Knowledge
-4. Relatively Quick Learner regardless of topic difficulty
-5. Imparting Knowledge or Speaking in Public about a topic.
-6. Streaming, Recording of Podcasts or Games etc.
-7. Technological Literacy (from CSE degree and interest in Technology)
-
-### My Skills
-Skills emanating from my Strengths and I likes that I can leverage to earn a main living wage or generate a side-income or leverage more than one to do both.
-1. Game Streamer (Strength 1)
-2. Writing (from Strength 2)
-3. Teaching
-4. Public Speaking and Deliverance of Lectures
-5. Voice Acting and Podcasting (from Strength 2 and 6).
-6. App Development and Coding (due to CompSci degree and Strength 7).
-7. [[My Football Strategies\|My Football Strategies]].
-
-### Problems I can solve
-The things the world needs and I can provide i.e., Problems that exist for which I can provide a solution.
-1. Manufacture Military Drones for Indian Armed Forces.
-2. First Indian AAA Game Development Company.
-3. There is a lack of quality teachers/professors - I can be one.
-4. Football Podcasts and Media based around ISL and I-League.
 
 ---
 # Footnotes

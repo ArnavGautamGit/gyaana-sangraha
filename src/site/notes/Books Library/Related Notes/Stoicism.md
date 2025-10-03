@@ -11,19 +11,15 @@ The Stoics believed frivolous desires such as sex and luxury are useless. The ob
 
 The Stoics strive to answer "What is the worst that can happen?" and then prepared for that.
 
-They believed in remaining neutral emotinally and review our actions and choices after every victory or defeat. This is a common thread it shares with Indic Philosophy and it is also stated in [[Books Library/Shrimad-Bhagavad Gītā\|Shrimad-Bhagavad Gītā]] (exact quote to be linked when I finish reading the Gītā).
+They believed in remaining neutral emotinally and review our actions and choices after every victory or defeat. This is a common thread it shares with the [[Books Library/Shrimad-Bhagavad Gītā\|Shrimad-Bhagavad Gītā]] (exact quote to be linked when I finish reading the Gītā).
 
-Great Historical Figures like [[Books Library/Related Notes/Marcus Aurelius\|Marcus Aurelius]] and [[Seneca\|Seneca]] were Stoic and gave us quotes like the following:
-> 1. "The thing we love are like the leaves of a tree: They can fall at any moment with a gust of wind."
-> 2. "Changes in the world are not accidental rather form part of the essence of the universe"
-> 
-> ~ Marcus Aurelius in [[Books Library/Meditations\|Meditations]].
+### Books of Stoic Thoughts
+[[Books Library/Meditations\|Meditations]]
+[[Books Library/Letters from a Stoic (Book)\|Letters from a Stoic (Book)]]
 
-and also these:
-> "All things human are short-lived and perishable"
-> 
-> ~ Seneca in [[Letters from a Stoic (Book)\|Letters from a Stoic (Book)]].
-
+### Stoic Principles
+[[Ideal Behaviour of Man\|Ideal Behaviour of Man]]
+[[Clarity is Power\|Clarity is Power]]
 
 
 ---

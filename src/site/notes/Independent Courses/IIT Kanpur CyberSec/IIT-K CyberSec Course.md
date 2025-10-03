@@ -4,37 +4,22 @@
 
 
 ---
-# IIT Kanpur CyberSec Course
-> CyberSec Course offered by IIT Kanpur and SimpliLearn. It includes a small 90-day training in Cloud Security by Microsoft Azure.
+# IIT Kanpur Professional Cybersecurity Certificate
+> CyberSec Course offered by IIT Kanpur. 
+> It includes a small 90-day training in Cloud Security by Microsoft Azure.
 
 Certificates will hold the names of IIT-K and Microsoft.
 This note links to all the notes I made or edited or studied throughout their teaching. Some subjects I may already know of.
 
 ### Pre-Requisites
-Presents a list of notes which you already should read to prepare for the course ahead.
-- [[Information Security\|Information Security]]
-- [[Cyber Security (CyberSec)\|Cyber Security]]
-- [[Objectives of Cyber Security\|CIA Triad]]
-- [[Cyber Security Terminology\|Cyber Security Terminology]] (add Threat Actors)
-- [[Computer Malware\|Computer Malware]] (add Adware)
-- [[Hypervisor\|Hypervisor]] and [[Virtualisation\|Virtualisation]]
-- [[Cloud Computing\|Cloud Computing]]
-- [[Internet of Things (IoT)\|Internet of Things (IoT)]]
-- [[Vulnerability Scanning\|Vulnerability Scanning]]
-- [[Penetration Testing\|Penetration Testing]]
-- [[Software Testing\|Software Testing]] and [[Software Security Testing\|Software Security Testing]]
-- [[Security Auditing of Target Systems\|Security Auditing of Target Systems]]
-- [[Network Security\|Network Security]], [[Computer Networks\|Computer Networks]]
-	- [[Open System Interconnection (OSI) Model\|Open System Interconnection (OSI) Model]]
-	- [[Firewall\|Firewall]]
-	- [[Bluetooth\|Bluetooth]] (subheadings for attacks, vulnerabilities and countermeasures)
-- [[Unified Threat Management (UTM)\|Unified Threat Management (UTM)]]
-- [[Governance, Risk Management and Compliance (GRC)\|Governance, Risk Management and Compliance (GRC)]]
-- [[Security Incidents\|Security Incidents]] and [[Incident Handling\|Incident Response]]
-- [[Digital Forensics\|Digital Forensics]], [[Digital Evidences\|Digital Evidences]]
-- [[CompTIA Network Plus\|CompTIA Network Plus]]
-- [[SQL\|SQL]]
-- [[JavaScript\|JavaScript]]
+[[Fundamentals of Computer Security\|Fundamentals of Computer Security]]
+[[Ethical Hacking & Prevention\|Ethical Hacking & Prevention]]
+[[Web Technology & Cyber Security\|Web Technology & Cyber Security]]
+[[Cryptography & its Applications\|Cryptography & its Applications]]
+[[Cloud Computing\|Cloud Computing]]
+[[SQL\|SQL]]
+[[JavaScript\|JavaScript]]
+[[Python\|Python]]
 
 ### Full Course Notes
 A list of notes made on the course material taught in Live Classes.

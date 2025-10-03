@@ -11,10 +11,9 @@ The Exam selects for positions in departments such as Income Tax and other depar
 
 ### Syllabus
 [[General Awareness\|General Awareness]]
-[[Science & Computers\|Science & Computers]] (asked as a part of GA)
 [[Quantitative Aptitude\|Quantitative Aptitude]]
 [[Logical Reasoning\|Logical Reasoning]]
-[[English\|English]]
+[[English Language\|English Language]]
 
 ---
 # Footnotes

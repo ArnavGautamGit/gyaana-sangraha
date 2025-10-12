@@ -28,7 +28,7 @@ Her Teaching ability is amazing. Although other professors such as Ashish Sir al
 - [[Stack Overflow\|Stack Overflow]]
 - [[Integer Overflow and Underflow\|Integer Overflow and Underflow]]
 - [[Software Security Testing\|Software Security Testing]]
-	- [[Static Application Security Testing\|Static Application Security Testing]]
+	- [[Static Application Security Testing (SAST)\|Static Application Security Testing (SAST)]]
 	- [[Fuzzing\|Fuzzing]]
 - [[Access Control.canvas|Access Control]] (canvas note)
 	- [[Discretionary Access Control\|Discretionary Access Control]]

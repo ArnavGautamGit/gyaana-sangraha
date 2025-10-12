@@ -8,7 +8,7 @@
 The Shorthand (XXE) comes from the full title written above:  ==***X***==ML e==***X***==ternal ==***E***==ntity
 It is a vulnerability which allows the attacker to interfere with the XML code.
 
-In XML, you don't have predefined tags like `<head>` or `<img>`. It is democratic, one can assign their own tags in their code, but at the same time it is kept similar enough to [[HTML\|HTML]] so to reduce the leaning curve
+In XML, you don't have predefined tags like `<head>` or `<img>`. It is democratic, one can assign their own tags in their code, but at the same time it is kept similar enough to HTML so to reduce the leaning curve
 
 XML is used to stroe and transport data, it is platform independent (just like HTML).
 Each XML file has a Document Type Declaration (also called DTD). It basicallyu defines the document & that the document is XML type, it is used to give the document a structure and define your own tags.

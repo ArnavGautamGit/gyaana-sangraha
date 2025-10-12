@@ -22,7 +22,7 @@ If it is an SDE role, we need to brush up the folllowing topics:
 	5. [[Searching Algorithms in DSA\|Searching Algorithms in DSA]]
 3. [[Object Oriented Programming\|Object Oriented Programming]] in a Language like [[C++\|C++]] or [[Java\|Java]].
 4. [[Database Management Systems (DBMS)\|Database Management Systems (DBMS)]] in a language like [[SQL\|SQL]] or [[NoSQL\|NoSQL]] or [[PostgreSQL\|PostgreSQL]].
-5. [[HTML\|HTML]], CSS and other scripting languages (if needed)
+5. HTML, CSS and other scripting languages (if needed)
 
 If it is an [[Machine Learning\|Machine Learning]] role,
 1. [[Python\|Python]]

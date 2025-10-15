@@ -42,8 +42,6 @@ Diamond Formations (i.e., any formation with the term "Diamond" in it) really ha
 	- [[Transfer Fees\|Transfer Fees]]
 	- [[Player Sell-on Clause\|Player Sell-on Clause]]
 
-### Other Notes
-- [[Real Madrid - The Cheating Fucks\|Real Madrid - The Cheating Fucks]]
 
 ---
 # Footnotes

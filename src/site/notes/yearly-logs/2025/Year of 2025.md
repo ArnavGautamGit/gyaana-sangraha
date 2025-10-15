@@ -22,6 +22,12 @@ Edit the code in the dataview files to correct the folder name to "yearly-logs/y
 ## Yearly Reflections
 Reflections on the Year that just went by.
 
+| Year | Average Rating |
+| ---- | -------------- |
+| 2025 | 2.36           |
+
+{ .block-language-dataview}
+
 ---
 ## 📅 Monthly View Table
 | Month          | Monthly Rating |
@@ -29,7 +35,7 @@ Reflections on the Year that just went by.
 | July 2025      | 2.3            |
 | August 2025    | 1.96           |
 | September 2025 | 3.02           |
-| October 2025   | 2.43           |
+| October 2025   | 2.57           |
 
 { .block-language-dataview}
 
@@ -84,7 +90,8 @@ Firstly, the table which dumps every single day of 2025 at a glance in a singula
 | [[yearly-logs/2025/2025-10-07\|2025-10-07]] | 07 October 2025   | 3.5        | 4         | 4.38   |
 | [[yearly-logs/2025/2025-10-08\|2025-10-08]] | 08 October 2025   | 0.5        | 2.5       | 1      |
 | [[yearly-logs/2025/2025-10-09\|2025-10-09]] | 09 October 2025   | 1.5        | 4         | 1.88   |
-| [[yearly-logs/2025/2025-10-13\|2025-10-13]] | 13 October 2025   | 0.5        | 4         | 0.63   |
+| [[yearly-logs/2025/2025-10-14\|2025-10-14]] | 14 October 2025   | 2          | 4         | 2.5    |
+| [[yearly-logs/2025/2025-10-15\|2025-10-15]] | 15 October 2025   | 1          | 3         | 1.67   |
 
 { .block-language-dataview}
 

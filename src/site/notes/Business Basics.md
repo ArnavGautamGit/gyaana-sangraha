@@ -12,11 +12,14 @@ I wanted to learn bits about Business and understand business as a whole before 
 Here in this note, I link to all other notes (like a map of content) that I make about Business & all the things I have learnt about Business from my father.
 
 ### Map of Content
-[[Economics of any Business\|Economics of any Business]]
-[[Factors of Production (FOP)\|Factors of Production (FOP)]]
-[[Financing any Business\|Financing any Business]]
-
-
+- [[Economics of any Business\|Economics of any Business]]
+- [[Asset\|Assets]] and [[Liability\|Liabilities]].
+- [[Factors of Production (FOP)\|Factors of Production (FOP)]]
+	- [[Land\|Land]]
+	- [[Labour\|Labour]]
+	- [[Capital\|Capital]]
+	- [[Entrepreneurship\|Entrepreneurship]]
+- 
 ### Applied Knowledge
 [[Football Clubs as Businesses\|Football Clubs as Businesses]]
 

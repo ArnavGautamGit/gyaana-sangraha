@@ -8,9 +8,16 @@
 > All the terms and calculations that you must know when trying to understand how businesses are run.
 > Not to be confused with: [[Business Economics\|Business Economics]]
 
+Any Business first needs to be set-up, then produce some goods or services (R&D is a process that burns cash) and then start selling the product/service once it is complete.
+
+## Basic Principle of Profit
+Any business that is created or started is for profit (unless stated otherwise).
 We all know the basic formula of Business:
 $$\Large \text{Profit} = \text{Revenue} - \text{Total Cost}$$
-Business has stopped being this straightforward after the 1500s. There are various types of costs involved in any business and they continue to grow as the business gets more & more complex with various employees among other things.
+Apart from there being different types of costs that need to be accounted for, there also is the aspect of how a business is set-up. The latter requires raising [[Paid-Up Capital\|Paid-Up Capital]] or requires to take [[Debt\|Debt]] in the form of [[Borrowed Capital\|Borrowed Capital]].
+
+Raised [[Capital\|Capital]] is used to acquire [[Land\|Land]], [[Asset\|Assets]] and other [[Factors of Production (FOP)\|Factors of Production (FOP)]].
+This investment is later used as a yardstick to measure statistics like [[Cummulative Profit\|Cummulative Profit]] and [[Break-Even Point\|Break-Even Point]].
 
 ## Types of Costs involved in Business 
 Here the Total Cost is divided into a few categories:
@@ -50,9 +57,8 @@ So in the beginning the equation we saw actually looks like this:
 $$\Large\text{PBT} = \text{Net Revenue} - \text{Total Costs} - \text{Interest} - \text{Depeciation}$$
 The actual equation with Gross Revenue and all costs listed as "COGS" and "Other Costs" would be too long to fit in one line so I did not even bother with it, since it is understood.
 
-## Other Helpful Terms
-[[Cummulative Profit\|Cummulative Profit]]
-[[Break-Even Point\|Break-Even Point]]
+## How is this Profit utilised?
+If a business pays tax, then the [[Profit-after-Tax (PAT)\|Profit-after-Tax (PAT)]] (else EBDT) is used to pay for expansions and loan repayments. Else, the profit (or a part of it) may also be distributed as [[Dividends\|Dividends]] to the [[Shareholders\|Shareholders]] of [[Company Shares\|Company Shares]].
 
 ---
 # Footnotes

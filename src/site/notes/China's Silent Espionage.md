@@ -7,13 +7,13 @@
 # China's Silent Espionage
 > Note that discusses China's Espionage Tactics and uncovers  who their Espionage tactics stay silent & off the Radar so easily.
 
-Via [[Books Library/The Unending Game\|The Unending Game]], Former Secretary of [[R&AW\|R&AW]], Mr. [[Vikram Sood\|Vikram Sood]] claim that China, Russia and the USA will be the major forces in the Espionage world & I am not going to try to counter the claim. On the contrary, I will try to find out his reasons on why he may think that way using Mr. Sood's own writings taken from the same book about how Chinese Espionage works.
+Via [[The Unending Game\|The Unending Game]], Former Secretary of [[R&AW\|R&AW]], Mr. [[Vikram Sood\|Vikram Sood]] claim that China, Russia and the USA will be the major forces in the Espionage world & I am not going to try to counter the claim. On the contrary, I will try to find out his reasons on why he may think that way using Mr. Sood's own writings taken from the same book about how Chinese Espionage works.
 
 ### Utilisation of Tourists & Immigrants as Spies
 On 27th of March 1999 during the Kosovo War, a Serbian Missile shot down an [[F-117 Nighthawk\|F-117 Nighthawk]] - one of the first to reach the crash site were Chinese tourists and immigrants bringing debris by buying whatever parts they found from local farmers. In 2011, China unveiled the pictures of a prototype version of the [[Chengdu J-20\|Chengdu J-20]] which looked suspiciously similar and that too mere days before the U.S Secretary of Defence was to land in Beijing. All the cry about Chinese Tourists being trapped in the Warzone was all bogus propaganda.
 
 ### The Mao Effect
-Mao wanted internal consolidation and breaking the espionage rings of the foreign states and he never considered sending spies abroad. The main interest for the [[Chinese Communist Party (CCP)\|Chinese Communist Party (CCP)]] at that time was to keep influences from Taiwan, India, Japan and Korea out of the Chinese Homeland. It is interesting to note that as mentioned by Mr. Sood on Page 74 of [[Books Library/The Unending Game\|The Unending Game]], apparently Chinese considered India as a lackey of the West.
+Mao wanted internal consolidation and breaking the espionage rings of the foreign states and he never considered sending spies abroad. The main interest for the [[Chinese Communist Party (CCP)\|Chinese Communist Party (CCP)]] at that time was to keep influences from Taiwan, India, Japan and Korea out of the Chinese Homeland. It is interesting to note that as mentioned by Mr. Sood on Page 74 of [[The Unending Game\|The Unending Game]], apparently Chinese considered India as a lackey of the West.
 
 The Chinese then planned for teaching Indians a lesson at the McMahon Line.
 Mr. Sood describes those days in China as "complete politicisation" of Intelligence during the frequent purges of many ethnicities in China including Tibetans during the [[Big Leap Forward (BLF)\|Big Leap Forward (BLF)]] and the [[Great Proletarian Cultural Revolution\|Great Proletarian Cultural Revolution]].

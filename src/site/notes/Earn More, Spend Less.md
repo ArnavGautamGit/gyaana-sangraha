@@ -5,7 +5,7 @@
 
 ---
 # Earn More, Spend Less
-> A phrase used to describe how to be richer and wealthier in life. A common denominator from all Finance-based Self-Help [[Books Library/Books\|Books]].
+> A phrase used to describe how to be richer and wealthier in life. A common denominator from all Finance-based Self-Help [[Books\|Books]].
 
 The Principle is not to breed materialism, it is simply the following.
 Spending Less on the same salary as we work to increase our salary in the near future.

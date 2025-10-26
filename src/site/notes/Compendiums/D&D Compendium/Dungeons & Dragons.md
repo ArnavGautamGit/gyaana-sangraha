@@ -17,25 +17,25 @@ To play a D&D game, the best path is to follow the list below:
 
 
 Expanded Rulebooks (2014 Rules):
-[[Compendiums/D&D Compendium/Expanded Rules/D&D Xanathar's Guide to Everything\|D&D Xanathar's Guide to Everything]]
-[[Compendiums/D&D Compendium/Expanded Rules/D&D Tasha's Cauldron of Everything\|D&D Tasha's Cauldron of Everything]]
+[[D&D Xanathar's Guide to Everything\|D&D Xanathar's Guide to Everything]]
+[[D&D Tasha's Cauldron of Everything\|D&D Tasha's Cauldron of Everything]]
 
 
 Adventure Modules (2014):
-[[Compendiums/D&D Compendium/Modules/Lost Mines of Phandelver\|Lost Mines of Phandelver]] (acclaimed, beginner)
-[[Compendiums/D&D Compendium/Modules/Candlekeep Mysteries\|Candlekeep Mysteries]] (acclaimed, beginner)
-[[Compendiums/D&D Compendium/Modules/Dragon of Icespire Peak\|Dragon of Icespire Peak]] (acclaimed, beginner)
-[[Compendiums/D&D Compendium/Modules/Storm Kings Thunder\|Storm Kings Thunder]] (meh)
-[[Compendiums/D&D Compendium/Modules/Curse of Strahd\|Curse of Strahd]] (acclaimed, popular, veteran)
-[[Compendiums/D&D Compendium/Modules/Hoard of the Dragon Queen\|Hoard of the Dragon Queen]]
-[[Compendiums/D&D Compendium/Modules/Out of the Abyss\|Out of the Abyss]]
-[[Compendiums/D&D Compendium/Modules/Waterdeep: Dragon Heist\|Waterdeep: Dragon Heist]]
-[[Compendiums/D&D Compendium/Modules/Wayfinder's Guide to Eberron\|Wayfinder's Guide to Eberron]]
-[[Compendiums/D&D Compendium/Modules/Tomb of Annihilation\|Tomb of Annihilation]]
-[[Compendiums/D&D Compendium/Modules/Eberron: Rising from the Last War\|Eberron: Rising from the Last War]]
-[[Compendiums/D&D Compendium/Modules/Ghosts of Saltmarsh\|Ghosts of Saltmarsh]]
-[[Compendiums/D&D Compendium/Modules/Lost Laboratory of Kwalish\|Lost Laboratory of Kwalish]]
-[[Compendiums/D&D Compendium/Modules/Baldur's Gate: Descend into Avernus\|Baldur's Gate: Descend into Avernus]] (connected to Baldur's Gate 1-3)
+[[Lost Mines of Phandelver\|Lost Mines of Phandelver]] (acclaimed, beginner)
+[[Candlekeep Mysteries\|Candlekeep Mysteries]] (acclaimed, beginner)
+[[Dragon of Icespire Peak\|Dragon of Icespire Peak]] (acclaimed, beginner)
+[[Storm Kings Thunder\|Storm Kings Thunder]] (meh)
+[[Curse of Strahd\|Curse of Strahd]] (acclaimed, popular, veteran)
+[[Hoard of the Dragon Queen\|Hoard of the Dragon Queen]]
+[[Out of the Abyss\|Out of the Abyss]]
+[[Waterdeep: Dragon Heist\|Waterdeep: Dragon Heist]]
+[[Wayfinder's Guide to Eberron\|Wayfinder's Guide to Eberron]]
+[[Tomb of Annihilation\|Tomb of Annihilation]]
+[[Eberron: Rising from the Last War\|Eberron: Rising from the Last War]]
+[[Ghosts of Saltmarsh\|Ghosts of Saltmarsh]]
+[[Lost Laboratory of Kwalish\|Lost Laboratory of Kwalish]]
+[[Baldur's Gate: Descend into Avernus\|Baldur's Gate: Descend into Avernus]] (connected to Baldur's Gate 1-3)
 
 
 All the Ancestries that exist in the game:

@@ -24,7 +24,7 @@ Reflections on the Year that just went by.
 
 | Year | Average Rating |
 | ---- | -------------- |
-| 2025 | 2.36           |
+| 2025 | 2.37           |
 
 { .block-language-dataview}
 
@@ -35,7 +35,7 @@ Reflections on the Year that just went by.
 | July 2025      | 2.3            |
 | August 2025    | 1.96           |
 | September 2025 | 3.02           |
-| October 2025   | 2.57           |
+| October 2025   | 2.55           |
 
 { .block-language-dataview}
 
@@ -92,9 +92,12 @@ Firstly, the table which dumps every single day of 2025 at a glance in a singula
 | [[yearly-logs/2025/2025-10-09\|2025-10-09]] | 09 October 2025   | 1.5        | 4         | 1.88   |
 | [[yearly-logs/2025/2025-10-14\|2025-10-14]] | 14 October 2025   | 2          | 4         | 2.5    |
 | [[yearly-logs/2025/2025-10-15\|2025-10-15]] | 15 October 2025   | 1          | 3         | 1.67   |
+| [[yearly-logs/2025/2025-10-17\|2025-10-17]] | 17 October 2025   | 1          | 3         | 1.67   |
+| [[yearly-logs/2025/2025-10-18\|2025-10-18]] | 18 October 2025   | 1          | 3         | 1.67   |
+| [[yearly-logs/2025/2025-10-24\|2025-10-24]] | 24 October 2025   | 2          | 3         | 3.33   |
+| [[yearly-logs/2025/2025-10-25\|2025-10-25]] | 25 October 2025   | 2          | 3         | 3.33   |
 
 { .block-language-dataview}
-
 
 
 ---

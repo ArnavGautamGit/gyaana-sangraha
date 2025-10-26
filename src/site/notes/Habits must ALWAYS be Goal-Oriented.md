@@ -4,7 +4,7 @@
 
 ---
 # Habits must ALWAYS be Goal-Oriented
-The book *"[[Books Library/Habit Stacking\|Habit Stacking]]"* by SJ Scott is a great book where I first learnt of this idea.
+The book *"[[Habit Stacking\|Habit Stacking]]"* by SJ Scott is a great book where I first learnt of this idea.
 
 It is importnant to note that why the word "always" is used and that too in capital since the negation of the statement, if implemented in anyone's life, it will surely spell in DISASTER. The Negation being that the Habits one has must never be inline with their goals which is going to mean (by extension) that their habits are not habits - rather can be equated with an addiction to distractions.
 

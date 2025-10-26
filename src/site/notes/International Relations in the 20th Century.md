@@ -20,7 +20,7 @@ The Indian Subcontinent was colonised by the British while some minor parts of t
 
 The Germans were late to the Colonisation Game in the 1890s after [[Kaiser Wilhelm II\|Kaiser Wilhelm II]] had taken charge in 1888. To put things in perspective, it had already been more than 30 years since the Indian Revolt for Independence of 1857.
 
-It is important to refresh background notes such as [[Books Library/Related Notes/European Method of Colonisation\|European Method of Colonisation]] along with [[Books Library/Related Notes/European Destruction of the Native Americas\|European Destruction of the Native Americas]]. (website viewers see: [[International Relations in the 20th Century#^1\|1]])
+It is important to refresh background notes such as [[European Method of Colonisation\|European Method of Colonisation]] along with [[European Destruction of the Native Americas\|European Destruction of the Native Americas]]. (website viewers see: [[International Relations in the 20th Century#^1\|1]])
 
 ### Politics & Ideologies
 Whenever there will be people who try to leverage targic economic conditions to push themselves up the political ladder and claim they can fix anything and all the problems a state has - beware of those people since they are called [[Fascism\|Fascists]].

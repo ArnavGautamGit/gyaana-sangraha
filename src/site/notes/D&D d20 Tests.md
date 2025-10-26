@@ -16,17 +16,22 @@ Using Talent and Training to overcome a challenge i.e., a check to determine whe
 
 Ability Checks use the Ability Stats of the Character in Strength, Dexterity, Constitution, Intelligence, Wisdom or Charisma. Ability Modifier is added to the d20 roll.
 
-Some may use skills such as "Athletics" or "Acrobatics" among others that are linked to each of these checks. These are called Skill Checks. Skill Modifiers are added to the d20 roll.
+Some may use skills such as "Athletics" or "Acrobatics" among others that are linked to each of these checks. These are called Skill Checks. Skill Modifiers are added to the d20 roll. 
+In such a case, please check [[Skill Proficiency (D&D)\|Skill Proficiency (D&D)]].
 
 ### Saving Throws
 Also known as "save" is a maneuver made by any creature/group to save themselves in an event of an attack or any potential damage coming their way. In effect, the creature does not choose to make a saving throw at all. It is a necessity that they have to make one. 
 
-Some abilities may require a saving throw from a target, if the players determine that they need to fail a saving throw for something beneficial, they may choose to fail said saving throw and avoid rolling.
+> [!tip] Tip: Proficiency in Saving Throws
+> If a player character has a proficiency in a particular saving throw, they can add the proficiency bonus into that saving throw
 
-Certain Saving throws made against an opponent's Attack Roll utilise [[Armour Class (AC)\|Armour Class (AC)]] of the target as the [[Difficulty Class (DC)\|DC]] to check whether the target is able to make the save or fails. On a fail, target takes damage
+Some abilities of the monsters may require a saving throw from a player, if the players determine that they need to fail a saving throw for something beneficial, they may choose to fail said saving throw and avoid rolling.
+Similarly some abilities of the PCs may require a saving throw from the monsters they are fighting. In such case, please check the next section on [[D&D d20 Tests#Attack Rolls\|Attack Rolls]].
+
+Certain Saving throws (such as making a counter attacks) made against an opponent's Attack Roll utilise [[Armour Class (AC)\|Armour Class (AC)]] of the target as the [[Difficulty Class (DC)\|DC]] to check whether the target is able to make the save or fails. On a fail, target takes damage.
 
 ### Attack Rolls
-An attack roll determines whether an attack hits a target. An attack roll hits if the roll equals or ex ceeds the target's [[Armour Class (AC)\|Armour Class (AC)]]. The Ability Modifiers are used depending upon the weapon.
+An attack roll determines whether an attack hits a target. An attack roll hits if the roll equals or exceeds the target's [[Armour Class (AC)\|Armour Class (AC)]]. The Ability Modifiers are used depending upon the weapon.
 
 | Ability   | Attack Type                                                              |
 | --------- | ------------------------------------------------------------------------ |

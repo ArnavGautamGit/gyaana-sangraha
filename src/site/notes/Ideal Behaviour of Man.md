@@ -5,7 +5,7 @@
 
 ---
 # Ideal Behaviour of Man
-> [[Books Library/Related Notes/Marcus Aurelius\|Marcus]] descirbes the ideal behaviour of a man across multiple verses of [[Books Library/Meditations\|Meditations]].
+> [[Marcus Aurelius\|Marcus]] descirbes the ideal behaviour of a man across multiple verses of [[Meditations\|Meditations]].
 
 > [!quote] *Meditations Book 3, Verse 5 (3:5)*
 > "In action be neither grudging, nor selfish, nor ill-advised, nor constrained. Let not your thought be adorned with overmuch nicety. Be not a babbler (unproductive person who talks too much) or a busybody (overtly busy person who has no time to talk).

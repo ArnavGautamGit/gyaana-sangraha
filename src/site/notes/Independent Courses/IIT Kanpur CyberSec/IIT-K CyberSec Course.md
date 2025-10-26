@@ -66,13 +66,16 @@ The Notes as provided by the faculty in a singular [Google Docs File](https://do
 	- [[Honeypots\|Honeypots]]
 	- [[Principles of Cyber Security\|Principles of Cyber Security]]
 	- ***Project 1:*** [[Securing Linux Servers using Honeypots\|Securing Linux Servers using Honeypots]]
-- ***==Module 4: Cyber Resillience==***
+- ***==Module 4: Application Security & Cyber Resillience==***
 	- [[Application Security\|Application Security]]
-		- [[OWASP Top 10\|OWASP Top 10]]
+		- [[Software Applications\|Applications]]
+		- [[OWASP Top-10\|OWASP Top-10]]
 		- [[CWE Top-25\|CWE Top-25]] & [[CVE Top-25\|CVE Top-25]]
 		- [[Static Application Security Testing (SAST)\|Static Application Security Testing (SAST)]]
 		- [[Dynamic Application Security Testing (DAST)\|Dynamic Application Security Testing (DAST)]]
-	- [[Vulnerability Assessment\|Vulnerability Assessment]]
+	- [[Vulnerability Scanning\|Vulnerability Scanning]]
 
 ---
 # Footnotes
+1. Notes were provided as [Google Docs File](https://docs.google.com/document/d/1h5TiltCkafYEWZp60OHRlkEzYLE9HztpOtGTheHka-g/edit?pli=1&tab=t.0)
+2. 

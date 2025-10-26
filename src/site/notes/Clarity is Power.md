@@ -5,7 +5,7 @@
 
 ---
 # Clarity is Power
-> I have read about this concept in [[Books Library/Meditations\|Meditations]] and have been told this thing by my own father quite a few times.
+> I have read about this concept in [[Meditations\|Meditations]] and have been told this thing by my own father quite a few times.
 
 I will not quote the entirety of the Book3, Verse 11 but I will only mention my learnings from the reading along with anecdota evidence.
 

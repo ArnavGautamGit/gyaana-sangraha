@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Compendiums/D&D Compendium/Corebooks/D&D Player's Handbook/"}
+{"dg-publish":true,"permalink":"/Compendiums/D&D Compendium/Corebooks/D&D Player's Handbook/","tags":["TTRPG","Book"]}
 ---
 
 
@@ -14,7 +14,8 @@ I have a few adventures that were never updated, so I will update them as I see 
 
 ### Map of Content
 [[D&D d20 Tests\|D&D d20 Tests]]
-[[Proficiency (D&D)\|Proficiency (D&D)]]
+[[Heroic Inspiration\|Heroic Inspiration]]
+[[Skill Proficiency (D&D)\|Skill Proficiency (D&D)]]
 [[D&D Action Rules\|D&D Action Rules]]
 [[D&D Exploration Rules\|D&D Exploration Rules]]
 [[D&D Combat Rules\|D&D Combat Rules]]

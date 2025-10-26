@@ -29,4 +29,4 @@ The same process was followed in the Myanmar & Thailand based and U.S-backed Kuo
 
 ---
 # Footnotes
-1. Source: "[[Books Library/The Unending Game\|The Unending Game]]" by [[Vikram Sood\|Vikram Sood]], the former Secretary of India's Foreign Intelligence Agency, [[R&AW\|R&AW]].
+1. Source: "[[The Unending Game\|The Unending Game]]" by [[Vikram Sood\|Vikram Sood]], the former Secretary of India's Foreign Intelligence Agency, [[R&AW\|R&AW]].

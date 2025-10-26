@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Compendiums/D&D Compendium/Corebooks/D&D Dungeon Master's Guide/","tags":["TTRPG"]}
+{"dg-publish":true,"permalink":"/Compendiums/D&D Compendium/Corebooks/D&D Dungeon Master's Guide/","tags":["TTRPG","Book"]}
 ---
 
 

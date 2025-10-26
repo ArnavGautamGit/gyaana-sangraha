@@ -18,5 +18,5 @@ Go beyond face value. Factor out the most striking features. World-class Orchest
 
 ---
 # Footnotes
-1. See the note: [[Books Library/Related Notes/Racism is rooted in Christianity\|Racism is rooted in Christianity]]
+1. See the note: [[Racism is rooted in Christianity\|Racism is rooted in Christianity]]
 { #1}

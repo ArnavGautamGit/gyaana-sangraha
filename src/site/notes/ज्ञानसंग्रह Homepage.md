@@ -24,8 +24,8 @@ Academic Interests refer to stuff I studied in an academic setting such as an el
 
 My extra-academic Interests include: 
 - [[Military Aircrafts\|Military Aircrafts]] 
-- [[Movies & TV/Movies & TV Shows\|Movies & TV Shows]] 
-- [[Books Library/Books\|Books]]
+- [[Movies & TV Shows\|Movies & TV Shows]] 
+- [[Books\|Books]]
 - [[Table-Top Role-Playing Game\|Table-Top Role Playing Games]]
 - [[Heraldry\|Heraldry]]
 - [[Football\|Football]] (Actual Football, Not the American NFL version)

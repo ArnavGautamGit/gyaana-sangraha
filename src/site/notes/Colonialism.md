@@ -17,8 +17,8 @@ Colonialism is often classified on the basis of the party, culture or group of p
 [[Islamic Colonialism\|Islamic Colonialism]]
 
 ### Books on Colonial History
-[[Books Library/India, that is Bharat\|India, that is Bharat]]
-[[Books Library/India, Bharat and Pakistan\|India, Bharat and Pakistan]] 
+[[India, that is Bharat\|India, that is Bharat]]
+[[India, Bharat and Pakistan\|India, Bharat and Pakistan]] 
 
 ---
 # Footnotes

@@ -19,7 +19,7 @@ Dread Visage involves a change in eyecolour, elongation of nails and/or twisting
 Average Lifespans of an Inferis: 350 years
 
 > [!info] INFO: No one like the Inferis in Lurov
-> They appeared from the other side of the Wall in [[Forever Dark\|Forever Dark]] and no one knows anything about them - they have created their own settlements far from Vulcanroth in an island between the [[Princely State of Vulcanroth\|Princely State of Vulcanroth]] and the Eastern Maritime Border of the [[Kingdoms/The Elven Confederacy\|The Elven Confederacy]]
+> They appeared from the other side of the Wall in [[Forever Dark\|Forever Dark]] and no one knows anything about them - they have created their own settlements far from Vulcanroth in an island between the [[Princely State of Vulcanroth\|Princely State of Vulcanroth]] and the Eastern Maritime Border of the [[The Elven Confederacy\|The Elven Confederacy]]
 
 ---
 # Footnotes

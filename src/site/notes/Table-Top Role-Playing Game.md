@@ -9,15 +9,18 @@
 
 TTRPGs like [[Compendiums/D&D Compendium/Dungeons & Dragons\|Dungeons & Dragons]] are responsible for the creation of literally every RPG videogame you have played from The Witcher series to Legends of Zelda and even Dark Souls.
 
-Some Popular TTRPGs:
+Some Popular TTRPG Systems:
 [[Compendiums/Daggerheart Compendium/Daggerheart\|Daggerheart]]
 [[Compendiums/D&D Compendium/Dungeons & Dragons\|Dungeons & Dragons]] (learning)
 [[Pathfinder 2e\|Pathfinder 2e]] (yet to learn)
 [[Shadowdark\|Shadowdark]]
 [[DC20\|DC20]]
 
-I host TTRPG games professionally on StartPlaying.Games and you can find my profile [here](https://www.startplaying.games/gm/arnav)
+I host TTRPG games part-time on StartPlaying Games and you can find my profile [here](https://www.startplaying.games/gm/arnav)
 I often use Owlbear Rodeo and sometimes use Roll20 (as a player) but to be honest, I am more comfortable with Owlbear Rodeo than anything else.
+
 
 ---
 # Footnotes
+[[TTRPG Settings\|TTRPG Settings]]
+[[TTRPG Campaigns\|TTRPG Campaigns]]

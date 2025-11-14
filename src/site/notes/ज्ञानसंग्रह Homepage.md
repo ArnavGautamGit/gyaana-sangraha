@@ -18,21 +18,17 @@ Else, please keep reading.
 
 ---
 # Intro to the संग्रह (Repository)
-I would not call myself a polymath, but I will say that I am trying my best to become one.
-For Academic Notes in Computer Science or Social Sciences, please look at: [[Academics\|Academics]].
-Academic Interests refer to stuff I studied in an academic setting such as an elective/core subject during my [[Computer Science (CompSci)\|Computer Science]] degree.
+Each note using the new format is made without a creation date & updation date on it - so they are timeless. It does *NOT* mean that they are not updated when my thoughts & opinions about the topic changes. Each note starts with a quotebox which explains either what the note is about or defines the topic of the note.
 
-My extra-academic Interests include: 
-- [[Military Aircrafts\|Military Aircrafts]] 
-- [[Movies & TV Shows\|Movies & TV Shows]] 
-- [[Books\|Books]]
-- [[Table-Top Role-Playing Game\|Table-Top Role Playing Games]]
+Here is list of my interests & hobbies regardless of if that interest has an academic basis in my life & upbringing:
+- [[International Studies\|International Studies]]
+- [[Military Aircrafts\|Military Aircrafts]]
+- [[Movies & TV Shows\|Watching Movies & TV Shows]] 
+- [[Books\|Reading Books]]
+- [[Table-Top Role-Playing Game\|Table-Top Role-Playing Games]]
 - [[Heraldry\|Heraldry]]
-- [[Football\|Football]] (Actual Football, Not the American NFL version)
+- [[Football\|Watching Football]]
 - [[Compendiums/Chess Compendium/Chess\|Chess]]
 - [[Compendiums/Warframe Compendium/Warframe\|Warframe]]
-- Hindu [[Shāstras\|Shāstras]]
-- [[History\|History]] (incomplete)
-- [[Philosophy\|Philosophy]] (incomplete)
 
-Each of the newer note is made without a creation & updation date on it - so they are timeless. Each note starts with a quotebox which explains either what the note is about or defines the topic of the note.
+For my Academic Writings specifically, please refer to [[Academics\|Academics]] or specific subjects like my notes in [[Computer Science (CompSci)\|Computer Science]]. The Academics note refers you most subjects which I have studied Academically as a part of my formal education.

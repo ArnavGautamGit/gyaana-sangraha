@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Compendiums/Daggerheart Compendium/Homebrew/Flaming Lotus/Flaming Lotus/","tags":["TTRPG"]}
+{"dg-publish":true,"permalink":"/Compendiums/Daggerheart Compendium/Homebrew/Flaming Lotus/Flaming Lotus/","tags":["TTRPG","Setting","Campaign"]}
 ---
 
 

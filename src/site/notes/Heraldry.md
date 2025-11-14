@@ -24,7 +24,7 @@ Due to the fact that Heraldry has Colonial Connotations, since the Indian Indepe
 ### Registering Private Coat of Arms
 Most countries that have an monarchical system of government (i.e., are run by monarchs) have a heraldic institution or college of arms which will register said arms for civic and monarchic bodies given that they have a culture of heraldry.
 
-If the country is a republic or said monarchy has no culture of heraldry, there is no guarantee of a coat of arms registration college/institution being present (most republics do not have them), in that case, one can go to the [Heraldry of the World (HOTW)](https://www.heraldry-wiki.com/wiki/Heraldry_of_the_world) to register their arms with them. Note that this is an informal registration, there are other ways which include mailing a sealed envelope of your heraldic design to yourself - effectively timestamping the creation of the achievement.
+If the country is a republic or a monarchy that has no culture of heraldry, there is no guarantee of a coat of arms registration college/institution being present (most republics do not have them), in that case, one can either go to the Office of Chief Herald of Arms of Malta (in Republic of Malta) knowing that he and his office is associated with a few shady activities or go to the [Heraldry of the World (HOTW)](https://www.heraldry-wiki.com/wiki/Heraldry_of_the_world) to register their arms with them. Note that this is an informal registration, there are other ways which include mailing a sealed envelope of your heraldic design to yourself - effectively timestamping the creation of the achievement.
 
 > [!important] IMPORTANT: Format of Registration
 > It is stated at HOTW that if the format of registration is not respected, your registration will be rejected automatically. It is hence, imperitive to check and recheck whether you have made any mistake in your application or not.
@@ -32,6 +32,13 @@ If the country is a republic or said monarchy has no culture of heraldry, there 
 Even my [[Personal Coat of Arms\|Personal Coat of Arms]] are registered on HOTW.
 One has to send an email in prescribed format at: hotwregister@gmail.com
 To check the format, visit the [HOTW's Arms Regisration Website](https://www.heraldry-wiki.com/wiki/How_to_submit_a_registration)
+
+If you do register in Republic of Malta then know that although THAT college of arms is not taken seriously in the community of Heralds and among other institutions of Heraldry, it allows you to register your arms in other institutions in Kenya, Canada, Scotland among others that are better respected.
+
+### Related Notes
+[[Marshalling of Arms\|Marshalling of Arms]]
+[[Divisions of the Shield\|Divisions of the Shield]]
+[[Heraldic Traditions\|Heraldic Traditions]]
 
 ---
 # Footnotes

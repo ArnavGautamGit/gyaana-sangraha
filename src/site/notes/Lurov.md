@@ -40,4 +40,4 @@ Campaigns: [[Storms of Eslance\|Storms of Eslance]]
 
 ---
 # Footnotes
-Yet to Finish: [[The Wedding of Peace\|The Wedding of Peace]], [[Castle Whitebreak\|Castle Whitebreak]], [[Magical Woods\|Magical Woods]], [[The Elven Confederacy\|The Elven Confederacy]] and  
+Yet to Finish: [[Finish Lurovian Notes\|Finish Lurovian Notes]]

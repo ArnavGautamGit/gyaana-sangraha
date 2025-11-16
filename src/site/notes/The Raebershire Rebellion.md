@@ -13,7 +13,7 @@ Many Raebershires say that it was the case earlier as well - they were sidelined
 
 In one year, they planned a Rebellion, they staged an attack on Queen [[Ivara II Bronze\|Ivara II Bronze]] with the Drakona of [[House Azure\|House Azure]] who felt similarly neglected. The plan was to shoot her - while the Drakona House wanted the power for themselves, they planned to get her shot and throw the Raebershires under the bus.
 
-Raebershires planned to kill the queen outright so that the power falls to the King who was their cousin & help them against colonising land of [[The Elven Confederacy\|The Elven Confederacy]]... 
+Raebershires planned to kill the queen outright so that the power falls to the King who was their cousin & help them against colonising land in the west of the mountains... 
 In the fight of who-throws-who under the bus, the arrows to be used were swapped with poison ones by henchmen on the payroll of [[House Raebershire\|House Raebershire]].
 
 His Majesty [[John VI/I Forechester\|King John VI/I]] as the King of Dragonpeaks & Owlesia decided to withdraw any financial or military support promised to the Raebershires & also took away their statuses as Barons & Dukes. [[Sir Arthur I Nightingale\|Sir Arthur I Nightingale]] was honoured for his bravery & made the new Duke of Owlesia.

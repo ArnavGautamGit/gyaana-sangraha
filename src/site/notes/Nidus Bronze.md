@@ -20,4 +20,4 @@ He is awesome as it is. Basically the Old-Man Kratos equivalent (peronality wise
 
 ---
 # Footnotes
-1. Already adapted to the Daggerheart Character - [[Nidus Bronze (DH)\|Nidus Bronze (DH)]]
+1. Already adapted to the Daggerheart Character - [[Nidus I Bronze\|Nidus I Bronze]]

@@ -52,10 +52,7 @@ We later summarised our conversation to a few actionable points:
 	1. "Had a great conversation with @XYZ when I met them at \#ABC-Hackathon"
 	2. Add the people on LinkedIn as connections
 3. Keep in touch with High School & College Friends.
-4. Chill out in life.
+4. Chill out in life. You are 22, you have time.
 
 ---
 # Footnotes
-See Also:
-[[My List of Skills\|My List of Skills]]
-[[Job Postings have gotten shit\|Job Postings have gotten shit]]

@@ -5,12 +5,12 @@
 
 ---
 # General Awareness
-> Subject testing the awareness of the test taker about the recent happenings around the world currently as well as major events of the past that have shaped current society.
+> Subject also known as "General Studies" which test the awareness of the candidate about the recent happenings around the world currently as well as major events of the past that have shaped current society.
 
 This subject is important in Exams such as the [[Combined Graduate Level (CGL) Exam\|SSC CGL]], [[UPSC Civil Services Exam\|UPSC Civil Services Exam]] among others.
 
 ### Syllabus
-[[Geography\|Geography]] (Basics + Indian Geography)
+[[Geography\|Geography]] --> UPSC asks World Geography which SSC does not much
 [[Indian History\|Indian History]]
 [[Constitution of India\|Constitution of India]]
 [[Supreme Court of India\|Supreme Court of India]]
@@ -19,20 +19,10 @@ This subject is important in Exams such as the [[Combined Graduate Level (CGL) E
 [[Five Year Plans in India\|Five Year Plans in India]]
 [[Awards & Honours\|Awards & Honours]]
 [[Indian Classical Dance Styles\|Indian Classical Dance Styles]]
-[[Indian Festivals\|Indian Festivals]]
+[[Indian Art & Culture\|Indian Art & Culture]]
 
-Low weightage subjects:
-[[Human Anatomy\|Human Anatomy]]
-[[Food & Nutrition\|Food & Nutrition]]
-[[Blood Group & Rh Factor\|Blood Group & Rh Factor]]
-[[Basic Physics\|Basic Physics]]
-[[Basic Chemistry\|Basic Chemistry]]
-[[Computer Organisation & Architecture\|Computer Organisation & Architecture]]
-[[Programming Languages\|Programming Languages]]
-[[Operating Systems and Systems Programming\|Operating Systems and Systems Programming]]
-[[Microsoft Windows\|Microsoft Windows]]
-[[Computer Networks\|Computer Networks]]
-[[Database Management Systems (DBMS)\|Database Management Systems (DBMS)]]
+Low weightage subjects for SSC:
+[[Science & Technology\|Science & Technology]]
 
 
 ---

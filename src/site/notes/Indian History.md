@@ -14,6 +14,7 @@ An Index Note indexing the major eras and events of Indian History as a chronolo
 [[Muslim Invasion of India\|Muslim Invasion of India]] (marks the shift from Ancient to Medieval India)
 [[Indian Medieval History\|Indian Medieval History]]
 [[Indian Colonial History\|Indian Colonial History]]
+[[Indian National Movement\|Indian Freedom Movement]]
 [[History of Independent India\|History of Independent India]] (1947 to Present)
 
 ---

@@ -21,8 +21,10 @@ I have a few adventures that were never updated, so I will update them as I see 
 [[D&D Combat Rules\|D&D Combat Rules]]
 [[D&D Damage & Healing Rules\|D&D Damage & Healing Rules]]
 [[D&D Conditions\|D&D Conditions]]
-[[D&D Character Creation\|D&D Character Creation]] - [[D&D Character Classes\|D&D Character Classes]], [[D&D Character Origins\|D&D Character Origins]]
-[[Character Feats\|Character Feats]]
+[[D&D Character Creation\|D&D Character Creation]] - particularly [[D&D Character Classes\|Class]], [[D&D Character Backgrounds\|Background]] & [[D&D Ancestries\|Ancestry]]
+[[D&D Multiclassing Rules\|D&D Multiclassing Rules]]
+[[D&D Character Feats\|D&D Character Feats]]
+[[D&D Adventuring Equipment, Tools & Gear\|D&D Adventuring Equipment, Tools & Gear]]
 [[D&D Spell List\|D&D Spell List]]
 
 ---

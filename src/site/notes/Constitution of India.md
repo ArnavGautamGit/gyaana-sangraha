@@ -2,34 +2,28 @@
 {"dg-publish":true,"permalink":"/Constitution of India/","tags":["Academics","Legal"]}
 ---
 
-----
-# Index/Contents
-[[Constitution of India#What is Constitution of India?\|#What is Constitution of India?]]
-[[Constitution of India#Reference Books\|#Reference Books]]
-### Exam-Wise Syllabus
-##### T1 Syllabus
-[[Definitions and Terms\|Definitions and Terms]]
-[[Salient Features\|Salient Features]]
-[[Fundamental Rights\|Fundamental Rights]]
-[[Fundamental Duties\|Fundamental Duties]]
-[[Directive Principles of State Policy\|Directive Principles of State Policy]]
-##### T2 Syllabus
-[[The Indian Prime Minister.canvas]]
-[[The Governor.canvas]]
 
-##### T3 Syllabus
-[[Constitution of India#T1 Syllabus\|#T1 Syllabus]]
-[[Constitution of India#T2 Syllabus\|#T2 Syllabus]]
-[[Constitution of India#\|#]]
-[[Constitution of India#\|#]]
+---
+# Constitution of India
+> The word ‘Constitution’ is developed from the word ‘Constitute’, which means ‘to frame or to establish or to compose’. In the context of a country or [[State (United Nations)\|UN Member State]] such as India, it refers to a document which codifies the soul of the country as the law of its land. 
 
------
-# What is Constitution of India?
-This is an index file for all topics and chapters of the subject. 
-Each chapter gets a hastag. i.e., ##sem5/subject/chapter (remove one of the tags)
-The Links to all the Chapters will be linked in [[Constitution of India#Index/Contents\|#Index/Contents]]
-==To print any notes, please use "Export to PDF" option in the three vertical dots in the top right.
-***This subject is no longer maintained as it is an audit course. Proceed with caution***==
-# Reference Books
+The Indian Constitution is an important instrument which confers powers, rights, functions, principles, restrictions and obligations on the part of individuals, states and everybody who are the citizens of India. 
+
+The purpose of the Constitution is to maintain harmonious relations between both the individuals and the state and between the different organs of the state among each other.
+
+I also studied this subject as an audit course (zero credit course) during my bachelor's degree in [[Computer Science (CompSci)\|Computer Science Engineering]] from Jaypee Institute of Information Technology, Noida.
+Notes from those classes are sparse and few. Most notes come from when I studiedthe subject "[[Indian Polity & Governance\|Indian Polity]]" when preparing for [[UPSC Civil Services Exam\|UPSC CSE 2026]].
+
+## Reference Books
 Indian Polity - M. Lakshminath (2016)
 Indian Constitution and Indian Polity - S.G Subramanian (2019)
+
+## Map of Content
+- [[Structure of the Indian Constitution\|Structure of the Indian Constitution]]
+- [[Salient Features\|Salient Features]]
+- [[History of Indian Constitution\|History of Indian Constitution]]
+- [[The Indian Prime Minister.canvas|Canvas Note on PM]]
+- [[The Governor.canvas|Canvas Note on Governor]]
+
+---
+# Footnotes

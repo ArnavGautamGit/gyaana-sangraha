@@ -13,6 +13,10 @@ The Original 2014 rules are now called as "Legacy" even by D&D Beyond and I am g
 I have a few adventures that were never updated, so I will update them as I see fit.
 
 ### Map of Content
+Any Handbook aims to make the experience simpler - the D&D PHB is no different.
+In a Player's Handbook, you would have the rules for the players side of things and hence the entire handbook can be divided into 3 sections - also noted by the publishers.
+
+Section 1: Basic Rules
 [[D&D d20 Tests\|D&D d20 Tests]]
 [[D&D Heroic Inspiration\|D&D Heroic Inspiration]]
 [[Skill Proficiency (D&D)\|Skill Proficiency (D&D)]]
@@ -21,11 +25,17 @@ I have a few adventures that were never updated, so I will update them as I see 
 [[D&D Combat Rules\|D&D Combat Rules]]
 [[D&D Damage & Healing Rules\|D&D Damage & Healing Rules]]
 [[D&D Conditions\|D&D Conditions]]
-[[D&D Character Creation\|D&D Character Creation]] - particularly [[D&D Character Classes\|Class]], [[D&D Character Backgrounds\|Background]] & [[D&D Ancestries\|Ancestry]]
+
+Section 2: Character Creation Rules (Chapters 3-4)
+[[D&D Character Creation\|D&D Character Creation]] - particularly [[D&D Character Classes\|Class]], [[D&D Character Backgrounds\|Background]] & [[Compendiums/D&D Compendium/Player/Ancestries/D&D Ancestries\|Ancestry]]
 [[D&D Multiclassing Rules\|D&D Multiclassing Rules]]
-[[D&D Character Feats\|D&D Character Feats]]
-[[D&D Adventuring Equipment, Tools & Gear\|D&D Adventuring Equipment, Tools & Gear]]
-[[D&D Spell List\|D&D Spell List]]
+
+Section 3: Character Abilities & Spells
+[[D&D Character Feats\|D&D Character Feats]] (Chapter 5)
+[[D&D Adventuring Equipment, Tools & Gear\|D&D Adventuring Equipment, Tools & Gear]] (Chapter 6)
+[[D&D Spell List\|D&D Spell List]] (Chapter 7)
+
+There are then some appendices on Creature Stat Blocks for a few adversaries, Multiverse and the Rules Glossary but not something which is particularly amazing or useful apart from the last one (Rules Glossary or Appendix C) which can come in handy sometimes, I suppose.
 
 ---
 # Footnotes

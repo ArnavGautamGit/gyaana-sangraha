@@ -11,7 +11,7 @@
 > The essential art of a Sorcerer is learning to harness and channel that innate magic, allowing the Sorcerer to discover new and staggering ways to unleash their power. As Sor cerers master their innate magic, they grow more attuned to its origin, developing distinct powers that reflect its source. Sorcerers are rare. Some family lines produce exactly one Sorcerer in every generation, but most of the time, the talents of sorcery appear as a fluke. People who have this magical power soon discover that it doesn't like to stay quiet. A Sorcerer's magic wants to be wielded.
 
 Sourcebook: [[Compendiums/D&D Compendium/Corebooks/D&D Player's Handbook\|D&D Player's Handbook]]
-Page Numbers: 138-147
+Page Numbers: 138-151
 
 | Traits                     | Values                                                                                                                  |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------- |

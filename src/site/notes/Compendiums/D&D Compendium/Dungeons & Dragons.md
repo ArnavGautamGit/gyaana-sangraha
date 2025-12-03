@@ -38,28 +38,5 @@ Adventure Modules (2014):
 [[Baldur's Gate: Descend into Avernus\|Baldur's Gate: Descend into Avernus]] (connected to Baldur's Gate 1-3)
 
 
-All the Ancestries that exist in the game:
-[[Compendiums/D&D Compendium/Player/Ancestries/Human (D&D)\|Human (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Dragonborn (D&D)\|Dragonborn (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Tiefling (D&D)\|Tiefling (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Aasimar (D&D)\|Aasimar (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Variant Aasimar (D&D)\|Variant Aasimar (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Dwarf (D&D)\|Dwarf (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Orc (D&D)\|Orc (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Half-Orc (D&D)\|Half-Orc (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/High Elf (D&D)\|High Elf (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Half-Elf (D&D)\|Half-Elf (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Wood-Elf (D&D)\|Wood-Elf (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Sea Elf (D&D)\|Sea Elf (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Astral Elf (D&D)\|Astral Elf (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Shadar Kai (D&D)\|Shadar Kai (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Drow (D&D)\|Drow (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Halfling (D&D)\|Halfling (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Fairy (D&D)\|Fairy (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Genasi (D&D)\|Genasi (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Satyr (D&D)\|Satyr (D&D)]]
-[[Compendiums/D&D Compendium/Player/Ancestries/Kobold (D&D)\|Kobold (D&D)]]
-
-
 ---
 # Footnotes

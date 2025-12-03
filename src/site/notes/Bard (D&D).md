@@ -14,16 +14,16 @@
 Sourcebook: [[Compendiums/D&D Compendium/Corebooks/D&D Player's Handbook\|D&D Player's Handbook]]
 Page Numbers: 58-67
 
-| Traits                     | Values                                                                                                                              |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Primary Ability            | Charisma                                                                                                                            |
-| Hit Point Dice             | D8 per Bard Level                                                                                                                   |
-| Saving Throw Proficiencies | Dexterity & Charisma                                                                                                                |
-| Skill Proficiencies        | Choose any 3 Skills                                                                                                                 |
-| Weapon Proficiencies       | Simple Weapons                                                                                                                      |
-| Tool Proficiency           | Choose any 3 Musical Instruments<br>(from [[D&D Adventuring Equipment, Tools & Gear\|Chapter 6]] of [[Compendiums/D&D Compendium/Corebooks/D&D Player's Handbook\|PHB]]) |
-| Armour Training            | Light Armour                                                                                                                        |
-| Starting Equipment         | *Choose (A) or (B):*<br>(A) Leather Armour, 2 Daggers, Musical Instrument,<br>Entertainer's Pack & 19 GP<br><br>(B) 90 GP           |
+| Traits                     | Values                                                                                                                    |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Primary Ability            | Charisma                                                                                                                  |
+| Hit Point Dice             | D8 per Bard Level                                                                                                         |
+| Saving Throw Proficiencies | Dexterity & Charisma                                                                                                      |
+| Skill Proficiencies        | Choose any 3 Skills                                                                                                       |
+| Weapon Proficiencies       | Simple Weapons                                                                                                            |
+| Tool Proficiency           | Choose any 3 Musical Instruments<br>(from Chapter 6 of [[Compendiums/D&D Compendium/Corebooks/D&D Player's Handbook\|PHB]])                                    |
+| Armour Training            | Light Armour                                                                                                              |
+| Starting Equipment         | *Choose (A) or (B):*<br>(A) Leather Armour, 2 Daggers, Musical Instrument,<br>Entertainer's Pack & 19 GP<br><br>(B) 90 GP |
 
 
 ### Subclasses

@@ -15,7 +15,7 @@ Topics that we learn about:
 [[Houses in the Kundali\|Houses in the Kundali]]
 [[Lagna (लग्न)\|Lagna (लग्न)]]
 [[Nakshatra (नक्षत्र)\|Nakshatra (नक्षत्र)]]
-[[Graha (ग्रह) as Rāshi Lords\|Graha (ग्रह) as Rāshi Lords]]
+[[Graha (ग्रह) in Kundali\|Graha (ग्रह) in Kundali]]
 
 
 ---

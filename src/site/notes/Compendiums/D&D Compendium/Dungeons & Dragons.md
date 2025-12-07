@@ -12,8 +12,12 @@ A D&D game is really set around the players - the players make their characters 
 To play a D&D game, the best path is to follow the list below:
 [[Compendiums/D&D Compendium/Corebooks/D&D Player's Handbook\|D&D Player's Handbook]]
 [[Compendiums/D&D Compendium/Corebooks/D&D Dungeon Master's Guide\|D&D Dungeon Master's Guide]]
-[[D&D Monster Manual\|D&D Monster Manual]]
-[[D&D 5.5e Conversion Guide\|D&D 5.5e Conversion Guide]] (convert modules to 5.5e)
+[[D&D Monster Manual\|D&D Monster Manual]] (borrowed from a friend on D&D Beyond)
+[[D&D 5.5e Conversion Guide\|D&D 5.5e Conversion Guide]] (convert 2014 modules to 2024)
+
+
+Modules for 2024-25 updated Ruleset:
+[[Eberron: Forge of the Artificer\|Eberron: Forge of the Artificer]] (early access in Dec 2025)
 
 
 Expanded Rulebooks (2014 Rules):
@@ -26,7 +30,7 @@ Adventure Modules (2014):
 [[Candlekeep Mysteries\|Candlekeep Mysteries]] (acclaimed, beginner)
 [[Dragon of Icespire Peak\|Dragon of Icespire Peak]] (acclaimed, beginner)
 [[Storm Kings Thunder\|Storm Kings Thunder]] (meh)
-[[Curse of Strahd\|Curse of Strahd]] (acclaimed, popular, veteran)
+[[Curse of Strahd\|Curse of Strahd]] (acclaimed, veteran)
 [[Hoard of the Dragon Queen\|Hoard of the Dragon Queen]]
 [[Out of the Abyss\|Out of the Abyss]]
 [[Waterdeep: Dragon Heist\|Waterdeep: Dragon Heist]]

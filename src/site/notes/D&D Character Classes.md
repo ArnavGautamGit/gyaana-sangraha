@@ -10,7 +10,7 @@
 Since all Additional Books for the 2024 Revision of 5E are yet to release - there are a few Classes that have not released yet. When they do release and I have access to them, I will add a listing for them, until then I will list them with an empty note.
 
 ### List of Classes
-- [[Artificer (D&D)\|Artificer]] - Yet to Release in "Forge of the Artificer", currently in Early Access by same name.
+- [[Artificer (D&D)\|Artificer]] - Yet to Release in "[[Eberron: Forge of the Artificer\|Eberron: Forge of the Artificer]]".
 - [[Barbarian (D&D)\|Barbarian]]
 - [[Bard (D&D)\|Bard]]
 - [[Cleric (D&D)\|Cleric]]

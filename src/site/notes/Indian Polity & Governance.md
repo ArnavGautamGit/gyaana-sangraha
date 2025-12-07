@@ -10,6 +10,8 @@
 Most used book for preparing this subject is: "Indian Polity" written by M. Laxmikanth.
 
 ### Map of Content
+- [[Colonial Origin of Indian Polity\|Colonial Origin of Indian Polity]]
+- [[Constituent Assembly\|Constituent Assembly]]
 - [[Structure of the Indian Constitution\|Structure of the Indian Constitution]] & [[Constitution of India\|Constitution of India]]
 - [[Methods of Election\|Methods of Election]]
 	- [[First-Past-The-Post System of Election\|First-Past-The-Post System of Election]]
@@ -18,13 +20,13 @@ Most used book for preparing this subject is: "Indian Polity" written by M. Laxm
 - [[Types of Election\|Types of Election]]
 	- [[General Election of Lok Sabha\|General Election of Lok Sabha]]
 	- [[State Assembly Election\|State Assembly Election]]
-- [[Types of Rights\|Types of Rights]]
+- Types of Rights of an individual
 	- [[Fundamental Rights\|Fundamental Rights]]
 	- [[Constitutional Rights\|Constitutional Rights]]
 	- [[Statutory Rights\|Statutory Rights]]
 	- [[Legal Rights\|Legal Rights]]
 	- [[Natural Rights\|Natural Rights]]
-- [[Indian Parliament\|Indian Parliament]]
+- [[Parliament of India\|Parliament of India]]
 	- [[Lok Sabha\|Lok Sabha]]
 	- [[Rajya Sabha\|Rajya Sabha]]
 	- [[Joint Meeting\|Joint Meeting]]
@@ -36,6 +38,7 @@ Most used book for preparing this subject is: "Indian Polity" written by M. Laxm
 			- [[Question Hour#Short-Notice Question\|Short-Notice Question]]
 		- [[Zero Hour\|Zero Hour]]
 		- Agenda of the Day (Regular Discussion)
+	- [[Anti-Defection Law\|Anti-Defection Law]]
 	- [[Parliamentary Devices\|Parliamentary Devices]]
 		- [[Parliamentary Motions\|Parliamentary Motions]]
 		- [[Parliamentary Resolutions\|Parliamentary Resolutions]]
@@ -44,10 +47,69 @@ Most used book for preparing this subject is: "Indian Polity" written by M. Laxm
 		- [[Money Bill\|Money Bill]]
 		- [[Financial Bill\|Financial Bill]]
 		- [[Constitutional Ammendment Bill\|Constitutional Ammendment Bill]]
+	- Constitutional Bodies
+		- [[Election Commission of India\|Election Commission of India]]
+		- [[Union Public Service Commission (UPSC)\|Union Public Service Commission (UPSC)]] (less important)
+		- [[Financial Commission of India (FCI)\|Financial Commission of India (FCI)]]
+		- [[GST Council (GSTC)\|GST Council (GSTC)]]
+		- [[Controller and Auditor General (CAG)\|Controller and Auditor General (CAG)]]
+		- [[Attorney General of India\|Attorney General of India]] and [[Advocate General of State\|Advocate General of State]]
+	- Non-Constitutional (Statutory & Executive) Bodies
+		- [[National Human Rights Commission (NHRC)\|National Human Rights Commission (NHRC)]]
+		- [[State Human Rights Commission (SHRC)\|State Human Rights Commission (SHRC)]]
+		- [[National Disaster Management Association (NDMA)\|National Disaster Management Association (NDMA)]]
+		- [[State Disaster Management Association (SDMA)\|State Disaster Management Association (SDMA)]]
+		- [[Lokpal\|Lokpal]] (less important)
+		- [[Chief Information Commission (CIC)\|Chief Information Commission (CIC)]]
+		- [[State Information Commission (SIC)\|State Information Commission (SIC)]]
+		- [[National Commission for Protection of Child Rights (NCPCR)\|National Commission for Protection of Child Rights (NCPCR)]]
 - [[President of India\|President of India]]
-	- [[Absolute Veto\|Absolute Veto]]
-	- [[Suspensive Veto\|Suspensive Veto]]
-	- [[Pocket Veto\|Pocket Veto]]
+	- [[Absolute Veto\|Absolute Veto]] - rejects the bill
+	- [[Suspensive Veto\|Suspensive Veto]] - sends back for reconsideration or with suggestions
+	- [[Pocket Veto\|Pocket Veto]] - does not sign (since there is no time limit)
+	- Decides the date of election for Speaker of the Lok Sabha. Speaker decides the same for deputy speaker.
+- Emergency Provisions
+	- [[National Emergency in India\|National Emergency in India]]
+	- [[State Emergency in India\|State Emergency in India]]
+	- [[Financial Emergency in India\|Financial Emergency in India]]
+- [[Autonomous District Council (ADC)\|Autonomous District Council (ADC)]] under Article 244 (2) can
+	- frame laws on Jal, Jungle, Jameen
+	- executive power in primary schools etc.
+	- if a region inside the district is tribal-dominated and other ares of the district have majority non-tribals then [[Regional Autonomous Council (RAC)\|Regional Autonomous Council (RAC)]] is set up.
+- [[Indian Judiciary\|Indian Judiciary]]
+	- [[Supreme Court of India\|Supreme Court of India]]
+	- [[High Courts of India\|High Courts of India]]
+	- [[District & Sessions Courts of India\|District & Sessions Courts of India]]
+	- [[Alternate Dispute Resolution (ADR)\|Alternate Dispute Resolution (ADR)]]
+		- Arbitration
+			- More formal, decisions are binding
+			- neutral third party (generally retired judges or attorneys)
+		- Conciliation
+			- neutral third party helps the two parties find a mutual solution by taking an active role.
+			- concilator may meet both parties individually or together
+		- Mediation
+		- [[Lok Adalats\|Lok Adalats]]
+			- First one in Gujarat in 1982
+			- Chairman is always a person of high judicial officer rank or retired judge.
+			- No appeals lies to the award of Lok Adalat.
+		- [[Gram Nyayalaya\|Gram Nyayalaya]]
+			- derives power from Administrative Act, 1985 under Article 323 A and 323 B.
+		- [[Central Administrative Tribunal (CAT)\|Central Administrative Tribunal (CAT)]]
+		- [[State Administrative Tribunal (SAT)\|State Administrative Tribunal (SAT)]]
+		- [[Joint Administrative Tribunal (JAT)\|Joint Administrative Tribunal (JAT)]]
 
 ---
 # Footnotes
+- [[George Curzon\|George Curzon]], as the Governor-General of India from 1899 to 1905 established a police force in India modelled on the British Pattern.
+- [[Election Commission of India\|Election Commission of India]] are responsible for superitendence and ensuring free & fair elections
+	- 3 member body - Chief Election Commissioner + 2 Election Comissioners
+	- Election Commission resolves disputes regarding splits/margers of recognised Political Parties. For disputes in election result or voting then it is under the jurisdiction of the [[High Courts of India\|High Courts of India]] and [[Supreme Court of India\|Supreme Court of India]].
+	- Municipal elections are handled by [[State Election Commissions in India\|State Election Commissions in India]]
+- A political party is considered as a National Level Political Party if it is recognised as a political party in at least 4 states and secures 6% votes or win 2% votes in General Elections.
+- Attorney General of India can attend a session of the [[Parliament of India\|Parliament of India]]. 
+	- Solicitor General is a post made to assist the Attorney General.
+	- Can be a member of any expert committee of the Lok Sabha.
+	- Cannot vote in Lok Sabha but can attend the session
+- [[Controller and Auditor General (CAG)\|Controller and Auditor General (CAG)]] (recording of 7th december 45 mins to 1 hour)
+- Financial Secratary exercises exchequer control on behalf of the behalf of the Parliament
+- Consumer Protection Act 1986 introduced National Consymer Disputes Rederessal Commission. Similarly, National Human Rights Commission is also statutory.

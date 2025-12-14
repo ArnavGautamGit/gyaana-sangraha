@@ -12,16 +12,18 @@ The Indian Constitution is an important instrument which confers powers, rights,
 The purpose of the Constitution is to maintain harmonious relations between both the individuals and the state and between the different organs of the state among each other.
 
 I also studied this subject as an audit course (zero credit course) during my bachelor's degree in [[Computer Science (CompSci)\|Computer Science Engineering]] from Jaypee Institute of Information Technology, Noida.
-Notes from those classes are sparse and few. Most notes come from when I studiedthe subject "[[Indian Polity & Governance\|Indian Polity]]" when preparing for [[UPSC Civil Services Exam\|UPSC CSE 2026]].
+Notes from those classes are sparse and few. Most notes come from when I studied the subject "[[Indian Polity & Governance\|Indian Polity]]" when preparing for [[UPSC Civil Services Exam\|UPSC CSE 2026]].
 
 ## Reference Books
-Indian Polity - M. Lakshminath (2016)
-Indian Constitution and Indian Polity - S.G Subramanian (2019)
+- Indian Polity - M. Lakshminath (2016)
+- Indian Constitution and Indian Polity - S.G Subramanian (2019)
+- Indian Constitution - M.Raja Ram (2009)
 
 ## Map of Content
+- [[Colonial Origin of Indian Polity\|Colonial Origin of Indian Polity]]
+- [[History of Indian Constitution\|History of Indian Constitution]]
 - [[Structure of the Indian Constitution\|Structure of the Indian Constitution]]
 - [[Salient Features\|Salient Features]]
-- [[History of Indian Constitution\|History of Indian Constitution]]
 - [[The Indian Prime Minister.canvas|Canvas Note on PM]]
 - [[The Governor.canvas|Canvas Note on Governor]]
 

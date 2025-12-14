@@ -19,7 +19,7 @@ Since Nostr is a protocol and part of the back-end of decentralised infrastructu
 Since your Account is decentralised, you cannot be censored or de-platformed.
 
 ### Zaps
-Zaps are a way of supporting creators monetarily, they are paid in [[Satoshi (SAT)\|Satoshi (SAT)]] which is the smallest unit of [[Bitcoin (BTC)\|Bitcoin (BTC)]]. Zaps cannot be paid with regular on-chain BTC, it needs wallets based on the [[Lightning Network (LN)\|Lightning Network (LN)]] to ensure high speed of payments & low charges on payments.
+Zaps are a way of supporting creators monetarily, they are paid in [[Satoshi (SAT)\|Satoshi (SAT)]] which is the smallest unit of [[Bitcoin (BTC)\|Bitcoin (BTC)]]. Zaps cannot be paid with regular on-chain BTC, it needs wallets based on the [[Lightning Network (LN)\|Lightning Network (LN)]] to ensure high speed of payments & low charges on payments. Apart from Bitcoin and Zaps - Nostr is free and independent of Bitcoin and [[Blockchain\|Blockchain]] Technology as a whole.
 
 ### Clients
 Many different clients have been made on Nostr including [[Primal (App)\|Primal (App)]] where I made an account on 7th December 2025.

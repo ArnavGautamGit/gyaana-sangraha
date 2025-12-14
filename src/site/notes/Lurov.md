@@ -38,6 +38,7 @@ Campaigns: [[Storms of Eslance\|Storms of Eslance]]
 ### Unique Features
 [[Lurovian Calendar\|Lurovian Calendar]] - AKA the scar lake calendar
 
+
 ---
 # Footnotes
 Yet to Finish: [[Finish Lurovian Notes\|Finish Lurovian Notes]]

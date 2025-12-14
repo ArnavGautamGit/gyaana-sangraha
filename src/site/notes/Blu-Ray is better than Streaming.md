@@ -5,9 +5,9 @@
 
 ---
 # Blu-Ray is better than Streaming
-It is hotly contested that if Blu-Rays are better than Streaming as a service for watching movies and TV Shows. The reality is that in terms of finance the debate is practically the same as the [[Renting vs Buying\|Renting vs Buying]] debate.
+It is hotly contested that if buying movies as [[Blu-Ray Discs\|Blu-Ray Discs]] is a better idea than paying monthly for Streaming as a service for watching movies and TV Shows. The reality is that in terms of finance the debate is practically the same as the [[Renting vs Buying\|Renting vs Buying]] debate.
 
-I personally feel that the quality of movies has reduced, since the movie makers do not have the "second wind" that physical disk sales provided them with & hence they try their best to make masala movies which either most Movie Industries outside Asia do not know how to do or in regions such as India where they are popular, masala movies are overdone and feel like slop.
+I personally feel that the quality of movies has reduced, since the movie makers do not have the "second wind" that physical disk sales provided them with & hence they try their best to make masala/mass movies which either most Movie Industries outside Asia do not know how to do or even in regions such as India (where they are popular), masala movies are overdone with no realism at all and feel like South Indian Action Movie slop.
 
 ### Streaming Services add & drop movies
 It has happened many times that when Hotstar was first bought by Disney, all the movies and TV shows of theirs got moved from existing sites to their site (Disney+ Hotstar) and when they left the market in 2025, JioHotstar took their place by merger of JioCinema with Hotstar after Jio bought the service. What stops Disney to return to India with Disney+ as an independent service (which is how they exist globally)
@@ -31,12 +31,12 @@ Unless we move to TV again, but even Cable takes money & it is more often than n
 So it is better to save up on not paying for streaming movies or shows each month & better spend that money on sports instead. Pirated Streams are generally in really bad quality.
 
 ### Blu-Rays often offer more!
-Blu-Rays often come with longer, extended versions when compared to Theatrical Release. To watch the same extended version one may have to buy the Disc or scour through YouTube where you (most likely) won't find anything until a good time has passed from the release of the Extended Cut Blu-Ray.
+Blu-Ray Releases often come with longer, extended versions when compared to Theatrical Release. To watch the same extended version one may have to buy the Disc or scour through YouTube where you (most likely) won't find anything until a good time has passed from the release of the Extended Cut Blu-Ray.
 
 Some Blu-Rays may include these extra scenes as a part of the movie, others may include it as a separate disc in 2-Disc Variants! Generally it is included as 2-discs.
 
 ### Blu-Rays MIGHT save you money
-Instead of paying aroung 500 Rupees EVERY MONTH to get a sizably inferior quality, rather pay Rs. 2000 ONCE and get an authentic Blu-Ray of a movie. If one does not have a PlayStation or Xbox console, you may have to spend around 20-30k on a new region-free Blu-Ray player, used may be cheaper. The only downside to using a console for viewing is that consoles will be region-locked. While Newer Blu-Rays may be expensive, Blu-Rays of older movies are available for as low as Rs. 750. 
+Instead of paying aroung 500 Rupees EVERY MONTH to get a sizably inferior quality audio and video for a movie, rather pay Rs. 2000 ONCE and get an authentic [[Blu-Ray Discs\|Blu-Ray]] of that movie. If one does not have a PlayStation or Xbox console, you may have to spend around 20-30k on a new region-free Blu-Ray player, used may be cheaper. The only downside to using a console for viewing is that consoles will be region-locked. While Newer Blu-Rays may be expensive, Blu-Rays of older movies are available for as low as Rs. 750. 
 
 1. Detective Pikachu's Blu-Ray was selling for Rs. 750 on Amazon India in May 2025.
 2. Deadpool's first movie's Blu-Ray was selling for 890 on Amazon India in the same timeframe. Some Reviewers claim to have bought it for 399 in the Reviews!

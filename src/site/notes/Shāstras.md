@@ -8,7 +8,7 @@ Shāstra means "treatise" or "precepts", sometimes "rules" or "laws"
 Shāstras are collection of Hindu Texts written in Sanskrit which are considered the Backbone of Hindu Sanātan Dharma.
 They are of 4 Major Types:
 
-### 1. [[Shruti (Veda)\|Shruti (Veda)]]
+### 1. [[Veda\|Shruti]]
 Comprise of the Vedas (which were written in 4 parts) - Samhita, Brahmana, Aranyaka and Upanishada
 The word "Veda" come from the Sanskrit root "Vid" meaning "Knowledge" or "Sciences".
 Each Veda had a Upaveda ("Applied Knowledge" or "Applied Sciences") 

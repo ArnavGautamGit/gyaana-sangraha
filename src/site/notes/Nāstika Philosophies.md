@@ -4,10 +4,10 @@
 
 ---
 # Nāstika Philosophies 
-Nāstika Philosophies do not believe in the Vedas to be authentic.
-"Nāstika" in Sanskrit means "Atheist" although... here it is not used in the same context as it is used in the West. 
+> Nāstika Philosophies do not believe in the Vedas to be authentic. 
+> "Nāstika" in Sanskrit means "Atheist" eventhough here it is not used in the same context as it is used in the West. 
 
-Some of these philosophies do not believe that God exists and hence deny the Vedas but they do believe in Enlightnement (like [[Bodha (Buddhism)\|Bodha (Buddhism)]] and [[Jaina(Jainism)\|Jaina(Jainism)]])
+Some of these philosophies do not believe that God exists and hence deny the Vedas but they do believe in Enlightnement (like [[Bauddha (Buddhism)\|Bauddha (Buddhism)]] and [[Jaina(Jainism)\|Jaina(Jainism)]])
 
 Others like [[Charvaka\|Charvaka]] couldn't care about the Vedas and called them with horrific names yet they were still considered Hindus/Sanatanis since they had civilised disagreements. No matter how foul the language may be to express the same, but the never desacrated temples or idols.
 

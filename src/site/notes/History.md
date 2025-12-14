@@ -10,7 +10,7 @@
 History is a vast subject that is barely touched up on in the world of Academics unless you are doing an actual degree/major in the subject and it is so vast infact that it can be divided on the basis of time periods, geographic location and theme. 
 
 Similarly, what matters most in History are sources of said knowledge.
-History and reconstruction of how humanity or any section of humanity lived in a particular time period depends extensively on the source of knowing history. Notable & Scientifically accepted forms of Historic Evidence include: [[Archaeological Evidence\|Archaeological Evidence]] and [[Literary Sources\|Literary Sources]]. The more contemporary the source, the more 
+History and reconstruction of how humanity or any section of humanity lived in a particular time period depends extensively on the source of knowing history. Notable & Scientifically accepted forms of Historic Evidence include: [[Archaeological Evidence\|Archaeological Evidence]] and [[Literary Records\|Literary Records]]. The more contemporary the source, the more 
 
 Although other forms of evidence do exist such as [[Anecdotal Evidence\|Anecdotal Evidence]] or [[Hear-Say\|Hear-Say]] but they are generally used by people peddling [[Conspiracy Theories\|Conspiracy Theories]].
 

@@ -16,11 +16,15 @@ The starting scene of the Babu Dakait gang member sniffing the testicles of Hamz
 
 The movie is framed with immense immersion in mind. Closeups are frequent to reflect how humans would recall & remember faces separately from background context. Focal Length is kept such that the background is not blurred - similar to how the human eye sees things while the aperture and camera angles are very natural.
 
-Characters are not afraid to look directly into the camera - greatest two examples include the scene where Hamza first meets yelena on the political rally, where Yalena looks directly at the camera in a closeup with the second major scene being the interval scene when Hamza/Ranveer shares the screen with Major Iqbal (played by Arjun Rampal). 
+Characters are not afraid to look directly into the camera - greatest examples include the scene where Hamza first meets yelena on the political rally, where Yalena looks directly at the camera in a closeup. (I would insert the image after Netflix release happens)
 
-Additionally, the movie is divided into chapters with written names to add to the feeling that this is all a part of some mental or written notes of the characters - particularly the written notes of Hamza. Every night, Hamza still adds to his notes or changes them. Every major scene when Hamza is not on the table he can be seen around the table/conversation in the background, snooping... lurking like an actual spy.
+Hamza looks directly in the camera multiple times when trying to approach Yelena in the Underground rave party at a fort/castle.
 
-It is complemented by immensely realistic and well-studied sets which look like actual locations within the Lyari Town in Karachi. Even at the end of the film when Hamza is already at the hospital but does not get himself treated/bandaged despite bleeding profusely because it will show up that there is no medical records for him & he does not have a National ID either.
+The next key example being the interval scene when Hamza/Ranveer shares the screen with Major Iqbal (played by Arjun Rampal). I will add the screenshot after Netflix release. 
+
+Additionally, the movie is divided into chapters with text on the screen to add to the feeling that this is all a part of some mental or written notes of the characters - particularly the written notes of Hamza. Every night, Hamza still adds to his notes or changes them. Every major scene when Hamza is not on the table he can be seen around the table/conversation in the background, snooping... lurking like an actual spy.
+
+It is complemented by immensely realistic and well-studied set designs which look like actual locations within the Lyari Town in Karachi. Even at the end of the film when Hamza is already at the hospital but does not get himself treated/bandaged despite bleeding profusely because it will show up that there is no medical records for him & he does not have a National ID either.
 
 Throughout the film, you are not spoonfed any information but covertly told about how Hamza feels. The subtle but sure expressions and dynamic range of Ranveer's skill is also additive to the feeling of being there with him.
 

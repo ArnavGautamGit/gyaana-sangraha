@@ -13,7 +13,7 @@ It was like a cold war, the Owlesian General [[Edward Nightingale\|Edward Nighti
 
 The Cold War stopped when the two kingdoms wee forced to work together to stop the proxy wars in [[Magical Woods\|Magical Woods]] when the Simiah were being lured by the [[Miragerie\|Miragerie]] and the Orcs even took quite a lot of land in the south of the Woods setting up new cities in the east.
 
-Realising that they would have to join forces to counter balance the [[Miragerie\|Miragerie]], it was decided that Queen [[Ivara II Bronze\|Ivara II Bronze]] of Dragonpeaks would marry the King of Owlesia [[John VI/I Forechester\|John VI]]. Both Monarchs would rule together as equals - an exception made for this generation only. Another exception was that if either of the monarchs pass, the kingdom would be ruled by the other monarch.
+Realising that they would have to join forces to counter balance the [[Miragerie\|Miragerie]], it was decided that Queen [[Ivara II Bronze\|Ivara II Bronze]] of Dragonpeaks would marry the King of Owlesia [[John VI Forechester\|John VI]]. Both Monarchs would rule together as equals - an exception made for this generation only. Another exception was that if either of the monarchs pass, the kingdom would be ruled by the other monarch.
 
 ---
 # Footnotes

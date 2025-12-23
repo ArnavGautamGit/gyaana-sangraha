@@ -12,7 +12,7 @@ Microliths were most often used to cut smaller animals like mice and worms to us
 Hence, Microliths were the first pieces of *FINE* engineering i.e., engineering something on small scale. 
 
 ### Excavation Site in India
-In India, first/earliest Microliths were found in an excavation site inside the present-day district of Begor, Uttar Pradesh (not to be confused with Beghor in Rajasthan which is a key excavation site of [[Neolithic Period\|Neolithic Period]]) It is believed that the proto-human settlement there must be fishing in the river Ganga or other Himalayan tributaries.
+In India, first/earliest Microliths were found in an excavation site inside the present-day district of Begor, Uttar Pradesh (not to be confused with Beghor in Rajasthan which is a key [[Neolithic Period\|Neolithic]] excavation site) It is believed that the proto-human settlement there must be fishing in the river Ganga or her other Himalayan tributaries.
 
 ---
 # Footnotes

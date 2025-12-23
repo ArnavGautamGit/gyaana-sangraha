@@ -10,8 +10,8 @@
 
 Kingdom of Dragonpeaks is one of the most powerful Kingdoms in the entirety of [[Lurov\|Lurov]] and might actually be the only that can give a tough fight to an all-colonising force such as the [[Miragerie\|Miragerie]]. Which is probably why it is reasonable to believe that Dragonpeaks might be the next target.
 
-Current Monarch: [[Damian III/I Forechester\|Damian III/I Forechester]]
-First Monarchs: [[Ivara II Bronze\|Ivara II Bronze]] & [[John VI/I Forechester\|John VI/I Forechester]]
+Current Monarch: [[Damian III Forechester\|Damian III Forechester]]
+First Monarchs: [[Ivara II Bronze\|Ivara II Bronze]] & [[John VI Forechester\|John VI Forechester]]
 
 ### Noble Houses
 The Kingdom is home to many noble houses & noble families which primarily consist of either Dragonborn/Drakona Royals who have been staying in the Kingdom and Ruling it for decades or the new human expats who came from [[Owlesia\|Owlesia]] after [[The Wedding of Peace\|The Wedding of Peace]].

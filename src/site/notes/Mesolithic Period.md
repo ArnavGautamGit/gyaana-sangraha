@@ -5,7 +5,7 @@
 
 ---
 # Mesolithic Period
-> Period of Human History and the middle part of [[Stone Age\|Stone Age]] where proto-humans began expanding outside forests and & reached the [[Homo Erectus\|Homo Erectus]] stage in human evolution. 
+> Period of Human History and the middle part of [[Stone Age\|Stone Age]] where proto-humans began expanding outside forests. 
 
 This period lasted from 9000 BC to 7000 BC
 This period marked amazing and rapid changes to the human race over a short time.

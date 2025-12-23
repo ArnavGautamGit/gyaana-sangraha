@@ -24,7 +24,7 @@ The two sides never really openly fought each other since it is the "Cold" War, 
 8. 1956: Soviet Invasion of Hungary
 9. 1961: Berlin Wall Erected
 10. 1961: [[Yuri Gagarin\|Yuri Gagarin]] is First Human in Space
-11. 1962: [[Cuban Missile Crisis (1962)\|Cuban Missile Crisis (1962)]] and [[The Indo-Sino War (1962)\|The Indo-Sino War (1962)]]
+11. 1962: [[Cuban Missile Crisis (1962)\|Cuban Missile Crisis]] and [[1st Indo-Sino War (1962)\|Indo-Sino War]]
 12. 1967: [[The Six Day War\|The Six Day War]]
 13. 1968: Soviet Invasion of [[Czechoslovakia\|Czechoslovakia]]
 14. 1969: [[Apollo 11 Moon Landing\|Apollo 11 Moon Landing]]

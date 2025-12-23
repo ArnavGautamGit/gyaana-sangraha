@@ -5,9 +5,10 @@
 
 ---
 # South Asian Association for Regional Cooperation (SAARC)
-> [[Regional Economic Frameworks in Geopolitics\|Regional Socio-Economic Framework]] of South Asian [[State (United Nations)\|Member States]] including India, Pakistan, Nepal, Bangladesh, Sri Lanka and Bhutan. Later joined by Maldives and Afghanistan.
+> [[Regional Economic Frameworks in Geopolitics\|Regional Socio-Economic Framework]] of South Asian [[State (United Nations)\|UN Member States]] including [[India\|India]], [[Pakistan\|Pakistan]], [[Nepal\|Nepal]], [[Bangladesh\|Bangladesh]], [[Sri Lanka\|Sri Lanka]] and [[Bhutan\|Bhutan]]. Later joined by [[Maldives\|Maldives]] and [[Afghanistan\|Afghanistan]]. Some believe it to be a group which was supposed to be a check on India to contain her growth.
 
-Formed on 8th December 1985, in Dhaka with headquarters in Kathmandu.
+Formed on 8th December 1985 with the signing of the SAARC Charter in Dhaka.
+It has its headquarters in Kathmandu - to be neutral from India & Pakistan.
 Total 8 Members and 9 Observer States.
 Afghanistan was the latest joinee in 2007.
 
@@ -22,7 +23,7 @@ Last Summit was supposed to be held in November 2016 but was cancelled due to Ur
 
 SAARC was replaced by [[Bay of Bengal Iniative for Multi-Sectoral Technical & Economic Cooperation (BIMSTEC)\|Bay of Bengal Iniative for Multi-Sectoral Technical & Economic Cooperation (BIMSTEC)]] which was basically SAARC without Pakistan. Later Bangladesh slowly started singing the Pakistani tune (due to being Muslim majority) and BIMSTEC also went dysfunctional.
 
-SAARC effectively broke down because it was Pakistan's Terrorist agenda that had divided the Association into 2 groups: Pro-Pakistan & Anti-Pakistan. Afghanistan was the only muslim [[State (United Nations)\|Member State]] that was against Pakistan (they have their own reasons) as seen in : [[South Asian Association for Regional Cooperation (SAARC)#^1\|1]])
+SAARC effectively broke down because it was Pakistan's Terrorist agenda that had divided the Association into 2 groups: Pro-Pakistan & Anti-Pakistan. Afghanistan was the only muslim [[State (United Nations)\|Member State]] that was against Pakistan ([[South Asian Association for Regional Cooperation (SAARC)#^1\|1]])
 
 The Anti-Pakistan Countries were done with having a Terrorist State in the Association, many who were explicitly not on Pakistan's side internally supported India - like Nepal did & still supports India in cases of Terror Attacks.
 

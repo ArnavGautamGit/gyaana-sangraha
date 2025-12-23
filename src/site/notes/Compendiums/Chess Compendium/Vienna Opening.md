@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Compendiums/Chess Compendium/Vienna Opening/"}
+{"dg-publish":true,"permalink":"/Compendiums/Chess Compendium/Vienna Opening/","tags":["Chess"]}
 ---
 
 

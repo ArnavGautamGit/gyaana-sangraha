@@ -16,7 +16,7 @@ In one year, they planned a Rebellion, they staged an attack on Queen [[Ivara II
 Raebershires planned to kill the queen outright so that the power falls to the King who was their cousin & help them against colonising land in the west of the mountains... 
 In the fight of who-throws-who under the bus, the arrows to be used were swapped with poison ones by henchmen on the payroll of [[House Raebershire\|House Raebershire]].
 
-His Majesty [[John VI/I Forechester\|King John VI/I]] as the King of Dragonpeaks & Owlesia decided to withdraw any financial or military support promised to the Raebershires & also took away their statuses as Barons & Dukes. [[Sir Arthur I Nightingale\|Sir Arthur I Nightingale]] was honoured for his bravery & made the new Duke of Owlesia.
+His Majesty [[John VI Forechester\|King John VI]] as the King of Dragonpeaks & Owlesia decided to withdraw any financial or military support promised to the Raebershires & also took away their statuses as Barons & Dukes. [[Sir Arthur I Nightingale\|Sir Arthur I Nightingale]] was honoured for his bravery & made the new Duke of Owlesia.
 
 ---
 # Footnotes

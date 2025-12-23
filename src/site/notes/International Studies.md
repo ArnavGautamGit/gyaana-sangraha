@@ -14,11 +14,14 @@ The Subject is taught by the new Guest Lecturer, Dr. MV Georgekutty. He is origi
 ### Syllabus
 - [[State (United Nations)\|State (United Nations)]]
 - [[Theoretical Idea of a Nation\|Theoretical Idea of a Nation]] (includes how it is different from State)
+- [[India\|International Studies from an Indian Perspective]]
 - [[Regional Economic Frameworks in Geopolitics\|Regional Economic Frameworks in Geopolitics]] (and why they are made)
 	- [[South Asian Association for Regional Cooperation (SAARC)\|South Asian Association for Regional Cooperation (SAARC)]]
 	- [[Association of South East Asian Nations (ASEAN)\|Association of South East Asian Nations (ASEAN)]]
 	- [[European Union (EU)\|European Union (EU)]]
 	- [[African Union (AU)\|African Union (AU)]]
+	- [[UAE-India CEPA Council\|UAE-India CEPA Council]] (Comprehensive Economic Partnership Agreement)
+	- [[International Solar Alliance (ISA)\|International Solar Alliance (ISA)]]
 - [[Philosophies in International Studies\|Philosophies in International Studies]]
 	- [[Idealism\|Idealism]]
 	- [[Realism\|Realism]]
@@ -64,6 +67,7 @@ The Subject is taught by the new Guest Lecturer, Dr. MV Georgekutty. He is origi
 		- [[Human Rights Council\|Human Rights Council]]
 	- [[Nuclear Proliferation\|Nuclear Proliferation]]
 		- [[Non-Proliferation Treaty (NPT)\|Non-Proliferation Treaty (NPT)]]
+	- [[India-Middle East-Europe Economic Corridor (IMEC)\|India-Middle East-Europe Economic Corridor (IMEC)]]
 - Project-Based Learning (PBL): [[Latin America during the US-Soviet Cold War\|Latin America during the US-Soviet Cold War]]
 
 

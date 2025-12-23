@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Edward Nightingale/"}
+{"dg-publish":true,"permalink":"/Edward Nightingale/","tags":["TTRPG"]}
 ---
 
 

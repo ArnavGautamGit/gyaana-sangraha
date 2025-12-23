@@ -5,7 +5,7 @@
 
 ---
 # Paleolithic Period
-> Period of Human History which falls under [[Stone Age\|Stone Age]] where proto-humans began using stone tools to aid themselves in laying camps, hunting and collecting food.
+> Period of Human History which falls under [[Stone Age\|Stone Age]] where proto-humans began using stone tools to aid themselves in laying camps, hunting and collecting food. Roughly around 300,000 BC, humans evolved from [[Homo Erectus\|Homo Erectus]] to [[Homo Sapiens\|Homo Sapiens]] during this phase. 
 
 This period was the longest period in Human history spanning from 500,000 BC to 10,000 BC subdivided into Lower, Middle and Upper Paleolithic phases choronologically.
 

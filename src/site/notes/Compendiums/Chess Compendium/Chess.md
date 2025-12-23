@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Compendiums/Chess Compendium/Chess/"}
+{"dg-publish":true,"permalink":"/Compendiums/Chess Compendium/Chess/","tags":["Chess"]}
 ---
 
 

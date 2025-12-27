@@ -7,14 +7,14 @@
 # Terrorism
 > Defined as the act of using, leveraging and spreading terror to arm-twist certain stakeholders of a particular [[State (United Nations)\|State's]] government or a group of States to agree to their terms of mainstreaming their radical agendas or something much worse.
 
-The United States of America and the First World in general initially considered Terrorism as an internal security issue as they themselves funded such separatist groups which were considered terrorists as a leverage on the newly independent states & to divert the attention of [[Warsaw Pact\|Second World States]] and their stance remained the same until the [[9/11 Terrorist Attack\|9/11 Terrorist Attack]] which opened the eyes of the First World so they could see what they created & funded.
+The United States of America and the First World in general initially considered Terrorism as an internal security issue as they themselves funded such separatist groups which were considered terrorists as a leverage on the newly independent states & to divert the attention of [[Warsaw Pact\|Second World States]] and their stance remained the same until the [[9-11 Terrorist Attack\|9-11 Terrorist Attack]] which opened the eyes of the First World so they could see what they created & funded.
 {see: [[Terrorism#^1\|1]], [[Terrorism#^2\|2]]}
 
 Acts of Terrorism are referred to as Terrorist Attacks. While perpetrators of these acts are known as Terrorists.
 
 ### Different from Political Violence
 Terrorism is often considered a weapon of the weak & must be kept separate from [[Political Violence\|Political Violence]]. Where Political Violence involves taking support of like minded civilians and often does NOT involve attacks on civilians and tourists, Terrorism aims to create terror & may attack tourists and civilians if it means furthering their [[Nihilism\|Nihilist]] thought process.
-Example: You will never see or hear about any [[Naxalism\|Naxals]] killing Civilians, we only hear of Naxals attacking the CRPF jawans. Terrorists have a long history of killing civilians from [[Paris Charlie-Hebdo Terrorist Violence\|Paris Charlie-Hebdo Terrorist Violence]] [[9/11 Terrorist Attack\|9/11 Terrorist Attack]] and most recently the [[Pahalgam Terror Attack\|Pahalgam Terror Attack]].
+Example: You will never see or hear about any [[Naxalism\|Naxals]] killing Civilians, we only hear of Naxals attacking the CRPF jawans. Terrorists have a long history of killing civilians from [[Paris Charlie-Hebdo Terrorist Violence\|Paris Charlie-Hebdo Terrorist Violence]] [[9-11 Terrorist Attack\|9-11 Terrorist Attack]] and most recently the [[Pahalgam Terror Attack\|Pahalgam Terror Attack]].
 
 In summary,
 Political Violence is the situation where thought-leaders have to take up arms SOLELY against their political opponents (not civilians) & attempt to become popular in the masses to topple their political opponents in power.

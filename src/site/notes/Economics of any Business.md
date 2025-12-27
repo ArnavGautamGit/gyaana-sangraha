@@ -37,7 +37,7 @@ When we see the terms used such as [[Gross Revenue\|Gross Revenue]] it refers to
 
 When the [[Indirect Tax\|Indirect Tax]] is paid to the Government, the remaining revenue is known as [[Net Revenue\|Net Revenue]].
 $$\Large \text{Gross Revenue} - \text{GST} = \text{Net Revenue}$$
-Now, from the Net Revenue if we subtract the [[Cost of Goods Sold (COGS)\|COGS]], we get [[Gross Margin\|Gross Margin]].
+Now, from the Net Revenue if we subtract the [[Cost of Goods Sold (COGS)\|COGS]], we get [[Gross Margin\|Gross Margin]] (Gross Profit).
 $$\Large \text{Net Revenue} - \text{Cost of Goods Sold} = \text{Gross Margin}$$
 Now if we remove other costs like [[Sales & Marketing Costs\|Sales & Marketing Costs]] and [[Cost of General Overheads\|Cost of General Overheads]], we get the [[EBITDA\|EBITDA]]. 
 $$\Large \text{EBITDA} = \text{Gross Margin} - \text{Other Costs}$$

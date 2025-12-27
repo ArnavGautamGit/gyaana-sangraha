@@ -17,6 +17,7 @@ An Index Note indexing the major eras and events of Indian History as a chronolo
 [[Chalcolithic Period\|Chalcolithic Period]] (Copper-Stone Hybrid Culture)
 [[Indus Valley Civilsation\|Indus Valley Civilsation]] (Bronze Age Civilisation in Chalcolithic Period)
 [[Indian Vedic Period\|Indian Vedic Period]] (Transition to Iron Age)
+[[Rise of Magadha\|Rise of Magadha]]
 [[Nanda Empire\|Nanda Empire]]
 [[Mauryan Empire\|Mauryan Empire]]
 [[Early Indian Medieval Period\|Early Indian Medieval Period]]

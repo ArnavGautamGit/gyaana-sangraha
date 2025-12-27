@@ -16,7 +16,7 @@ Redice Studios - the biggest name in Manhwa business and the creators of the fam
 
 The villain of the story is of Indian Origin who is named "Narandra Neru", there is no need to explain that the name is derived from two of India's Longest Serving Prime Ministers i.e., the current PM when this comic was released (Mr. Narendra Modi) and the first-ever PM of Independent India (Jawaharlal Nehru). Where the first name is taken from the current PM, the last name is taken from the first PM of Independent India.
 
-This is not even the most disturbing news, the disturbing news is the fact that this character is not only a villain but runs a Terrorist Organisation which conducts terror attacks that look eerily similar to [[9/11 Terrorist Attack\|9/11 Terrorist Attack]] (which did not even involve Indians by the way).
+This is not even the most disturbing news, the disturbing news is the fact that this character is not only a villain but runs a Terrorist Organisation which conducts terror attacks that look eerily similar to [[9-11 Terrorist Attack\|9-11 Terrorist Attack]] (which did not even involve Indians by the way).
 
 ![Redice Studios Racist Indian Character.png](/img/user/Vaulted%20Images/Redice%20Studios%20Racist%20Indian%20Character.png)
 
@@ -39,7 +39,7 @@ These signs were exposed in videos by YouTubers like [Nikita Thakur](https://you
 
 Please don't try to whitewash this as something like "protecting your culture against foreigners" since that does not work... Korea's neighbouring country of Japan does not single out Indians specifically by nationality & race like this.
 
-Japan is much more civil than that. They dis-allow all non-Japanese in certain parts yes, but not specify individual races/nationalities like this to make them feel specifically targeted. They definitely do not showcase Indians as a group of Terrorists committing attacks like [[9/11 Terrorist Attack\|9/11]].
+Japan is much more civil than that. They dis-allow all non-Japanese in certain parts yes, but not specify individual races/nationalities like this to make them feel specifically targeted. They definitely do not showcase Indians as a group of Terrorists committing attacks like [[9-11 Terrorist Attack\|9/11]].
 
 ---
 # Footnotes

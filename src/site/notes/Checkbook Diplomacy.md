@@ -30,7 +30,7 @@ The U.S. has also pursued checkbook diplomacy to advance efforts to stop prolife
 In the 1990s, for instance, the U.S. brokered an agreement giving North Korea $4 billion in energy aid and light-water reactors in exchange for freezing and dismantling its nuclear weapons program. The deal could not be sustained, however, and Pyongyang continues its nuclear weapons program today.
 {source: [[Checkbook Diplomacy#^2\|2]]}
  
-When the United States and Saudi Arabia bankrolled Afghanistan’s anti-Soviet jihad using the [[Bank of Credit and Commerce International (BCCI)\|BCCI Bank]] in the 1980s, they gave little thought to the possibility that they could be funding and arming their future enemies as the Mujaheedin became the Taliban which later committed the [[9/11 Terrorist Attack\|9/11 Terrorist Attack]].
+When the United States and Saudi Arabia bankrolled Afghanistan’s anti-Soviet jihad using the [[Bank of Credit and Commerce International (BCCI)\|BCCI Bank]] in the 1980s, they gave little thought to the possibility that they could be funding and arming their future enemies as the Mujaheedin became the Taliban which later committed the [[9-11 Terrorist Attack\|9-11 Terrorist Attack]].
 
 ---
 # Footnotes

@@ -13,7 +13,7 @@ The table for all the Grahas, their Sva, Uccha and Neecha Rāshis along with the
 | ------------------- | -------------------------------------------- | --------------------- | ------------------------ | ------- |
 | [[Sūrya (सूर्य)\|Sūrya (सूर्य)]]   | [[Simha (सिंह)\|Simha (सिंह)]]                             | [[Mesha (मेष)\|Mesha (मेष)]]       | [[Tulā (तुला)\|Tulā (तुला)]]          | 7       |
 | [[Chandra (चंद्र)\|Chandra (चंद्र)]] | [[Karka (कर्क)\|Karka (कर्क)]]                             | [[Vrishabha (वृषभ)\|Vrishabha (वृषभ)]]  | [[Vrishchika (वृष्चिक)\|Vrishchika (वृष्चिक)]] | 7       |
-| [[Mangala (मंगल)\|Mangala (मंगल)]]  | [[Mesha (मेष)\|Mesha (मेष)]] <br>[[Vrishchika (वृष्चिक)\|Vrishchika (वृष्चिक)]] | [[Makara (मकर)\|Makara (मकर)]]      | [[Karka (कर्क)\|Karka (कर्क)]]         |         |
+| [[Mangala (मंगल)\|Mangala (मंगल)]]  | [[Mesha (मेष)\|Mesha (मेष)]] <br>[[Vrishchika (वृष्चिक)\|Vrishchika (वृष्चिक)]] | [[Makara (मकर)\|Makara (मकर)]]      | [[Karka (कर्क)\|Karka (कर्क)]]         | 4,7,8   |
 | [[Budha (बुध)\|Budha (बुध)]]     | [[Mithuna (मिथुन)\|Mithuna (मिथुन)]]<br>[[Kanya (कन्या)\|Kanya (कन्या)]]     | [[Kanya (कन्या)\|Kanya (कन्या)]]     | [[Meena (मीन)\|Meena (मीन)]]          |         |
 | [[Guru (गुरु)\|Guru (गुरु)]]     | [[Dhanu (धनु)\|Dhanu (धनु)]]<br>[[Meena (मीन)\|Meena (मीन)]]           | [[Karka (कर्क)\|Karka (कर्क)]]      | [[Makara (मकर)\|Makara (मकर)]]         | 5,7,9   |
 | [[Shukra (शुक्र)\|Shukra (शुक्र)]]  | [[Vrishabha (वृषभ)\|Vrishabha (वृषभ)]]<br>[[Tulā (तुला)\|Tulā (तुला)]]      | [[Meena (मीन)\|Meena (मीन)]]       | [[Kanya (कन्या)\|Kanya (कन्या)]]        |         |

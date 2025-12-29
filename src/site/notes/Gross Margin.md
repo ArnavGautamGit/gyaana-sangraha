@@ -15,7 +15,10 @@ This is further used to calculate the business's [[EBITDA\|EBITDA]] - which is o
 Many Financial Systems use a different term for the difference of [[Net Revenue\|Net Revenue]] and [[Cost of Goods Sold (COGS)\|COGS]] known as "Gross Profit" and use the conventional term "Gross Margin" specifically as the ratio of Gross Profit and Net Revenue depicted as a percentage.
 $$\Large \text{Net Revenue} - \text{Cost of Goods Sold} = \text{Gross Profit}$$
 $$\Large \dfrac{\text{Gross Profit}}{\text{Net Revenue}} \times 100 = \text{Gross Margin}$$
-In most financial systems, Gross Margin is accepted as both a numeric value and a percentage value. [[Economics of any Business\|Economics of any Business]] depends upon Gross Profit & Margin
+In most financial systems, Gross Margin is accepted as both a numeric value and a percentage value. [[Economics of any Business\|Economics of any Business]] depends upon Gross Profit & Margin.
+
+### Alternate Names
+Gross Profit is also sometimes called Gross Income among with names such as simple income, sales profit etc.
 
 ---
 # Footnotes

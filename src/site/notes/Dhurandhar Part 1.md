@@ -10,7 +10,7 @@
 Hamza Ali Mazari (played by Ranveer Singh) seeks to join the gang of Rehman Baloch (played by Akshaye Khanna) to spy on Pakistani Underworld (on India's behalf) because the weapons for terrorists are supplied by these gangs themselves.
 
 ### Honest Review - Immersion Masterclass
-Directed by Aditya Dhar (who also directed [[Uri: The Surgical Strike\|Uri: The Surgical Strike]]) Dhurandhar is a great flick which shows a slice of an Indian spy's life in Pakistan. It does not fear from showing the sheer violence and gore that Pakistani society is built with. 
+Directed by Aditya Dhar (who also directed [[Uri - The Surgical Strike\|Uri - The Surgical Strike]]) Dhurandhar is a great flick which shows a slice of an Indian spy's life in Pakistan. It does not fear from showing the sheer violence and gore that Pakistani society is built with. 
 
 The movie starts with [[IC814 Kandahar Hijack\|IC814 Kandahar Hijack]] story where Ajay Sanyal (R. Madhavan) is negotiating with the terrorists. It is explained how the government of the day has bowed to external pressure from other [[State (United Nations)\|Nations]] along with internal pressure of relatives of the hijacked people staging a protest outside PM's residence.
 

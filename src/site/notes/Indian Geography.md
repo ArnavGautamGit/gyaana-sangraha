@@ -34,7 +34,7 @@ Indian Geography is a prominent subject in Government Exams such as the [[Combin
 - *Mountain Ranges of India*
 	- [[Himalayas\|Himalayas]]
 	- [[Vindhyas\|Vindhyas]]
-	- [[Aravali\|Aravali]]
+	- [[Aravali Hills\|Aravali Hills]]
 - *Water Bodies around India*
 	- [[Bay of Bengal\|Bay of Bengal]]
 	- [[Arabian Sea\|Arabian Sea]]

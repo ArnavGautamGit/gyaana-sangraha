@@ -24,6 +24,7 @@ The three major parts are: [[Macro Economics\|Macro Economics]], [[Micro Economi
 [[Demand-Supply Curve\|Demand-Supply Curve]]
 [[Opportunity Cost\|Opportunity Cost]]
 [[Market\|Market]] - incomplete
+[[Economics of any Business\|Economics of any Business]]
 [[Inflation\|Economic Inflation]]
 [[Economic Deflation\|Economic Deflation]]
 [[Gross Domestic Product (GDP)\|Gross Domestic Product (GDP)]] - GDP FC, GDP MP, Real GDP, Nominal GDP
@@ -37,6 +38,13 @@ Technical Recession (fall in GDP in two consecutive quarters)
 [[Measures of Money Supply\|Measures of Money Supply]] - M0 to M4
 [[Banking System\|Banking System]]
 [[Financial Banks\|Financial Banks]]
+[[Non-Banking Finance Company (NBFC)\|Non-Banking Finance Company (NBFC)]]
+[[Non-Performing Asset (NPA)\|Non-Performing Asset (NPA)]]
+[[Capital Adequacy Ratio (CAR)\|Capital Adequacy Ratio (CAR)]]
+[[Deposit Insurance and Credit Guarantee Corporation (DICGC)\|Deposit Insurance and Credit Guarantee Corporation (DICGC)]]
+[[BASEL Norms\|BASEL Norms]]
+[[Liquidity Coverage Ratio (LCR)\|Liquidity Coverage Ratio (LCR)]]
+[[Consumer Price Index (CPI)\|Consumer Price Index (CPI)]]
 
 
 ---

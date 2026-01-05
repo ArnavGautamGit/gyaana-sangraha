@@ -8,22 +8,49 @@
 > Subject of Social Science which is focused on the Chronological [[History\|History]] of [[India\|India]], Indian Subcontinent and its people.  
 
 An Index Note indexing the major eras and events of Indian History as a chronological list. 
-
-### Syllabus
 [[Ancient Indian History\|Ancient Indian History]] (to be deleted once other notes start to be populated)
+
+### Pre-Historic India
 [[Paleolithic Period\|Paleolithic Period]] (early Stone Age)
 [[Mesolithic Period\|Mesolithic Period]] (middle Stone Age)
 [[Neolithic Period\|Neolithic Period]] (later Stone Age)
 [[Chalcolithic Period\|Chalcolithic Period]] (Copper-Stone Hybrid Culture)
-[[Indus Valley Civilsation\|Indus Valley Civilsation]] (Bronze Age Civilisation in Chalcolithic Period)
-[[Indian Vedic Period\|Indian Vedic Period]] (Transition to Iron Age)
+
+### Ancient India
+[[Indus Valley Civilsation\|Indus Valley Civilsation]] (somewhere from 2500 BC to 1500 BC)
+[[Indian Vedic Period\|Indian Vedic Period]] (2500 BC to 600 BC)
+[[Sangam Era & Literature\|Sangam Era & Literature]] (started 2000 BC)
 [[Rise of Magadha\|Rise of Magadha]]
-[[Nanda Empire\|Nanda Empire]]
-[[Mauryan Empire\|Mauryan Empire]]
-[[Early Indian Medieval Period\|Early Indian Medieval Period]]
-[[Muslim Invasion of India\|Muslim Invasion of India]] (marks the shift from Ancient to Medieval India)
-[[Indian Medieval History\|Indian Medieval History]]
-[[Indian Colonial History\|Indian Colonial History]]
+[[Nanda Empire\|Nanda Empire]] (400 to 322 BC)
+[[Mauryan Empire\|Mauryan Empire]] (321 BC to 185 BC)
+[[Shunga Dynasty\|Shunga Dynasty]] (185 BC to 75 BC)
+[[Yavana Confederacy\|Yavana Confederacy]] (185 BC to 28 BC)
+[[Kanvavamsha Dynasty\|Kanvavamsha Dynasty]] (75 BC to 28 BC) 
+[[Kushan Empire\|Kushan Empire]] (yet to do note on [[Kanishka\|Kanishka]])
+[[Sātavāhana Empire\|Sātavāhana Empire]]
+[[Gupta Empire\|Gupta Empire]] (yet to finish this along with notes on [[Bauddha (Buddhism)\|Buddhism]] and [[Jaina (Jainism)\|Jainism]])
+
+### Medieval India
+[[Chalukya Dynasty\|Chalukyas]] & [[Pallava Dynasty\|Pallavas]] 
+[[Pushyabhuti Dynasty\|Pushyabhuti Dynasty]]
+[[Pala Dynasty of Bengal\|Pala Dynasty of Bengal]]
+[[Gurjara-Pratihara Empire\|Gurjara-Pratihara Empire]]
+[[Rashtrakuta Empire\|Rashtrakuta Empire]]
+[[Imperial Chola Dynasty\|Imperial Chola Dynasty]]
+[[Rise of Rajputs\|Rise of Rajputs]]
+[[Rajputana Confederacy\|Rajputana Confederacy]]
+[[First Battle of Tarain (1191)\|First Battle of Tarain (1191)]]
+[[Second Battle of Tarain (1192)\|Second Battle of Tarain (1192)]]
+[[Delhi Sultanate\|Delhi Sultanate]]
+[[Lodhi Dynasty\|Lodhi Dynasty]]
+[[First Battle of Panipat (1526)\|First Battle of Panipat (1526)]]
+[[Mughal Empire\|Mughal Empire]]
+[[Vijayanagara Empire\|Vijayanagara Empire]]
+[[Maratha Empire\|Maratha Empire]]
+[[Sikh Empire\|Sikh Empire]]
+
+### Colonial & Post-Colonial India
+[[Indian Colonial History\|Indian Colonial History]] 
 [[Indian National Movement\|Indian Freedom Movement]]
 [[History of Independent India\|History of Independent India]] (1947 to Present)
 

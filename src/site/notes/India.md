@@ -12,7 +12,7 @@ India shares Land border with [[Pakistan\|Pakistan]], [[China\|China]], [[Nepal\
 ### Culture & History
 [[Indian Art & Culture\|Indian Art & Culture]]
 [[Indian History\|Indian History]]
-[[Indic Philosophy\|Indic Philosophy]] - [[Hinduism\|Hinduism]], [[Bauddha (Buddhism)\|Buddhism]], [[Jaina(Jainism)\|Jainism]].
+[[Indic Philosophy\|Indic Philosophy]] - [[Hinduism\|Hinduism]], [[Bauddha (Buddhism)\|Buddhism]], [[Jaina (Jainism)\|Jainism]].
 
 ### Bilateral Relations
 [[India-UAE Relations\|India-UAE Relations]]

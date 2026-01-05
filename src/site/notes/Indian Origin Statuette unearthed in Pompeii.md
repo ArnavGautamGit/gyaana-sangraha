@@ -11,7 +11,7 @@ Initially discovered in 1938, it was unearthed from the excavation sites at [[An
 
 The Statuette is roughly 24.5 cm (or 9.5 inches) tall and depicts Goddess Lakshmi very beautifully. It was found inside the remains of what seemed like a house & the house has since been lovingly named "Casa della Statuetta Indiana" which is "House of the Indian Statuette".
 
-The statuette is believed to have been produced in India, possibly in the ancient kingdom of [[Ancient Gāndhāra\|Gāndhāra]] (specifically the part of Gāndhāra which is in today's Pakistan)  Similar statuettes have been found in Gāndhāra, and the style and craftsmanship of the Pompeii statuette are consistent with those of Indian art from that period.
+The statuette is believed to have been produced in India, possibly in the ancient kingdom of [[Gāndhāra\|Gāndhāra]] (specifically the part of Gāndhāra which is in today's Pakistan)  Similar statuettes have been found in Gāndhāra, and the style and craftsmanship of the Pompeii statuette are consistent with those of Indian art from that period.
 Other historians believe that it may have originated in present-day Central India - in the excavation site in & around Bhokardan. This claim is made due to the scultor's use of Brahmi Script instead of the Gāndhāri Kharothi Script 
 
 Although the statuette (made from ivory) did get damaged in the eruption and being burried for so long under the debris of the house as it collapsed due to volcanic eruption, this statue is still a reminder of how powerful our trade was and how rich in culture & art [[Ancient Indian Civilisation\|Ancient Indian Civilisation]] was i.e., inferior to none in the world.

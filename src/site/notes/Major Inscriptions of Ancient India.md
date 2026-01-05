@@ -24,7 +24,7 @@ In Central India, we have edicts by [[Sātavāhana Empire\|Sātavāhana Empire]]
 
 ### Chalukyan Period
 Inscriptions about [[Pulakeshin II\|Pulakeshin II]] carved by Ranikirti
-[[Pulakeshin II\|Pulakeshin II]] defeated [[Harshvardhan\|Harshvardhan]] at the Narmada according to the [[Aihole Inscriptions\|Aihole Inscriptions]].
+[[Pulakeshin II\|Pulakeshin II]] defeated [[Harshavardhan\|Harshavardhan]] at the Narmada according to the [[Aihole Inscriptions\|Aihole Inscriptions]].
 
 ---
 # Footnotes

@@ -10,14 +10,14 @@
 
 Kushan Empire expanded through Central Asia, India, Afghanistan and also through the part of India that is now Pakistan. They were bilingual who spoke Greek and later learnt Sanskrit. The major scripts in their period were [[Kharoshti Script\|Kharoshti Script]] (for writing [[Gāndhāri Prakrit\|Gāndhāri Prakrit]]) and the [[Brāhmi Script\|Brāhmi Script]] (for [[Sanskrit\|Sanskrit]] and North Indian [[Prakrit\|Prakrit]])
 
-Many Link the Yuezhi tribe (where the Kushans come from) to regions in Xinjiang province of China and other Northwestern areas of Tibet but I could not confirm this. It can be confirmed that the Kushans were from Yuezhi Tribes.
+Many Link the Yuezhi tribe (where the Kushans come from) to regions in Xinjiang province of China and other Northwestern areas of Tibet but I could not confirm this. It can be confirmed that the Kushans were from Yuezhi Tribes but assimilated into Indian Culture.
 
 ### Demography and Religion
 Many Emperors in the Kushan Dynasty such as [[Vasudeva I\|Vasudeva I]] and [[Vasudeva II\|Vasudeva II]] converted towards Hinduism, while many other such as [[Kanishka\|Kanishka]] were Buddhist and propogated the same.
 Demographically, the lands were diverse with Hindu, Buddhist, Zoroastrian population
 
 ### Two Capitals
-While Kushans held other cities which were also quite rich, Kushans were known to have two capitals - [[Purushpur\|Purushpur]] (now Peshawar) for the summer and [[Mathura\|Mathura]] for the Winter.
+While Kushans held other cities which were also quite rich, Kushans were known to have two capitals - [[Purushpura\|Purushpura]] (now Peshawar) for the summer and [[Mathura\|Mathura]] for the Winter.
 Kushan Empire was one of the few Empires to conquer Central Asia almost completely and hold it for long enough to make itself rich.
 
 ### Coinage & History

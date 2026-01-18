@@ -13,9 +13,9 @@ The three Sangam Era dynasties are [[Chola Dynasty\|Chola Dynasty]], [[Pandya Dy
 
 ### Trade Relations with Romans
 All three dynasties formed trade relations with the [[Ancient Rome & the Roman Empire\|Ancient Rome & the Roman Empire]].
-They traded for Cotton, Spices, Ivories, Pearls in exchange for [[Roman Booleans (Gold Coins)\|Roman Booleans (Gold Coins)]].
+They traded for Cotton, Spices, Ivories, Pearls in exchange for [[Roman Bullions (Gold Coins)\|Roman Bullions (Gold Coins)]].
 
-Some Greek & Roman sources have mentioned how India (particularly these Sangam dynasties) have become a sink for [[Roman Booleans (Gold Coins)\|Roman Booleans]]. (particularly [[Pliny The Elder\|Pliny The Elder]]'s book named [[Natural History (book)\|Natural History]])
+Some Greek & Roman sources have mentioned how India (particularly these Sangam dynasties) have become a sink for [[Roman Bullions (Gold Coins)\|Roman Booleans]]. (particularly [[Pliny The Elder\|Pliny The Elder]]'s book named [[Natural History (book)\|Natural History]])
 
 Roman books like [[The periphs of the Erythrean Sea\|The periphs of the Erythrean Sea]] (with an unknown author) mention ports of the Pandyas, Cholas and Cheras were mentioned as [[Kolkai Port\|Kolkai]], [[Puhar Port\|Puhar]] and [[Murisis Port\|Murisis]] respectively.
 

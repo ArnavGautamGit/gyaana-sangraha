@@ -7,7 +7,8 @@
 # JavaScript
 > JavaScript is a Coding Language capable of [[Object Oriented Programming\|Object Oriented Programming]], which is used in [[Full-Stack Development\|Full-Stack Development]] of Websites, Apps or other projects.
 
-This is the primary language used for Full-Stack Development at [[AventIQ\|AventIQ]].
+This note is for indexing all my JavaScript Coding Knowledge. 
+For Interview Preparation, check: [[JavaScript Interview Questions\|JavaScript Interview Questions]]
 
 ### Variables & Operators
 there are three ways to declare variables in JS
@@ -452,3 +453,4 @@ finally {
 
 ---
 # Footnotes
+[[JavaScript Interview Questions\|JavaScript Interview Questions]]

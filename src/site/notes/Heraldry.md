@@ -39,6 +39,8 @@ If you do register in Republic of Malta then know that although THAT college of 
 [[Marshalling of Arms\|Marshalling of Arms]]
 [[Divisions of the Shield\|Divisions of the Shield]]
 [[Heraldic Traditions\|Heraldic Traditions]]
+[[Digital Colour Palette for Heraldry\|Digital Colour Palette for Heraldry]]
+
 
 ---
 # Footnotes

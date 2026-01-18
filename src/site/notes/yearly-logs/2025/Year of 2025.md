@@ -20,7 +20,10 @@ Edit the code in the dataview files to correct the folder name to "yearly-logs/y
 
 ---
 ## Yearly Reflections
-Reflections on the Year that just went by.
+The Year of 2025 was a mixed bag, I finally learned how to work hard, organise my life and document my learnings properly after I have relied on my intellect & brains my whole life. I felt in 2024 that my brain has too much going on inside it. I realised I need to be calm & selective in what I do, watch & learn so that I am not mindlessly consuming content. 
+I feel that the journey had started to bear fruit in 2025.
+
+I also got my first non-gaming [[Blu-Ray Discs\|Blu-Ray Disc]] ever in my life for the movie [[Baby Driver (2017)\|Baby Driver (2017)]] which ended up being a great purchase that came near the end of the year on 10th of December! I even wrote in in my daily note of [[yearly-logs/2025/2025-12-10\|10th December 2025]]. 
 
 | Year | Average Rating |
 | ---- | -------------- |

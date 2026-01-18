@@ -39,6 +39,14 @@ As mentioned previously, artstyles may change on the artist who designed and col
 
 In the modern day, the artstyle changes on the softwares used as hence have made the final version on June 6th, 2025 using another website named [Heraldicon](https://heraldicon.org).
 
+### Why an Omega & not a Hindu Symbol?
+The Omega represents the end of the greek alphabet, meaning it can represent the end of a linear arrangement of letters similar to how death represents the end of a linear life. 
+
+I use the Omega to signify how I am not afraid of death & each task I undertake is taken to a logical end. [[Hinduism\|Hinduism]] believes in a cycle of life & death instead of a linear lifetime. I would not remember anything of this life going into the next - personalities are a product of environment and since the environment might be completely different in my next life, there is no point of having a symbol which represents cyclical life. Moreover, since shields might get damaged and stamps/seals carrying the shield often get torn, I did not consider it to be respectful to put a religious image on my arms knowing it might be damaged or torn but I would rather put religious imagery on my crest to signify that [[Hinduism\|Hinduism]] & my hindu identity is greater than me (which is a body made of [[Māyā\|Māyā]]). 
+
+I also realise that many historical Hindu dynasties disagree with me on this and prominently feature Hindu Symbols but I am a human, not a sheep. I am under no obligation to follow the herd.
+
+### Self-Made Heraldicon Emblazonments
 Full Heraldic Achievement:
 ![Personal Heraldic Achievement.png](/img/user/Vaulted%20Images/Personal%20Heraldic%20Achievement.png)
 ***Copyright©2025 Arnav Gautam, All Rights Reserved***
@@ -54,18 +62,19 @@ If my personal preference is to use the SVG versions instead of PNGs due to high
 This artwork is a personal & original artwork by Arnav Gautam. Unauthorised use, reproduction or adaptation or impersonation are not permitted.
 Arnav's Contact Information: arnavgautam2003@gmail.com.
 
-This artwork was finished & almost immediately posted on Reddit (particularly the subreddit pertaining to [[Heraldry\|Heraldry]], known as r/heraldry) and garnered praise and upvotes since it fit most rules of Heraldry except the only one mentioned in the design section above. The Link is provided in the footnotes. It is to be notes however that this does not detract from my copyright over the ARTWORK itself as it remains my original. Since it was not meant to be submitted for Heraldry of the World or Formal Copyright, the artwork as shared on Reddit may look lower quality but the copy that is now my Reddit Profile Picture is the highest quality banner made using the same elements (charges & colours) of the Coat of Arms.
+This artwork was finished & almost immediately posted on Reddit (particularly the subreddit pertaining to [[Heraldry\|Heraldry]], known as r/heraldry) for timestamping purposes. It garnered praise and upvotes since it fit most rules of Heraldry except the only one mentioned in the design section above. The Link is provided in the footnotes. It is to be notes however that this does not detract from my copyright over the ARTWORK itself as it remains my original. Since it was not meant to be submitted for Heraldry of the World or Formal Copyright, the artwork as shared on Reddit may look lower quality but the copy that is now my Reddit Profile Picture is the highest quality banner made using the same elements (charges & colours) of the Coat of Arms & hence also my copyrighted art.
 
 ### Registration Information
 The Design was created in May 2025. Formal Registration of Copyright is underway.
 Applied for Registration on [Heraldry of the World (HOTW)](https://www.heraldry-wiki.com/wiki/Heraldry_of_the_world) on 4th of June, 2025. The Registration was accepted 4 days later on the 8th of June, 2025. 
 
-I am grateful to Mr. Kryštof Huk for graciously accepting my registration and display my arms gracefully on the website HOTW. The design displayed there was made using Canva while the shield was made using CoA Maker.
+I am grateful to Mr. Kryštof Huk for graciously accepting my registration and display my arms gracefully on the website HOTW. The design displayed there was made using Canva while the shield was made using CoA Maker. Eventually the emblazonment by a respected Heraldic Artist (Dr. Franken Clipper) was adopted to be displayed. 
+![Arnav's COA.png](/img/user/Vaulted%20Images/Arnav's%20COA.png)
 
-The page dedicated to the display of my coat of arms on the official register is [here](https://heraldry-wiki.com/wiki/Arnav_Gautam) 
+The page dedicated to the display of my coat of arms on the official HOTW register is [here](https://heraldry-wiki.com/wiki/Arnav_Gautam) 
 My Registration Number is 032/2025.
 
 ---
 # Footnotes
-1. My Reddit Post on r/heraldry: https://www.reddit.com/r/heraldry/comments/1ki49s9/does_my_personal_coat_of_arms_break_a_rule_how/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button 
-2. My Page on Heraldry of the World
+1. [My Reddit Post on r/heraldry](https://www.reddit.com/r/heraldry/comments/1ki49s9/does_my_personal_coat_of_arms_break_a_rule_how/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
+2. [My Page on Heraldry of the World](https://www.heraldry-wiki.com/wiki/Arnav_Gautam)

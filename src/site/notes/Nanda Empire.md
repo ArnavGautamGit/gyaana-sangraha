@@ -15,7 +15,7 @@ The Kuru & Panċāla mahajanpads were the most populous & rich in agrarian produ
 1. [[Mahapadma Nanda\|Mahapadma Nanda]]
 2. [[Dhana Nanda\|Dhana Nanda]] (until 321 BC)
 
-The [[Purāṇa\|Purāṇa]] and [[Jaina (Jainism)\|Jaina]] writings claim other rulers between them but the list varies too much to write & I do not trust historians like Irfan Habib and Romila Thapar who claim to be experts without knowing [[Sanskrit\|Sanskrit]].
+The [[Purāṇa\|Purāṇa]] and [[Jaina Philosophy (Jainism)\|Jaina]] writings claim other rulers between them but the list varies too much to write & I do not trust historians like Irfan Habib and Romila Thapar who claim to be experts without knowing [[Sanskrit\|Sanskrit]].
 
 ### Dhana Nanda, Alexander & the following decline
 Greek Writers of the time wrote that while Alexander was able to reach India, he was faced by a massive kingdom ([[Nanda Empire\|Nanda Empire]]) which had a military five times the size of Alexander's and while the Macedonian army was tired after successive campaigns, Nanda soldiers were ready for them after Alexnader's battle with Porus ended as a seeming Stalemate/Loss. 

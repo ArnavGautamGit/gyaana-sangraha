@@ -24,7 +24,7 @@ His entire regnal life was spent in trying to seek out & bring back his father, 
 
 
 
-During his [[Vānprastha\|Vānprastha]] years, he came in contact with a [[Jaina (Jainism)\|Jaina]] monk under whose guidance & influence he converted to [[Jaina (Jainism)\|Jainism]] and moved to Shravanbelagova in an attempt to gain moksha. In Jain teachings, if a person feels they are close to attaining Moksha at the end of this very lifetime then they try to cause a faster death first by fasting, then self-harm via plucking nails among other methods. 
+During his [[Vānprastha\|Vānprastha]] years, he came in contact with [[Bhadrabāhu (Jain Monk)\|Bhadrabāhu (Jain Monk)]] under whose guidance & influence he converted to [[Jaina Philosophy (Jainism)\|Jainism]] and moved to Shravanbelagova in an attempt to gain moksha. In Jain teachings, if a person feels they are close to attaining Moksha at the end of this very lifetime then they try to cause a faster death first by fasting, then self-harm via plucking nails among other methods. 
 
 </div></div>
 

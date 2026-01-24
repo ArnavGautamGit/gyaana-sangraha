@@ -20,7 +20,7 @@ Chandragupta defeated Selucus multiple times but did not spoil his relationship 
 ### Later Life & Retirement
 Due to not being able to protect his people & provide for them during a famine in the years around 300 BC to 297 BC, he coronated his son [[Bindusāra Maurya\|Bindusāra Maurya]] and abdigated from the royal court voluntarily and decided to retire into [[Vānprastha\|Vānprastha]]. 
 
-During his [[Vānprastha\|Vānprastha]] years, he came in contact with a [[Jaina (Jainism)\|Jaina]] monk under whose guidance & influence he converted to [[Jaina (Jainism)\|Jainism]] and moved to Shravanbelagova in an attempt to gain moksha. In Jain teachings, if a person feels they are close to attaining Moksha at the end of this very lifetime then they try to cause a faster death first by fasting, then self-harm via plucking nails among other methods.
+During his [[Vānprastha\|Vānprastha]] years, he came in contact with [[Bhadrabāhu (Jain Monk)\|Bhadrabāhu (Jain Monk)]] under whose guidance & influence he converted to [[Jaina Philosophy (Jainism)\|Jainism]] and moved to Shravanbelagova in an attempt to gain moksha. In Jain teachings, if a person feels they are close to attaining Moksha at the end of this very lifetime then they try to cause a faster death first by fasting, then self-harm via plucking nails among other methods.
 { #82b67d}
 
 

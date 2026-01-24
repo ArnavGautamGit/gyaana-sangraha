@@ -28,7 +28,7 @@ An Index Note indexing the major eras and events of Indian History as a chronolo
 [[Kanvavamsha Dynasty\|Kanvavamsha Dynasty]] (75 BC to 28 BC) 
 [[Kushan Empire\|Kushan Empire]] (yet to do note on [[Kanishka\|Kanishka]])
 [[Sātavāhana Empire\|Sātavāhana Empire]]
-[[Gupta Empire\|Gupta Empire]] (yet to finish this along with notes on [[Bauddha (Buddhism)\|Buddhism]] and [[Jaina (Jainism)\|Jainism]])
+[[Gupta Empire\|Gupta Empire]] (yet to finish this along with notes on [[Bauddha (Buddhism)\|Buddhism]] and [[Jaina Philosophy (Jainism)\|Jainism]])
 
 ### Medieval India
 [[Chalukya Dynasty\|Chalukyas]] & [[Pallava Dynasty\|Pallavas]] 

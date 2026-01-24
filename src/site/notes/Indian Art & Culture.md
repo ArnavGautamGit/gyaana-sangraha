@@ -10,7 +10,7 @@
 This is an index note to all other individual notes so that users can trverse through and read the information like a [[Trees & Spanning Trees\|tree]] or a [[Graph (Data Structure)\|graph]].
 
 ### Religions
-[[Jaina (Jainism)\|Jainism]]
+[[Jaina Philosophy (Jainism)\|Jainism]]
 [[Bauddha (Buddhism)\|Buddhism]]
 [[Ājīvikā\|Ājīvikā]]
 [[Hinduism\|Hinduism]]

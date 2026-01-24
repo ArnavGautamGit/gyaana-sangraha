@@ -19,9 +19,9 @@ An Index Note indexing the major eras and events of Indian History as a chronolo
 ### Ancient India
 [[Indus Valley Civilsation\|Indus Valley Civilsation]] (somewhere from 2500 BC to 1500 BC)
 [[Indian Vedic Period\|Indian Vedic Period]] (2500 BC to 600 BC)
-[[Sangam Era & Literature\|Sangam Era & Literature]] (started 2000 BC)
-[[Rise of Magadha\|Rise of Magadha]]
-[[Nanda Empire\|Nanda Empire]] (400 to 322 BC)
+[[Sangam Era & Literature\|Sangam Era & Literature]] (parallel to Vedic Age)
+[[Rise of Magadha\|Rise of Magadha]] (700 BC to 400 BC)
+[[Nanda Empire\|Nanda Empire]] (400 BC to 322 BC)
 [[Mauryan Empire\|Mauryan Empire]] (321 BC to 185 BC)
 [[Shunga Dynasty\|Shunga Dynasty]] (185 BC to 75 BC)
 [[Yavana Confederacy\|Yavana Confederacy]] (185 BC to 28 BC)

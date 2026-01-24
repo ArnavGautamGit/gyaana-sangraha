@@ -26,6 +26,7 @@ Progress was formerly tracked manually with daily ratings calculated manually. N
 | Year | Average Rating |
 | ---- | -------------- |
 | 2025 | 2.43           |
+| 2026 | 2.5            |
 
 { .block-language-dataview}
 

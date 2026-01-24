@@ -24,8 +24,8 @@ Notes from those classes are sparse and few. Most notes come from when I studied
 - [[History of Indian Constitution\|History of Indian Constitution]]
 - [[Structure of the Indian Constitution\|Structure of the Indian Constitution]]
 - [[Salient Features\|Salient Features]]
-- [[The Indian Prime Minister.canvas|Canvas Note on PM]]
-- [[The Governor.canvas|Canvas Note on Governor]]
+- [[The Indian Prime Minister.canvas|Canvas Note on the PM and their powers]]
+- [[The Governor.canvas|Canvas Note on the Governor and their powers]]
 
 ---
 # Footnotes

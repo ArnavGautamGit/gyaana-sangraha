@@ -25,11 +25,6 @@ I feel that the journey had started to bear fruit in 2025.
 
 I also got my first non-gaming [[Blu-Ray Discs\|Blu-Ray Disc]] ever in my life for the movie [[Baby Driver (2017)\|Baby Driver (2017)]] which ended up being a great purchase that came near the end of the year on 10th of December! I even wrote in in my daily note of [[yearly-logs/2025/2025-12-10\|10th December 2025]]. 
 
-| Year | Average Rating |
-| ---- | -------------- |
-| 2025 | 2.43           |
-
-{ .block-language-dataview}
 
 ---
 ## 📅 Monthly View Table

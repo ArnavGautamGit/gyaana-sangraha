@@ -41,15 +41,15 @@ The [[First Revolution of Indian Independence (1857)\|First Revolution of Indian
 
 GGLC introduced the [[Indian Penal Code (IPC)\|Indian Penal Code (IPC)]] in the year 1860. Which was still the Criminal Code used to procsecute criminals in India until it was replaced on 25th December 2024 by the [[Bharatiya Nyaya Samhita (BNS)\|Bharatiya Nyaya Samhita (BNS)]] after it received the President's Assent & eventually came into force on 1st July 2025.
 
-The Indian Government at the time was still ran by GGEC and GGLC renamed to remove the mention of the Governor-General & instead call it Viceroy Executive Council and the Viceroy Legislative Council until [[Indian Council Act 1861\|Indian Council Act 1861]] introduced the portfolio system where each member of the Council had a particular role only. This was also when Indians were allowed to join the Viceroy's Executive Council - starting with the biggest Indian Stooges. It was further ammended in 1992 to also add the powers to discuss budget and choose Indian members by Indirect Elections.
+The Indian Government at the time was still ran by GGEC and GGLC renamed to remove the mention of the Governor-General & instead call it Viceroy Executive Council and the Viceroy Legislative Council until [[Indian Council Act (1861)\|Indian Council Act (1861)]] introduced the portfolio system where each member of the Council had a particular role only. This was also when Indians were allowed to join the Viceroy's Executive Council - starting with the biggest Indian Stooges. It was further ammended in 1992 to also add the powers to discuss budget and choose Indian members by Indirect Elections.
 
-Government in India was then governed using the [[Government of India Act 1909\|Government of India Act 1909]].
+Government in India was then governed using the [[Government of India Act (1909)\|Government of India Act (1909)]].
 It played on the British motive of divide and rule as it had a separate electorate for Muslims.
 Indians in the Viceroy's Executive Council were also allowed now. 
 
-[[Government of India Act 1919\|Government of India Act 1919]] introduced Bicameral Legislature, Voting Rights to few based on educational qualification, tax capability and who can be the bigger stooge. It included Demarcation of subjects into Central & Provincial Lists. Dyrarchy was introduced in provinces (Nawab/Nizam/King with Provincial Legislative bodies)
+[[Government of India Act (1919)\|Government of India Act (1919)]] introduced Bicameral Legislature, Voting Rights to few based on educational qualification, tax capability and who can be the bigger stooge. It included Demarcation of subjects into Central & Provincial Lists. Dyrarchy was introduced in provinces (Nawab/Nizam/King with Provincial Legislative bodies)
 
-[[Government of India Act 1935\|Government of India Act 1935]] expanded voting rights and reserved seats for women, it also allowed for Bicameralism in provinces, provincial autonomy (dyrarchy was ended) and it proposed the All India Federation which failed. ***It was ==THIS== act which formed the base of the Indian Parliamentary System***.
+[[Government of India Act (1935)\|Government of India Act (1935)]] expanded voting rights and reserved seats for women, it also allowed for Bicameralism in provinces, provincial autonomy (dyrarchy was ended) and it proposed the All India Federation which failed. ***It was ==THIS== act which formed the base of the Indian Parliamentary System***.
 
 ---
 # Footnotes

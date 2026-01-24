@@ -9,14 +9,7 @@
 
 The Template details the Monthly and Daily Views of the Year of 202X.
 The template can be customised and uses a Community Plugin named "Dataview".
-
-### How to use the template
-Firstly, one must have the dataview plugin installed for Obsidian, if one wants to learn Obsidian refer to the note named: [[Arnav's Guide to Using Obsidian\|Arnav's Guide to Using Obsidian]]. 
-
-Secondly, it is recommended to completely download this file (or the entire vault) from GitHub in the src/sites/notes folder. The github repo is named "gyaana-sangraha" on GitHub.
-
-After that,
-Edit the code in the dataview files to correct the folder name to "yearly-logs/year" where year is the year in number. That is, year of 2025 requires folder "yearly-logs/2025"
+Please see [[yearly-logs/2025/Year of 2025\|Year of 2025]] to see how to use this template properly. New tutorials shall not be mentioned here unless I replace the Dataview Tables with Obisidian Bases or something else.
 
 ---
 ## Yearly Reflections

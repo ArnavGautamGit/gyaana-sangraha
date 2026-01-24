@@ -11,7 +11,7 @@ There were some [[Nāstika Philosophies\|Nāstika Philosophies]] that also grew 
 List of all the Āstika Philosophies:
 1. [[Vedānta\|Vedānta]]
 2. [[Mīmānsa\|Mīmānsa]]
-3. [[Nyāya Darshana\|Nyāya Darshana]]
+3. [[Nyāya Darshana\|Nyāya]]
 4. [[Sāńkhya\|Sāńkhya]]
 5. [[Yōga (Philosophy)\|Yōga (Philosophy)]]
 6. [[Vaisheshika\|Vaisheshika]]

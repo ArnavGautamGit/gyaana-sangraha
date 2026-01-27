@@ -7,7 +7,7 @@
 # Yavana Confederacy
 > Confederacy of many city-states with rulers of [[Indo-Greeks\|Indo-Greek]] ethnicity in the North-western part of India (modern-day Pakistan and eastern Afghanistan) which broke away from the [[Mauryan Empire\|Mauryan Empire]] at the time of its collapse. Some may have invaded as broke-away factions of the [[Selucid Empire\|Selucid Empire]].
 
-[[Menander I Soter\|Menander I Soter]] is the most famous ruler from this confederacy who later converted to [[Bauddha (Buddhism)\|Buddhism]] under the influence of Buddhist Monk named Nagarjuna (sometimes called Nagasena). Menander is his Greek name while Indians call him as Milind.
+[[Menander I Soter\|Menander I Soter]] is the most famous ruler from this confederacy who later converted to [[Bauddha Philosophy (Buddhism)\|Buddhism]] under the influence of Buddhist Monk named Nagarjuna (sometimes called Nagasena). Menander is his Greek name while Indians call him as Milind.
 
 ### Formation
 The kingdom broke free from the [[Mauryan Empire\|Mauryan Empire]] & declared independence when it collapsed after [[Pushyamitra Shunga\|Pushyamitra Shunga]] assassinated Brihadratha Maurya, the 9th Emperor of the Mauryan Empire. Following is the exerpt from the note on Mauryans:

@@ -15,11 +15,14 @@
 ### Controversial Writings
 There were a few things Megasthenes wrote that are either not cross-verified by other sources or outright contradicted by other contemporary sources. Since he talked about India, it is natural that historians give the Indian sources more weightage.
 
-For example: Megasthenes noted that there are 7 social classes in India, whereas we know that in Hinduism (which was the dominant religion at the time) there are only 4 classes/castes of people & [[Bauddha (Buddhism)\|Buddhism]] also uses the same 4 castes.
+For example: Megasthenes noted that there are 7 social classes in India, whereas we know that in Hinduism (which was the dominant religion at the time) there are only 4 classes/castes of people & [[Bauddha Philosophy (Buddhism)\|Buddhism]] also uses the same 4 castes.
 
 Other claims that were not mentioned by any other contemporary source were the claims regarding India having "no slavery" and City Adminisitration having 6 councils of 5 people each - both of which are not written on Indian sides at all. 
 
 My peronal theory here is that due to slavery being against common humanitarian sense and individual cities having different customs since city administration was not covered in the [[Saptānga Theory\|Saptānga Theory]] & [[Kautilya Arthashāstra\|Kautilya Arthashāstra]] as far as my knowledge goes. (although I could be wrong) Slavery is different from the King having servants & the like because the latter are basically paid employees who also existed in slavery-free societies of the time.
+
+### Controversial Sātavāhana & Andhrae Connection
+Other of his controversial writings include the mention of "Andhrae" as a power to the south of Magadha in Indica, meaning that there is a possible theory that if Andhrae stood for Andhra (name of the [[Sātavāhana Empire\|Sātavāhanas]] in the [[Purāṇa\|Purāṇa]] texts) then the [[Sātavāhana Empire\|Sātavāhana Empire]] started as a contemporary to [[Ashoka\|Ashoka]] before becoming vassalised to him & only breaking free with time after the [[Mauryan Empire\|Mauryan Empire]] got weaker.
 
 ---
 # Footnotes

@@ -37,12 +37,12 @@ Each Province was subdivided into Districts called Pradesha, Pradesta or Rajjuka
 
 [[Bindusāra Maurya\|Bindusāra Maurya]] is famous for conquering lands in central & southern India but did not go beyond Shravanbelagova - since he had served his purpose.
 
-[[Ashoka\|Ashoka]] had conquered Kalinga by force but had conquered Asia culturally via the spread of [[Bauddha (Buddhism)\|Buddhism]], its culture & its philosophy.
+[[Ashoka\|Ashoka]] had conquered Kalinga by force but had conquered Asia culturally via the spread of [[Bauddha Philosophy (Buddhism)\|Buddhism]], its culture & its philosophy.
 
 ### Cultural Contributions
 1. Development & Mainstreaming of [[Brāhmi Script\|Brāhmi Script]] for written Sanskrit
 2. [[Ashokan Edicts\|Ashokan Edicts]] erected during Ashoka's reign after the 9th Regnal Year
-3. Spread of [[Bauddha (Buddhism)\|Buddhism]] via creation of [[Stūpa\|Stūpas]] and sending missionaries to other Asian Empires.
+3. Spread of [[Bauddha Philosophy (Buddhism)\|Buddhism]] via creation of [[Stūpa\|Stūpas]] and sending missionaries to other Asian Empires.
 4. The Mauryans put "India" on the world stage and solidified the definition of the size of India which is still known as the "Indian Subcontinent" or sometimes "South Asia" when Pakistanis need Burnol.
 
 ### Decline & Post-Mauryan Age

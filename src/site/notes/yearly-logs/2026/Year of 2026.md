@@ -24,7 +24,7 @@ For the record, I am "arnav.03" on signal and everyone needs to have a two-digit
 ## 📅 Monthly View Table
 | Month        | Monthly Rating |
 | ------------ | -------------- |
-| January 2026 | 2.5            |
+| January 2026 | 2.19           |
 
 { .block-language-dataview}
 
@@ -37,6 +37,7 @@ Firstly, the table which dumps every single day of 2026 at a glance in a singula
 | [[yearly-logs/2026/2026-01-19\|2026-01-19]] | 19 January 2026 | 1          | 1         | 5      |
 | [[yearly-logs/2026/2026-01-20\|2026-01-20]] | 20 January 2026 | 0          | 2         | 0      |
 | [[yearly-logs/2026/2026-01-21\|2026-01-21]] | 21 January 2026 | 1          | 2         | 2.5    |
+| [[yearly-logs/2026/2026-01-24\|2026-01-24]] | 24 January 2026 | 0.25       | 1         | 1.25   |
 
 { .block-language-dataview}
 

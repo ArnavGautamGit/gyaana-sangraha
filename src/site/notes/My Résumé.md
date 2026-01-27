@@ -29,6 +29,10 @@ All links on this page lead to my personal notes where evaluators can see my pro
 - Tools: VS Code, PyCharm, PgAdmin 
 
 ## Work Experience
+- *Software Consultant @ Accuvance India* ---> Sept 2025 to Dec 2025
+	- Was called upon as a consultant on their project of creating a digital platform to log all their production processes. 
+	- Was chosen particularly due to already having worked with Accuvance before and knowing their operations well.
+	- Worked to convert their workflow and operations into features sorted across separate web pages that the coding team could implement.
 - *Software Intern @ AventIQ* ---> May 2025 to Aug 2025
 	- Worked on upgrading and maintaining legacy projects built on [[Angular (Framework)\|Angular v13]], [[Dotnet (.NET)\|.NET]] and [[PostgreSQL\|PostgreSQL]].
 	- Practiced and Learnt about Secure Coding practices practically as we made secure internal clones of the projects.

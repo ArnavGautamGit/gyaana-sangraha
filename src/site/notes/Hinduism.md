@@ -32,7 +32,7 @@ Many later religions have built upon the base of Hindu Philosophy and other athi
 
 These branch philosophies eventually became independent religions but their core philosophies and tenets have been inspired (consciously or unconsciously) by the logic, arguments, events or people depicted in Hindu Scriptural Texts:
 1. [[Jaina Philosophy (Jainism)\|Jaina Philosophy (Jainism)]]
-2. [[Bauddha (Buddhism)\|Bauddha (Buddhism)]]
+2. [[Bauddha Philosophy (Buddhism)\|Bauddha Philosophy (Buddhism)]]
 3. [[Sikhism\|Sikhism]] (the philosophy is called "Sikkhi")
 
 ### Political Representation & the constant battle against Communists

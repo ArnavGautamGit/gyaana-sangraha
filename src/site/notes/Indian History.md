@@ -24,20 +24,22 @@ An Index Note indexing the major eras and events of Indian History as a chronolo
 [[Nanda Empire\|Nanda Empire]] (400 BC to 322 BC)
 [[Mauryan Empire\|Mauryan Empire]] (321 BC to 185 BC)
 [[Shunga Dynasty\|Shunga Dynasty]] (185 BC to 75 BC)
-[[Yavana Confederacy\|Yavana Confederacy]] (185 BC to 28 BC)
-[[Kanvavamsha Dynasty\|Kanvavamsha Dynasty]] (75 BC to 28 BC) 
-[[Kushan Empire\|Kushan Empire]] (yet to do note on [[Kanishka\|Kanishka]])
-[[Sātavāhana Empire\|Sātavāhana Empire]]
-[[Gupta Empire\|Gupta Empire]] (yet to finish this along with notes on [[Bauddha (Buddhism)\|Buddhism]] and [[Jaina Philosophy (Jainism)\|Jainism]])
+[[Yavana Confederacy\|Indo-Greek Kingdom]] (185 BC to 28 BC)
+[[Kanvavamsha Dynasty\|Kanvavamsha Dynasty]] (75 BC to 28 BC)
+[[Sātavāhana Empire\|Sātavāhana Empire]] (100 BC to 2nd Century CE)
+[[Western Kshatrapa\|Indo-Scythian Kingdom]]
+[[Kushan Empire\|Kushan Empire]] (30 AD to 375 AD)
+[[Gupta Empire\|Gupta Empire]]
 
 ### Medieval India
 [[Chalukya Dynasty\|Chalukyas]] & [[Pallava Dynasty\|Pallavas]] 
 [[Pushyabhuti Dynasty\|Pushyabhuti Dynasty]]
+[[Imperial Chola Dynasty\|Imperial Chola Dynasty]]
+[[Rise of Rajputs\|Rise of Rajputs]]
+[[Tripartite Wars in Northern India\|Tripartite Wars in Northern India]]
 [[Pala Dynasty of Bengal\|Pala Dynasty of Bengal]]
 [[Gurjara-Pratihara Empire\|Gurjara-Pratihara Empire]]
 [[Rashtrakuta Empire\|Rashtrakuta Empire]]
-[[Imperial Chola Dynasty\|Imperial Chola Dynasty]]
-[[Rise of Rajputs\|Rise of Rajputs]]
 [[Rajputana Confederacy\|Rajputana Confederacy]]
 [[First Battle of Tarain (1191)\|First Battle of Tarain (1191)]]
 [[Second Battle of Tarain (1192)\|Second Battle of Tarain (1192)]]

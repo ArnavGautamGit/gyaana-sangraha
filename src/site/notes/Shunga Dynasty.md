@@ -5,7 +5,7 @@
 
 ---
 # Shunga Dynasty
-> Dynasty established by a Brahmin named [[Pushyamitra Shunga\|Pushyamitra Shunga]] to mainstream & revive [[Hinduism\|Hinduism]] before it is eaten up by mass-conversions to [[Bauddha (Buddhism)\|Buddhism]].
+> Dynasty established by a Brahmin named [[Pushyamitra Shunga\|Pushyamitra Shunga]] to mainstream & revive [[Hinduism\|Hinduism]] before it is eaten up by mass-conversions to [[Bauddha Philosophy (Buddhism)\|Buddhism]].
 
 The Shungas controlled the Northern Gangetic Plains and parts of Malwa & Central India until the shores of Narmada. After the death of [[Agnimitra Shunga\|Agnimitra Shunga]], the empire started to fracture & lost control over Central India.
 
@@ -23,7 +23,7 @@ The Shungas controlled the Northern Gangetic Plains and parts of Malwa & Central
 ### Literary Mentions
 The legendary [[Sanskrit\|Sanskrit]] poet & playwright [[Kālidāsa\|Kālidāsa]] wrote a play on the love affair between [[Agnimitra Shunga\|Agnimitra Shunga]] along with a woman named [[Mālvika\|Mālvika]] named "Mālvikāgnimitram" which is an concatenation of both the names.
 
-[[Pushyamitra Shunga\|Pushyamitra Shunga]] and the [[Shunga Dynasty\|Shunga Dynasty]] seem to be called as Hindu Supremacists by many based on the [[Bauddha (Buddhism)\|Buddhist]] texts [[Deepvamsha\|Deepvamsha]] & [[Mahavamsha\|Mahavamsha]] which claimed that Shungas persecuted many Buddhists and destroyed [[Stūpa\|Stūpas]] but many historians say these may be exaggerated if not blatantly untrue because Ashokan-era Stupas were repaired by Pushyamitra - which is why they have survived till today (including the [[Sānchī Stūpa\|Sānchī Stūpa]]). It seems that for Pushymitra, Hindu revival was more important than damaging Buddhism.
+[[Pushyamitra Shunga\|Pushyamitra Shunga]] and the [[Shunga Dynasty\|Shunga Dynasty]] seem to be called as Hindu Supremacists by many based on the [[Bauddha Philosophy (Buddhism)\|Buddhist]] texts [[Deepvamsha\|Deepvamsha]] & [[Mahavamsha\|Mahavamsha]] which claimed that Shungas persecuted many Buddhists and destroyed [[Stūpa\|Stūpas]] but many historians say these may be exaggerated if not blatantly untrue because Ashokan-era Stupas were repaired by Pushyamitra - which is why they have survived till today (including the [[Sānchī Stūpa\|Sānchī Stūpa]]). It seems that for Pushymitra, Hindu revival was more important than damaging Buddhism.
 
 ### Cultural Contributions
 [[Heliodorus Inscriptions of Besnagar\|Heliodorus Inscriptions of Besnagar]] were erected sometime around 150 BC during the reign of [[Bhāgabhadra Shunga\|Bhāgabhadra Shunga]] & mentions him as "Bhāgabhadra the saviour". Writings suggest that [[Heliodorus\|Heliodorus]] (the man who made the pillar inscriptions) was sent to Magadha by [[Yavana Confederacy\|Yavana]] ruler named [[Antialcidas Nikephoros\|Antialcidas Nikephoros]].

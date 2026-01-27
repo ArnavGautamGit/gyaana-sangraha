@@ -11,7 +11,7 @@ This is an index note to all other individual notes so that users can trverse th
 
 ### Religions
 [[Jaina Philosophy (Jainism)\|Jainism]]
-[[Bauddha (Buddhism)\|Buddhism]]
+[[Bauddha Philosophy (Buddhism)\|Buddhism]]
 [[Ājīvikā\|Ājīvikā]]
 [[Hinduism\|Hinduism]]
 

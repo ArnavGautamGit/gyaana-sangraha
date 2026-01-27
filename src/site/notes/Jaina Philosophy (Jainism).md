@@ -31,7 +31,7 @@ It is said that one needs 3 Ratnas (Ratnatraya) to walk this path. These 3 ratna
 2. Accurate Knowledge
 3. Righteous Action
 
-Similar to [[Hinduism\|Hinduism]], the concept of attaining [[Moksha\|Moksha]] is the ultimate goal for a living being on earth & it is dependent upon Karma. No person who has committed bad karmas repeatedly can get Moksha in Jainism. Unlike [[Hinduism\|Hinduism]] and [[Bauddha (Buddhism)\|Buddhism]], a person who is a [[Grihasta\|Grihasta]] cannot attain Moksha, only a [[Brahmachāri\|Brahmachāri]] can.
+Similar to [[Hinduism\|Hinduism]], the concept of attaining [[Moksha\|Moksha]] is the ultimate goal for a living being on earth & it is dependent upon Karma. No person who has committed bad karmas repeatedly can get Moksha in Jainism. Unlike [[Hinduism\|Hinduism]] and [[Bauddha Philosophy (Buddhism)\|Buddhism]], a person who is a [[Grihasta\|Grihasta]] cannot attain Moksha, only a [[Brahmachāri\|Brahmachāri]] can.
 
 ### Founder of Jainism
 Although the first [[Tīrthānkara\|Tīrthānkara]], [[Shri Ādinātha Rishabhdev\|Shri Ādinātha Rishabhdev]] ji is often considered the founder, but [[Swāmi Vardhaman Mahavir\|Swāmi Vardhaman Mahavir]] is considered the real founder since he did the major codification of the religion into a separate entity from [[Hinduism\|Hinduism]].

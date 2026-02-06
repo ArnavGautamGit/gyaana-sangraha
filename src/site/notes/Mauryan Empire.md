@@ -11,7 +11,7 @@ Mauryan empire was based on [[Kautilya Arthashāstra\|Kautilya Arthashāstra]], 
 
 ### Formation
 As we read in the note: [[Dhana Nanda#Speedrunning his own decline\|Dhana Nanda speedrunning his own decline]]
-Chanakya was already not happy about the state of affairs under the Nanda rule and the final nail in the coffin was the way [[Dhana Nanda\|Dhana Nanda]] insulted him after leaving the oldest university of the subcontinent to the mercy of an invader ([[Alexander The Great\|Alexander III of Mesopotamia/Greece]]).
+Chanakya was already not happy about the state of affairs under the Nanda rule and the final nail in the coffin was the way [[Dhana Nanda\|Dhana Nanda]] insulted him after leaving the oldest university of the subcontinent to the mercy of an invader ([[Alexander The Great\|Alexander III of Macedonia]]).
 
 ### Major Emperors
 [[Chandragupta Maurya\|Chandragupta Maurya]] (321 BC to 297 BC)

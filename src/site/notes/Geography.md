@@ -15,8 +15,8 @@ This is an index note about Geography. If one wants to study the subject this is
 - [[Gravitational Waves\|Gravitational Waves]] - waves in space-time sent by blackholes colliding. Theorised in 1915. Measured in 2015.
 - [[Nebular Accreation\|Nebular Accreation]]
 - [[Composition of Earth\|Composition of Earth]]
-- 
-
+- [[Climate\|Climate]] and [[Weather\|Weather]] - there are 4 factors of climate, altitude from sea level, distance from sea (continentality) and ocean current temperature (warm ocean currents promote evaporation & rains while cold ocean currents often mean the environment is devoid of rain) 
+- [[Ocean Currents\|Ocean Currents]] - definition, warm vs cold currents, factors affecting ocean currents (ocean water upwelling, surface water temperature)
 
 ### Physical Geography
 - [[Temperature Pattern on Earth\|Temperature Pattern on Earth]]
@@ -24,7 +24,9 @@ This is an index note about Geography. If one wants to study the subject this is
 - [[Pressure Patterns on Earth\|Pressure Patterns on Earth]]
 - [[Coriolis Force\|Coriolis Force]]
 - [[Wind Currents\|Wind Currents]]
-
+- [[Plate Tectonics\|Plate Tectonics]]
+	- [[Djibouti Triple Junction\|Djibouti Triple Junction]] - Junction of Afar Triangle, Nubian Plate and Indian Plate.
+- [[Volcanism\|Volcanism]]
 ###  Coordinate Geography
 - [[Latitude Lines\|Latitude Lines]]
 	- [[Equator Line\|Equator Line]]

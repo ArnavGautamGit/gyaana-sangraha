@@ -21,7 +21,7 @@ The Shungas controlled the Northern Gangetic Plains and parts of Malwa & Central
 [[Devabhuti Shunga\|Devabhuti Shunga]] (83 BC to 75 BC) - also called "Devabhomi Shunga".
 
 ### Literary Mentions
-The legendary [[Sanskrit\|Sanskrit]] poet & playwright [[Kālidāsa\|Kālidāsa]] wrote a play on the love affair between [[Agnimitra Shunga\|Agnimitra Shunga]] along with a woman named [[Mālvika\|Mālvika]] named "Mālvikāgnimitram" which is an concatenation of both the names.
+The legendary [[Sanskrit\|Sanskrit]] poet & playwright [[Kālidāsa\|Kālidāsa]] wrote a play on the love affair between [[Agnimitra Shunga\|Agnimitra Shunga]] along with a woman named [[Mālvika\|Mālvika]] named "[[Mālvikāgnimitram\|Mālvikāgnimitram]]" which is an concatenation of both the names.
 
 [[Pushyamitra Shunga\|Pushyamitra Shunga]] and the [[Shunga Dynasty\|Shunga Dynasty]] seem to be called as Hindu Supremacists by many based on the [[Bauddha Philosophy (Buddhism)\|Buddhist]] texts [[Deepvamsha\|Deepvamsha]] & [[Mahavamsha\|Mahavamsha]] which claimed that Shungas persecuted many Buddhists and destroyed [[Stūpa\|Stūpas]] but many historians say these may be exaggerated if not blatantly untrue because Ashokan-era Stupas were repaired by Pushyamitra - which is why they have survived till today (including the [[Sānchī Stūpa\|Sānchī Stūpa]]). It seems that for Pushymitra, Hindu revival was more important than damaging Buddhism.
 

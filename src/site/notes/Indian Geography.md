@@ -10,6 +10,8 @@
 Indian Geography is a prominent subject in Government Exams such as the [[Combined Graduate Level (CGL) Exam\|SSC CGL]] and [[UPSC Civil Services Exam\|UPSC Civil Services Exam]].
 
 ### Syllabus
+- [[Indian Monsoon Winds\|Indian Monsoon Winds]] - not responsible for rains, ocean temperature & moisture is actually the most responsible.
+- [[Vegetation of India\|Vegetation of India]] - Forests & types of soils, such variation & diversity in soil types is not present in any other country. Endemic Forests of India including Mangrove & Shola Forests.
 - *River System of India*
 	- Himalayan Rivers
 		- [[Indus River System\|Indus River System]]
@@ -24,9 +26,9 @@ Indian Geography is a prominent subject in Government Exams such as the [[Combin
 		- [[Tapi River\|Tapi River]]
 		- [[Periyar River\|Periyar River]]
 	- Eastern Peninsular Rivers
-	- [[Krishna River\|Krishna River]]
-	- [[Kaveri River\|Kaveri River]]
-	- [[Mahanadi River\|Mahanadi River]]
+		- [[Krishna River\|Krishna River]]
+		- [[Kaveri River\|Kaveri River]]
+		- [[Mahanadi River\|Mahanadi River]]
 - *Hydro Dams of India*
 	- [[Concrete Dam\|Concrete Dam]]
 	- [[Arc Dam\|Arc Dam]]

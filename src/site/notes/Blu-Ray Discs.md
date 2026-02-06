@@ -36,3 +36,5 @@ Every Disc would say the region using the alphabets with each alphabet in its ow
 
 ---
 # Footnotes
+[[Blu-Ray is better than Streaming\|Blu-Ray is better than Streaming]]
+[[Disney offers IMAX solely to drive subscriptions\|Disney offers IMAX solely to drive subscriptions]]

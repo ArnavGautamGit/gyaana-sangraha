@@ -16,11 +16,24 @@ Many Link the Yuezhi tribe (where the Kushans come from) to regions in Xinjiang 
 Many Emperors in the Kushan Dynasty such as [[Vasudeva I\|Vasudeva I]] and [[Vasudeva II\|Vasudeva II]] converted towards Hinduism, while many other such as [[Kanishka\|Kanishka]] were Buddhist and propogated the same.
 Demographically, the lands were diverse with Hindu, Buddhist, Zoroastrian population
 
+### Entry to India & Brief History
+Kushans entered India when the [[Northern Kshatrapa\|Northern Kshatrapa]] branch of [[Indo-Scythian Kingdom\|Indo-Scythians]] agreed to become a vassal of the Kushan Empire and Kushans visited India only to love the place enough to completely shift their Capital from Central Asia into two capitals in India.
+
 ### Two Capitals
 While Kushans held other cities which were also quite rich, Kushans were known to have two capitals - [[Purushpura\|Purushpura]] (now Peshawar) for the summer and [[Mathura\|Mathura]] for the Winter.
 Kushan Empire was one of the few Empires to conquer Central Asia almost completely and hold it for long enough to make itself rich.
 
-### Coinage & History
+
+### Major Emperors
+[[Kanishka\|Kanishka]]
+
+
+### Cultural Contribution
+Accepting & Empowering [[Bauddha Philosophy (Buddhism)\|Buddhism]] and enabled the formation of [[Mahāyāna Buddhism\|Mahāyāna Buddhism]] by patronising the [[Fourth Buddhist Council (72 AD)\|Fourth Buddhist Council (72 AD)]].
+
+Patronised [[Gāndhāra School of Buddhist Art\|Gāndhāra School of Buddhist Art]] and the [[Mathurā School of Buddhist Art\|Mathurā School of Buddhist Art]] as two new schools of painted art
+
+### Coinage & Brief History
 They created their own [[Dinar Coins\|Dinar Coins]] made of Gold with smaller denominations using Copper. The local name for the Copper coins is not known, but Dinar was only used for the Gold ones.
 Kushans were able to source Gold from the regions of Bactria (modern-day Afghanistan) and traded using Gold they got from taxing the living shit out Chinese, European and Indian traders for each good exported or imported.
 

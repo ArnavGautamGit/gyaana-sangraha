@@ -27,16 +27,17 @@ An Index Note indexing the major eras and events of Indian History as a chronolo
 [[Yavana Confederacy\|Indo-Greek Kingdom]] (185 BC to 28 BC)
 [[Kanvavamsha Dynasty\|Kanvavamsha Dynasty]] (75 BC to 28 BC)
 [[Sātavāhana Empire\|Sātavāhana Empire]] (100 BC to 2nd Century CE)
-[[Western Kshatrapa\|Indo-Scythian Kingdom]]
+[[Western Kshatrapa\|Western Śaka Dynasty]]
+[[Northern Kshatrapa\|Northern Śaka Dynasty]] (later became kushan vassals)
 [[Kushan Empire\|Kushan Empire]] (30 AD to 375 AD)
 [[Gupta Empire\|Gupta Empire]]
 
 ### Medieval India
-[[Chalukya Dynasty\|Chalukyas]] & [[Pallava Dynasty\|Pallavas]] 
+[[Chalukya-Pallava Wars\|Chalukya-Pallava Wars]]
+[[Chalukya Dynasty\|Chalukyas]] & [[Pallava Dynasty\|Pallavas]]
 [[Pushyabhuti Dynasty\|Pushyabhuti Dynasty]]
 [[Imperial Chola Dynasty\|Imperial Chola Dynasty]]
-[[Rise of Rajputs\|Rise of Rajputs]]
-[[Tripartite Wars in Northern India\|Tripartite Wars in Northern India]]
+[[Tripartite Conflict for Kannauj\|Tripartite Conflict for Kannauj]]
 [[Pala Dynasty of Bengal\|Pala Dynasty of Bengal]]
 [[Gurjara-Pratihara Empire\|Gurjara-Pratihara Empire]]
 [[Rashtrakuta Empire\|Rashtrakuta Empire]]

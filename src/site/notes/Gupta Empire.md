@@ -22,7 +22,14 @@ When Chandra ascends the throne sometime between 375-380 AD, he shifts the capit
 [[Kumaragupta I\|Kumaragupta I]] ascends the throne in 414 AD after his father [[Chandragupta II of Ujjain\|Chandragupta II of Ujjain]] passed away and ruled till 455 AD. Although he ruled for a long time, he did not really do anything much significant or differentiating that we can write home about. His son [[Skandagupta\|Skandagupta]] was the last major ruler who could hold back the [[Western Kshatrapa\|Western Śaka]] and the Northern [[White Huns\|White Huns]], after him all other rulers like [[Kumaragupta II\|Kumaragupta II]], [[Kumaragupta III\|Kumaragupta III]] were weak & could not do jack shit militarily except boasting about themselves. [[Vishnugupta Chandrāditya\|Vishnugupta Chandrāditya]] was the last ruler of the Gupta Empire who ruled for 10 years from 540 AD to 550 AD.
 
 ### Cultural Contributions
-Architecture, new written scripts & patronised the literary work of poets & authors such as the legends [[Kālidāsa\|Kālidāsa]], [[Vishakhadeva\|Vishakhadeva]], [[Banabhatta\|Banabhatta]] etc.
+Although their contributions are too many to list since this is truly considered the Golden Period of Indian History due to advancements in Science, Religion, Philosophy, Literature, Economy & ease of Social Mobility... I can try to list a few very pivotal ones.
+
+In the Gupta Period, we began using the local resources we had to build temples. For example, in the Northern Plains, sourcing and bringing rocks from the [[Aravali Hills\|Aravali Hills]] or [[Himalayas\|Himalayas]] or [[Vindhyas\|Vindhyas]] was hard & expensive process. Guptas were one of the first to use bricks made from locally-sourced Alluvial Soil on such a large scale made with similar modern processes that we currently use to make bricks for new houses in 2026.
+Apart from just temple building materials, the Guptas also pioneered the "Nagara" Style of [[Hindu Temple Architecture\|Hindu Temple Architecture]] made specifically to accomodate bricks. Due to receiving no maintainance from later kingdoms & Empires, many of the initial temples did not survive but the style of architecture is still seen in most Hindu Temples located in Northern India.
+
+Guptas has always been appreciated for patronising the literary work of poets & authors such as [[Kālidāsa\|Kālidāsa]], [[Vishakhadeva\|Vishakhadeva]], [[Banabhatta\|Banabhatta]] etc. These poets and authors wrote about previous kings and kingdoms that existed before throughout the Indian Subcontinent.
+
+In addition to this, Guptas invented the [[Gupta Brāhmi Script\|Gupta Brāhmi Script]] and the [[Nāgari Script\|Nāgari Script]] which were both used to write on rock & paper respectively. It is to be noted that the [[Nāgari Script\|Nāgari Script]] was used to write [[Vedic Literature\|Vedic Literature]] & other important texts of [[Hinduism\|Hinduism]] on paper & tree-bark manuscripts.
 
 ### Decline & Aftermath
 

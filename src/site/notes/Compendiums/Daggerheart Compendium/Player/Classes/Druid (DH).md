@@ -54,7 +54,7 @@ Each class has a certain number of subclasses to choose from. For a Druid, we ha
 		- While in *Elemental Incarnation*, further embody the elemental spirit to get one of the following benefits depending on element chosen:
 			- *Fire*: Your [[Compendiums/Daggerheart Compendium/Player/Proficiency\|Proficiency]] increases by +1 for attacks and spells that deal damage.
 			- *Earth*: When you take damage & mark [[Compendiums/Daggerheart Compendium/General/Hit Point Slots\|Hit Point Slots]], roll d6 for each slot marked. On each result of 6, mark 1 slot less. 
-			- *Water*: When you are hit by an attack, you can mark 1x [[Compendiums/Daggerheart Compendium/Player/Stress Point\|Stress Point]] to make the attacker [[Vulnerable\|Vulnerable]].
+			- *Water*: When you are hit by an attack, you can mark 1x [[Compendiums/Daggerheart Compendium/Player/Stress Point\|Stress Point]] to make the attacker [[Vulnerable (DH Condition)\|Vulnerable]].
 			- *Air*: You gain +1 to your [[Compendiums/Daggerheart Compendium/Player/Evasion Score\|Evasion Score]] and can fly.
 - ***==Warden of Renewal==*** gives the ability to the Druid to heal allies and play as a forest-based Healer of the group. Spellcast Trait for this subclass is [[Instinct\|Instinct]].
 	- ***Foundational Features***
@@ -89,14 +89,14 @@ These help you in case your party wants to have a premade set of connections bet
 	- ***Features***: Each form includes unique features. For example, an Agile Scout excels at silent, dextrous movement—but they’re also fragile, making you more likely to drop out of Beastform.
 
 Tier 1 Categories
-![[Beastform 1.png\|Beastform 1.png]]
+![Beastform 1.png](/img/user/Vaulted%20Images/Daggerheart/Beastform%201.png)
 
 
 Tier 2 Categories
-![[Beastform 2.png\|Beastform 2.png]]
+![Beastform 2.png](/img/user/Vaulted%20Images/Daggerheart/Beastform%202.png)
 
 Tier 3 Categories
-![[Beastform 3.png\|Beastform 3.png]]
+![Beastform 3.png](/img/user/Vaulted%20Images/Daggerheart/Beastform%203.png)
 
 Tier 4 Categories
-![[Beastform 4.png\|Beastform 4.png]]
+![Beastform 4.png](/img/user/Vaulted%20Images/Daggerheart/Beastform%204.png)

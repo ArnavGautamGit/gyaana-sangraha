@@ -12,7 +12,7 @@ Katari may be Digitgrades (Walk on Toes) on be Plantigrades (Walk on flat heels)
  
 On taking Katari, you get the following Ancestry Features:
 - ***Feline Instincts***: When you make an Agility Roll, you can spend 2x [[Hope Token\|Hope Token]] to reroll your Hope Dice.
-- ***Retracting Claws***: You make an agility roll to scratch a target in Melee Range. On a success, they become [[Vulnerable\|Vulnerable]].
+- ***Retracting Claws***: You make an agility roll to scratch a target in Melee Range. On a success, they become [[Vulnerable (DH Condition)\|Vulnerable]].
 
 Katari Average Lifespan is roughly 150 years.
 

@@ -12,7 +12,7 @@ A D&D game is really set around the players - the players make their characters 
 To play a D&D game, the best path is to follow the list below:
 [[Compendiums/D&D Compendium/Corebooks/D&D Player's Handbook\|D&D Player's Handbook]]
 [[Compendiums/D&D Compendium/Corebooks/D&D Dungeon Master's Guide\|D&D Dungeon Master's Guide]]
-[[D&D Monster Manual\|D&D Monster Manual]] (borrowed from a friend on D&D Beyond)
+[[Compendiums/D&D Compendium/Corebooks/D&D Monster Manual\|D&D Monster Manual]] (borrowed from a friend on D&D Beyond)
 [[D&D 5.5e Conversion Guide\|D&D 5.5e Conversion Guide]] (convert 2014 modules to 2024)
 
 

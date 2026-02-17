@@ -20,6 +20,7 @@ This Obsidian Bases File may fall out of use over time in favour of moving back 
 I still believe that I was more productive back when I was on Habitica.
 I will test this hypothesis until my 23rd Birthday on 12th February 2026 to see if this is false or that I should go back to Habitica. If do return to Habitica, I will remove all the notes in any of the views (without removing the views or bases file itself) in favour of [[Back to Habitica\|Back to Habitica]] note listing all my findings & steps to return to Habitica until the company behind it (HabitRPG) shuts down. Just in case that I need to revisit some cancelled tasks, I will also make a new task note named [[List of Cancelled Tasks\|List of Cancelled Tasks]] for documentation purposes.
 
+As of 12th February 2026, the hypothesis was correct i.e., I should go back to habitica due to its reminders and other gamified features work to make learning & working hard addictive. Which is the only good addiction to have in my opinion.
 
 ---
 # Footnotes

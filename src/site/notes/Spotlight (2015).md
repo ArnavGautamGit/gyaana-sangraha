@@ -7,7 +7,7 @@
 # Spotlight (2015)
 > Movie based on a 600 article long series exposing the institutionised paedophilia & coverup of the same done by the Cathoilic Church. First exposed by the Spotlight team in The Boston Globe. 
 
-This is my third [[Blu-Ray Discs\|Blu-Ray Disc]] after [[Baby Driver (2017)\|Baby Driver (2017)]] and [[Detective Pikachu (2019)\|Detective Pikachu (2019)]] and definitely worthy of all the awards & acclaim this movie has received.
+This is my third [[Blu-Ray Discs\|Blu-Ray Disc]] after [[Baby Driver (2017)\|Baby Driver (2017)]] and [[Detective Pikachu (2019)\|Detective Pikachu (2019)]] and definitely worthy of all the awards & acclaim this movie has received. Although I must admit that it is hard to understand all Christian references made in the movie if you are not an American Christian or at least well-read with Catholic Church Ranks - which I was not. It does not mean I did not understand the movie at all, it just meant I had to pause a little.
 
 ### Movie Review
 While I bought the disc from the same vendor on Amazon as the other ones, this disc had microsmudges on the back of the disc presumably from poor handling. It is still however a great play. It did skip along the one scene where Rezendes (played by Mark Ruffalo) goes to meet Garbadein or whatever the guy was named It was at the 18th minute but the recovery bits on the bluray worked fine resulting in the disc pausing and playing from 1 second back & I was able to listen to the whole dialogue.
@@ -39,6 +39,10 @@ These paedophiles even reached India via the Churches setup in pre-colonial, col
 
 See the third name in the central column of names to see Ollur, India being named.
 ![Spotlight 5.jpg](/img/user/Vaulted%20Images/Spotlight%205.jpg)
+
+### Favourite Line from the Film
+> [!cite] Taken from Spotlight (2015 Film by Tom McCarthy)
+> "If it takes a village to raise a child, it takes a village to abuse one."
 
 ---
 # Footnotes

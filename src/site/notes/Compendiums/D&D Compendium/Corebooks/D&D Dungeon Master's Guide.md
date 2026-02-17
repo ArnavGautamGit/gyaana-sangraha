@@ -4,7 +4,7 @@
 
 
 ---
-# D&D Dungeon Master's Guide
+# D&D Dungeon Master's Guide (2024)
 > The Official Guide for the [[Dungeon Master (DM)\|Dungeon Master (DM)]] to help them run a [[Compendiums/D&D Compendium/Dungeons & Dragons\|Dungeons & Dragons]] game. Published and Distributed by the creators of D&D.
 
 Its name is often also shortened to DMG but that term is not used here due to the shorthand inducing confusion with the shorthand for "Damage" as well.

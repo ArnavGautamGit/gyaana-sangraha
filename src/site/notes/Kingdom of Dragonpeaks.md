@@ -44,7 +44,7 @@ Party per pale Arms of [[House Bronze\|House Bronze]] and Arms of [[House Forech
 ### Demography
 Demography is dominated by humanoids and Draconic lineages where the most common ones are draconic bloodlines. A distribution of overall population is given below but it is important to note that if a particular ancestry or species is subdivisible then there are different spreads possible. 
 
-In systems like [[Compendiums/D&D Compendium/Dungeons & Dragons\|D&D]], Dragonborn & Kobolds are both treated separately despite both being draconic but in Lurov, Kobolds are only found on mountain peaks in the most uninhabitable altitudes & are flavoured as a phenotype formed due to a mutation to develop a smaller frame to survive in high mountains.
+In systems like [[Compendiums/D&D Compendium/Dungeons & Dragons\|D&D]], Dragonborn & Kobolds are both treated separately despite both being draconic but in Lurov, Kobolds are only found on mountain peaks in the most uninhabitable altitudes & are flavoured as a phenotype formed due to a mutation which causes them to have a smaller frame to aid in survival at high mountains.
 
 | Ancestry | % of Total Populace  |
 | -------- | -------------------- |

@@ -35,7 +35,7 @@ Once per Long Rest, the Guardian can choose to become unstoppable and gain an ex
 While Unstoppable, you gain the following:
 - Reduced Effect of Physical Damage by one Damage Threshold. 
 - Add the current value of the Unstoppable Dice to damage rolls.
-- Immunity to being [[Restrained\|Restrained]] or [[Vulnerable\|Vulnerable]].
+- Immunity to being [[Restrained (DH Condition)\|Restrained]] or [[Vulnerable (DH Condition)\|Vulnerable]].
 
 
 ### Class Foundations (Subclasses)

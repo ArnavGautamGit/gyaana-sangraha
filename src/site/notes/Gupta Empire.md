@@ -19,7 +19,11 @@ According to the play [[Devichandraguptam\|Devichandraguptam]] written by [[Vish
 
 When Chandra ascends the throne sometime between 375-380 AD, he shifts the capital to the city of Ujjain & takes on the regnal name [[Chandragupta II of Ujjain\|Chandragupta II of Ujjain]]. He was one of the most influencial kings after his father in the entire dynasty who ruled till 414 AD.
 
-[[Kumaragupta I\|Kumaragupta I]] ascends the throne in 414 AD after his father [[Chandragupta II of Ujjain\|Chandragupta II of Ujjain]] passed away and ruled till 455 AD. Although he ruled for a long time, he did not really do anything much significant or differentiating that we can write home about. His son [[Skandagupta\|Skandagupta]] was the last major ruler who could hold back the [[Western Kshatrapa\|Western Śaka]] and the Northern [[White Huns\|White Huns]], after him all other rulers like [[Kumaragupta II\|Kumaragupta II]], [[Kumaragupta III\|Kumaragupta III]] were weak & could not do jack shit militarily except boasting about themselves. [[Vishnugupta Chandrāditya\|Vishnugupta Chandrāditya]] was the last ruler of the Gupta Empire who ruled for 10 years from 540 AD to 550 AD.
+[[Kumaragupta I\|Kumaragupta I]] ascends the throne in 414 AD and ruled till 455 AD after his father the great emperor [[Chandragupta II of Ujjain\|Chandragupta II of Ujjain]] passed away. Although he ruled for a long time, he did not really do anything much significant or differentiating that we can write home about. His son [[Skandagupta\|Skandagupta]] was the last major ruler who could hold back the [[Western Kshatrapa\|Western Śaka]] and the Northern [[White Huns\|White Huns]], after him all other rulers like [[Kumaragupta II\|Kumaragupta II]], [[Kumaragupta III\|Kumaragupta III]] were weak & could not do jack shit militarily except boasting about themselves.
+[[Vishnugupta Chandrāditya\|Vishnugupta Chandrāditya]] was the last ruler of the Gupta Empire who ruled for 10 years from 540 AD to 550 AD.
+
+### Gupta Administration
+A small subheading that is one page long only.
 
 ### Cultural Contributions
 Although their contributions are too many to list since this is truly considered the Golden Period of Indian History due to advancements in Science, Religion, Philosophy, Literature, Economy & ease of Social Mobility... I can try to list a few very pivotal ones.

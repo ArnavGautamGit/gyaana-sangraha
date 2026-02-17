@@ -10,7 +10,7 @@
 It is also reflective of the tribal nature of life on Earth where certain races preferred to live with people like themselves - using it as an anchor to provide realism.
 
 Map Link: [Google Drive](https://drive.google.com/file/d/1xn0EzgXdCEwiB8kuy_5bcLa4MbKU7zFB/view?usp=sharing)
-Campaigns: [[Storms of Eslance\|Storms of Eslance]]
+Campaigns: [[Storms of Eslance\|Storms of Eslance]], [[Ambush on the Owlesian Trails\|Ambush on the Owlesian Trails]] 
 
 ### Kingdoms & Organisations
 [[Kingdom of Dragonpeaks\|Kingdom of Dragonpeaks]]
@@ -24,7 +24,6 @@ Campaigns: [[Storms of Eslance\|Storms of Eslance]]
 ### Special Events
 [[The Wedding of Peace\|The Wedding of Peace]]
 [[The Raebershire Rebellion\|The Raebershire Rebellion]]
-[[Prologue to the Storms of Eslance\|Prologue to the Storms of Eslance]]
 
 ### Landmarks & Locations
 [[Castle Whitebreak\|Castle Whitebreak]]

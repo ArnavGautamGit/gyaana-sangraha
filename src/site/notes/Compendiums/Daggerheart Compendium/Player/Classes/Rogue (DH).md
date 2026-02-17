@@ -7,7 +7,7 @@
 # Rogue (DH)
 > A [[Compendiums/Daggerheart Compendium/Player/DH Character Creation#Character Class\|Character Class]] of the hidden ones. The best rogues go unnoticed and could range from small-time thieves to spies and assassins. They establish guilds to maintain connection amongsthemselves, meet future accomplices, hire out jobs. 
 
-Some Rogues may know Magic, some may not. Unlike popular belief, there is a layer of honour among Rogues despite their being the sentiment that all ROgues are scoundrels. Optimise your character by prioritising [[Finesse\|Finesse]].
+Some Rogues may know Magic, some may not. Unlike popular belief, there is a layer of honour among Rogues despite their being the sentiment that all Rogues are scoundrels. Optimise your character by prioritising [[Finesse\|Finesse]].
 
 ### Domains
 Domains of a class decide the Domain Cards (and abilities) one gets to pick up.
@@ -26,7 +26,7 @@ For a Rogue, choose EITHER *"Set of Forgery Tools"* OR *"Grappling Hook"*.
 ***Rogue’s Dodge***: Spend 3x [[Hope Token\|Hope Token]] to gain a +2 bonus to your [[Compendiums/Daggerheart Compendium/Player/Evasion Score\|Evasion Score]] until the next time an attack succeeds against you. Otherwise, this bonus lasts until your next rest.
 
 ### Class Feature - Cloaked & Sneak Attack
-***Cloaked*** is the alternate to the [[Hidden\|Hidden]] Status for Rogues. It provides everything that hidden state does but it also allows to remain unseen if you are stationary when an adversary moves to where they would normally see you. After you make an attack or end a move within line of sight of an adversary, you are no longer Cloaked.
+***Cloaked*** is the alternate to the [[Hidden (DH Condition)\|Hidden]] Status for Rogues. It provides everything that hidden state does but it also allows to remain unseen if you are stationary when an adversary moves to where they would normally see you. After you make an attack or end a move within line of sight of an adversary, you are no longer Cloaked.
 
 ***Sneak Attack*** When you succeed on an attack while Cloaked or while an ally is within Melee range of your target, add a number of d6s equal to your tier to your damage roll.
 
@@ -55,10 +55,10 @@ Every Class has a few subclasses you can choose from. For Rogue, choose between 
 		- **Shadow Stepper**: Mark a [[Compendiums/Daggerheart Compendium/Player/Stress Point\|Stress Point]] when moving from one shadowed area to another shadow within Far Range while maintaining the "Hidden" State.
 	- ***Specialisation Feature***
 		- **Dark Cloud**: On a successful Spellcast Roll using [[Compendiums/Daggerheart Compendium/Player/Duality Dice\|Duality Dice]] against a difficulty of 15 (i.e., roll 15 or higher). Cast a temporary smoke bomb which covers an area of Close Range. Anyone outside it cannot see in, anyone inside cannot see out. Additionally, You are cloaked for any enemies whose vision is blocked by the cloud.
-		- **Adrenaline**: Whenever [[Vulnerable\|Vulnerable]], add your Level to damage roll total.
+		- **Adrenaline**: Whenever [[Vulnerable (DH Condition)\|Vulnerable]], add your Level to damage roll total.
 	- ***Mastery Feature***
 		- ***Fleeting Shadow:*** Gain a permanent +1 bonus to your [[Compendiums/Daggerheart Compendium/Player/Evasion Score\|Evasion Score]]. You can use your “Shadow Stepper” feature to move within Very Far Range.
-		- ***Vanishing Act:*** Mark 1x [[Compendiums/Daggerheart Compendium/Player/Stress Point\|Stress Point]] to become Cloaked at any time. When Cloaked from this feature, you automatically clear the [[Restrained\|Restrained]] condition if you have it. You remain Cloaked in this way until you roll with Fear or until your next rest.
+		- ***Vanishing Act:*** Mark 1x [[Compendiums/Daggerheart Compendium/Player/Stress Point\|Stress Point]] to become Cloaked at any time. When Cloaked from this feature, you automatically clear the [[Restrained (DH Condition)\|Restrained]] condition if you have it. You remain Cloaked in this way until you roll with Fear or until your next rest.
 
 ### Background Questions
 It is optional to answer any of the following background questions to refine or get ideas for your character's backstory. You can also create your own questions. 

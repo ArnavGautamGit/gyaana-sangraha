@@ -16,8 +16,8 @@ Earlier I started with Habitica, moved to Tasks.org (Tasks App), moved back to H
 
 Progress was formerly tracked manually with daily ratings calculated manually. Now I upload a daily log according to the template: [[Vault Templates/daily-habit-log\|daily-habit-log]] and then all the tables get populated automatically, this note is only to see the years of progress at a glance, for in-depth view of any year, click on the respective note.
 
-[[yearly-logs/2025/Year of 2025\|Year of 2025]] (current year)
-[[yearly-logs/2026/Year of 2026\|Year of 2026]]
+[[yearly-logs/2025/Year of 2025\|Year of 2025]]
+[[yearly-logs/2026/Year of 2026\|Year of 2026]] (current year)
 [[yearly-logs/2027/Year of 2027\|Year of 2027]]
 
 ---
@@ -26,7 +26,7 @@ Progress was formerly tracked manually with daily ratings calculated manually. N
 | Year | Average Rating |
 | ---- | -------------- |
 | 2025 | 2.43           |
-| 2026 | 2.19           |
+| 2026 | 3.07           |
 
 { .block-language-dataview}
 

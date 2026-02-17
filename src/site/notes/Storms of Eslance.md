@@ -31,9 +31,6 @@ Apart from this, I would like to tell you that we will create our characters tog
 
 Remember: Any Character Sheet (Demiplane or not) or even a printed character sheet filled in with pen is completely fine. As long as you can use it effectively.
 
-### Campaign Notes
-[[Prologue to the Storms of Eslance\|Prologue to the Storms of Eslance]]
-
 
 ---
 # Footnotes

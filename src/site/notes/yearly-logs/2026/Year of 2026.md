@@ -22,9 +22,10 @@ For the record, I am "arnav.03" on signal and everyone needs to have a two-digit
 
 ---
 ## 📅 Monthly View Table
-| Month        | Monthly Rating |
-| ------------ | -------------- |
-| January 2026 | 2.19           |
+| Month         | Monthly Rating |
+| ------------- | -------------- |
+| January 2026  | 2.19           |
+| February 2026 | 3.96           |
 
 { .block-language-dataview}
 
@@ -32,12 +33,16 @@ For the record, I am "arnav.03" on signal and everyone needs to have a two-digit
 ## 📅 Daily Logs Table
 Firstly, the table which dumps every single day of 2026 at a glance in a singular table:
 
-| File                                           | Date            | Tasks Done | Tasks Due | Rating |
-| ---------------------------------------------- | --------------- | ---------- | --------- | ------ |
-| [[yearly-logs/2026/2026-01-19\|2026-01-19]] | 19 January 2026 | 1          | 1         | 5      |
-| [[yearly-logs/2026/2026-01-20\|2026-01-20]] | 20 January 2026 | 0          | 2         | 0      |
-| [[yearly-logs/2026/2026-01-21\|2026-01-21]] | 21 January 2026 | 1          | 2         | 2.5    |
-| [[yearly-logs/2026/2026-01-24\|2026-01-24]] | 24 January 2026 | 0.25       | 1         | 1.25   |
+| File                                           | Date             | Tasks Done | Tasks Due | Rating |
+| ---------------------------------------------- | ---------------- | ---------- | --------- | ------ |
+| [[yearly-logs/2026/2026-01-19\|2026-01-19]] | 19 January 2026  | 1          | 1         | 5      |
+| [[yearly-logs/2026/2026-01-20\|2026-01-20]] | 20 January 2026  | 0          | 2         | 0      |
+| [[yearly-logs/2026/2026-01-21\|2026-01-21]] | 21 January 2026  | 1          | 2         | 2.5    |
+| [[yearly-logs/2026/2026-01-24\|2026-01-24]] | 24 January 2026  | 0.25       | 1         | 1.25   |
+| [[yearly-logs/2026/2026-02-12\|2026-02-12]] | 12 February 2026 | 2          | 3         | 3.33   |
+| [[yearly-logs/2026/2026-02-13\|2026-02-13]] | 13 February 2026 | 1          | 2         | 2.5    |
+| [[yearly-logs/2026/2026-02-14\|2026-02-14]] | 14 February 2026 | 0.5        | 1         | 2.5    |
+| [[yearly-logs/2026/2026-02-15\|2026-02-15]] | 15 February 2026 | 3          | 2         | 7.5    |
 
 { .block-language-dataview}
 

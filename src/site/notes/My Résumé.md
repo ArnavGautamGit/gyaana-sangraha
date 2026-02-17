@@ -17,7 +17,7 @@ All links on this page lead to my personal notes where evaluators can see my pro
 
 ## CyberSec Skills
 - Scripting: [[Independent Courses/IIT Kanpur CyberSec/Windows Powershell\|Windows Powershell]], [[Independent Courses/IIT Kanpur CyberSec/Windows Powershell ISE\|Powershell ISE]], VS Code
-- Operating Systems: [[Kali Linux (Operating System)\|Kali Linux]], [[Ubuntu\|Ubuntu]], VMWare Workstation 
+- Operating Systems: [[Kali Linux (Operating System)\|Kali Linux]], [[Ubuntu\|Ubuntu]], [[Virtualisation\|Virtualisation]] (using VMWare & VirtualBox) 
 - Monitoring: [[Splunk\|Splunk]]
 
 ## Coding Skills
@@ -60,6 +60,10 @@ All links on this page lead to my personal notes where evaluators can see my pro
 	- Implemented by training the model on real and anomalous data using logarithmic regression and other Machine Learning Model Training Methods.
 	- Created a Basic HTML/CSS Website with 2 pages, one of which is used to upload CSV files to be scanned and the other is used to showcase anomalous vs normal data in the form of graphs.
 
+## Academic & Technical Achievements
+- Ranked among top 10 students in school (based on overall academic performance).
+- Secured 2nd Rank in Green Olympiad 2017.
+- Developed simulation of a Thorium-based nuclear reactor on a supercomputer, 2024 (B.Tech, Computer Science).
 
 ## Leadership & Extra-Curricular
 - Head of Public Relations @ Game Development Hub, JIIT ---> July 2023 to Aug 2024
@@ -67,7 +71,19 @@ All links on this page lead to my personal notes where evaluators can see my pro
 	- Held the first Workshop on the new Unreal Engine 5. It was such a hit that it became an annual workshop.
 	- Led a phase of expansion in the Hub’s revenue and student-appeal as soon as taking charge of Public Relations.
 	- Had already served the Hub as a Volunteer for a year before being elected the as the Head of Public Relations.
+- School Basketball Team (as Player) @ Ahlcon International School ---> Jan 2018
+	- Managed Teamplay with tactics and played as a pivot to feed the ball forwards and maintaining passing strength.
+	- I am a team player who performs without getting credit or appreciation.
+- Represented Ahlcon International School) @ Silico Battles ---> Jan 2020
+	- Silico Battles was a gaming competition (with spearate categories for PC and PS4) hosted by Ahlcon Public School (our Sister School)
+	- Participated in Console Gaming Category, reached Quarter Finals despite being weak in First Person Shooter (FPS) bracket.
+	- Here I proved that I keep working just as hard even if the tide is against me.
 
+## Hobbies
+- Reading non-fiction books
+- Following Current Affairs & Public Debates
+- Writing short, analytical notes on contemporary issues
+- Enjoying Sports like Cricket, Football and F1
+- Listening to Music
 
 ---
-# Footnotes

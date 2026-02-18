@@ -25,7 +25,7 @@ For the record, I am "arnav.03" on signal and everyone needs to have a two-digit
 | Month         | Monthly Rating |
 | ------------- | -------------- |
 | January 2026  | 2.19           |
-| February 2026 | 3.96           |
+| February 2026 | 4.35           |
 
 { .block-language-dataview}
 
@@ -43,6 +43,9 @@ Firstly, the table which dumps every single day of 2026 at a glance in a singula
 | [[yearly-logs/2026/2026-02-13\|2026-02-13]] | 13 February 2026 | 1          | 2         | 2.5    |
 | [[yearly-logs/2026/2026-02-14\|2026-02-14]] | 14 February 2026 | 0.5        | 1         | 2.5    |
 | [[yearly-logs/2026/2026-02-15\|2026-02-15]] | 15 February 2026 | 3          | 2         | 7.5    |
+| [[yearly-logs/2026/2026-02-16\|2026-02-16]] | 16 February 2026 | 2.5        | 2         | 6.25   |
+| [[yearly-logs/2026/2026-02-17\|2026-02-17]] | 17 February 2026 | 1.5        | 1.5       | 5      |
+| [[yearly-logs/2026/2026-02-18\|2026-02-18]] | 18 February 2026 | 2          | 3         | 3.33   |
 
 { .block-language-dataview}
 

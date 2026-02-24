@@ -60,9 +60,15 @@ Support Free & Open Source Apps that do not harvest data. Support the services t
 
 ---
 
-# Read More
+# Read More from the Privacy Series!
+- [[Nothing to Hide Fallacy\|Nothing to Hide Fallacy]]
 - [[Digital Privacy in Cars\|Digital Privacy in Cars]]
-- [[Mobile Phone Privacy\|Mobile Phone Privacy]] (General)
-	- [[Privacy on iPhone\|Privacy on iPhone]] using [this video](https://youtu.be/fTTAhJNii1E?si=5LNUD82a7c1q2nD_)
+- [[Mobile Phone Privacy\|Mobile Phone Privacy]]
+	- [[Privacy on iPhone\|Privacy on iPhone]]
 	- [[Privacy on Android\|Privacy on Android]]
 - [[Twitter is Cyanide for Privacy\|Twitter is Cyanide for Privacy]] since it takes too many permissionslike microphone and camera without asking & then even broadcasts your country and OS online via its feature to see where an account is located. 
+
+---
+## Good Resources
+1. Videos by "Hampton Law" similar to [this video](https://youtu.be/fTTAhJNii1E?si=5LNUD82a7c1q2nD_)
+2. Naomi Brockwell, All Things Secured and Techlore on all sites like YouTube and its competitors like PeerTube and OdySee.

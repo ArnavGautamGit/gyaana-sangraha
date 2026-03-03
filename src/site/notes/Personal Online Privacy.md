@@ -71,4 +71,5 @@ Support Free & Open Source Apps that do not harvest data. Support the services t
 ---
 ## Good Resources
 1. Videos by "Hampton Law" similar to [this video](https://youtu.be/fTTAhJNii1E?si=5LNUD82a7c1q2nD_)
-2. Naomi Brockwell, All Things Secured and Techlore on all sites like YouTube and its competitors like PeerTube and OdySee.
+2. Videos by CRUXNET: [Private Investigator's guide to Personal Data Privacy](https://www.youtube.com/watch?v=LsxToz0t5ow)
+3. Try to follow Naomi Brockwell, All Things Secured and Techlore on all sites like YouTube and its competitors like PeerTube and OdySee.

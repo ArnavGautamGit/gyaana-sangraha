@@ -36,7 +36,10 @@ The popular king named "Shalivahana" in Hindu, Jain and Buddhist Literature seem
 
 ### Cultural Contributions
 Many of the rock-cut sculptures in rock-cut temples of the [[Ellora Caves\|Ellora Caves]] and [[Ajanta Caves\|Ajanta Caves]], especially the [[Kailasa Temple in Ellora\|Kailasa Temple in Ellora]] were carved out of a single mountain & all of them were patronised by Sātavāhanas. Apart from the temple itself, many of the Mural Paintings found in the caves were patronised by the Sātavāhana Kings.
+
 Culturally, the Queens & [[Queen-Mother\|Queen-Mothers]] of this dynasty patronised the construction of many edicts such as the [[Nāneghāt Inscription\|Nāneghāt Inscription]] patronised by [[Queen Naganika\|Queen Naganika]] along with the later [[Nāsik Inscription\|Nāsik Inscription]] patronised by [[Queen-Mother Gautami Belasari\|Queen-Mother Gautami Belasari]]. 
+
+Gave many asset grants (land & cattle grants) to the Brahmins known as [[Brahmadeya\|Brahmadeya]]. 
 
 ---
 # Footnotes

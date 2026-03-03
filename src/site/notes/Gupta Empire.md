@@ -23,20 +23,34 @@ When Chandra ascends the throne sometime between 375-380 AD, he shifts the capit
 [[Vishnugupta Chandrāditya\|Vishnugupta Chandrāditya]] was the last ruler of the Gupta Empire who ruled for 10 years from 540 AD to 550 AD.
 
 ### Gupta Administration
-A small subheading that is one page long only.
+The Guptas gained support of the Brahmins by giving the maximum amount of [[Brahmadeya\|Brahmadeya]] (even more than what [[Sātavāhana Empire\|Sātavāhanas]]). 
+
+Guptas divided their empire into provinces (bhukti) ruled by Upatikas. The Provinces were further subdivided into districts (Vishyas) were ruled by Vishyapati. Vishyas were constituted of villages which were known as (Grām) ruled by Grāmani.
+
+Unlike the [[Mauryan Empire\|Mauryans]], the Guptas did not create a centralised control and adopted massive titles like Mahārājādhiraj and Parambhattaraka among others to symbolise they were the "Rājā among Rājās" and "Supreme Bhattaraka" (Bhattaraka is a [[Jaina Philosophy (Jainism)\|Jain]] Chief Priest).
+
+Under the Gupta Empire, the Indian Economy became self-sufficient enough that it was driven entirely by local demand and supply. The problem is that the Guptas hence decided that a closed, agrarian economy is "good enough". They were not involved in as much diplomacy with foreign states as the [[Mauryan Empire\|Mauryan Empire]] before them was. This made them naturally "indifferent" to all surrounding states.
 
 ### Cultural Contributions
 Although their contributions are too many to list since this is truly considered the Golden Period of Indian History due to advancements in Science, Religion, Philosophy, Literature, Economy & ease of Social Mobility... I can try to list a few very pivotal ones.
 
-In the Gupta Period, we began using the local resources we had to build temples. For example, in the Northern Plains, sourcing and bringing rocks from the [[Aravali Hills\|Aravali Hills]] or [[Himalayas\|Himalayas]] or [[Vindhyas\|Vindhyas]] was hard & expensive process. Guptas were one of the first to use bricks made from locally-sourced Alluvial Soil on such a large scale made with similar modern processes that we currently use to make bricks for new houses in 2026.
+In the Gupta Period, we began using the local resources we had to build temples. For example, in the Northern Plains, sourcing and bringing rocks from the [[Aravali Hills\|Aravali Hills]] or [[Himalayas\|Himalayas]] or [[Vindhyas\|Vindhyas]] was hard & expensive process. Guptas were one of the first to use bricks made from locally-sourced Alluvial Soil on such a large scale made with similar modern processes that we currently use to make bricks for new houses in 2026. The problem with bricks is that although they are cheaper and they need regular maintainance which was not provided after the decline of the Guptas.
+
 Apart from just temple building materials, the Guptas also pioneered the "Nagara" Style of [[Hindu Temple Architecture\|Hindu Temple Architecture]] made specifically to accomodate bricks. Due to receiving no maintainance from later kingdoms & Empires, many of the initial temples did not survive but the style of architecture is still seen in most Hindu Temples located in Northern India.
 
-Guptas has always been appreciated for patronising the literary work of poets & authors such as [[Kālidāsa\|Kālidāsa]], [[Vishakhadeva\|Vishakhadeva]], [[Banabhatta\|Banabhatta]] etc. These poets and authors wrote about previous kings and kingdoms that existed before throughout the Indian Subcontinent.
+Guptas has always been appreciated for patronising the literary work of poets & authors such as [[Kālidāsa\|Kālidāsa]], [[Vishakhadeva\|Vishakhadeva]], [[Banabhatta\|Banabhatta]] etc. These poets and authors wrote about previous kings and kingdoms that existed before throughout the Indian Subcontinent. They also patronised the work of many scientific authors like [[Āryabhata\|Āryabhata]].
 
 In addition to this, Guptas invented the [[Gupta Brāhmi Script\|Gupta Brāhmi Script]] and the [[Nāgari Script\|Nāgari Script]] which were both used to write on rock & paper respectively. It is to be noted that the [[Nāgari Script\|Nāgari Script]] was used to write [[Vedic Literature\|Vedic Literature]] & other important texts of [[Hinduism\|Hinduism]] on paper & tree-bark manuscripts.
 
 ### Decline & Aftermath
+Their decline started when [[Skandagupta\|Skandagupta]] lost the war against Huns and martyred in that war with the Huns. The victor [[White Huns\|White Huns]] expanded into the North but collapsed soon after they destroyed the [[Takshila University\|Takshila University]] (due to the public going against them). While from the western front, the [[Western Kshatrapa\|Western Kshatrapa]] were able to capture quite a lot of territory.
 
+The later Gupta Kings were unable to consolidate power due to a few reasons:
+1. Less military-oriented regime than [[Chandragupta II of Ujjain\|Chandragupta II of Ujjain]] and [[Samudragupta\|Samudragupta]].
+2. Regional Powercentres such as [[Mukhari Dynasty of Gaya & Kannauj\|Mukharis of Gaya]], [[Maitrakas of Saurashtra\|Maitrakas of Saurashtra]] and [[Yashodharman of Malwa\|Yashodharman of Malwa]] declared themselves independent.
+3. Later Guptas moved towards religious patronage for [[Bauddha Philosophy (Buddhism)\|Buddhism]] which reduced the support from Hindus and the Brahmins enough to cause dissatisfactions to surface.
+
+Culmination of all three factors led to a complete decline of the Guptas as a whole and end the Golden Age of [[Indian History\|Indian History]]. This also brought the end to a major empire in Ancient India.
 
 ---
 # Footnotes

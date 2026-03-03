@@ -20,7 +20,7 @@ Every time one receives a payment via Monero, there is a new one-time payment ad
 Imagine if this kind of privacy comes in the hands of the people in digital transactions. For the general public it is amazing privacy but in the wrong hands of the rich it is a tool of money laundering. This is why Monero is also attracting bans and removals from Centralised Crypto Exchanges but Monero can be directly bought in [[Decentralised Crypto Exchange\|Decentralised Crypto Exchange]].
 
 ### How to get Monero?
-Turn on your [[Virtual Private Network (VPN)\|VPN]] and fire up [[The Onion Router (TOR)\|TOR]] broswer to buy BTC and then swap for XMR on Retoswap or some other [[Decentralised Crypto Exchange\|Decentralised Crypto Exchange]] before transferring Monero to a [[Non-Custodian Wallet\|NC Wallet]] like Cake Wallet.
+Turn on your [[Virtual Private Network (VPN)\|VPN]] and fire up [[The Onion Router (TOR)\|TOR]] broswer to buy Litecoin and then swap for XMR on places like Cake Wallet before transferring Monero to a [[Non-Custodian Wallet\|NC Wallet]] like Cake Wallet.
 
 ---
 # Footnotes

@@ -17,7 +17,7 @@ Kanva Empire (also called Kanvavamsha Dynasty) replaced the [[Shunga Dynasty\|Sh
 
 
 
-[[Devabhuti Shunga\|Devabhuti Shunga]] was overtly interested in women and was overall a good-for-nothing lazy dude who is clearly not fit to be the Emperor. He was assassinated by his minister collaborating with one of his female servants (disguised as the empress) while Devabhuti was drunk. This is when his minister [[Vasudeva Kanva\|Vasudeva Kanva]] made the killing move and established the [[Kanvavamsha Dynasty\|Kanvavamsha Dynasty]]. This entire event is documented by medieval era poet [[Banabhatta\|Banabhatta]] in his autobiography of [[Harshavardhan\|Harshavardhan]] named as "[[Harshacharita\|Harshacharita]]". Harsha was from the [[Pushyabhuti Dynasty\|Pushyabhuti Dynasty]]. 
+[[Devabhuti Shunga\|Devabhuti Shunga]] was overtly interested in women and was overall a good-for-nothing lazy dude who is clearly not fit to be the Emperor. He was assassinated by his minister collaborating with one of his female servants (disguised as the empress) while Devabhuti was drunk. This is when his minister [[Vasudeva Kanva\|Vasudeva Kanva]] made the killing move and established the [[Kanvavamsha Dynasty\|Kanvavamsha Dynasty]]. This entire event is documented by medieval era poet [[Bānabhatta\|Bānabhatta]] in his autobiography of [[Harshavardhan\|Harshavardhan]] named as "[[Harshacharita\|Harshacharita]]". Harsha was from the [[Pushyabhuti Dynasty\|Pushyabhuti Dynasty]]. 
 
 </div></div>
 

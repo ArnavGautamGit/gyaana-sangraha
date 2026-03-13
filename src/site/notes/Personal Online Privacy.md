@@ -66,7 +66,10 @@ Support Free & Open Source Apps that do not harvest data. Support the services t
 - [[Mobile Phone Privacy\|Mobile Phone Privacy]]
 	- [[Privacy on iPhone\|Privacy on iPhone]]
 	- [[Privacy on Android\|Privacy on Android]]
-- [[Twitter is Cyanide for Privacy\|Twitter is Cyanide for Privacy]] since it takes too many permissionslike microphone and camera without asking & then even broadcasts your country and OS online via its feature to see where an account is located. 
+- [[Twitter is Cyanide for Privacy\|Twitter is Cyanide for Privacy]]
+- [[Great Gifts for Privacy Enthusiasts\|Great Gifts for Privacy Enthusiasts]]
+- [[2FA Best Practices\|2FA Best Practices]]
+
 
 ---
 ## Good Resources

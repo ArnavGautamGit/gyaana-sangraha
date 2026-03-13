@@ -38,7 +38,7 @@ In the Gupta Period, we began using the local resources we had to build temples.
 
 Apart from just temple building materials, the Guptas also pioneered the "Nagara" Style of [[Hindu Temple Architecture\|Hindu Temple Architecture]] made specifically to accomodate bricks. Due to receiving no maintainance from later kingdoms & Empires, many of the initial temples did not survive but the style of architecture is still seen in most Hindu Temples located in Northern India.
 
-Guptas has always been appreciated for patronising the literary work of poets & authors such as [[Kālidāsa\|Kālidāsa]], [[Vishakhadeva\|Vishakhadeva]], [[Banabhatta\|Banabhatta]] etc. These poets and authors wrote about previous kings and kingdoms that existed before throughout the Indian Subcontinent. They also patronised the work of many scientific authors like [[Āryabhata\|Āryabhata]].
+Guptas has always been appreciated for patronising the literary work of poets & authors such as [[Kālidāsa\|Kālidāsa]], [[Vishakhadeva\|Vishakhadeva]], [[Bānabhatta\|Bānabhatta]] etc. These poets and authors wrote about previous kings and kingdoms that existed before throughout the Indian Subcontinent. They also patronised the work of many scientific authors like [[Āryabhata\|Āryabhata]].
 
 In addition to this, Guptas invented the [[Gupta Brāhmi Script\|Gupta Brāhmi Script]] and the [[Nāgari Script\|Nāgari Script]] which were both used to write on rock & paper respectively. It is to be noted that the [[Nāgari Script\|Nāgari Script]] was used to write [[Vedic Literature\|Vedic Literature]] & other important texts of [[Hinduism\|Hinduism]] on paper & tree-bark manuscripts.
 

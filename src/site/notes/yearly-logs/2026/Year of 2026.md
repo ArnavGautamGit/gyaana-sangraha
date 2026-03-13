@@ -17,8 +17,7 @@ In the start of the year in January itself, I made a new change of adding a new 
 
 Also, in January, I gave two interviews - one in JS and another in BEL so that I could easily get a good apprenticeship/internship/job that could bring my career back on track. I have figured out some gaps in my knowledge and have been preparing to cover them. I have completely ditched Habitica & have permanently moved over to [[Task Management.base]] file inside Obsidian itself to manage all my tasks.
 
-Also in January, I was able to find another arnav on Signal when i realised that the usernames "arnav.01" and "arnav.02" were not available (due to being taken). I messaged both of them individually and "arnav.01" managed to reply & we became friends. 
-For the record, I am "arnav.03" on signal and everyone needs to have a two-digit number for their username as a suffix separated from the string by a fullstop.
+In February, I ran a small experiment as described in [[My Tasks\|My Tasks]] which resulted in me returning to Habitica primarily for its reminder and notification features and experienced a major uptick in productivity. By March, I have finished my CyberSec Course and moving towards finishing the UPSC syllabus and start doing CSAT (Aptitude Test) preparation. I am also at the same time trying to adjust into Papa's line of work - eventually mixing there.
 
 ---
 ## 📅 Monthly View Table

@@ -9,7 +9,7 @@
 
 The PSP used a small disc format called "Universal Media Disc (UMD)", it was basically a small disc encased in a protective case of its own that cannot be taken off. a single layer UMD could hold 900 MB and dual layer one could hold 1.8 GB too.
 
-Since the disc came in its own protective case, it was easy for kids to handle the disc and the disc was read from a small window in the case i.e., the surface you needed to protect was very small.
+Since the disc came in its own protective case, it was easy for kids to handle the disc and the disc was read from a small window in the case (i.e., the surface you needed to protect) was very small compared to if there was no case. Although it was great for the time when flash memory was expensive, it really did not scale much since Sony decided to keep the UMD as an exclusive instead of making it an open standard like the other disc formats Sony made like the DVD and [[Blu-Ray Discs\|Blu-Ray Disc]].
 
 ## My PSP Games
 [[Gran Turismo\|Gran Turismo]]
@@ -17,7 +17,7 @@ Since the disc came in its own protective case, it was easy for kids to handle t
 [[Ben 10 - Protector of Earth\|Ben 10 - Protector of Earth]]
 [[Need For Speed Carbon - Own the City\|Need For Speed Carbon - Own the City]]
 [[Medal of Honour Heroes 2\|Medal of Honour Heroes 2]] (from Arjun's library)
-[[Rush (2005 Game)\|Rush (2005 Game)]]
+[[Rush (2005 Game)\|Rush (2005 Game)]] (now in Arjun's library)
 
 
 ## My Journey with the PSP
@@ -33,6 +33,8 @@ Since Arjun was quite elder to me even when we first met, when I met him for the
 Between these two visits to Arjun's house,
 In 2015, I went to Ramnagar with my school friends! Aviral, Aaryan, Adit, Sarthak and his brother Sambhav. Aviral and Aaryan came in my car with me while we had a lot of fun together playing on our PSP. The shared PSP of Aaryan & Adit was with Adit who was coming by Sarthak's car. We had a ton of fun there & shared games. Unknown to us that Ad-Hoc feature could work for us but PSP wasn't popular for multiplayer games anyway and I think Ad-Hoc required all the PSPs to be in the same Wi-Fi. Ramnagar is a rural town which had poor internet connectivity - not to mention how unreliable 2000s internet was.
 
+### Return to PSP in 2026 and Beyond
+In March 2026, before the Hindu New Year according to [[Vikram Samvat Calendar\|Vikram Samvat Calendar]], I made the decision of [[Digital Minimalism\|Digital Minimalism]] and realised that the only way I can enjoy the platform to its fullest is by modding it (with Ark-4) and getting ISOs of the games on memory and effectively ditching the UMD discs. It is imperitive you copy the old save games to new microSD and then place the microSD in a Memory Stick Pro Duo adapter. You must put your ISO files in a folder named `ISO` at the root level of the PSP. Get ISO files from the website named "CDRomance.org" for your games. You can also try the Internet Archive.
 
 ---
 # Footnotes

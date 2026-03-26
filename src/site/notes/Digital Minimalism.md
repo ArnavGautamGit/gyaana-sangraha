@@ -12,15 +12,15 @@ Decentralising my phone (i.e., to reduce the different number of things for whic
 ### Current Situation & my Perspective
 Although I got onto using my Papa's old iPhone 11 last year in the second half of 2025 since my Android phone (Samsung) went into the blue screen of death issue, I never sold the old iPhone 11 have always loved the Apple Music app's feature of being able to play downloaded songs while offering a better UI than Samsung Music. I know this because I had been using an iPhone 6S from 2016 to 2022 for basically almost all my needs.
 
-After having used Android, I love the Apple Ecosystem but i do not like how their phones are a bit pricey. Phones are something where I do not like to buy used but I guess I could buy refurbished iPhones from the Apple Store or Cashify if I needed to; even though I need to be extremely careful with used iPhones since there are many convincing fakes in the market.
+After having used both [[Android OS\|Android OS]] and [[iOS\|iOS]], I love the Apple Ecosystem but i do not like how their phones are a bit pricey. Phones are something where I do not like to buy used but I guess I could buy refurbished iPhones from the Apple Store or Cashify if I needed to; even though I need to be extremely careful with used iPhones since there are many convincing fakes in the market.
 
 ### Basic Guide for Newbies
-Best first step is to gert a dedicated alarm clock followed by a collection of physical media with DVDs or [[Blu-Ray Discs\|Blu-Ray Discs]]. Maybe play an instrument (or have a hobby) to pass the time instead of scrolling. Next you might want to get a dedicated device like [[PS VITA\|PS VITA]] or [[PlayStation Portable (PSP)\|PSP]] or some other gaming console and a dedicated camera.
+Best first step is to gert a dedicated alarm clock followed by a collection of physical media with DVDs or [[Blu-Ray Discs\|Blu-Ray Discs]]. Maybe play an instrument (or have a hobby) to pass the time instead of scrolling. Finally you might want to revive a dedicated device like [[PS VITA\|PS VITA]] or [[PlayStation Portable (PSP)\|PSP]] or some other gaming console or revive an old film/digital camera to finally replace one of the functions your phone does.
 
 > [!tip] This is supposed to be an *anti-consumerist* movement, not *disguised consumerism*
 > This is supposed to be a movement where you rethink why you need something and whether you need it. If you just read this guide and buy yourself more stuff then you have not understood the *reasoning* and *rationale* behind it. Use whatever you have and buy stuff only when existing stuff breaks.
 > 
-> To further your target for digital minimalism, to minimise the number of things you own and the number of times you have to purchase the same thing -- buy stuff that is built for sustaining rugged use
+> To further your target for digital minimalism, to minimise the number of things you own and the number of times you have to purchase the same thing -- buy stuff that is built for sustaining rugged use & preferrably buy used not just to save money but to combat your consumerist urge developed by multiple decades of mass-advertising.
 
 ### What does it mean to have Digital Minimalism?
 Restricting my phone only to communication, music, task management and camera. Although one would prefer to use a dedictaed camera when on trips with friends or family & use their phone's camera more sparingly. Similarly, it also includes using my Laptop for writing these notes, studying, reading ebooks, browsing the web and even writing mails (unless an emergency makes me use my phone). It allows you to stay away from subscriptions as much as possible.

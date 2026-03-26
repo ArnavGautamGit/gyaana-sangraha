@@ -17,6 +17,7 @@ I personally love [[Blu-Ray Discs\|Blurays]] more than other mediums but alas, i
 ## Watched in Theatre
 [[Dhurandhar Part 1\|Dhurandhar (2025)]]
 [[F1 - The Movie (2025)\|F1 - The Movie (2025)]]
+[[Dhurandhar Part 2 - The Revenge (2026)\|Dhurandhar Part 2 - The Revenge (2026)]]
 
 
 ## Owned Media on Digital/Disc

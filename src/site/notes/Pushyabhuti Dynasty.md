@@ -7,7 +7,7 @@
 # Pushyabhuti Dynasty
 > A dynasty of kings ruling from Shtanveshvara (City of Thanesar in Haryana) which reached the peak of its power under its last ruler [[Harshavardhan\|Harshavardhan]].
 
-They were also called as the Vardhana dynasty.
+They were also called as the Vardhana dynasty, Pushpabhuti Dynasty etc.
 They united the entirety of North Indian Plains from Punjab to Bengal (along with some parts of Kalinga Coast) under the same flag & hence this phase of history is also referred to as the Third Reunification of Northern India after [[Nanda Empire\|Nanda Empire]] and [[Mauryan Empire\|Mauryan Empire]].
 
 ### Brief History & Major Emperors

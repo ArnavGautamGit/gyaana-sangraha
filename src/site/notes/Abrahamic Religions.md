@@ -11,8 +11,8 @@ Better Definition may be on Wikipedia.
 
 List of Abrahamic Religions:
 [[Judaism, Jewish Culture & Israel\|Judaism, Jewish Culture & Israel]]
-[[Christianity and the Holy Roman Empire\|Christianity and the Holy Roman Empire]]
-[[Map of Asia before Islam\|Map of Asia before Islam]]
+[[Christianity\|Christianity]]
+[[Islam\|Islam]]
 
 
 

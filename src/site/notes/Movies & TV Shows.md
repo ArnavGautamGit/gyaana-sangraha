@@ -15,7 +15,7 @@ I personally love [[Blu-Ray Discs\|Blurays]] more than other mediums but alas, i
 > Any note added to the table or any note in the table does not provide a link to watch said content online, it only provides a personal review of the material. Any links to pirated copies are not endorsed even if present by chance or for the purposes of providing context to the users.
 
 ## Watched in Theatre
-[[Dhurandhar Part 1\|Dhurandhar (2025)]]
+[[Dhurandhar Part 1 (2025)\|Dhurandhar (2025)]]
 [[F1 - The Movie (2025)\|F1 - The Movie (2025)]]
 [[Dhurandhar Part 2 - The Revenge (2026)\|Dhurandhar Part 2 - The Revenge (2026)]]
 

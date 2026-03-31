@@ -11,7 +11,7 @@ A lot of people may think of James Bond when imagining the Perfect or the Ideal 
 > ~ Alex Younger, Head of the [[MI6\|MI6]] as quoted in *'The Unending Game'* page 10.
 
 He is more similar to George Smiley from [[Tinker Tailor Soldier Spy\|Tinker Tailor Soldier Spy]] than James Bond.
-Or similar to Hamza Ali Manzari from [[Dhurandhar Part 1\|Dhurandhar]].
+Or similar to Hamza Ali Manzari from [[Dhurandhar Part 1 (2025)\|Dhurandhar]].
 
 An ideal spy is quick-thinking, sharp, and uses his environment & technology to his advantage - finding information, connnecting the dots into coherent intel, processing the informations and sending it to his consumers (superiors who will further connect it and present it). At the same time. The Ideal Spy must not forget [[Human Intelligence (HUMINT)\|Human Intelligence (HUMINT)]]
 

@@ -20,9 +20,8 @@ Demographically, the lands were diverse with Hindu, Buddhist, Zoroastrian popula
 Kushans entered India when the [[Northern Kshatrapa\|Northern Kshatrapa]] branch of [[Indo-Scythian Kingdom\|Indo-Scythians]] agreed to become a vassal of the Kushan Empire and Kushans visited India only to love the place enough to completely shift their Capital from Central Asia into two capitals in India.
 
 ### Two Capitals
-While Kushans held other cities which were also quite rich, Kushans were known to have two capitals - [[Purushpura\|Purushpura]] (now Peshawar) for the summer and [[Mathura\|Mathura]] for the Winter.
+While Kushans held other cities which were also quite rich, Kushans were known to have two capitals - [[Purushpura\|Purushpura]] (now Peshawar) for the summer and [[Mathura - मथुरा\|Mathura]] for the Winter.
 Kushan Empire was one of the few Empires to conquer Central Asia almost completely and hold it for long enough to make itself rich.
-
 
 ### Major Emperors
 [[Kanishka\|Kanishka]]

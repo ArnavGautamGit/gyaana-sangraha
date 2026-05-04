@@ -19,10 +19,21 @@ It was only Āditya's son Prabhākaravardhana who assumed the rule in 580 AD and
 
 Prabhākara was ultimately betrayed by the Maharaja of Gauda (Bengal) who was to aid him during an invasion. Prabhākara's younger brother named [[Harshavardhan\|Harsha]] swore revenge and to take revenge from the Gauda Kings and even the Mukharis. He eventually succeeded and was renowned as [[Harshavardhan\|Harshavardhan]] but in doing so could not get an heir which caused the collapse of the Dynasty. 
 
+When [[Hiuen Tsang\|Hiuen Tsang]] came to India, Harsha converted to Buddhism under his influence sometime before his death... it is unclear how many years into his reign this meeting took place (since I haven't researched this that deeply)
+
+Harsha also went to war with [[Shashanka Deva of Gauda\|Shashanka Deva of Gauda]] after Shashanka destroyed the Bodhi Tree under which [[Gautama Buddha\|Gautama Buddha]] attained enlightenment.
+
 ### Conflict with the Chalukyas
 Their most powerful ruler named [[Harshavardhan\|Harshavardhan]] moved the capital from Shtanveshvara to Kanykubja (Kannauj) during his rule. We know of his reign and his decisions (such as moving the Capital) from his biography [[Harshacharita\|Harshacharita]] written by [[Bānabhatta\|Bānabhatta]].
 
 After Harsha captured the city of Ujjainiyi (Ujjain), he tried moving across the Narmada which put him in natural conflict with the Chalukyas. Harsha lost his battle with [[Pulakeshin II\|Pulakeshin II]] and the [[Archaeological Evidence\|Archaeological Evidence]] of this is found in the form of inscriptions erected by the [[Chalukya Dynasty\|Chalukyas]] in their lands on the South of Narmada. Harsha passed in 647 AD, two years after Pulakeshin died.
 
+### Cultural Contributions
+A few inscriptions and starting a war with Shashanka Deva of Bengal...
+
+### Decline & Aftermath
+After the defeat at the hands of [[Pulakeshin II\|Pulakeshin II]], the empire lost trust in the dynasty after Harsha died as the last major king, because his death without an heir sent the empire into chaos and multiple smaller chieftains and smaller dynasties (like [[Ayudhas of Kannauj\|the Ayudhas]]) ruled parts of the kingdom that was once under him, due to the enemity he had sown in the hearts of Bengalis, later kings from the region had started to resent him and the [[Pala Dynasty of Bengal\|Pāla Dynasty of Bengal]] was no different.
+
 ---
 # Footnotes
+I am yet to research and add Cultural Contributions and about their conflicts with Shashanka of Bengal.

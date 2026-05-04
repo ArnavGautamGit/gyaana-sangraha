@@ -7,7 +7,7 @@
 # Sātavāhana Empire
 > An empire in Central India which came to rise after the fall of the [[Mauryan Empire\|Mauryan Empire]]. It reached its maximum size and wealth under [[Gautamiputra Satakarni\|Gautamiputra Satakarni]].
 
-The name "Sātavāhana" seems to mean "7 vehicles" in Sanskrit & Hindi and probably refers to "driven by 7" or "7 horses" all of which refers to how the Hindu God of the Sun, [[Sūrya (सूर्य)\|Sūrya (सूर्य)]] seems to have 7 horses pulling his chariot - where each horse represents one colour of the Spectrum of Light. The reason to have an association is probably to claim lineage from a dynasty which has produced warriors like [[Lord Rāma\|Lord Rāma]] and can assert a "divine right to rule".
+The name "Sātavāhana" seems to mean "7 vehicles" in Sanskrit & Hindi and probably refers to "driven by 7" or "7 horses" all of which refers to how the Hindu God of the Sun, [[Sūrya (सूर्य)\|Sūrya (सूर्य)]] seems to have 7 horses pulling his chariot - where each horse represents one colour of the Spectrum of Light. The reason to have an association is probably to claim lineage from a dynasty which has produced warriors like [[Lord Rāma\|Lord Rāma]] and can assert a [[Divine Right to Rule\|Divine Right to Rule]].
 
 ### Major Rulers
 [[Simukha\|Simukha]]

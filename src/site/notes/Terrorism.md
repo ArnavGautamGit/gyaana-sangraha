@@ -14,7 +14,7 @@ Acts of Terrorism are referred to as Terrorist Attacks. While perpetrators of th
 
 ### Different from Political Violence
 Terrorism is often considered a weapon of the weak & must be kept separate from [[Political Violence\|Political Violence]]. Where Political Violence involves taking support of like minded civilians and often does NOT involve attacks on civilians and tourists, Terrorism aims to create terror & may attack tourists and civilians if it means furthering their [[Nihilism\|Nihilist]] thought process.
-Example: You will never see or hear about any [[Naxalism\|Naxals]] killing Civilians, we only hear of Naxals attacking the CRPF jawans. Terrorists have a long history of killing civilians from [[Paris Charlie-Hebdo Terrorist Violence\|Paris Charlie-Hebdo Terrorist Violence]] [[9-11 Terrorist Attack\|9-11 Terrorist Attack]] and most recently the [[Pahalgam Terror Attack\|Pahalgam Terror Attack]].
+Example: You will never see or hear about any [[Naxalism\|Naxals]] killing Civilians, we only hear of Naxals attacking the CRPF jawans. Terrorists have a long history of killing civilians from [[Paris Charlie-Hebdo Terrorist Violence\|Paris Charlie-Hebdo Terrorist Violence]] [[9-11 Terrorist Attack\|9-11 Terrorist Attack]] and most recently the [[Pahalgam Terror Attack (2025)\|Pahalgam Terror Attack (2025)]].
 
 In summary,
 Political Violence is the situation where thought-leaders have to take up arms SOLELY against their political opponents (not civilians) & attempt to become popular in the masses to topple their political opponents in power.

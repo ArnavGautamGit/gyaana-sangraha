@@ -15,11 +15,10 @@ The Syllabus provided by the UPSC is very broad since naming specifics means bei
 The Prelims is divided into 2 papers: [[General Awareness\|General Studies]] and [[Civil Services Aptitude Test (CSAT)\|Civil Services Aptitude Test (CSAT)]]. Where the CSAT is qualifying in nature & the person only needs to score 33% (67 out of 200) on the test, the cutoff to filter the students & decide who will sit for the Mains exam is decided by the GS portion of the test.
 
 The [[General Awareness\|General Studies]] paper is 2 hours long and has the following syllabus: 
-- [[Indian History\|Indian History]] and [[Indian National Movement\|Indian National Movement]] (except Post-Independence one)
+- [[Indian History\|Indian History]] and [[Indian National Movement\|Indian National Movement]] (except Post-Independence History)
 - [[Indian Geography\|Indian Geography]] and [[World Geography\|World Geography]] including the physical, social and economic geography.
 - [[Indian Polity & Governance\|Indian Polity & Governance]] 
 	- [[Constitution of India\|Constitution of India]]
-	- [[Indian Political System\|Indian Political System]]
 	- [[Panchayati Raj\|Panchayati Raj]]
 	- Public Policies
 - Economic & Social Development - Sustainable Development, Poverty, Inclusion, Demographics, Social Sector initiatives

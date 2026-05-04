@@ -38,7 +38,7 @@ Pace at which travel occurs (not a hard rule, but a guideline).
 It is recommended that players have a marching order (who is walking ahead) so we instantly know who to ask if the [[Dungeon Master (DM)\|Dungeon Master (DM)]] needs to check if any character triggers a trap since it is convenient for the DM to know who is leading the march. Often the DM would just ask a particular player which is also fine but in narrow dungeons it is best to keep a tanky character in front and a tanky one in the back.
 
 Below are the given numbers on page 23 of the [[Compendiums/D&D Compendium/Corebooks/D&D Player's Handbook\|D&D PHB]] for movement on foot. These numbers are doubled if you are moving on a mount such as a horse although it needs to be noted that mounts would need to take a long or short rest after each hour of travel (that is after each stretch of 4-8 miles).
-![Pasted image 20251028164349.png](/img/user/Pasted%20image%2020251028164349.png)
+![Pasted image 20251028164349.png](/img/user/Vaulted%20Images/Pasted%20image%2020251028164349.png)
 
 Travelers in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a water borne vessel are limited to the speed of the vessel, and they don't choose a travel pace. Depending on the vessel and the size of the crew, ships might be able to travel for upto 24 hours per day.
 

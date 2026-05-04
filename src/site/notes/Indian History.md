@@ -27,29 +27,27 @@ An Index Note indexing the major eras and events of Indian History as a chronolo
 [[Yavana Confederacy\|Indo-Greek Kingdom]] (185 BC to 28 BC)
 [[Kanvavamsha Dynasty\|Kanvavamsha Dynasty]] (75 BC to 28 BC)
 [[Sātavāhana Empire\|Sātavāhana Empire]] (100 BC to 2nd Century CE)
-[[Western Kshatrapa\|Western Śaka Dynasty]]
-[[Northern Kshatrapa\|Northern Śaka Dynasty]] (later became kushan vassals)
+[[Western Kshatrapa\|Western Śaka Dynasty]] (Indo-Scythians)
+[[Northern Kshatrapa\|Northern Śaka Dynasty]] (Became kushan vassals)
 [[Kushan Empire\|Kushan Empire]] (30 AD to 375 AD)
 [[Gupta Empire\|Gupta Empire]]
 
 ### Medieval India
-[[Chalukya-Pallava Wars\|Chalukya-Pallava Wars]]
+[[Maitrakas of Saurashtra & Vallabhi\|Maitrakas of Saurashtra & Vallabhi]] (475 AD to 786 AD)
+[[Chalukya-Pallava Wars\|Chalukya-Pallava Wars]] (550 AD to 650 AD approx)
 [[Chalukya Dynasty\|Chalukyas]] & [[Pallava Dynasty\|Pallavas]]
-[[Pushyabhuti Dynasty\|Pushyabhuti Dynasty]]
-[[Tripartite Conflict for Kannauj\|Tripartite Conflict for Kannauj]]
-[[Pala Dynasty of Bengal\|Pala Dynasty of Bengal]]
-[[Gurjara-Pratihara Empire\|Gurjara-Pratihara Empire]]
-[[Rashtrakuta Empire\|Rashtrakuta Empire]]
-[[Imperial Chola Dynasty\|Imperial Chola Dynasty]]
-[[Rajputana Confederacy\|Rajputana Confederacy]]
-[[Islam\|Islam]] and [[Islamic Colonialism\|Islamic Colonialism]]
+[[Pushyabhuti Dynasty\|Pushyabhuti Dynasty]] (around 630 AD to 700 AD)
+[[Chach Dynasty of Sindh\|Chach Dynasty of Sindh]] and [[Islamisation of Sindh\|Islamisation of Sindh]] (711 AD)
+[[Tripartite Conflict for Kannauj\|Tripartite Conflict for Kannauj]] (785 AD to 816 AD)
+[[Rajputana Confederacy\|Rajputana Confederacy]] (817 AD to 1192 AD)
+[[Imperial Chola Dynasty\|Imperial Chola Dynasty]] (900 AD to 1276 AD)
+[[Ghaznavid Invasion of India\|Ghaznavid Invasion of India]] (1001 AD to 1026 AD)
 [[First Battle of Tarain (1191)\|First Battle of Tarain (1191)]]
 [[Second Battle of Tarain (1192)\|Second Battle of Tarain (1192)]]
-[[Delhi Sultanate\|Delhi Sultanate]]
-[[Lodhi Dynasty\|Lodhi Dynasty]]
+[[Ghurid Empire\|Ghurid Empire]] and [[Delhi Sultanate\|Delhi Sultanate]] (1193 AD to 1526 AD)
+[[Vijayanagara Empire\|Vijayanagara Empire]] 
 [[First Battle of Panipat (1526)\|First Battle of Panipat (1526)]]
-[[Mughal Empire\|Mughal Empire]]
-[[Vijayanagara Empire\|Vijayanagara Empire]]
+[[Mughal Empire\|Mughal Empire]] (1526 AD to 1757 AD)
 [[Maratha Empire\|Maratha Empire]]
 [[Sikh Empire\|Sikh Empire]]
 

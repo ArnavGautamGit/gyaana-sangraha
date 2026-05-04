@@ -16,7 +16,8 @@ The list of these Eternal Cities:
 4. [[Indraprastha - इन्द्रप्रस्थ\|Indraprastha - इन्द्रप्रस्थ]] (now Delhi)
 5. [[Kāshi - काशी\|Kāshi - काशी]] (now Varanasi)
 6. [[Anandpur - आनंदपुर\|Anandpur - आनंदपुर]] (now Vadnagar)
-7. Among others...
+7. [[Mathura - मथुरा\|Mathura - मथुरा]]
+8. among others....
 
 We shall discuss each city in its individual note, with absolute detail... As much as we can find.
 In Vadnagar's case, we have the help of a Discovery+ Documentary - "Ananth Anaadi Vadnagar"

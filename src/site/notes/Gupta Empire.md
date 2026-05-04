@@ -42,12 +42,17 @@ Guptas has always been appreciated for patronising the literary work of poets & 
 
 In addition to this, Guptas invented the [[Gupta Brāhmi Script\|Gupta Brāhmi Script]] and the [[Nāgari Script\|Nāgari Script]] which were both used to write on rock & paper respectively. It is to be noted that the [[Nāgari Script\|Nāgari Script]] was used to write [[Vedic Literature\|Vedic Literature]] & other important texts of [[Hinduism\|Hinduism]] on paper & tree-bark manuscripts.
 
+### Coinage
+Just like the [[Kushan Empire\|Kushans]], the Guptas also released their own Gold coins but due to the lack of availability of Gold due to being cutoff from Central Asia, the quality of the Gold Coins was not as good as the Kushans since while the quality of manufacturing was present, access to pure Gold had reduced.
+
+Gold Coins in India ever since the Kushans, are always called as "[[Dinar Coins\|Dinar Coins]]" by Historians although the Gupta and later Gold Coins had no relation with the Dinars issued by the Kushans.
+
 ### Decline & Aftermath
 Their decline started when [[Skandagupta\|Skandagupta]] lost the war against Huns and martyred in that war with the Huns. The victor [[White Huns\|White Huns]] expanded into the North but collapsed soon after they destroyed the [[Takshila University\|Takshila University]] (due to the public going against them). While from the western front, the [[Western Kshatrapa\|Western Kshatrapa]] were able to capture quite a lot of territory.
 
 The later Gupta Kings were unable to consolidate power due to a few reasons:
 1. Less military-oriented regime than [[Chandragupta II of Ujjain\|Chandragupta II of Ujjain]] and [[Samudragupta\|Samudragupta]].
-2. Regional Powercentres such as [[Mukhari Dynasty of Gaya & Kannauj\|Mukharis of Gaya]], [[Maitrakas of Saurashtra\|Maitrakas of Saurashtra]] and [[Yashodharman of Malwa\|Yashodharman of Malwa]] declared themselves independent.
+2. Regional Powercentres such as [[Mukhari Dynasty of Gaya & Kannauj\|Mukharis of Gaya]], [[Maitrakas of Saurashtra & Vallabhi\|Maitrakas of Saurashtra & Vallabhi]] and [[Yashodharman of Malwa\|Yashodharman of Malwa]] declared themselves independent.
 3. Later Guptas moved towards religious patronage for [[Bauddha Philosophy (Buddhism)\|Buddhism]] which reduced the support from Hindus and the Brahmins enough to cause dissatisfactions to surface.
 
 Culmination of all three factors led to a complete decline of the Guptas as a whole and end the Golden Age of [[Indian History\|Indian History]]. This also brought the end to a major empire in Ancient India.

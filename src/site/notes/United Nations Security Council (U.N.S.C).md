@@ -30,7 +30,7 @@ Non-permanent members are selected in rotation from the [[United Nations General
 During these 2 years they may hold presidency for 2 months (which is also in rotation)
 India held the presidency when we also hosted the G20 in New Delhi.
 
-Pakistan held the non-permanent member seat around the [[Pahalgam Terror Attack\|Pahalgam Terror Attack]] and they leveraged their UNSC seat to shield the [[The Resistance Front (TRF)\|The Resistance Front (TRF)]] terrorists (TRF is a known offshoot of the [[Lashkar-e-Taiba (LeT)\|Lashkar-e-Taiba (LeT)]] terrorist group).
+Pakistan held the non-permanent member seat around the [[Pahalgam Terror Attack (2025)\|Pahalgam Terror Attack (2025)]] and they leveraged their UNSC seat to shield the [[The Resistance Front (TRF)\|The Resistance Front (TRF)]] terrorists (TRF is a known offshoot of the [[Lashkar-e-Taiba (LeT)\|Lashkar-e-Taiba (LeT)]] terrorist group).
 see main note: [[Pakistani Minister admits to shield LeT offshoot responsible for Pahalgam\|Pakistani Minister admits to shield LeT offshoot responsible for Pahalgam]].
 
 

@@ -19,3 +19,4 @@ An advantage of using this phone as a backup which actually carries your private
 
 ---
 # Footnotes
+For my personal list of apps that I use please see the note: [[My List of Mobile Apps\|My List of Mobile Apps]]. This allows you to see which apps I use, how I use my apps, how many of my apps are Open Source and how I got those apps as well.

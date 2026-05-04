@@ -39,9 +39,10 @@ If you do register in Republic of Malta then know that although THAT college of 
 [[Marshalling of Arms\|Marshalling of Arms]]
 [[Divisions of the Shield\|Divisions of the Shield]]
 [[Heraldic Traditions\|Heraldic Traditions]]
+[[Marks of Cadency\|Marks of Cadency]]
 [[Digital Colour Palette for Heraldry\|Digital Colour Palette for Heraldry]]
 
 
 ---
 # Footnotes
-1. For detailed understanding of Indian Heraldry, please read the Cambridge study from 2003 named "Indian Princes and their States" 
+1. For detailed understanding of Indian Heraldry, please read the Cambridge study from 2003 named "Indian Princes and their States".

@@ -18,6 +18,9 @@ Before we gift anything, we should keep in mind some best practices such as not 
 Cheap devices available on Amazon that can be used to block Data Transfer on any USB cable. The idea is that the cable will only be able to charge your devices and not be able to transfer or request data as long as the USB cable is routed through the data blocker.
 You can get these blockers for both USB Type C and USB Type A.
 
+Make sure they have data lines removed or else there is no way to make sure what they are or aren't blocking. PortaPow is a good brand for this. For checking what data lines look like on a USB-A port, see the following picture:
+![PortaPow USB Data Blocker.png](/img/user/Vaulted%20Images/PortaPow%20USB%20Data%20Blocker.png)
+
 ### Phone Case with Camera Covers
 Many phone cases are sold with a camera slider or camera cover - even though they are rarer than those covers that come without these covers, if you can find a cover with camera cover for the exact phone model, this can work well. It is best to tell them you are buying them a surprise gift if you want to ask for their phone model, it still keeps the surprise of what the actual gift truly is.
 
@@ -25,7 +28,7 @@ Many phone cases are sold with a camera slider or camera cover - even though the
 Covers for their webcams will enhance their privacy regardless of if they use these gifted covers on phone or on laptops. In personal experience, a webcam cover helped me enhance my privacy on apps like snapchat which take 24x7 camera permissions.
 
 ### Brand New Flashdrives (not used ones or unofficial ones)
-Everyone would like to have a new flashdrive of 16 or 32 GB. You can even ask them if they want flash storage in the form of SD or MicroSD cards instead... These could be used in their cameras, for storing Linux Distros or device backups! Trust me, your friend will love it as long as the drive is new & bought from an official retailer. try to buy from a good brand.
+Everyone would like to have a new flashdrive of 16 or 32 GB. You can even ask them if they want flash storage in the form of SD or MicroSD cards instead... These could be used in their cameras, for storing Linux Distros or device backups! Trust me, your friend will love it as long as the drive is new & bought from an official retailer. Try to buy from a good brand.
 
 ---
 # Footnotes

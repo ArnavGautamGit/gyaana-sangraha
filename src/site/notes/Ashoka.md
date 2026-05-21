@@ -7,7 +7,7 @@
 # Ashoka
 > The third & the last major ruler of [[Mauryan Empire\|Mauryan Empire]] - one of the sons of [[Bindusāra Maurya\|Bindusāra Maurya]].
 
-Ruled over the Mauryan Empire's most brutal war followed by the empire's most peaceful age. He was a controversial figure & often likened to Ancient India's [[Aurangzeb\|Aurangzeb]] by a few but unlike him, Ashoka actually went on a redemption arc.
+Ruled over the Mauryan Empire's most brutal war followed by the empire's most peaceful age. He was a controversial figure & often likened to Ancient India's [[Aurangzeb Alamgir\|Aurangzeb Alamgir]] by a few but unlike him, Ashoka actually went on a redemption arc.
 
 ### Ascension to the Throne
 If Buddhist sources are to be considered then it is said that Ashoka was not a handsome prince but rather looked quite hideous. It is said that he assassinated or killed all his 100 brothers to ascend the throne for himself. Although the number of brothers he had seems to be hyperbolic - it is well known that [[Bindusāra Maurya\|Bindusāra]], his father had many wives and he had many half brothers with a frequently named one being Sushīma. Even the Hindu sources agree that he had half-brothers but it is unknown whether him assassinating all of them to ascend the throne is hyperbolic or not.

@@ -24,7 +24,13 @@ This was not a decision made to plug some hole or gap in the beauracracy but it 
 ### Death & Aftermath
 Despite his narcissistic streak, it is very well known that he loved his son Prince Mohammad a lot (just like a lot of parents since time immemorial). When the prince suddenly died in they year 1342 of [[Vikram Samvat Calendar\|Vikram Samvat Calendar]] (1286 AD), Balban also passed away with shock upon hearing the news.
 
-His other son, [[Muizzuddin Qaiqabad\|Muizzuddin Qaiqabad]] accepted the offer to rule as the next Sultān of Delhi but was defeated within 3 years by [[Jalaluddin Khilji\|Jalaluddin Khilji]] of the [[Khilji Dynasty\|Khilji Dynasty]]. This turmoil resulted in [[Bughra Khan\|Bughra Khan]], the new governor of Bengal after [[Tughra Khan\|Tughra Khan]] to rebel away from the Delhi again and form an independent empire.
+The offer to rule as the [[Delhi Sultanate\|Sultān of Delhi]] was made to his son [[Nasiruddin Bughra Khan\|Nasiruddin Bughra Khan]] but Bughra refused the offer in the favour of his son & Ghiyasuddin's grandson [[Muizzuddin Qaiqabad\|Muizzuddin Qaiqabad]] to rule who accepted the offer to become the next Sultān of Delhi. Qaiqabad's inneficiency to rule had become a laughable menace and he became a puppet of his minister [[Wazir Nijamuddin\|Wazir Nijamuddin]].
+
+[[Nasiruddin Bughra Khan\|Nasiruddin Bughra Khan]] decided to take an army and end the ruckus created by his son. 
+Nijamuddin advised [[Muizzuddin Qaiqabad\|Muizzuddin Qaiqabad]] to take an army of his own & confront his father. The forces of the [[Delhi Sultanate\|Delhi Sultanate]] and the [[Bengal Sultanate\|Bengal Sultanate]] stood opposite to each other, ready to battle against each other but the father & son reached compromise to avoid war. Nijamuddin was fired from being the Wazir/Minister & both went back to their lands.
+
+[[Muizzuddin Qaiqabad\|Muizzuddin Qaiqabad]] was defeated soon after by [[Jalaluddin Khilji\|Jalaluddin Khilji]] of the [[Khilji Dynasty\|Khilji Dynasty]].
+This resulted in [[Nasiruddin Bughra Khan\|Bughra Khan]] renouncing power for his other son [[Ruknuddin Kaikus\|Ruknuddin Kaikus]] to run the [[Bengal Sultanate\|Bengal Sultanate]] as an independent Sultanate.
 
 ---
 # Footnotes

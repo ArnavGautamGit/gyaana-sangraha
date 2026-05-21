@@ -42,7 +42,7 @@ There is no fix format to write the year in the end, some may write the year at 
 ### Handling of Leap Years via Leap Months
 Around 7 times every 19 years there is an addition of an Adhika Māsa (अधिक मास) which translates to an "extra month" that is added to an existing month with its Shukla Paksha (Bright Half) first regardless of the system used (Purnimānta or Amavasyānta does not matter). 
 
-For Example, in the Vikram Samvat Year 2083, the leap month was added in the month of Jyeshtha since Jyeshtha corresponds very well to its Gregorian counterpart May 2026.
+We will take the example of Vikram Samvat Year 2083, the leap month was added in the month of Jyeshtha since Jyeshtha corresponds very well to May 2026.
 
 Jyeshtha 2083 corresponds to May 2026 almost exactly in the Purnimānta system. 
 Since the 1st of May was a Purnima (Full Moon)
@@ -51,19 +51,21 @@ In Purnimānta system Krishna Paksha comes first, so the first day of Jyeshtha b
 
 In Amavasyānta System, Shukla Paksha comes first so the new month starts after the Amavasya anyway as usual but Adhik Jyeshtha comes first before Original Jyeshtha month.
 
-To shocase at a glance, I can show you the following table...
+To showcase at a glance, I can show you the following table...
 
 | GREGORIAN                      | PURNIMĀNTA (पूर्णिमान्त)                          | AMAVASYĀNTA (अमावस्यान्त)                            |
 | ------------------------------ | ------------------------------------------------- | ---------------------------------------------------- |
 | 4th March                      | Chaitra Krishna Paksha begins<br>(Still 2082)     | Magha Krishna Paksha begins<br>(last paksha of 2082) |
 | 19th March<br>(New Year's Day) | Chaitra Shukla Paksha begins<br>(Happy New Year!) | Chaitra Shukla Paksha begins<br>(Happy New Year!)    |
-| 3rd April                      | Vaishak Krishna Paksha                            | Chaitra Krishna Paksha                               |
-| 18th April                     | Vaishak Shukla Paksha                             | Vaishak Shukla Paksha                                |
-| 2nd May                        | Jyeshtha Krishna Paksha                            | Vaishak Krishna Paksha                               |
-| 17th May                       | Adhik Jyeshtha Shukla Paksha                       | Adhik Jyeshtha Shukla Paksha                          |
-| 1st June                       | Adhik Jyeshtha Krishna Paksha                      | Adhik Jyeshtha Krishna Paksha                         |
-| 15th June                      | Jyeshtha Shukla Paksha                             | Jyeshtha Shukla Paksha                                |
-| 30th June                      | Āshādh Krishna Paksha                             | Jyeshtha Krishna Paksha                               |
+| 3rd April                      | Vaishakh Krishna Paksha                           | Chaitra Krishna Paksha                               |
+| 18th April                     | Vaishakh Shukla Paksha                            | Vaishakh Shukla Paksha                               |
+| 2nd May                        | Jyeshtha Krishna Paksha                           | Vaishakh Krishna Paksha                              |
+| 17th May                       | Adhik Jyeshtha Shukla Paksha                      | Adhik Jyeshtha Shukla Paksha                         |
+| 1st June                       | Adhik Jyeshtha Krishna Paksha                     | Adhik Jyeshtha Krishna Paksha                        |
+| 15th June                      | Jyeshtha Shukla Paksha                            | Jyeshtha Shukla Paksha                               |
+| 30th June                      | Āshādh Krishna Paksha                             | Jyeshtha Krishna Paksha                              |
+
+Even if you don't understand the concept behind this all then nowadays we use digital calendars anyway which make these calculations on our behalf. So chill out & enjoy the time you've got here.
 
 ---
 # Footnotes

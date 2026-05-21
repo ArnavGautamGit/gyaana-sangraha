@@ -45,7 +45,7 @@ An Index Note indexing the major eras and events of Indian History as a chronolo
 [[First Battle of Tarain (1191)\|First Battle of Tarain (1191)]]
 [[Second Battle of Tarain (1192)\|Second Battle of Tarain (1192)]]
 [[Ghurid Empire\|Ghurid Empire]] and [[Delhi Sultanate\|Delhi Sultanate]] (1193 AD to 1526 AD)
-[[Vijayanagara Empire\|Vijayanagara Empire]] 
+[[Vijayanagara Empire\|Vijayanagara Empire]] (1336 AD to 1646 AD)
 [[First Battle of Panipat (1526)\|First Battle of Panipat (1526)]]
 [[Mughal Empire\|Mughal Empire]] (1526 AD to 1757 AD)
 [[Maratha Empire\|Maratha Empire]]

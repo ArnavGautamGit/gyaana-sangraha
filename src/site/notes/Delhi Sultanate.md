@@ -5,9 +5,9 @@
 
 ---
 # Delhi Sultanate
-> A [[Mamluk\|Mamluk]] [[Sultanate\|Sultanate]] that was founded by [[Qutub ud-Din Aibak\|Qutub ud-Din Aibak]] as a vassal state of the [[Ghurid Empire\|Ghurid Empire]] after [[Mohammad Ghori\|Mohammad Ghori]] won the [[Second Battle of Tarain (1192)\|Second Battle of Tarain (1192)]]. 
+> A [[Sultanate\|Sultanate]] that was founded by [[Qutub ud-Din Aibak\|Qutub ud-Din Aibak]] as a vassal state of the [[Ghurid Empire\|Ghurid Empire]] after [[Mohammad Ghori\|Mohammad Ghori]] won the [[Second Battle of Tarain (1192)\|Second Battle of Tarain (1192)]] which gained Independence in 1206 AD. 
 
-After Ghori's death in 1206, they became independent but never really dropped the "Sultanate" name since the title of "Sultān-e-Dilli" (Sultan of Delhi) or "Sultan-e-Hind" (meaning Sultan of Hind/India) was never changed to anything else due to familiarity.
+After Ghori's death in 1206, they became independent but never really dropped the "Sultanate" name since the title of "Sultān-e-Dilli" (Sultan of Delhi) or "Sultan-e-Hind" (meaning Sultan of Hind/India) was too familiar to be changed now since this is how they were recognised as around the world - including the Catalan Atlas of the 15th Century AD.
 
 ### Ruling Dynasties
 There were 5 dynasties that ended up ruling the Delhi Sultanate at different times of its reign from 1192 AD (while it was officially formed and named as such in 1201) all the way to its decline and loss to the [[Mughal Empire\|Mughal Empire]] in the year 1526 AD.

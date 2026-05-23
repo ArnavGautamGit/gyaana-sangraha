@@ -5,7 +5,7 @@
 
 ---
 # Monero (XMR)
-> Privacy-Focused [[Cryptocurrency\|Cryptocurrency]] that keeps the transaction IDs of both parties and the transaction amount private & untrackable similar to how individual Cash Coins/Notes despite being numbered cannot be tracked to the exact trail of people a particular note or coin went through.
+> Privacy-Focused [[Cryptocurrency\|Cryptocurrency]] operating on a [[Private Ledger\|Private Ledger]] that keeps the wallet IDs of both parties and other data like transaction amount or timestamp private & untrackable similar to how individual Cash Coins/Notes despite being numbered cannot be tracked to the exact trail of people a particular note or coin went through unless a lot of manpower is spent in a direct targeted operation - and even then it is not a guarantee.
 
 It is important to note that this untracability is why Cash cannot be used on transactions larger than a set sum without attracting government eyes or the transaction as a whole being considered against the "guidelines".
 
@@ -39,6 +39,7 @@ Turn on your [[Virtual Private Network (VPN)\|VPN]] and fire up [[The Onion Rout
 1. Get to a [[Decentralised Crypto Exchange\|Decentralised Crypto Exchange]] which does not ask for a KYC and get yourself any crypto (preferably [[Litecoin (LTC)\|Litecoin (LTC)]] or something else that charges very low fees) and pay for it with Paypal or some other payment method. 
 	1. It needs to be a non-KYC exchange to make sure your identity offline and online stay separate i.e., gives you some anonymity unless Paypal or whatever service that you used is not asked to cough up the details about your real identity.
 	2. These sort of requests are often made using [[Subpeona Requests\|Subpeona Requests]] and sometimes buying the entire dataset by using the [[Third Party Doctrine of Data Ownership\|Third Party Doctrine of Data Ownership]].
+	3. As mentioned above, your payment processor and possibly your bank will know who and where you paid... so mining is probably the most private way to get Monero.
 2. Now, you need to get to a service like RetoSwap where you will swap whatever crypto you got (preferrably Litecoin) into Monero.
 3. Once that happens, you got yourself some Monero!
 
@@ -48,10 +49,10 @@ Mining for Monero can be done in other ways than the method described here but t
 In the wizard, you will be asked to add a wallet address (where the mining rig will deposit all your Monero) and then also in the same page ask you for your location. As of May 2026, there is only 1 location option for "Asia".
 
 > [!warning] WARNING: Do not mine on your personal computer!
-> Mining any cryptocurrency takes an immense amount of resources on your device and will absolutely cook (quite literally) cook your PC due to the heat it generates at your CPU and possibly even your GPU running at 100% capacity... 
+> [[Cryptocurrency#Cryptocurrency Mining\|Cryptocurrency Mining]] takes an immense amount of resources on your device and will absolutely cook (quite literally) cook your PC due to the heat it generates when your CPU and possibly even your GPU are both running at 100% capacity... 
 > 
 > Mine on some other device like Raspberry Pi (if you agree to low payouts and self-torture)
-> Better options are to use some burner laptops or something along those lines instead of your main PC that you use daily. Many recommend cloud mining but I do not have any personal experience or knowledge to tell you anything about it. If that changes, there will be an update on my note. 
+> Better options are to use some burner laptops or other old/burner devices instead of your main PC that you use daily. Many recommend cloud mining but I do not have any personal experience or knowledge to tell you anything about it except that there are a lot of scams in that space. If that changes, there will be an update on this note. 
 
 ---
 # Footnotes

@@ -24,10 +24,13 @@ Although other forms of evidence do exist such as [[Anecdotal Evidence\|Anecdota
 
 ### History by Time Period
 [[The First World War (WW1)\|The First World War (WW1)]]
+[[The Great Depression (1930s)\|The Great Depression (1930s)]]
 [[The Second World War (WW2)\|The Second World War (WW2)]]
+[[The Global Recession (2008-09)\|The Global Recession (2008-09)]]
 
 ### History by Theme
 [[Colonialism\|Colonialism]]
+
 
 ---
 # Footnotes

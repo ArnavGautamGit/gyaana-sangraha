@@ -35,7 +35,7 @@ The two sides never really openly fought each other since it is the "Cold" War, 
 19. 1980: [[The Iran-Iraq War\|The Iran-Iraq War]] begins
 20. 1985: [[Mikael Gorbachev\|Mikael Gorbachev]] becomes Soviet Leader as Russian President
 21. 1988: [[The Iran-Iraq War\|The Iran-Iraq War]] ends
-22. 9th November 1989: [[Reunifucation of Germany\|Reunifucation of Germany]]
+22. 9th November 1989: [[Reunification of Germany\|Reunification of Germany]]
 23. 1990: [[CSME Meeting\|CSME Meeting]] officially ends the [[The U.S-Soviet Cold War\|The U.S-Soviet Cold War]].
 24. 1991: [[Collapse of the USSR\|Collapse of the USSR]].
 

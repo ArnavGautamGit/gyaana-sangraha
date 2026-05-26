@@ -56,12 +56,13 @@ In the wizard, you will be asked to add a wallet address (where the mining rig w
 
 ### Op-Sec for best Privacy & Security
 [[Operational Security\|Operational Security]] for your Monero transactions is quite simple, it is:
-1. Mine for Monero or sell legal goods online like [based.win](https://based.win) selling T-shirts and stuff.
+1. Mine for Monero or earn Monero by selling legal goods online like [based.win](https://based.win) selling merchandise (T-shirts, Coffee Mugs and other stuff).
 2. Use at least 2 separate wallets, the Official Monero one for transactions on your laptop and Cake Wallet one for swapping (if you are swapping other Crypto for Monero)
 	1. Use Cake Wallet only on [[Graphene OS\|Graphene OS]] with Orbot running to mask your IP Address with a built-in VPN that comes in with [[The Onion Router (TOR)\|TOR]].
 3. Use the Official Monero Wallet on your mining PC and run your own [[Full XMR Node\|Full XMR Node]] to protect from Poisoned Inputs and in-case Feds infiltrate the Monero Network.
 	1. Preferrably use the official wallet for transactions since a simple VPN hides your IP from the Feds and this protects your official one.
 	2. If you do not run a Full Node but use a VPN, you can protect yourself by fuzzing your IP but other data such as who you are sending XMR to & other things can be seen by the feds.
+	3. If [[Self-Hosting\|Self-Hosting]] a [[Full XMR Node\|Full XMR Node]] is not your thing, then go ahead and bind your official monero wallet to [[The Onion Router (TOR)\|TOR]] to hide your IP. Preferably use a VPN on top. Follow 2.1 above to use Cake Wallet for swapping after you got Orbot running on a [[Graphene OS\|Graphene OS]] phone.
 4. Use a VPN on your transaction device or a permanent VPN attached to your Wi-Fi Router.
 	1. Transaction Device is the device on which you mine and transact from apart from Cake Wallet.
 	2. If you use multiple intermediary wallets between Official Wallet and Cake Wallet then all of them should atleast have their own VPN if not their own full nodes.

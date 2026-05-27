@@ -9,6 +9,8 @@
 
 It is important to note that this untracability is why Cash cannot be used on transactions larger than a set sum without attracting government eyes or the transaction as a whole being considered against the "guidelines".
 
+Monero has its own wallet one can download on their desktop or laptop and it is one of those that I would advise to use alongisde another wallet.
+
 > [!warning] WARNING: This is only for educational purposes. I am not promoting illegal acts 
 > Monero (also knows as XMR) may or may not be legal to buy, trade and purchase in your region. Please check local laws before buying or mining. 
 > 
@@ -55,14 +57,21 @@ In the wizard, you will be asked to add a wallet address (where the mining rig w
 > Better options are to use some burner laptops or other old/burner devices instead of your main PC that you use daily. Many recommend cloud mining but I do not have any personal experience or knowledge to tell you anything about it except that there are a lot of scams in that space. If that changes, there will be an update on this note. 
 
 ### Op-Sec for best Privacy & Security
+Monero is under a watch scanner by the [[Federal Bureau of Investigation (FBI)\|Federal Bureau of Investigation (FBI)]] and other Intelligence Agencies who want to track the finances of Monero and the FBI even declared a bounty of 1.25 Million USD for tracking Monero transactions - which was awarded to a company called Chainalysis who were able to poison the inputs on a few Monero Nodes and were able to track the IP Address of the Monero users.
+
+Monero provides quite a bit of [[Personal Online Privacy\|Personal Privacy]] and in the Finance Sector, apart from Privacy Advocates, the other people that need Financial Privacy are running Money Laundering Schemes or some other Financial Scams. Monero was often demanded by [[Black-Hat Hackers\|Hackers]] who were employing [[Ransomware\|Ransomware]] Attacks.
+
+Easiest way of securing against these very basic "tracking" implements by using a self-hosted [[Full XMR Node\|Full XMR Node]] so that one cannot connect to poisoned nodes. The other option is to use a node on [[The Onion Router (TOR)\|The Onion Router (TOR)]] since tracking is possible but IP address cannot be seen. Just bind your Official Monero Wallet to TOR. If you use a VPN on top, even other concerns can also be sidelined.
+
 [[Operational Security\|Operational Security]] for your Monero transactions is quite simple, it is:
 1. Mine for Monero or earn Monero by selling legal goods online like [based.win](https://based.win) selling merchandise (T-shirts, Coffee Mugs and other stuff).
 2. Use at least 2 separate wallets, the Official Monero one for transactions on your laptop and Cake Wallet one for swapping (if you are swapping other Crypto for Monero)
 	1. Use Cake Wallet only on [[Graphene OS\|Graphene OS]] with Orbot running to mask your IP Address with a built-in VPN that comes in with [[The Onion Router (TOR)\|TOR]].
 3. Use the Official Monero Wallet on your mining PC and run your own [[Full XMR Node\|Full XMR Node]] to protect from Poisoned Inputs and in-case Feds infiltrate the Monero Network.
-	1. Preferrably use the official wallet for transactions since a simple VPN hides your IP from the Feds and this protects your official one.
-	2. If you do not run a Full Node but use a VPN, you can protect yourself by fuzzing your IP but other data such as who you are sending XMR to & other things can be seen by the feds.
-	3. If [[Self-Hosting\|Self-Hosting]] a [[Full XMR Node\|Full XMR Node]] is not your thing, then go ahead and bind your official monero wallet to [[The Onion Router (TOR)\|TOR]] to hide your IP. Preferably use a VPN on top. Follow 2.1 above to use Cake Wallet for swapping after you got Orbot running on a [[Graphene OS\|Graphene OS]] phone.
+	1. Only use the official wallet for transactions since a simple [[Virtual Private Network (VPN)\|VPN]] hides your IP from the Feds and this protects your official one.
+	2. If [[Self-Hosting\|Self-Hosting]] a [[Full XMR Node\|Full XMR Node]] is not your thing, then go ahead and bind your official monero wallet to any XMR node on [[The Onion Router (TOR)\|TOR]] to hide your IP. Preferably use a [[Virtual Private Network (VPN)\|VPN]] on top.
+	3. Follow 2.1 above to use Cake Wallet only for swapping after you got Orbot running on any phone that uses [[Graphene OS\|Graphene OS]].
+	4. If you do not run a Full Node but use a VPN, you can protect yourself by fuzzing your IP but other data such as who you are sending XMR to & other things can be seen by the feds.
 4. Use a VPN on your transaction device or a permanent VPN attached to your Wi-Fi Router.
 	1. Transaction Device is the device on which you mine and transact from apart from Cake Wallet.
 	2. If you use multiple intermediary wallets between Official Wallet and Cake Wallet then all of them should atleast have their own VPN if not their own full nodes.
@@ -70,3 +79,5 @@ In the wizard, you will be asked to add a wallet address (where the mining rig w
 
 ---
 # Footnotes
+1. Notes on Monero were compiled from many sources, but the mining guide was taken from [Honey With Crypto](https://www.youtube.com/watch?v=InRr2iUpvRE)
+2. The Guide on maintaining best practices and [[Operational Security\|Operational Security]] when using Monero was taken from [Mental Outlaw](https://youtu.be/WkphgF6Hn4w?si=F7CHax2aIOKdzOgG)'s series of videos on Monero.

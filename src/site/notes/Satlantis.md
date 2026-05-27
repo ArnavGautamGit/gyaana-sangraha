@@ -10,7 +10,7 @@
 All the data in Satlantis is encrypted. No one else can see your data unless they have your Nostr Key Pair of Public & Private Key (the attacker needs both but can only get 1)
 
 ### Example Screenshots
-![Pasted image 20260523111819.png](/img/user/Pasted%20image%2020260523111819.png)
+![Satlantis Nostr Client.png](/img/user/Vaulted%20Images/Satlantis%20Nostr%20Client.png)
 
 ---
 # Footnotes

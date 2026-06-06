@@ -29,6 +29,6 @@ Here is list of my interests & hobbies regardless of if that interest has an aca
 - [[Heraldry\|Heraldry]]
 - [[Football\|Watching Football]]
 - [[Compendiums/Chess Compendium/Chess\|Chess]]
-- [[Compendiums/Warframe Compendium/Warframe\|Warframe]]
+- [[Warframe\|Warframe]]
 
 For my Academic Writings specifically, please refer to [[Academics\|Academics]] or specific subjects like my notes in [[Computer Science (CompSci)\|Computer Science]]. The Academics note refers you most subjects which I have studied Academically as a part of my formal education.

@@ -14,7 +14,7 @@ Although the term Sultanat/Saltanat is sometimes seen to be used for them as wel
 To distinguish themselves as a separate power, [[Babur\|Babur]], the founder of the Mughal Empire used the newely founded city of Agra as their capital & changed their title to "Bādshāh" which was the Arabic version of the Farsi/Persian term "Pādshāh" meaning Emperor i.e., they do not rule in anyone else's name but their own. Briefly, [[Razia Sultān\|Razia Sultān]] of [[Delhi Sultanate\|Delhi Sultanate]] had also used the title of Pādshāh.
 
 ### Mughal Dilution of Indian Culture
-Mughals destroyed the native Indian Culture and pushed the bullshit & bogus ideologies such as [[Sufism\|Sufism]] and [[Din-e-Illahi\|Din-e-Illahi]]. While there is an expectation from [[Babur\|Babur]] to destroy important sites like the [[Old Ayodhya Temple\|Old Ayodhya Temple]] and erect the [[Baburi Mosque\|Baburi Mosque]], even the comparitively moderate rulers such as [[Akbar\|Akbar]] had massacred many Hindus & the less we talk about [[Aurangzeb Alamgir\|Aurangzeb Alamgir]] the better.
+Mughals destroyed the native Indian Culture and pushed the bullshit & bogus ideologies such as [[Sufism\|Sufism]] and [[Din-e-Illahi\|Din-e-Illahi]]. While there is an expectation from [[Babur\|Babur]] to destroy important sites like the [[Old Ayodhya Temple\|Old Ayodhya Temple]] and erect the [[Babri Masjid\|Babri Masjid]], even the comparitively moderate rulers such as [[Akbar\|Akbar]] had massacred many Hindus & the less we talk about [[Aurangzeb Alamgir\|Aurangzeb Alamgir]] the better.
 
 Religious Crimes are too many to list & will be covered in the individual notes for the individual rulers while the changes to Art & Culture will be studied in [[Indian Art & Culture\|Indian Art & Culture]]. 
 I do not know why but each generation of Islamist rulers seem to get more and more degenerate as time passes, first if [[Mamluk Dynasty (Delhi)\|Qutubi Mamluks]] and [[Mohammad Ghori\|Mohammad Ghori]] were not degenerate enough, you got [[Khilji Dynasty\|Khilji Dynasty]], then the [[Tughlaq Dynasty\|Tughlaqs]], followed by the [[Sayyid Dynasty\|Sayyids]] and now this. Even in the modern day, the amount of hate certain muslims carry for Hindus is insane.
@@ -34,3 +34,4 @@ For the full Mughal family tree after Babur, visit [this link](https://upload.wi
 
 ---
 # Footnotes
+This note is still a work in progress, if you feel like it leads from nowhere to nowhere - it is because it does. This note will be removed when it is finished.

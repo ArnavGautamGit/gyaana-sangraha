@@ -41,14 +41,18 @@ An Index Note indexing the major eras and events of Indian History as a chronolo
 [[Tripartite Conflict for Kannauj\|Tripartite Conflict for Kannauj]] (785 AD to 816 AD)
 [[Rajputana Confederacy\|Rajputana Confederacy]] (817 AD to 1192 AD)
 [[Imperial Chola Dynasty\|Imperial Chola Dynasty]] (900 AD to 1276 AD)
+[[Hoysala Kingdom of Dwasamudra\|Hoysala Kingdom of Dwasamudra]] (950 AD to 1346 AD)
 [[Ghaznavid Invasion of India\|Ghaznavid Invasion of India]] (1001 AD to 1026 AD)
+[[Sena Dynasty of Bengal\|Sena Dynasty of Bengal]] (1070 AD to 1230 AD)
 [[First Battle of Tarain (1191)\|First Battle of Tarain (1191)]]
 [[Second Battle of Tarain (1192)\|Second Battle of Tarain (1192)]]
 [[Ghurid Empire\|Ghurid Empire]] and [[Delhi Sultanate\|Delhi Sultanate]] (1193 AD to 1526 AD)
 [[Vijayanagara Empire\|Vijayanagara Empire]] (1336 AD to 1646 AD)
 [[First Battle of Panipat (1526)\|First Battle of Panipat (1526)]]
-[[Mughal Empire\|Mughal Empire]] (1526 AD to 1757 AD)
-[[Maratha Empire\|Maratha Empire]]
+[[Mughal Empire\|Mughal Empire]] (1526 AD to 1543 AD)
+[[Sur Empire\|Sur Empire]] (1540 AD to 1550 AD)
+[[Mughal Empire\|Mughal Empire]] (1546 AD to 1757 AD)
+[[Maratha Empire\|Maratha Empire]] 
 [[Sikh Empire\|Sikh Empire]]
 
 ### Colonial & Post-Colonial India

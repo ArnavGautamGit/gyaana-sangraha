@@ -37,7 +37,7 @@ They exported spices, Ivory Tusks and other items such as statues, statuettes an
 ### Decline & Aftermath
 As the source of gold from the Romans dried up due to the [[Holy Roman Empire\|Holy Roman Empire]] becoming weaker and flow of gold becoming sparser, it led to a decline in economy and an agrarian economy could not sustain that massive empire... causing its collapse.
 
-Cholas left a sudden power vacuum in the regions they disappeared from, in Bengal there was a rise of the [[Sena Dynasty\|Sena Dynasty]] which would quickly be replaced by the [[Deva Dynasty\|Deva Dynasty]] in about 1-2 centuries.
+Cholas left a sudden power vacuum in the regions they disappeared from, in Bengal there was a rise of the [[Sena Dynasty of Bengal\|Sena Dynasty of Bengal]] which would quickly be replaced by the [[Deva Dynasty\|Deva Dynasty]] in about 1-2 centuries.
 
 Their deccan territories got taken over by other empires or went independent. They got reduced to right where they were in the [[Sangam Era & Literature\|Sangam Era]] as [[Later Pandya Dynasty\|Later Pandyas]] and [[Later Chera Dynasty\|Later Cheras]] returned along with the rise of [[Later Pallava Dynasty\|Later Pallava Dynasty]]. 
 

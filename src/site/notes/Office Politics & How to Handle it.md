@@ -62,6 +62,8 @@ Now you have some trail and evidence that a meeting happened or is happening who
 2. You have proven that you document all your conversations without showing them your files you may have documenting office stuff.
 3. Whatever that conversation was about, you will come prepared and the surprise factor is gone.
 
+Always keep in mind that if the meeting feels uncomfortable or anything else, then sign up for an [[Employee Union\|Employee Union]] and get them involved in the case, they will guide you in the best way possible and even help in you if you are in a soup. Sometimes, depending upon local laws in your country it may even be allowed to accompany a union representative in the office meeting but that is ofcourse subject to laws and severity that you suspect.
+
 ### HR is not the snake, Your Manager is
 Most of the times, it will be your manager who will most often have "quick chats" that are off the record. It will be your manager who will practically beg the company's HR to get rid of you from the company since he does not like something about you among the following options:
 
@@ -82,8 +84,13 @@ Don't get me wrong there could be more than these 5 reasons since there are neve
 [[Professional Version of Kiss My Ass\|Professional Version of Kiss My Ass]]
 [[Silence the Chronically Venting Employee\|Silence the Chronically Venting Employee]]
 [[Avoid your department being Thrown Under The Bus\|Avoid your department being Thrown Under The Bus]]
+[[Handle the Situation when your Boss is trying to Push You Out\|Handle the Situation when your Boss is trying to Push You Out]]
 [[Silence the Condescending Coworker\|Silence the Condescending Coworker]]
 [[Employee Stock Options (ESOPs)\|Employee Stock Options (ESOPs)]]
-[[Handle Intentional Disrespect by Coworker\|Handle Intentional Disrespect by Coworker]]
-[[Spotting Fake Friends at the Office\|Spotting Fake Friends at the Office]]
+[[Spotting Fake Friends in Life\|Spotting Fake Friends in Life]]
 [[The Proper Way of Providing Feedback\|The Proper Way of Providing Feedback]]
+[[Don't resign while on PIP\|Don't resign while on PIP]] (Batool on Career)
+
+# India-specific Facts
+Joining a union, even if you are working as a tech/IT employee in Development, Support, QA, Security or any role in any sector of the workforce from tech to factory workers have the right to a form and join an [[Employee Union\|Employee Union]]. This right is asserted by the Hon'ble Madras High Court in [this ruling as per The Hindu](https://www.thehindu.com/news/cities/chennai/IT-employees-free-to-form-union-Labour-department/article14412359.ece)
+

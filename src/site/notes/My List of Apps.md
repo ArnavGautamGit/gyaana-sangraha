@@ -55,6 +55,7 @@ My Criteria for getting new apps is that they must be as many Open-Source apps a
 29. Domino's Pizza - for ordering Food
 30. Blinkit - for ordering Groceries
 31. Burger King India - for ordering Food
+32. OpenNutriTracker - for calorie tracking
 
 ### Computer Apps on Current OS (Windows 10)
 1. Foobar2000 - for conerting audio files to different encoders

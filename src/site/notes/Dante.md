@@ -5,9 +5,9 @@
 
 ---
 # Dante
-> Introduced in Whispers in the Walls Quest, Dante is a warframe that essentially resembles a Wizard from the medieval fantasy and high fantasy genres. It uses a mechanic of storing the order of abilities cast ot change the outcome of the 4th ability which is never seen before in any Warframe.
+> Introduced in Whispers in the Walls Quest, Dante is a warframe that essentially resembles a Wizard from the medieval fantasy and high fantasy genres. It uses a mechanic of storing the order of abilities cast ot change the outcome of the 4th ability which is never seen before in the entire game of [[Warframe\|Warframe]] ever since.
 
-It is peculiar in a way that it has its first ability Noctua which is an Exalted Tome weapon with no limits on Tome Mods - specific mods that are used by Tome Weapons. The only other Tome weapon was the Grimoire which has a defined limit.
+It is peculiar in a way that it has its first ability Noctua which is an Exalted Tome weapon with no limits on Tome Mods - specific mods that are used by Tome Weapons. The only other Tome weapon was the Grimoire which has a defined limit. Tome Weapons are basically Wizard Spell Books lol.
 
 The Second Ability is called the "Light Verse" which gives you some Overguard.
 The Third Ability is called the "Dark Verse" which deals some Slash Damage.

@@ -11,7 +11,7 @@ It is important to note that any specific overheads such as the bills as incurre
 
 General Overheads may include the following:
 - Salaries of Senior Management (like the CEO)
-- Salaries of the HR, Finance and other common departments
+- Salaries of the HR, Finance (Accounts) and other common departments that are found across all companies from all industries.
 - Electricity, Food, Water or other Bills of appliances that were shared across different departments. 
 	- Sometimes bills cannot be calculated for individual departments.
 - Other overheads like lawn maintainance

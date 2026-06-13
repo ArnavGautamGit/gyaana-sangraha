@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dante/","tags":["Video-Game"]}
+{"dg-publish":true,"permalink":"/Dante/"}
 ---
 
 
